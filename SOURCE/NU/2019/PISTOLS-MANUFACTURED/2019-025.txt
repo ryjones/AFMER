@@ -1,0 +1,45 @@
+                                                       PISTOLS MANUFACTURED IN 2019 
+                                                                                     PISTOL     PISTOL    PISTOL     PISTOL    PISTOL     PISTOL     PISTOL
+  RDS KEY     LICENSE NAME               STREET                CITY           ST          22        25        32        380      9MM          50     TOTAL 
+  43404861   GEORGE E HARTLEY            18250 CR 6           COSHOCTON       OH          1          0         0          0         0          0          1 
+  43106083   HARD ACQUISITION SALES      1118 GAHANNA PKWY    GAHANNA         OH          0          0         0          0         1          2          3 
+             SERVICE ARMORY LLC 
+  43419291   HASKELL MANUFACTURING INC 585 EAST BLUE LICK RD  LIMA            OH          0          0         0          0         0       7400       7400 
+  43106917   HENNING, BRANDON SCOTT      10 WEST PEASE AVE    DAYTON          OH          3          0         0          0         0          0          3 
+  43434316   IBERIA FIREARMS INC         3929 STATE RT 309    GALION          OH          0          0         0          0         0       3100       3100 
+  43104803   INLAND MANUFACTURING LLC  6785 W THIRD ST        DAYTON          OH          0          0        46          0        26         82        154 
+  43402589   ITHACA DISTRIBUTION INC     420 N WARPOLE ST     UPPER           OH          0          0         0          0         0          7          7 
+                                                              SANDUSKY 
+  43403347   J AND J PERFORMANCE INC     410 E WOOD ST        SHREVE          OH          0          0         0          0         3          0          3 
+  43405654   JOHNSON, TONY DALE          2648 BLACK OAK DR    NILES           OH          0          0         0          0         6          0          6 
+  43436235   JONES, JOHNDAVID            590 WOODVUE LANE     WINTERSVILLE    OH          0          0         0          1         0          2          3 
+  43405676   KCIN ARMS LLC               2151 ATKINS AVENUE   LAKEWOOD        OH          0          0         0          0         2          1          3 
+  43104858   KMR FIREARMS LLC            559 BECKERS LN       LOWELL          OH          1          0         0          0         0          0          1 
+  43104816   LEACH, THOMAS D             107 BOURBON STREET   BLANCHESTER     OH          0          0         0          0         1          0          1 
+  43106494   LIGHTHOUSE GUNSMITHS LLC  1137 MAGIE AVENUE      FAIRFIELD       OH          5          0         0          0         0          0          5 
+  43103822   LL EMERSON GROUP LLC        9230 CR 2            WEST            OH          0          0         3          0         0          0          3 
+                                                              MANSFIELD 
+  43405495   LOYAL 9 OUTFITTERS LLC      23668 W MANOR DR     GENOA           OH          0          1         0          0         0          0          1 
+  43102967   LUXUS ARMS LLC              222 HOMAN WAY        MOUNT ORAB      OH          0         67         0          0         0          0         67 
+  43106828   MCLEARN, MATTHEW MOODY      18597 SELLERS RD     CRIDERSVILLE    OH          1          0         0          0        17         14         32 
+  43403241   PARTISAN ENTERPRISES LLC    12351 PROSPECT RD,   STRONGSVILLE    OH          0          0        19          0         8          0         27 
+                                         EAST BUILDING UNIT A 
+  43104596   PRECISION DEFENSE LLC       1858 CEDAR HILL RD   LANCASTER       OH          2          0         0          1         3          2          8 
+  43406099   PT ENTERPRISES, INC         516 WEST HIGH STREET  ORRVILLE       OH          0          1         0          0         0          0          1 
+  43105466   QUEEN CITY ARMS LLC         322 SYCAMORE ST      NEW RICHMOND  OH            0          0         0          0         6         17         23 
+  43400282   ROONEY, TERRANCE L          4140 ROOT RD         NORTH           OH          0          2         0          5         4          0         11 
+                                                              OLMSTED 
+  43405375   SRPM INC                    30300 BRUCE          SOLON           OH          0          0         0          0         1          0          1 
+                                         INDUSTRIAL PKWAY 
+  43405123   STRASSELLS MACHINE INC      1015 SPRINGMILL ST   MANSFIELD       OH          0          0         0       7100      22200         0      29300 
+  43105224   TACK-DRIVER ARMS LLC        6970 GRATE PARK DR   NEW ALBANY      OH          1          0         0          0         0          0          1 
+  43106509   THANATOS CUSTOM ARMS LLC  4495 KNOB HILL DRIVE   BELLBROOK       OH          1          0         0          0         0          0          1 
+  43404479   TOTTS, ALFRED LEWIS JR      2487 RANFIELD RD     MOGADORE        OH          0          0         0          0         0          2          2 
+  43104835   TUSKER ARMS CORPORATION  8220 INDUSTRIAL PKWY  PLAIN CITY        OH          0          2         0          0         1          0          3 
+                                         SUITE 100 
+  43404591   TWISTED RIVER TACTICAL LLC  4564 ROHRDALE AVE NW CANAL FULTON    OH          0          1         0          0         0          0          1 
+  43403795   VIKTOR'S LEGACY CUSTOM      1180 HIGH ST #4      FAIRPORT        OH          0          0         0          0         0          1          1 
+             GUNSMITHING LLC                                  HARBOR 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                            01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

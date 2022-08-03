@@ -1,0 +1,38 @@
+                                                             RIFLES MANUFACTURED IN 2019 
+  RDS KEY       LICENSE NAME                                STREET                              CITY                        ST        RIFLE MFG 
+ 16404365       THE HUNTERS EDGE LLC                        407 HWY 11 SOUTH                    ELLISVILLE                   MS              12 
+ 16404405       TRIGGER TIME INDOOR SHOOTING RANGE INC      120 AIRPARK ROAD                    TUPELO                       MS               1 
+ 16404624       WINDLASS ARMORY LLC                         8 WINDLASS DR                       HATTIESBURG                  MS               6 
+ 98102304       406 PRECISION LLC                           305 1/2 SOUTH MAIN STREET           TWIN BRIDGES                 MT               8 
+ 98102475       AEM PRECISION LLC                           392 LONESTAR LOOP                   JORDAN                       MT              12 
+ 98101051       ALLEN, KIRBY LEROY                          99 STEVENSON RD                     FORT SHAW                    MT              36 
+ 98101324       AMERICAN HUNTING RIFLES INC                 1711 MOUNTAIN VIEW ORCHARD RD       CORVALLIS                    MT               3 
+ 98102490       BEARDSLEY, TED                              308 E MAIN ST                       MANHATTAN                    MT               2 
+ 98102777       BLUE LINE CERAKOTE LLC                      3900 PORCUPINE LANE                 STEVENSVILLE                 MT               3 
+ 98102350       BUTCHER'S BULL-ISTICS LLC                   10 MOCKINGBIRD WAY                  THOMPSON FALLS               MT              11 
+ 98155388       C SHARPS ARMS CO INC                        100 CENTENNIAL DR                   BIG TIMBER                   MT             122 
+ 98102405       COTTRELL, CHARLES                           20 PONDEROSA DR                     ULM                          MT               6 
+ 98102197       CUSHMAN, ROCKY                              3325 #A FRONTAGE RD                 THREE FORKS                  MT               5 
+ 98102631       D & R INDUSTRIES INC                        394 OLD CORVALLIS RD UNIT B         HAMILTON                     MT              24 
+ 98102198       DEAD DOWN RANGE LLC                         2600 MAILBOX RD                     SHEPHERD                     MT              21 
+ 98101187       DEFIANCE MACHINE INC                        3881 MT HWY 40 W                    COLUMBIA FALLS               MT             129 
+ 98102201       DERRY, MICHAEL                              628 IRON GROUSE RD                  TROY                         MT               3 
+ 98101815       EMERALD FIREARMS LLC                        740 SPRING HILL RD                  LIMA                         MT              11 
+ 98102105       FALKOR, SID INC                             2902 HWY 93 NORTH                   KALISPELL                    MT             307 
+ 98102728       FOWLER PRECISION, LLC                       6 OLD FLATHEAD CREEK RD             WILSALL                      MT               8 
+ 98101025       GENTRY CUSTOM LLC                           314 N HOFFMAN ST                    BELGRADE                     MT               4 
+ 98101104       GORDNER, GENE FRANKLIN                      646 S FOYS LAKE DR                  KALISPELL                    MT               2 
+ 98102061       HAYWIRE GULCH ATHLETIC CLUB LLC             3154 US HWY 2 EAST                  KALISPELL                    MT               1 
+ 98102423       HIGGINS, JEFF W                             148 SPITZ RD                        STEVENSVILLE                 MT               2 
+ 98101746       JACK INC                                    620 3RD AVE  W                      THREE FORKS                  MT               5 
+ 98101310       LEAHY, JAMES ROBERT                         4343 US HIGHWAY 87, BUILDING B      HAVRE                        MT              16 
+ 98102709       LEE, ADAM P                                 15 BLUE STEM WAY                    THREE FORKS                  MT              10 
+ 98101712       LONE WOLF FIREARMS LLC                      16 ROCKY MOUNTAIN DR                WHITEHALL                    MT               1 
+ 98102550       MCLAUGHLIN CUSTOM FIREARMS LLC              1216 SPRING ST                      HELENA                       MT               3 
+ 98102847       MISERY CUSTOM RIFLES LLC                    300 HORNED OWL TRAIL                BOZEMAN                      MT               3 
+ 98102344       MISTY VALLEY RIFLES & LEATHER LLC           1917 LAZY 3 LANE                    LINCOLN                      MT               1 
+ 98109328       MONARCH TOOL COMPANY, INC                   3702 MEYER LN                       STEVENSVILLE                 MT               1 
+ 98101949       NIKAO OUTDOOR MEDIA LLC                     940 5TH ST                          MISSOULA                     MT               3 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                            01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

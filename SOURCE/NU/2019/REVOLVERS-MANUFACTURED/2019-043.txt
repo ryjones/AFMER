@@ -1,0 +1,46 @@
+                                                        REVOLVERS MANUFACTURED IN 2019 
+  RDS KEY    LICENSE NAME                 STREET                CITY           ST      RVLR 22     RVLR 32   RVLR 357    RVLR 38    RVLR 44     RVLR 50  RVLR TOTL 
+ 43405375    SRPM INC                    30300 BRUCE           SOLON            OH           0           0          1          0          0           0          1 
+                                         INDUSTRIAL PKWAY 
+ 57306448    RED ROCK FIREARMS LLC       6226 E LAKE HELLUMS   ENID             OK           0           0         12          6          5           4         27 
+                                         RD 
+ 99303209    PACIFIC TRADING GROUP LLC   3395 48TH AVE NE      SALEM            OR          34           9         33         21          7           8        112 
+ 99304489    SUPERM ENTERPRISES LLC      725 BRIDGE ST         VERNONIA         OR          22           0         21         13          7           9         72 
+ 82307379    FOXHOLE FIREARMS LLC        160 CRUM RD           FAIRFIELD        PA           0           1          2          1          0           0          4 
+ 82304507    GRANT, ROBERT ANDREW        1134 SHERWOOD DR      LAURYS           PA           6           0         40         10          5           0         61 
+                                                               STATION 
+ 82508153    VERONESI GUNWORKS INC       3258 STATE ROUTE 28   NEW              PA           1           0          0          0          0           0          1 
+                                         AND 66                BETHLEHEM 
+ 15706470    JONES, ALEXANDER            519 STICKLEY PLACE    LANCASTER        SC           0           0          0          0          1           1          2 
+ 15706316    PURE GOLD INC               2258 BRATTONSVILLE RD MC CONNELLS      SC           1           0          0          0          0           0          1 
+ 34601673    TACTICOOL SOLUTIONS LLC     6101 W QUEENS CIR     SIOUX FALLS      SD           1           0          0          0          0           0          1 
+ 16209108    DAVIS ENTERPRISES LLC       590 AUTUMN MEADOWS  COLLIERVILLE       TN           0           0          1          0          0           2          3 
+                                         LN 
+ 16209799    ECHO 3 ARMORY LLC           214 N HORTON PKWY     CHAPEL HILL      TN           1           0          0          0          0           0          1 
+ 16210358    STATE LINE GUN AND BOW      30092 E RAILROAD ST   ARDMORE          TN           2           0          0          4          0           1          7 
+             WORKS LLC 
+ 16207129    TENNESSEE ARMS COMPANY      708 EAST COURT        DYERSBURG        TN           0           0          0          0          3           0          3 
+             LLC                         STREET 
+ 57513763    A&J GUNS N MORE LLC         281 CELTIC RD         HOWE             TX           0           0          0          2          0           0          2 
+ 57408995    AMERESE INTERNATIONAL LLC  3301 N PIEDRAS STE C   EL PASO          TX           1           0          0          0          0           0          1 
+                                         AND E 
+ 57513458    BD LIBERTY PRECISION ARMS   1417 APRON DRIVE      BIG SPRING       TX           5           0          0          0          0           1          6 
+             LLC 
+ 57605844    CLINTS GUNS & AMMO LLC      20206 PRINCE CREEK DR  KATY            TX           2           1         42         15         12           2         74 
+ 57405698    DRJ INVESTMENTS LLC         5826 AVENUE B         SHERIDAN         TX           1           0          0          0          1           0          2 
+ 57410069    ELITE ARMORY LLC            110 S ELM             MADISONVILLE     TX           0           0          1          3          0           1          5 
+ 57606385    ELLIS III, JAMES THEDFORD   5656 WHEATLEY ST      HOUSTON          TX           0           0          0          0          0           1          1 
+ 57409889    EXILE FIREARMS, LLC         26 LOU STROUP DRIVE   UVALDE           TX           1           0          0          0          0           0          1 
+ 57510757    GREEN'S GUNS AND RANGE LLC  1654 JAMES MARSHALL  MARSHALL          TX           2           0          4          5         14           5         30 
+ 57409257    INTEGRATED SENSOR &         383 FM 2093 #R006     FREDERICKSBU     TX           0           0          1          1          0           0          2 
+             IMAGING LLC                                       RG 
+ 57514687    PAXTON TIRE AND SERVICE, INC  603 SE 3RD          DIMMITT          TX           7           0          3          3          0           0         13 
+ 57605289    POWELL, OAKLEY LYNDON       776 WIRE RD           HUNTSVILLE       TX           0           0          0          3          0           0          3 
+ 57514831    RENEGADE ARMS LLC           1185 HUMBLE RD EAST   OVERTON          TX           0           0          3          0          2           0          5 
+ 57602197    TAZEWELL ENTERPRISES INC    730 SARTARTIA RD      SUGAR LAND       TX           0           0          0          0          0           1          1 
+ 57408451    WRIGHT METAL FINISHING LLC  106 WILDWOOD RANCH  ADKINS             TX           0           0          1          0          0           0          1 
+                                         ROAD 
+ 98703867    BEARMAN INDUSTRIES, LLC     4033 S HOWICK STREET  SALT LAKE CITY   UT           0           0          6          0          0           0          6 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                               01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

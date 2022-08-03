@@ -1,0 +1,38 @@
+                                                               RIFLES MANUFACTURED IN 2019 
+  RDS KEY        LICENSE NAME                                 STREET                               CITY                         ST        RIFLE MFG 
+  15808273       COUNTRY BOY ENTERPRISES INC                  783 CAUDELL RD                       HOMER                         GA              21 
+  15813039       CREEK SAND VENTURES LLC                      1717 OLD YORKVILLE ROAD              DALLAS                        GA              14 
+  15814966       DALTON, KENNETH LEWIS                        505 JAMES STUBBS ROAD                MAUK                          GA               6 
+  15813136       DANIEL DEFENSE INC                           1334 ORACAL PARKWAY                  BLACK CREEK                   GA           26094 
+  15812064       DAWN OF DEFENSE LLC                          1462 CROSS ST                        FORT OGLETHORPE               GA              10 
+  15806454       DEFENSE RESEARCH & DEVELOPMENT LLC           268 CADILLAC PKWY STE 104            DALLAS                        GA             151 
+  15814246       DOUBLE TAP CLEANERS LLC                      780 GOLF COURSE RD SUITE B           DEMOREST                      GA               8 
+  15813199       DUGGAN, CHARLES COMER                        803 S MAIN ST                        STATESBORO                    GA               9 
+  15813814       ENFIELD RIFLE COMPANY LLC                    183 COMMERCIAL COURT                 RINCON                        GA               1 
+  15813143       EVOLVED TACTICAL COATINGS LLC                105 TALLAPOOSA ST                    BREMEN                        GA             993 
+  15812880       HAPPY GUNS LTD CO                            1569 SIR KNIGHTS WAY                 LAWRENCEVILLE                 GA               2 
+  15813708       HEAD DOWN FIREARMS LLC                       333 BUTLER INDUSTRIAL DR             DALLAS                        GA             337 
+  15804493       HECKLER & KOCH, INC                          5175 CARGO DR                        COLUMBUS                      GA            1528 
+  15811792       HENSON, RANDY K                              3507 KELLOGG CRK RD                  ACWORTH                       GA               1 
+  15814373       HERITAGE MANUFACTURING, INC                  100 TAURUS WAY                       BAINBRIDGE                    GA              66 
+  15810333       HILL AND MAC GUNWORKS LLC                    3120 ENGINEERING PKWY                ALPHARETTA                    GA             180 
+  15812006       HYDROSHOCK CUSTOM GRAFIX LLC                 636-C S OLD BELAIR RD                GROVETOWN                     GA               4 
+  15807443       INTEGRITY ARMS & SURVIVAL, LLC               1205 WASHINGTON STREET               JEFFERSON                     GA              18 
+  15840168       INVERIS TRAINING SOLUTIONS INC               296 BROGDON RD                       SUWANEE                       GA             517 
+  15803294       J WHIDDEN RIFLEWORKS LLC                     2282 MARK WATSON ROAD                NASHVILLE                     GA              37 
+  15813460       JMS & JP LLC                                 2991 LAGUNA DR                       DECATUR                       GA               5 
+  15812982       JRK CUSTOM PRECISION RIFLES LLC              7364 CHARLIE B JOHNSTON ROAD         HOGANSVILLE                   GA               8 
+  15814146       KARVASALE, MARK AUGUSTUS                     506 HICKORY GAP TRAIL                DALLAS                        GA              10 
+  15812071       LEGAL MANUFACTURING LLC                      397 ROLLINS INDUSTRIAL COURT         RINGGOLD                      GA              40 
+  15804952       MASTERPIECE ARMS HOLDING COMPANY             4904 HIGHWAY 98                      COMER                         GA            1281 
+  15810571       MCWHORTER CUSTOM RIFLES INC                  1549 HOWELL RD                       DOERUN                        GA              44 
+  15813498       PATRIOT ARMS AND SUPPLIES LLC                346 ROYAL RD                         GIRARD                        GA               1 
+  15802724       PRECISION PRODUCTS MACHINE & FAB INC         58 LATIMER ST                        HAZLEHURST                    GA              12 
+  15809465       QUIET RIOT FIREARMS LLC                      40 HARKINS ST                        MCDONOUGH                     GA               1 
+  15814080       REGAS, CRHISTOPHER JAMES                     206 SHADY VALLEY DRIVE               CARROLLTON                    GA              14 
+  15813065       RENATUS ARMS LLC                             4401 BAKER GROVE ROAD UNIT 310       ACWORTH                       GA               1 
+  15811283       RJL INC                                      105 VILLAGE WALK, SUITE 184          DALLAS                        GA             114 
+  15813791       S&J CUSTOMS LLC                              2352 HWY 129 N                       JEFFERSON                     GA               1 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                                 01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

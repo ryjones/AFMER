@@ -1,0 +1,48 @@
+                                                       PISTOLS MANUFACTURED IN 2019 
+                                                                                     PISTOL     PISTOL    PISTOL     PISTOL    PISTOL     PISTOL     PISTOL
+  RDS KEY     LICENSE NAME               STREET                CITY           ST          22        25        32        380      9MM          50     TOTAL 
+                                         ROAD UNIT 310 
+  15811283   RJL INC                     105 VILLAGE WALK,    DALLAS          GA          6          0         0          0        11          0         17 
+                                         SUITE 184 
+  15813791   S&J CUSTOMS LLC             2352 HWY 129 N       JEFFERSON       GA          4          0         0          0         2          1          7 
+  15813805   S&J CUSTOMS, LLC            903 HARMONY CHURCH  GILLSVILLE       GA          2          0         0          0         0          0          2 
+                                         ROAD 
+  15812701   SECTION 8 ARMAMENT INC      2563 HWY 29 S        COLBERT         GA          1          0         0          0         3          0          4 
+  15806362   SEMPER FI ARMS LLC          310 PINE TRAIL       CANTON          GA          0          1         0          0         0          0          1 
+  15811120   TACTICAL RESOLVE LLC        91 LUCIOUS KENNEDY   GLENNVILLE      GA          0          0         0          0         1          0          1 
+                                         RD 
+  15813504   TALON ARMAMENT LLC          8530 COBB CENTER DR  KENNESAW        GA         348         0         0        161         0          0        509 
+                                         NW 
+  15814382   TAURUS INTERNATIONAL        100 TAURUS WAY       BAINBRIDGE      GA        3194         0         0        501         0          0       3695 
+             MANUFACTURING, INC 
+  15808331   THE OUTPOST ARMORY LLC      2002 EMA DELL PL     LOGANVILLE      GA          0          0         0          0         2          0          2 
+  15811641   TIPTON, MARK ALAN           2876 OLD JESUP RD    BRUNSWICK       GA          0          0         0          0        11          0         11 
+  15811140   TRINITY PRECISION & ARMS    4643 HWY 280         CLAXTON         GA          1          0         0          0         2          0          3 
+             INC 
+  15812793   VALOR RIDGE GUNS LLC        1229 JOHNSON FERRY   MARIETTA        GA          0          0         0          1         0          0          1 
+                                         ROAD SUITE 201 
+  15804927   WALKER TOOL & MFG, INC      1300 ROSS RD         SHADY DALE      GA          3          0         0          0         2          1          6 
+  54203899   ARMSTRONG ENTERPRISES       2880 HWY 44          PANORA          IA          1          0         0          0         0          0          1 
+             LLC 
+  54204587   BROWNELLS INC               3006 BROWNELLS PKWY  GRINNELL        IA          0          0         0          0         0         21         21 
+  54204180   CIRCLE SUPPORT LLC          105 S WEST ST        HENDERSON       IA          0          0         0          1         0          0          1 
+  54203229   CREATIVE ARMS LLC           1430 EAST FLEMING AVE  DES MOINES    IA          0          0         0          0         0          5          5 
+  54204324   D A WOLFE ARMS LLC          1546 WASHINGTON      MUSCATINE       IA          0          1         1          0         0          2          4 
+                                         STREET 
+  54204832   KRAKLIO ARMS LLC            1019 257TH STREET    WHEATLAND       IA          0          0         0          1         3          2          6 
+  54201706   LES BAER CUSTOM INC         1804 IOWA DR         LE CLAIRE       IA          0          0         0          0       150       1089       1239 
+  54204205   MAN O' WAR PRECISION ARM,   12403 M AVE          PERRY           IA          0          1         0          0         0          1          2 
+             LLC 
+  54203954   MCF CUSTOM FIREARMS LLC     526 CLOVER CIR       FREDERICKSBU    IA          1          0         0          1         4          1          7 
+                                                              RG 
+  54203034   NORTHERN TACTICAL ARMS      112 LAKEVIEW         CLEAR LAKE      IA          0          0         0          0         2          1          3 
+             LLC                         MEADOWS CT 
+  54204042   STEALTH BALLISTICS LLC      23592 340TH ST       FOREST CITY     IA          0          0         0          0         0          2          2 
+  54204371   THUNDER ROADS MAGAZINE      301 W 2ND ST         KIMBALLTON      IA          0          0         0          0         0          4          4 
+             OF IOWA LLC 
+  54203926   VAPOR TRAIL FIREARMS LLC    31842 320TH ;AVE     RICHLAND        IA          0          0         0          0         0          2          2 
+  54204537   VOLQUARTSEN FIREARMS INC  24276 240TH STREET     CARROLL         IA        1729         0         0          0         0          0       1729 
+  98201444   2A ARMAMENT LLC             7545 S. EISENMAN RD  BOISE           ID          0         21         4          0         0          0         25 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                            01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

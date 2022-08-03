@@ -1,0 +1,40 @@
+                                                        MISC. FIREARMS MANUFACTURED IN 2019 
+  RDS KEY         LICENSE NAME                                    STREET                                CITY                         ST      MISC FA MFG 
+  43513076        TOTAL HDWE INC COAST TO COAST                   1502 ST RD 9 GREEN MEADOWS S/C       GREENFIELD                     IN 
+  43504581        W C DISTRIBUTING LLC                            7661 EAST CLIFTON RD                 ALBANY                         IN               2 
+  43504670        WARRIOR ARMS LLC                                389 E US HWY 30                      VALPARAISO                     IN              26 
+  54804010        CHARGER ARMS LLC                                520 TOPEKA AVE                       LYNDON                        KS               30 
+  54803929        CLARK, TODD ALAN                                2708 DRY CREEK                       GREAT BEND                    KS                5 
+  54803746        CORBET, WILLIAM A JR                            1304 LAWRENCE AVE                    LEAVENWORTH                   KS                2 
+  54804587        CUSTOMBILT FIREARMS MANUFACTURING, LLC          6201 ROBINSON STREET                 OVERLAND PARK                 KS               30 
+  54803923        JOE BOB OUTFITTERS LLC                          4850 GENERAL HAYS                    HAYS                          KS             2373 
+  54803256        PODUNK INC                                      1145 W DENNIS AVE                    OLATHE                        KS             2807 
+  46107505        ANCHOR ARMS, LLC                                1076 A MANSFIELD ROAD                GLASGOW                       KY                1 
+  46104099        BAD BULL MUZZLE LOADERS INC                     200 E LEGION DR                      PRINCETON                     KY               10 
+  46102135        CUSTOM SHOOTING TECHNOLOGIES INC                8794 ELMBURG ROAD                    BAGDAD                        KY               92 
+  46100511        DOUBLE STAR CORP                                1805 FORTUNE DR                      WINCHESTER                    KY              729 
+  46106630        E-COMMERCE CONSULTING SPECIALISTS LLC           3500 BRIARGLEN LN                    LOUISVILLE                    KY              294 
+  46107651        J & T MUNITIONS INC                             1805 FORTUNE DRIVE                   WINCHESTER                    KY              142 
+  46103520        WM C ANDERSON INC                               1743 ANDERSON BLVD                   HEBRON                        KY            148306 
+  46108263        WM C ANDERSON INC                               1743 ANDERSON BOULEVARD              HEBRON                        KY            193965 
+  57206119        556 TACTICAL, LLC                               4705 HWY 15                          WINNSBORO                     LA                6 
+  57204834        AKLYS DEFENSE LLC                               9683 MAMMOTH AVE                     BATON ROUGE                   LA               17 
+  57205773        GULF COAST POWDER COATING LLC                   169 THOMPSON RD                      HOUMA                         LA                2 
+  57204706        PELICAN ASSETS LLC                              3201 PAUL SEGURA PKWY                NEW IBERIA                    LA                4 
+  57205782        PRAIRIE GUNWORKS LLC                            1340 FORESTRY DR                     VILLE PLATTE                  LA               16 
+  60405614        B&R MACHINE INC                                 305 A MOODY ST                       LUDLOW                        MA                3 
+  60412424        DIAMONDHEAD USA                                 622 UNION STREET                     WEST SPRINGFIELD              MA               34 
+  60411686        DOWNRANGE INC                                   96 AIRPORT ROAD                      HYANNIS                       MA                7 
+  60401275        EARLE, STEVEN M                                 24 PALMER RD                         PLYMPTON                      MA                4 
+  60413609        FAHEY, JAMES MICHAEL                            379 LIBERTY STREET, SUITE 214-G      ROCKLAND                      MA                6 
+  60413532        JM INSTRUCTION LLC                              379 LIBERTY ST STE 214 A             ROCKLAND                      MA              243 
+  60414285        MAGA ARMS LLC                                   410 GREAT ROAD SUITE 6-2-4-A         LITTLETON                     MA                4 
+  60413882        RIVER STREET METAL FINISHING INC                35 JOHNSON LANE                      BRAINTREE                     MA             5292 
+  60414143        SMITH & WESSON INC.                             2100 ROOSEVELT AVENUE                SPRINGFIELD                   MA               11 
+  60413790        THE ARMS DEALER LLC                             410 GREAT RD STE 321                 LITTLETON                     MA               25 
+  60413900        TROY INDUSTRIES INC                             151 CAPITAL DR                       WEST SPRINGFIELD              MA             2372 
+  60413525        WEITBRECHT AUCTIONEERS INC                      379 LIBERTY STREET SUITE 214-B       ROCKLAND                      MA                5 
+  60413467        YANKEE HILL MACHINE CO INC                      412 MAIN ST                          EASTHAMPTON                   MA              340 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                                01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

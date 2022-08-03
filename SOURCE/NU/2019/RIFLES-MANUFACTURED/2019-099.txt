@@ -1,0 +1,38 @@
+                                                              RIFLES MANUFACTURED IN 2019 
+  RDS KEY        LICENSE NAME                                STREET                               CITY                         ST       RIFLE MFG 
+  15415457       WAYNE'S PRECISION LLC                       264 BENCHREST LN                     CONCORD                      VA               5 
+  15414431       WEIDNER CONSULTING LLC                      1186 WARRENTON RD STE 102            FREDERICKSBURG               VA              32 
+  60300981       ASMDSS ARMS LLC                             3400 LOWER RD                        PLAINFIELD                   VT               1 
+  60301079       BALD MOUNTAIN MARKET LLC                    28 HUBBARD LANE PLACE                RUTLAND TOWN                 VT              11 
+  60300994       BLACK WING ARMORY LLC                       987 CADYS FALLS ROAD                 MORRISVILLE                  VT              13 
+  60300781       CATAMOUNT ARMS LLC                          70 MCDONALD LANE                     HINESBURG                    VT               3 
+  60333217       CENTURY ARMS INC                            236 BRYCE BLVD                       GEORGIA                      VT           12551 
+  60300884       GREEN MOUNTAIN CARBINE LLC                  21 TATRO RD                          PLYMOUTH                     VT               1 
+  60301051       JAIL BRANCH ARMS LLC                        587 E BARRE RD                       BARRE                        VT              23 
+  60300926       KINGDOM FIREARMS LLC                        60 UPPER QUARRY RD                   NEWPORT                      VT               4 
+  60300728       LEMOIS, BRIEN PAUL JR                       3227 US RT 5                         IRASBURG                     VT               2 
+  60301029       LOST NATION GUNS & AMMO, LLC                27 N RIVER ST                        SWANTON                      VT               5 
+  60300651       NEWLAN, STEVEN JAMES                        737 ROUTE 5 S                        WINDSOR                      VT               2 
+  60300696       PIKE, RANDALL S                             181 SPRAGUE RD                       WEST HALIFAX                 VT               4 
+  60300851       THOMAS, BRIAN KEITH                         3 RIDGE ROAD                         ESSEX JUNCTION               VT               1 
+  99106034       ALL AMERICAN ARMORY, LLC                    14969 W BOW HILL RD STE #2           BOW                          WA               8 
+  99107522       ANGELOS, WARD CHARLES                       719 S YELM PLACE                     KENNEWICK                    WA               9 
+  99103960       BERG, RUSSELL                               11675 MADISON AVE NE                 BAINBRIDGE ISLAND            WA               4 
+  99107472       BETHEL ARMAMENT LLC                         14835 133RD AVE SE                   YELM                         WA               2 
+  99106948       BIG IRISH GUN WORKS LLC                     5414 SWAN CT                         WEST RICHLAND                WA               3 
+  99107016       BRIMSTONE GUNSMITHING INC                   4857 NW LAKE RD #115                 CAMAS                        WA               8 
+  99104102       CANTRELL OUTDOORS LLC                       1017 300TH STREET NW                 STANWOOD                     WA               5 
+  99106194       CLEAR CREEK STOCKWORKS, LLC                 5501 STATE ROUTE 272                 COLFAX                       WA               1 
+  99107902       DEDICATED PRECISION MACHINE LLC             500 METCALF ST BUILDING M-4          SEDRO WOOLLEY                WA               3 
+  99108549       EDELWEISS ARMORY, LLC                       57 ETRURIA ST APT 103                SEATTLE                      WA               1 
+  99105403       FREDRIC'S ARMS & SMITHS, LLC                1904 AIRPORT WAY                     RICHLAND                     WA               4 
+  99104605       GRESHAM ARMORY LLC                          8431 10TH PLACE SE                   LAKE STEVENS                 WA               2 
+  99105925       GREY GHOST PRECISION, LLC                   2916 107TH ST S                      LAKEWOOD                     WA              48 
+  99107365       H&H PRECISION LLC                           410 WARWICK ST                       ENUMCLAW                     WA              37 
+  99107054       HAYNES AND SONS GUNS LLC                    410 S FISKE ST                       SPOKANE                      WA               1 
+  99106381       JAAK TACTICAL LLC                           83 STRAITLAND RD                     PORT ANGELES                 WA              15 
+  99107743       KLOTZBUECHER, HARLEY KURT                   2720 MILL POND DR UNIT A5            MALAGA                       WA               2 
+  99108107       LAIERS CUSTOM LATHE AND GUNSMITHING LLC     327 HOLLY LANE                       COSMOPOLIS                   WA              14 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                               01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

@@ -1,0 +1,38 @@
+                                                                 RIFLES MANUFACTURED IN 2019 
+  RDS KEY         LICENSE NAME                                  STREET                                 CITY                          ST        RIFLE MFG 
+  82309715       TL TECHNOLOGIES INC                            2950 OLD TREE DR STE 1                 LANCASTER                      PA              679 
+  82303270       U S ARMAMENT CORP                              121 VALLEY VIEW DR                     EPHRATA                        PA                6 
+  82508153       VERONESI GUNWORKS INC                          3258 STATE ROUTE 28 AND 66             NEW BETHLEHEM                  PA                1 
+  82303130       WELLS CUSTOM GUNMAKERS LLC                     1750 MALONEY HILL RD                   NICHOLSON                      PA                2 
+  82309795       WOODMOUSE LLC                                  101 NORTH HANOVER STREET,              CARLISLE                       PA                2 
+  82308086       YORK TACTICAL LLC                              410 ARLINGTON ST                       TAMAQUA                        PA                4 
+  60500865       ATA MANUFACTURING INC                          125 HARRISON AVE                       WOONSOCKET                     RI                2 
+  15704477       ACE FIREARMS INC                               116 KAY DRIVE STE B                    EASLEY                         SC                2 
+  15705681       ALPHA SIERRA INDUSTRIES LLC                    905 N MAIN ST                          AYNOR                          SC                4 
+  15704502       AMERICAN TACTICAL INC                          231 DEMING WAY                         SUMMERVILLE                    SC            37420 
+  15703141       BUCK RUN HUNTING LODGE LLC                     620 BENS ROAD                          ESTILL                         SC               12 
+  15703200       CAROLINA CUSTOM RIFLES LLC                     1162 CHINQUAPIN CHURCH RD              BATESBURG                      SC                4 
+  15706312       CMH CONSULTING LLC                             196 BELLS HWY                          WALTERBORO                     SC                9 
+  15703422       CORMAC ENTERPRISES INC                         1205 38TH AVE N                        MYRTLE BEACH                   SC               23 
+  15705275       DOC'S TACTICAL WEAPONS SYSTEMS LLC             5712 HIGHWAY 25 NORTH                  HODGES                         SC               64 
+  15706258       DRAGONFLY CUSTOM GUNS LLC                      3000 DRYWALL RD                        MYRTLE BEACH                   SC                2 
+  15705851       ELITE FIREARMS LLC                             3120 WACCAMAW BLVD UNIT A              MYRTLE BEACH                   SC               13 
+  15702581       FN AMERICA, LLC                                797 OLD CLEMSON ROAD                   COLUMBIA                       SC            15671 
+  15706540       FOX CHARLIE MODERN FIREARMS LLC                1137 BONNOITT STREET                   DARLINGTON                     SC                1 
+  15706379       GR8 DEALZ GUN & PAWN LLC                       215 EDGEFIELD RD                       NORTH AUGUSTA                  SC               19 
+  15705409       IKON WEAPONS LLC                               1951 PISGAH ROAD, ROOM 125             FLORENCE                       SC               45 
+  15701803       JARRETT RIFLES INC                             383 BROWN RD                           JACKSON                        SC               40 
+  15705130       JL CUSTOM ARMS LLC                             5214 MCCORMICK HWY                     BRADLEY                        SC                3 
+  15706434       JOHNSTON FIREARMS LLC                          112 W P JOHNSTON RD                    NEWBERRY                       SC                2 
+  15706528       KRATOS TACTICAL LLC                            6232 MCTOWN RD                         LANCASTER                      SC               27 
+  15706187       LEAD STAR LTD CO                               2121 OLD DUNBAR ROAD                   WEST COLUMBIA                  SC              135 
+  15705090       LIGHTNING TACTICAL & TRAINING LLC              172 HERITAGE PKWY                      BLUFFTON                       SC                1 
+  15703969       MARK L BARNARD MD LLC                          120 WOOD CREEK RD                      DARLINGTON                     SC                2 
+  15705674       OGBURN RIFLES LLC                              2001 ISEMAN RD                         DARLINGTON                     SC                4 
+  15702546       PALMETTO STATE ARMORY, LLC                     2121 OLD DUNBAR RD                     WEST COLUMBIA                  SC            26692 
+  15702946       PALMETTO STATE DEFENSE LLC                     555 E SUBER RD                         GREER                          SC                9 
+  15704597       PTR INDUSTRIES INC                             101 COOL SPRINGS DR                    AYNOR                          SC             5335 
+  15706316       PURE GOLD INC                                  2258 BRATTONSVILLE RD                  MC CONNELLS                    SC                6 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                                       01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

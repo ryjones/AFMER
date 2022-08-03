@@ -1,0 +1,46 @@
+                                                         PISTOLS MANUFACTURED IN 2019 
+                                                                                          PISTOL    PISTOL     PISTOL     PISTOL     PISTOL     PISTOL      PISTOL
+  RDS KEY      LICENSE NAME                STREET                 CITY           ST           22        25         32        380       9MM           50     TOTAL 
+  57511910    STEPHENS, BOBBY JOE JR      13677 FM 314           BROWNSBORO       TX           0          0          0          3          5          3         11 
+  57514406    STRAYER-VOIGT LLC           71229 INTERSTATE 20    GORDON           TX           0          0          0          0        241        176        417 
+  57409837    TERMINAL BALLISTICS, INC    8214 HWY 359           ORANGE GROVE  TX              0          0          0          0          6          0          6 
+  57513742    TERNARY ENTERPRISES LLC     7886 BURWICK RD        JACKSBORO        TX           1          0          0          0          0          0          1 
+  57509890    TEXAS CUSTOM TACTICAL LLC  201 FRIENDSHIP RD       WEATHERFORD      TX           0          0          0          0          1          0          1 
+  57605570    TEXAS RIFLE WORKS LLC       21621 RHODES RD STE  SPRING             TX           0          0          0          0          1          0          1 
+                                          F 
+  57513820    TEXAS SILENCER COMPANY      1814 BARNETT DR        WEATHERFORD      TX           0          0          0          0          2          1          3 
+              INC 
+  57513495    TPM OUTFITTERS INC          611 YUMA CT            DALLAS           TX           0          0          0          0         25          0         25 
+  57512976    TRIARC SYSTEMS LLC          2500 US HWY 287 N      MANSFIELD        TX           0          0          0          0        193        184        377 
+  57405069    TRIPP RESEARCH INC          529 KELLEY RD          BASTROP          TX           0          0          0          0         11          9         20 
+  57514262    US TRINITY CUSTOM LLC       1266 FM 407 SUITE A    NORTHLAKE        TX           0          0          0          0          2          1          3 
+  57512390    WBDJR FREEDOM               2399 COUNTY ROAD 1885 GRAPELAND         TX           0          0          0          0          0          2          2 
+              INVESTMENTS LLC 
+  57604623    WICKED BURN LLC             206 EAST EDGEBROOK     HOUSTON          TX           0          0          0          0          1          0          1 
+                                          DR 
+  57511561    WILEY ARMS LLC              7921 RENDON            MANSFIELD        TX           0          1          2          0          0          0          3 
+                                          BLOODWORTH RD 
+  57409148    WILSON COMPONENTS LLC       205 BAUXITE DR         JARRELL          TX           0          0          0          0          0          6          6 
+  57513322    WILSON, DAVID GLENN         15077 PLANTATION       FORNEY           TX           0          0          0          2          4          0          6 
+                                          RIDGE 
+  57511613    WOLFPACK WEAPONRY LLC       220 RENAISSANCE DR     HALLSVILLE       TX           0          0          0          0          0          4          4 
+  57408451    WRIGHT METAL FINISHING LLC  106 WILDWOOD RANCH  ADKINS              TX           0          0          0          2         10          0         12 
+                                          ROAD 
+  98702400    3RD GEN MACHINE INC         1435 NORTH 200 W       LOGAN            UT           0          0          0          0          0         32         32 
+  98703867    BEARMAN INDUSTRIES, LLC     4033 S HOWICK STREET  SALT LAKE CITY    UT        1510        375          0       4950       1821          1       8657 
+  98701005    BROWNING ARMS COMPANY       ONE BROWNING PLACE  MORGAN              UT       31451          0          0       8056          0          0      39507 
+  98702834    D AND M PRECISION INC       9525 SWEET BLOSSOM     SOUTH JORDAN     UT           0          0          0          0          6          1          7 
+                                          DR 
+  98703526    DAVIDSON DEFENSE INC        333 N STATE STREET     OREM             UT          51          0          0          0         13          5         69 
+  98702569    DGXCM LLC                   1135 W SUNSET BLVD     ST GEORGE        UT           1          0          0          0          0          0          1 
+  98703548    ECHIS INDUSTRIES LLC        1382 W BREAKER POINT  RIVERTON          UT           2          0          0          0          7          1         10 
+                                          WAY 
+  98702757    F5 DEFENSE INC              282 S 1250 W SUITE A   LINDON           UT           3          0          0          1          7          1         12 
+  98702172    FINO ENTERPRISES LLC        1408 SOUTH HWY 118     RICHFIELD        UT           0          0          0          0          1          0          1 
+  98702790    FLAWLESS FIREARMS LLC       333 NORTH STATE ST     OREM             UT           0          0          0          0          2          0          2 
+  98702422    HAMMER, BRUCE D             304 WEST 400 SOUTH     MANTI            UT           0          1          0          0          0          0          1 
+  98703085    HIGH DESERT HEAT TREATING  709 W 1ST ST BLDG 5A    OGDEN            UT           0          0          0          0         10          0         10 
+              LLC                         BAY C 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                                   01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

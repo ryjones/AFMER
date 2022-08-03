@@ -1,0 +1,40 @@
+                                                           MISC. FIREARMS MANUFACTURED IN 2019 
+  RDS KEY          LICENSE NAME                                       STREET                                  CITY                          ST       MISC FA MFG 
+  98609817        EXOTICAR15 COM LLC                                  10443 N CAVE CREEK RD STE 112-113      PHOENIX                         AZ                35 
+  98607169        GHOST HAMMER ARMS LLC                               2983 EAST BAARS CT                     GILBERT                         AZ                 2 
+  98609989        GIFFORD RIDGE GUNSMITHING LLC                       1731 GATES AVE                         KINGMAN                         AZ                 1 
+  98614705        K & M ARMS LLC                                      24206 S 124TH ST                       CHANDLER                        AZ                 6 
+  98606503        KE ARMS LLC                                         4343 E MAGNOLIA ST                     PHOENIX                         AZ               740 
+  98606455        LAYKE TACTICAL LLC                                  3330 W OSBORN RD                       PHOENIX                         AZ                92 
+  98611540        LIONADI INC                                         2450 E CHAMBERS ST SUITE 3             PHOENIX                         AZ                 2 
+  98604793        MARSH INDUSTRIES LLC                                7040 E LONE MOUNTAIN RD N              CAVE CREEK                      AZ                 2 
+  98606209        MCALISTER, KENNETH                                  291 E OCOTILLO RD UNIT 27              CHANDLER                        AZ                 8 
+  98610925        NOMAD DEFENSE COMPANY INC                           1080 AVIATION DR UNIT B-108            LAKE HAVASU CITY                AZ               888 
+  98600788        PATRIOT ORDNANCE FACTORY INC                        1492 W VICTORY LANE                    PHOENIX                         AZ              1046 
+  98609307        PATRIOT PRECISION LLC                               1887 BULL HOLLOW RD                    SHOW LOW                        AZ                 3 
+  98609304        POOLE, WILLIAM JAMES                                910 WEST WICKENBURG WAY                WICKENBURG                      AZ                 6 
+  98610545        PRECISION WORKS LLC                                 3533 E CONTESSA CIRCLE                 MESA                            AZ                 6 
+  98607294        PREDATOR TECHNOLOGY GROUP LLC                       7942 WEST DEVONSHIRE AVENUE            PHOENIX                         AZ                 2 
+  98603707        QUENTIN LASER LLC                                   1025 N MCQUEEN RD STE 153/154          GILBERT                         AZ               332 
+  98611508        SANCA SALES LLC                                     1647 CIRCULO BALLENA                   RIO RICO                        AZ                 2 
+  98614576        SEND IT COATINGS AND CUSTOMS LLC                    1122 W VERSILIA DRIVE                  ORO VALLEY                      AZ                 3 
+  98604679        SONORAN ARMS LLC                                    663 W 2ND AVE # 16                     MESA                            AZ                 1 
+  98601115        SOURCE MANUFACTURING LLC                            2920 EAST MOHAWK LN STE 112            PHOENIX                         AZ                10 
+  98607665        STRATEGIC ARMORY CORPS LLC                          525 E PINNACLE PEAK RD STE 100         PHOENIX                         AZ               604 
+  98614472        STURM, RUGER & COMPANY, INC                         200 RUGER RD                           PRESCOTT                        AZ                 6 
+  98604535        TOTEM DEPT STORES                                   527 W. MCDOWELL RD.                    PHOENIX                         AZ 
+  98606279        TRITON ARMS LLC                                     2947 KISH AVE STE A                    YUMA                            AZ                16 
+  98607005        ULTRA PRECISION FIREARMS & AMMUNITION LLC           4004 N ROMERO RD                       TUCSON                          AZ                76 
+  98614914        WOODS, JOSEPH LEE                                   3338 E WINDSOR DR                      GILBERT                         AZ                 7 
+  96805338        CARRILLO CUSTOMS INC.                               341 S ORANGE AVE                       LODI                            CA                 8 
+  96801682        CHRISTENSEN, CRAIG ALLEN                            710 3RD STREET                         MARYSVILLE                      CA               156 
+  99501030        COBRA TACTICAL INC                                  28910 AVENUE PENN UNIT 210             VALENCIA                        CA                19 
+  97704259        DIRTY BIRD INDUSTRIES LLC                           2420 MOHAWK ST STE 200                 BAKERSFIELD                     CA               180 
+  99502252        ELEMENT SURFACE TECHNOLOGY                          1983 W HOLT AVE                        POMONA                          CA                 5 
+  97704145        FIREQUICK PRODUCTS INC                              1137 REDROCK INYOKERN RD               INYOKERN                        CA                41 
+  93306700        HOSTETLER, ERIC JAMES                               29257 MODJESKA CANYON RD               SILVERADO                       CA                 6 
+  93306288        JL BILLET LLC                                       12260 CROSTHWAITE CIR                  POWAY                           CA                38 
+  93306666        OLYMPUS ARMS LLC                                    2500 HUNSAKER DR #C                    RUNNING SPRINGS                 CA                13 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                                         01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

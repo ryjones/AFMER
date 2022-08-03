@@ -1,0 +1,40 @@
+                                                                  SHOTGUNS MANUFACTURED IN 2019 
+  RDS KEY          LICENSE NAME                                          STREET                                   CITY                            ST      SHOTGUN MFG 
+  60102979         CRAWFORD, JOE D                                       2 EMANUEL DR                             BRUNSWICK                        ME 
+  60102508         RICHARDS, LUCAS                                       855 STATE RD                             MAPLETON                         ME                  6 
+  43810774         MIDWEST MOUNTAIN HUNTER LLC                           1036 BURNS STREET                        HOWELL                           MI                  1 
+  43809039         SURFACE ACTIVATION TECHNOLOGIES LLC                   1837 THUNDERBIRD ST                      TROY                             MI                  4 
+  43809932         WILLIS GUN LLC                                        10280 BEMIS                              WILLIS                           MI                  4 
+  34105631         LOW PROS LLC                                          16 NORTH CENTRAL AVE                     KENSINGTON                       MN                  1 
+  54338023         ALFERMANN USA INC                                     1482 POTTERY RD                          WASHINGTON                       MO                  1 
+  54313481         ALIEN ARMORY TACTICAL LLC                             3126 WEST CLAY                           SAINT CHARLES                    MO                  1 
+  54310286         SCENARIOX SURVIVAL LLC                                114 CORNERSTONE LN                       SAINT THOMAS                     MO                  5 
+  54315017         SMITH & WESSON SALES COMPANY                          1800 N RTE Z                             COLUMBIA                         MO                 62 
+  16404225         BLACK RIVER PRECISION LLC                             892 HIGHWAY 9 W                          BANNER                           MS                 26 
+  16403789         BRYANT'S MACHINE SHOP, INC                            5734 HWY 80 W                            JACKSON                          MS                  1 
+  16405033         C & B CUSTOM PRECISION LLC                            32630 HWY 25 N                           STURGIS                          MS                  2 
+  16404549         REMINGTON ARMS COMPANY LLC                            366 STATELINE RD                         SOUTHAVEN                        MS             188305 
+  98102201         DERRY, MICHAEL                                        628 IRON GROUSE RD                       TROY                             MT                  3 
+  98102513         LEE, JASON CAMERON                                    263 BOON RD                              SOMERS                           MT                 43 
+  15604527         B&B FIREARMS LLC                                      32618 BETHLEHEM CHURCH RD                NORWOOD                          NC                  1 
+  15604638         BARNES PRECISION MACHINE INC                          1434 FARRINGTON RD STE 300               APEX                             NC                  2 
+  15612365         INNOVATIVE ENDEAVORS INC                              111 DEALWOOD DR                          STATESVILLE                      NC                  1 
+  15603314         OUTDOOR COLORS LLC                                    286 INDUSTRIAL PARK                      RUTHERFORDTON                    NC              17999 
+  15604887         USA TACTICAL FIREARMS LLC                             102 2ND ST SE                            CATAWBA                          NC                  4 
+  54702255         88 TACTICAL BUILDING GROUP LLC                        15350 SHEPARD ST                         OMAHA                            NE                 78 
+  54702538         SNYDER, W CRAIG                                       2100 E 13 ST                             CRETE                            NE                  1 
+  60204276         2A TACTICAL LLC                                       99 TOLEND RD                             BARRINGTON                       NH                  6 
+  60201484         STURM, RUGER & COMPANY, INC                           411 SUNAPEE ST                           NEWPORT                          NH                  4 
+  60200735         STURM, RUGER & COMPANY, INC                           529 SUNAPEE ST                           NEWPORT                          NH                  7 
+  82201446         FABER PRECISION INC                                   198 GREEN POND RD UNIT D                 ROCKAWAY                         NJ                  1 
+  82201671         GRIFFIN & HOWE INC                                    270 STANHOPE SPARTA RD                   ANDOVER                          NJ                  3 
+  82200698         HENRY RAC HOLDING CORP                                59 E 1ST ST                              BAYONNE                          NJ               2980 
+  58501479         C & R GUN SHOP LTD CO                                 444 NIAGARA N E                          ALBUQUERQUE                      NM                  1 
+  58502501         JK GUNSMITHING LLC                                    16 ZANJA ROAD                            SAN ANTONIO                      NM                  5 
+  58502502         MAUCK, WAYNE RUSSELL JR                               1008 AVENIDA DE LAS CAMPANAS             SANTA FE                         NM                  2 
+  58501585         ROY, ROBERT                                           5940-A MIDWAY PARK BLVD                  ALBUQUERQUE                      NM                  3 
+  98802773         FIME GROUP LLC                                        4395 WEST POST RD UNIT 200               LAS VEGAS                        NV                 89 
+  98804528         SALIENT ARMS INTERNATIONAL INC                        831 PILOT ROAD, SUITE D                  LAS VEGAS                        NV                  1 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                                                01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

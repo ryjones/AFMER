@@ -1,0 +1,39 @@
+                                                            RIFLES MANUFACTURED IN 2019 
+  RDS KEY       LICENSE NAME                               STREET                              CITY                        ST       RIFLE MFG 
+ 33903006       KUREK, DAVID C                             N1976 RIVER OAKS RD                 REESEVILLE                   WI              4 
+ 33904776       KUSTOM ARMS LLC                            1408 SOUTHRIDGE DR                  NEW LONDON                   WI              5 
+ 33900697       LAUER, STEVEN MICHAEL                      3601 129TH ST                       CHIPPEWA FALLS               WI             35 
+ 33903655       MARSHALL, LARRY ELON                       N 2851 ANTONY RD                    BANGOR                       WI              2 
+ 33907431       MGS HOLDINGS GROUP LLC                      N60W15128 BOBOLINK AVENUE          MENOMONEE FALLS              WI              4 
+ 33904930       MIDWEST INDUSTRIES INC                     W292 S4498 HILLSIDE RD              WAUKESHA                     WI            165 
+ 33905564       MINUTE OF ANGLE ENTERPRISES LLC            1501 W MAPLE ST                     RIVER FALLS                  WI              1 
+ 33909285       MUKWA TACTICAL LLC                         N3341 EBERT ROAD                    NEW LONDON                   WI             13 
+ 33908862       OX FIREARMS LLC                            385 VINCENT ST                      MILTON                       WI              3 
+ 33905869       PEEPS & JAWA LLC                           100 E HAVEN DR                      WATERTOWN                    WI              7 
+ 33910302       PLUM HOLLOW PRECISION, LLC                 3993 PLUM HOLLOW RD                 HAZEL GREEN                  WI              2 
+ 33910294       R & J ARMS LLC                             5908 W SAINT PAUL AVE               MILWAUKEE                    WI              1 
+ 33908094       SCHELLKORP LLC                             1117 VELVET LEAF DR                 MADISON                      WI              1 
+ 33904639       SCOTSMAN ARMS LLC                          320 PUTNAM STREET SUITE 7           EAU CLAIRE                   WI             16 
+ 33905080       SMETHURST, CHAD RICHARD & NICHOLAS         815 EAST CAMPION BLVD               PRAIRIE DU CHIEN             WI              1 
+                WALKER 
+ 33906873       THE GUN GARAGE LLC                         61729 WEISTER RD                    ASHLAND                      WI              1 
+ 33906714       THE GUN SHOP LLC                           5011 45TH STREET                    KENOSHA                      WI              1 
+ 33910001       THE WISCONSIN TRIGGER COMPANY, INC         315 HART ST                         WATERTOWN                    WI              7 
+ 33908887       THUREON HOLDINGS LLC                       W185 N11521 WHITNEY DR              GERMANTOWN                   WI             43 
+ 33910751       TRUE ZERO LLC                              W1549 STATE ROAD 23                 MOUNT CALVARY                WI              1 
+ 33908067       WISCONSIN GUNS LLC                         10362 ELDER ROAD                    TOMAH                        WI              9 
+ 33907594       WORKS ARMAMENT LLC                         1 TAUNTON CIRCLE                    MADISON                      WI              5 
+ 45504002       ANVIL ARMORY LLC                           2400 KINGWOOD PIKE                  MORGANTOWN                  WV               4 
+ 45503901       FOLEY DEFENSE LLC                          2563 RITTER DR                      SHADY SPRING                WV               3 
+ 45503183       HARPERS FERRY ARMORY INC                   301 N MILDRED ST                    RANSON                      WV              18 
+ 45502891       HOSTETTER, MARK A                          74 DUPONT RD SUITE A                MARTINSBURG                 WV              37 
+ 45502547       J W MANUFACTURING LLC                      703 MIDDLETOWN RD                   FAIRMONT                    WV              41 
+ 45500132       MELVIN FORBES ENTERPRISES LLC              438 MIRANOV ST                      GRANVILLE                   WV              49 
+ 45504354       NINE, TORRENCE LYNN                        877 CENTER HILL                     PHILIPPI                    WV               2 
+ 45504170       PANTHERA TRAINING LLC                      2506 FISH POND RD                   OLD FIELDS                  WV               1 
+ 45504217       REAPER PRECISION RIFLES, LLC               693 LOVE RD                         GRAFTON                     WV               2 
+ 45504216       RIGGENBACH, JAMES DALE                     318 N 2ND AVE                       PADEN CITY                  WV               4 
+ 45504134       SHIELD & SPEAR TACTICAL LLC                67 BRADLEY ROAD                     VALLEY BEND                 WV               5 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                           01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

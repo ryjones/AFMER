@@ -1,0 +1,49 @@
+                                                            PISTOLS MANUFACTURED IN 2019 
+                                                                                               PISTOL     PISTOL     PISTOL      PISTOL      PISTOL      PISTOL      PISTOL
+  RDS KEY      LICENSE NAME                  STREET                  CITY             ST           22         25          32         380       9MM           50      TOTAL 
+               LLC                           MIDDLETOWN RD 
+  61300458     KIMBER MFG INC                1120 SAW MILL RIVER RD YONKERS           NY            3           0          0        4952      51119       67034      123108 
+  61604463     KMJ CUSTOM WORKS LLC          9457 BOSTON STATE RD  BOSTON             NY            0           0          0           0           0          1            1 
+  61101425     NIOSI FIREARMS                200 ROGERS WAY STE D  WESTHAMPTON        NY            0           1          0           0          19          0          20 
+               DEVELOPMENT LLC                                       BEACH 
+  61603115     ORISKANY ARMS INC             175 CLEAR RD            ORISKANY         NY            0           0          0           0         184        240         424 
+  61402380     PARABELLUM FIREARMS           132 BRIMSTONE ROAD      PATTERSON        NY            0           0          0           0           1          0            1 
+               TRAINING, LLC 
+  61603743     POGGI, JOHN J III             16640 CR 155            WATERTOWN        NY            0           0          0           0           4          0            4 
+  61602475     REMINGTON ARMS COMPANY  14 HOEFLER AVE                ILION            NY            0           3          0           8           0         11          22 
+               LLC 
+  61602560     REX AGENCY LLC                2363 STATE ROUTE 69     PARISH           NY            0           0          0           0           1          1            2 
+                                             BLDG B 
+  61604450     SON OF A GUN LLC              60 SYRACUSE ST          BALDWINSVILLE    NY            0           0          0           0           1          6            7 
+  61101084     SURVIVABILITY SERVICES        65 MONTAUK HIGHWAY  EAST HAMPTON  NY                   0           0          0           0           5          0            5 
+               INTERNATIONAL LLC 
+  61601135     TURNBULL MANUFACTURING        6680 RT 5-20            BLOOMFIELD       NY            0           0          0           0           0         19          19 
+               COMPANY 
+  61604542     WOLCOTT GUNS INC              3052 WALDEN AVE         DEPEW            NY            1           0          3           0           1          0            5 
+  61402344     ZERO TOLERANCE                1131 ROUTE 9 H          GHENT            NY            0           0          0           0           3          0            3 
+               MANUFACTURING INC 
+  43406248     ARMSCOTE GUN FINISHING        12715 STATE RT 113      WAKEMAN          OH            0           1          0           0           4          0            5 
+               LLC 
+  43404791     ARTEMIS ARMS LLC              50 JACKSON ST           PORT CLINTON     OH            0           0          0           0           9          0            9 
+  43406097     B, KING'S FIREARMS, TRAINING  200 W MAIN ST SUITE C   ELIDA            OH            0          16          7           0           0          0          23 
+               AND RETAIL LLC 
+  43106814     BASTECH, INC                  9233 NORTH DIXIE DRIVE  DAYTON           OH            0           0          0           0           0          1            1 
+  43405131     BLACK BOAR ARMORY &           10524 FREEDOM ST        GARRETTSVILLE  OH              0           0          0           0           0          1            1 
+               COATINGS LLC 
+  43403656     BULLSEYE CUSTOM SHOP LLC  1380 BONNIE DR              MANSFIELD        OH            0           8          2           0           3          0          13 
+  43405345     CHAMPION PRECISION            4565 NORTH LEAVITT RD  WARREN            OH            0           0          0           0           0          1            1 
+               FIREARMS LLC                  NW 
+  43405649     CLASS 3 TOYS LLC              6880 CORINTH COURT      FARMDALE         OH            0           0          0           0           6          1            7 
+                                             RD 
+  43106559     CUTTER MACHINE WORKS LLC  10280 CROUSE WILLISON JOHNSTOWN              OH            0           0          0           0           1          0            1 
+                                             RD 
+  43106092     CW ACCESSORIES LLC            12200 JACK RUN RD       LANCASTER        OH           47           0          0           0           0          0          47 
+  43402362     DEFENSIVE CREATIONS LLC       253 MAPLEWOOD DR        ALLIANCE         OH            0           0          0           0           1          3            4 
+  43403352     DNB ARMS LLC                  1704 W MAIN ST          LOUISVILLE       OH            0           0          0           0          32          0          32 
+  43106635     FAXON FIREARMS LLC            4348 LE SAINT CT        FAIRFIELD        OH            0           9          0           0         102          0         111 
+  43106402     FLASHPOINT INC                7513 COOK JONES RD      WAYNESVILLE      OH            2           0          0           0           3          0            5 
+  43405811     GARRETTS GUN PARTS LLC        3315 N RIDGE ROAD       ASHTABULA        OH            1          11          3           0           6          2          23 
+                                             EAST UNIT 315 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                                            01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

@@ -1,0 +1,39 @@
+                                                          RIFLES MANUFACTURED IN 2019 
+  RDS KEY       LICENSE NAME                             STREET                             CITY                       ST      RIFLE MFG 
+ 57334849       CROSSNO, PAMELA ANN SUCCESSOR TO         23380 N ANDERSON RD               ARCADIA                     OK              2 
+                CROSSNO, DAVID 
+ 57306942       EDMOND ARMS, LLC                         14113 OSAGE DR                    EDMOND                      OK              1 
+ 57305807       ETCHED ORDNANCE LLC                      23851 E. HWY 51 BLD 2             BROKEN ARROW                OK              2 
+ 57306614       EVERYTHING BEHIND THE BADGE LLC          21403 W 20TH                      SAND SPRINGS                OK             12 
+ 57305534       FIRINGLINE ARMS GROUP LLC                69400 E HWY 60                    WYANDOTTE                   OK              1 
+ 57337041       FLEMING, JAMES                           16100 NE 165TH ROAD               RED OAK                     OK              1 
+ 57336993       FRIEND, MICHAEL L                        69400 E HWY 60                    WYANDOTTE                   OK              1 
+ 57305617       GENERAL PRODUCTS & SERVICES LLC          107 E MAIN ST                     WESTVILLE                   OK              1 
+ 57306534       GH ARMS LLC                              208 NW 19TH STREET                OKLAHOMA CITY               OK              1 
+ 57305307       GULLATT, PHILLIP SMITH                   13107 OLD STATE HWY 99            SEMINOLE                    OK              2 
+ 57306161       HUNTING FOR JESUS OUTDOORS LLC           820 N ELK AVE                     ELK CITY                    OK              2 
+ 57307217       INDIAN TERRITORY ARMORY LLC              15515 OLD MORRIS HWY              OKMULGEE                    OK              1 
+ 57306210       INFINITY CUSTOM SERVICES LLC             2960 E JOSIAH BLVD                SKIATOOK                    OK              3 
+ 57306211       INFINITY CUSTOM SERVICES LLC             6644 SE QUAIL RIDGE RD            BARTLESVILLE                OK             16 
+ 57305618       IRON SIGHT INC                           4814 S ELWOOD AVE                 TULSA                       OK              2 
+ 57306509       ISRAEL, JASON LEE                        110721 S 4746 RD                  MULDROW                     OK              4 
+ 57305294       JARVIS INC                               3609 W 109TH ST S                 JENKS                       OK              4 
+ 57304049       KNIGHTHORSE FIREARMS LLC                 5235 DENTONVILLE RD               BEGGS                       OK              2 
+ 57306991       MILLER, MICHAEL ERIC                     4432 S 248TH W AVE                SAND SPRINGS                OK              2 
+ 57306996       MOREY, HOWARD MICHAEL                    2408 N MOORE AVENUE               MOORE                       OK             14 
+ 57304666       OKLAHOMA MACHINE GUNS LLC                615 W WILSHIRE STE 1400           OKLAHOMA CITY               OK              1 
+ 57307062       PARADIGM GUNWORX LLC                     29 ELM DRIVE                      SAND SPRINGS                OK             42 
+ 57306722       PAWNEE PRECISION ARMORY LLC              44465 OK-18                       PAWNEE                      OK              2 
+ 57302015       RED DIRT ARMORY LLC                      9301 SW 99TH                      MUSTANG                     OK              3 
+ 57306448       RED ROCK FIREARMS LLC                    6226 E LAKE HELLUMS RD            ENID                        OK             93 
+ 57304976       RISE ARMAMENT LLC                        1605 E IOLA ST                    BROKEN ARROW                OK            309 
+ 57307081       SHADOW FOX ORDNANCE LLC                  12517 JERRAD LN                   MCLOUD                      OK              2 
+ 57306883       SMITH PRECISION RIFLES LLC               1201 STATE HIGHWAY 9A             EUFAULA                     OK              4 
+ 57305327       STUTEVILLE PRECISION LLC                 44755 OAKPOND DR                  SHAWNEE                     OK             36 
+ 57305225       TAPE MATICS INC                          1539 INDUSTRIAL LN                TISHOMINGO                  OK             41 
+ 57302059       THE SHOP LLC                             1704 DEAVILLE DR                  NEWCASTLE                   OK              3 
+ 57337084       TROMIX CORPORATION                       20039 E 600 RD                    INOLA                       OK              1 
+ 57303329       TWO RIVERS ARMS LLC                      3921 S BRYANT                     OKLAHOMA CITY               OK             26 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                     01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

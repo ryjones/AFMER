@@ -1,0 +1,39 @@
+                                                             RIFLES MANUFACTURED IN 2019 
+  RDS KEY       LICENSE NAME                                STREET                              CITY                        ST       RIFLE MFG 
+ 85206041       PARTRIDGE, ROGER FREDRICK                  11211 RACE TRACK RD                 BERLIN                       MD              11 
+ 85203498       PASADENA PAWN & GUN LLC                    3306 MOUNTAIN RD                    PASADENA                     MD               2 
+ 85204970       TIME OFF CHARTERS LLC                      1745 FOREST GLEN DR                 PRINCE FREDERICK             MD               2 
+ 85204307       TOMMY BUILT TACTICAL LLC                   18910 GOSHEN RD                     GAITHERSBURG                 MD              70 
+ 85212389       TUCKAHOE GUNWORKS & HYDROGRAPHICS LLC      22065 BEAVEN DR                     DENTON                       MD               2 
+ 85204248       WALKER, BRIAN TODD                         7737 WOODBINE RD                    WOODBINE                     MD              19 
+ 85212798       WEBSTER, VANCE JAMES JR                    7815 PARSONSBURG RD                 PARSONSBURG                  MD              17 
+ 60102648       AGSS INC                                   214 CENTER RD                       FAIRFIELD                    ME              18 
+ 60102978       BUCKSPORT GUNSMITHS LLC                    905 RIVER ROAD                      BUCKSPORT                    ME               1 
+ 60102602       BULL MOOSE TACTICAL LLC                    29 SHINGLEHOUSE RD                  BOWDOIN                      ME               7 
+ 60101613       COLLINS, JAMES M                           03 MEMORY LANE                      HERMON                       ME               8 
+ 60102979       CRAWFORD, JOE D                            2 EMANUEL DR                        BRUNSWICK                    ME 
+ 60102365       LEWISTON PAWN SHOP INC                     179 HIGH ST STE B                   AUBURN                       ME               1 
+ 60101936       PATHIAKIS, NICKOLAS JOHN JR                94 STRATTON RD                      RANGELEY                     ME              18 
+ 60102508       RICHARDS, LUCAS                            855 STATE RD                        MAPLETON                     ME              10 
+ 60102316       SELLRAIN AVTOMAT KALASHNIKOVA LLC          57 DAIRY LN                         ARUNDEL                      ME               1 
+ 60101661       WINDHAM WEAPONRY INC                       999 ROOSEVELT TRAIL BUILDING #3     WINDHAM                      ME            5718 
+ 43810245       ADA PRECISION LLC                          55760 28TH AVE                      BANGOR                        MI              1 
+ 43809636       ADVANCED TACTICS LLC                       4661 S DICKERSON RD                 LAKE CITY                     MI             10 
+ 43811025       ATLAS ARMORY, LLC                          8999 HADLEY ST #255                 ATLAS                         MI              6 
+ 43807630       BARK RIVER PRECISON LLC                    5660 F LANE                         BARK RIVER                    MI              7 
+ 43810093       BATTLESAINT ARMS LLC                       1010 WATERSEDGE CT                  OXFORD                        MI              2 
+ 43808482       BEAR CREEK BALLISTICS CO                   4199 D DR S                         EAST LEROY                    MI             18 
+ 43807385       BK GUNS N STUFF LLC                        6255 POTTERS RD                     SARANAC                       MI              5 
+ 43807226       BLACK SWAMP FIREARMS LLC                   5255 CONSEAR RD                     OTTAWA LAKE                   MI              7 
+ 43810677       BRB VENTURES LLC                           25129 DEQUINDRE RD, 2ND FLOOR EAST,  MADISON HEIGHTS              MI              1 
+                                                           STE 2 
+ 43806069       BREMER, DAVID MICHAEL                      9731 VAN BUREN ST                   BELLEVILLE                    MI              1 
+ 43809917       CADOTTE, JOSHUA PAUL                       143 STATE HWY M35                   NEGAUNEE                      MI              2 
+ 43810354       CL ROSSER II LLC                           1140 GORNICK AVE                    GAYLORD                       MI              5 
+ 43807902       ELITE FIREARMS & TRAINING                  9893 ADAMS RD                       MIDDLEVILLE                   MI              6 
+ 43804707       FOSNAUGH CUSTOMS, LLC                      4530 ANN ST                         LUNA PIER                     MI              3 
+ 43842898       GARBARINO, GARY M                          14236 BARNES RD                     BYRON                         MI              1 
+ 43810822       GREAT LAKES FIREARMS AND AMMUNITION LLC    424 E DIVISION                      SPARTA                        MI            756 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                           01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

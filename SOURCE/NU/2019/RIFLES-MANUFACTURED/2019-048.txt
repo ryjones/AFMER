@@ -1,0 +1,38 @@
+                                                                  RIFLES MANUFACTURED IN 2019 
+  RDS KEY         LICENSE NAME                                   STREET                                 CITY                           ST        RIFLE MFG 
+  98609810        ECHO CORPS LLC                                 2341 E 16TH ST                         YUMA                            AZ                7 
+  98601973        EXCEL MANUFACTURING INC                        2560 OUTPOST DR STE 1                  BULLHEAD CITY                   AZ              245 
+  98609817        EXOTICAR15 COM LLC                             10443 N CAVE CREEK RD STE 112-113      PHOENIX                         AZ               42 
+  98609918        GERVASE, ANDREW MICHAEL                        30151 N 149TH STREET                   SCOTTSDALE                      AZ               26 
+  98607169        GHOST HAMMER ARMS LLC                          2983 EAST BAARS CT                     GILBERT                         AZ                2 
+  98607627        GIBBENS ENGINEERING GROUP LLC                  5456 EAST MCDOWELL RD STE 118          MESA                            AZ                3 
+  98608116        GRANT, WYATT W                                 2210 E FILAREE CIR                     PAYSON                          AZ                7 
+  98607498        GURTLER, MARK STEPHEN & TINA LOUANN            804 W KIMBALL LN                       SAFFORD                         AZ                6 
+  98609037        HIGH DESERT HEAT LLC                           4410 HWY 95 STE F                      FORT MOHAVE                     AZ               17 
+  98603077        HILL, STEVEN L                                 6034 E BARWICK DR                      CAVE CREEK                      AZ                1 
+  98608495        HOLDER, ROGER DEVERE                           2414 N 163RD DR                        GOODYEAR                        AZ                2 
+  98609425        IMPERIAL ARMS LLC                              6831 W MARY JANE LANE                  PEORIA                          AZ               29 
+  98610927        JACKSON, MARC A                                12330 W VILLA HERMOSA CT               SUN CITY WEST                   AZ               30 
+  98615041        JJ ROCK CO LLC                                 1125 W PINNACLE PEAK RD STE 133        PHOENIX                         AZ               91 
+  98605647        JOEJOE ENTERPRISES LLC                         6788 W ROBERTA LANE                    PEORIA                          AZ                1 
+  98614615        JT ARMS LLC                                    7411 E ADDIS AVE UNIT C                PRESCOTT VALLEY                 AZ                3 
+  98614705        K & M ARMS LLC                                 24206 S 124TH ST                       CHANDLER                        AZ               48 
+  98606503        KE ARMS LLC                                    4343 E MAGNOLIA ST                     PHOENIX                         AZ               29 
+  98606373        KRAMER, CHARLES                                40807 N 26TH ST                        CAVE CREEK                      AZ               14 
+  98606455        LAYKE TACTICAL LLC                             3330 W OSBORN RD                       PHOENIX                         AZ               25 
+  98611540        LIONADI INC                                    2450 E CHAMBERS ST SUITE 3             PHOENIX                         AZ                5 
+  98604778        M-MACHINE LLC                                  34330 N 10TH ST                        PHOENIX                         AZ                1 
+  98609252        MAC PRECISION LLC                              2015 W RUTHRAUFF RD STE 133            TUCSON                          AZ               23 
+  98606209        MCALISTER, KENNETH                             291 E OCOTILLO RD UNIT 27              CHANDLER                        AZ               24 
+  98633252        MCMILLAN MACHINE CO, INC                       1125 W PINNACLE PEAK RD STE 133        PHOENIX                         AZ                1 
+  98614700        MILLER FAMILY FARMS, LLC                       8251 N FORT GRANT RD                   WILLCOX                         AZ                6 
+  98604419        MLS ARMS LLC                                   520 W UNION HILLS DR STE 107           PHOENIX                         AZ               13 
+  98614626        MWL SERVICES LLC                               1143 W BLUEBIRD DR                     CHANDLER                        AZ                1 
+  98610946        OPEN SEASON DEFENSE LLC                        6307 W PORT ROYALE LANE                GLENDALE                        AZ                6 
+  98608339        OWENS ARMORY LLC                               6515 NORTH HIGHWAY 89                  CHINO VALLEY                    AZ               48 
+  98608310        PAINT WERKZ LLC                                2005 W DEER VALLEY RD STE 103          PHOENIX                         AZ                1 
+  98610613        PATRIOT GUNSMITHING LLC                        3440 W CHARTER OAK RD                  PHOENIX                         AZ                5 
+  98600788        PATRIOT ORDNANCE FACTORY INC                   1492 W VICTORY LANE                    PHOENIX                         AZ             3207 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                                         01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

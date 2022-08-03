@@ -1,0 +1,23 @@
+                                                       PISTOLS MANUFACTURED IN 2019 
+                                                                                     PISTOL     PISTOL    PISTOL     PISTOL    PISTOL     PISTOL     PISTOL
+  RDS KEY     LICENSE NAME               STREET                CITY           ST          22        25        32        380      9MM          50     TOTAL 
+  45502891   HOSTETTER, MARK A           74 DUPONT RD SUITE A  MARTINSBURG    WV          0          3         3          0         2          0          8 
+  45502547   J W MANUFACTURING LLC       703 MIDDLETOWN RD    FAIRMONT        WV          3          0        20          0        28          2         53 
+  45502594   J&S ENTERPRISES LLC         1263 CLIFTON SALEM RD  BRUCETON      WV          0          0         0          0         0          1          1 
+                                                              MILLS 
+  45504134   SHIELD & SPEAR TACTICAL LLC  67 BRADLEY ROAD     VALLEY BEND     WV          0          1         1          0         0          0          2 
+  58302151   BEAR MARK LLC               30 IDONNA DR         WHEATLAND       WY          0          1         2          0         0          0          3 
+  58302127   DOHERTY, JARED              13 VALLEY DR         DOUGLAS         WY          0          0         0          0         2          0          2 
+  58303091   FREEDOM ARMS INC            314 HWY 239          FREEDOM         WY          4          0         5          2         0          2         13 
+  58302190   FREEDOM TACTICAL LLC        9341 DELAWARE        CHEYENNE        WY          4          0         1          1         7          0         13 
+  58300591   GUNWERKS LLC                201 BLACKBURN ST     CODY            WY          0          0         0          0         1          0          1 
+  58301112   LAW, RICK J                 5203 RAVEN STREET    GILLETTE        WY          0          0         0          0         3          0          3 
+  58302192   PANTALONE, MARK             1412 STATE HWY 116   UPTON           WY          0          0         0          0         0          2          2 
+                                         SOUTH 
+  58301302   PERFORMANCE OIL TOOLS INC  3420 BIG HORN AVE     CODY            WY          3          0         0          1         0          0          4 
+  58301479   WHITE, NICOLAS R & JENNIFER  411 PALOMINO        BEAR RIVER      WY          0          0         0          0         2          0          2 
+             ANN 
+                                                                                      382169     53402      44923    470859    1729834    364826    3046013 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                            01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

@@ -1,0 +1,38 @@
+                                                            RIFLES MANUFACTURED IN 2019 
+  RDS KEY       LICENSE NAME                               STREET                             CITY                       ST        RIFLE MFG 
+ 57505240       EXECUTIVE ARMAMENT LLC                    2028 FARRINGTON ST                  DALLAS                      TX              7 
+ 57409889       EXILE FIREARMS, LLC                       26 LOU STROUP DRIVE                 UVALDE                      TX              28 
+ 57514867       F&W GUNS LLC                              2528 WEATHERFORD HEIGHTS DR         WEATHERFORD                 TX              9 
+ 57604022       F-1 FIREARMS LLC                          5045 FM 2920 RD                     SPRING                      TX             678 
+ 57605981       FLETCHER, CHRISTOPHER JORDAN              14509 JAKES RUN                     CROSBY                      TX              9 
+ 57515260       FUQUA PRECISION MACHINING, LLC            116 E COMMERCE ST                   CROWELL                     TX              1 
+ 57514049       GALPIN, GERALD LESLIE                     991 LOGGINS TRAIL                   POOLVILLE                   TX              44 
+ 57509684       GARDNER, KEVIN P                          2683 BALL RD                        WHITEWRIGHT                 TX              6 
+ 57514660       GENEXUS, INC                              1515 GOLDER AVE                     ODESSA                      TX              5 
+ 57512306       GEREN, JOHN ROBERT                        802 N POWELL PARKWAY                ANNA                        TX              1 
+ 57515767       GGTX, LLC                                 506 EAST AVE K                      GRAND PRAIRIE               TX              3 
+ 57409872       GRAY, STEVEN JOHN                         808 GREEN PASTURES DRIVE            KYLE                        TX              7 
+ 57514920       GREATHOUSE LAND INVESTMENTS, LLC          4719 CR 279                         BAIRD                       TX              1 
+ 57510757       GREEN'S GUNS AND RANGE LLC                1654 JAMES MARSHALL                 MARSHALL                    TX              90 
+ 57515451       GRIFFITH, ANDREW THORNE                   162 TRAILWOOD DR                    JOSHUA                      TX              1 
+ 57513715       GUBLER, GEORGE GRANT II                   162 PINE ST                         ORE CITY                    TX              2 
+ 57512862       GUNMETAL LLC                              1915 HUNTINGTON ST                  MIDLAND                     TX              1 
+ 57410221       GUNSMOKE OUTFITTERS LLC                   1006 MATEWAN DRIVE                  ALPINE                      TX              7 
+ 57511113       HARDESTY, JEFFERY L                       656 CR 8201                         NACOGDOCHES                 TX              40 
+ 57513158       HEGAZY LLC                                1000 POST AND PADDOCK STE 309       GRAND PRAIRIE               TX              10 
+ 57513968       HELLION HOBBY WORKS LLC                   806 NW 9TH ST                       ANDREWS                     TX              3 
+ 57405968       HELOTES TACTICAL FIREARMS LLC             14546 OLD BANDERA RD                HELOTES                     TX              1 
+ 57512484       HENDRICK OUTDOORS LLC                     1191 FM 3208                        LIPAN                       TX              10 
+ 57410062       HERRERA, JOSE MARIA JR                    2920 SOUTH JARVIS AVE               LAREDO                      TX              1 
+ 57409384       HILL COUNTRY IRON WORKS LLC               467 CHINA ST                        CENTER POINT                TX              5 
+ 57401043       HILL COUNTRY RIFLE COMPANY INC            5726 & 5726B SAFARI DR              NEW BRAUNFELS               TX             155 
+ 57406249       HODGE DEFENSE SYSTEMS INC                 330 MELROSE PLACE #1                SAN ANTONIO                 TX              37 
+ 57410264       HOGG, KEITH SCOTT                         697 CR 408                          LOTT                        TX             109 
+ 57509487       HOLESHOT ARMS LLC                         118 REGENCY DR STE 200              WYLIE                       TX              3 
+ 57515381       HOLLAND POINT LLC                         3357 LEIGH CT                       SACHSE                      TX              3 
+ 57512044       HUCKLEBERRY ARMS LLC                      181 COUNTY ROAD 8201                NACOGDOCHES                 TX              3 
+ 57409629       HUMPHREYS, MICHAEL L                      404 FM 2268                         SALADO                      TX              1 
+ 57604573       HUNTER RIFLEWORKS LLC                     16522 HOUSE&HAHL RD SUITE F6        CYPRESS                     TX              5 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                         01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

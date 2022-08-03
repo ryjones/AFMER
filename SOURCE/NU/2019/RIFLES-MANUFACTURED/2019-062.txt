@@ -1,0 +1,39 @@
+                                                                  RIFLES MANUFACTURED IN 2019 
+  RDS KEY         LICENSE NAME                                   STREET                                  CITY                           ST        RIFLE MFG 
+  33637390        DS ARMS INC                                    27990/27996 W INDUSTRIAL AVE           LAKE BARRINGTON                  IL            1405 
+  33606302        HST GROUP INC                                  31 W DOWNER PLACE SUITE 408            AURORA                           IL                4 
+  33635626        KREBS CUSTOM INC                               1000 N RAND RD #106 AND #105           WAUCONDA                         IL             157 
+  33603166        L & L ARMS LLC                                 17144 US HWY 150                       ORION                            IL                4 
+  33637243        LEWIS MACHINE & TOOL CO                        1305 W 11TH ST                         MILAN                            IL             763 
+  33605937        MD ARMS AND AMMO INC                           456 195TH ST                           ALEDO                            IL                5 
+  33604006        MENNIE MACHINE COMPANY INC                     508 N ST PAUL ST                       MARK                             IL              82 
+  33604720        MMI INC                                        205 WEST MONDAMIN STREET UNIT B        MINOOKA                          IL                8 
+  33735964        OTTE, MICHAEL M                                7458 PIN OAK RD                        EDWARDSVILLE                     IL              22 
+  33604340        PAWLOWSKI, MATTHEW ALAN                        9520 PAULING RD                        MONEE                            IL              25 
+  33602315        RIZZO, ANTHONY CARL                            15796 STONEWALL DRIVE                  MILLBROOK                        IL                6 
+  33705557        SEABROOK, ROBERT N                             1235 LINCOLN LANE                      SUMNER                           IL                1 
+  33601205        SPORTSWEREUS INC                               855 COMMERCE PARKWAY                   CARPENTERSVILLE                  IL                4 
+  33704436        X RING CUSTOM LLC                              508A WEST MAIN ST                      TOLEDO                           IL                5 
+  43505148        AIR ORDNANCE LLC                               3518 SOUTH MAPLECREST ROAD             FORT WAYNE                       IN              50 
+  43507302        AMERICAN BARREL COMPANY LLC                    5324 SOUTH RD 850 W                    GREENSBURG                       IN                5 
+  43505109        BCI DEFENSE LLC                                545 N BOWEN AVE                        BREMEN                           IN             635 
+  43504565        BELL, JOSEPH D                                 211 WEST MAIN ST                       MILROY                           IN              12 
+  43506819        BLACK BART'S LLC                               4135 N 450 W                           COLUMBIA CITY                    IN              14 
+  43508035        CATE, DAVID                                    1215 SOUTH Q STREET                    RICHMOND                         IN                1 
+  43506000        CENTURION ARMS LLC                             8985 CARMEL RIDGE RD                   MORGANTOWN                       IN              41 
+  43505002        DEPUTY BIG SHOT LLC                            10214 W DEPUTY PIKE RD                 DEPUTY                           IN                2 
+  43503484        DRK GLOBAL MANUFACTURING, LLC                  12269 DOUGLAS RD                       MISHAWAKA                        IN                1 
+  43507290        FOSTECH INC                                    320 MYERS STREET                       SEYMOUR                          IN             929 
+  43507212        FREEDOM ORDNANCE MANUFACTURING INC             612 GRACE WAY                          CHANDLER                         IN            1597 
+  43506698        HG DIVERSIFIED INC                             8401 E HWY 36 STE C                    AVON                             IN                1 
+  43507250        HIGHSMITH GUNS INC                             123 NORTH STATE ST                     GREENFIELD                       IN                3 
+  43503753        HOVERMALE, STEVEN WAYNE                        10824 E 550 NORTH                      GREENTOWN                        IN                5 
+  43507578        LEFT BEHIND FIREARMS REPAIR & RESTORATION  2148 N 350 E                               RUSHVILLE                        IN                4 
+                  LLC 
+  43504890        MARCOLMAR FIREARMS LLC                         5626 NEW PARIS PIKE                    RICHMOND                         IN             578 
+  43501630        MARCOLMAR LLC                                  1210 HEINBAUGH RD                      RICHMOND                         IN              18 
+  43503924        MATT'S CUSTOM GUNS LLC                         3762 N COUNTY RD 450 EAST              CONNERSVILLE                     IN                3 
+  43507998        MCALISTER, THOMAS BRIAN                        1634 FLETCHER STREET                   ANDERSON                         IN                1 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                                          01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

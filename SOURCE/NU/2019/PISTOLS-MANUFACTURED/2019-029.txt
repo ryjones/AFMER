@@ -1,0 +1,48 @@
+                                                             PISTOLS MANUFACTURED IN 2019 
+                                                                                                PISTOL     PISTOL      PISTOL     PISTOL      PISTOL      PISTOL      PISTOL
+  RDS KEY       LICENSE NAME                  STREET                  CITY             ST           22          25         32         380        9MM           50      TOTAL 
+  15702546     PALMETTO STATE ARMORY,        2121 OLD DUNBAR RD       WEST             SC            0        4539        4972          0        8739          13       18263 
+               LLC                                                    COLUMBIA 
+  15704597     PTR INDUSTRIES INC            101 COOL SPRINGS DR      AYNOR            SC            0           0         369          0        4061           0        4430 
+  15706316     PURE GOLD INC                 2258 BRATTONSVILLE RD MC CONNELLS         SC            0           0           0          2           7           0           9 
+  15705536     REAPER FIREARMS INC           144 KAY DR               EASLEY           SC            0           0           0          0           1           0           1 
+  15703868     SPORTSMAN INC                 247 HANDS MILL HWY       ROCK HILL        SC            0           0           1          0           0           0           1 
+  15706163     STAMEY, RUSSELL J             476 ROWELLS RD           CATAWBA          SC            0           0           0          0           1           0           1 
+  15704483     TRI COUNTY SALES INC          9881 OCEAN HWY           PAWLEYS          SC            0           0           0          0           4           2           6 
+                                                                      ISLAND 
+  15706487     WARE SHOALS MACHINE TOOL  5712 HIGHWAY 25              HODGES           SC            1           0           3          0           2           0           6 
+               LLC                           NORTH 
+  34601255     BAR-STO PRECISION MACHINE  3571 HANSEN AVE             STURGIS          SD            0           0           0          0           1           3           4 
+               LLC 
+  34601628     KILO ARMS LLC                 928 LAZELLE ST STE #1    STURGIS          SD            0           0           0          0           1           0           1 
+  34600877     REMINGTON ARMS COMPANY  1209 AND 1310                  STURGIS          SD            0           0           0          0           7           2           9 
+               LLC                           INDUSTRY RD 
+  34601475     SMOKING GUN INC               4711 S INTERSTATE 90     RAPID CITY       SD            2           0           0          0           0           0           2 
+                                             SERVICE RD 
+  34601673     TACTICOOL SOLUTIONS LLC       6101 W QUEENS CIR        SIOUX FALLS      SD            0           2           0          0           4           1           7 
+  16211099     ARNEY, DAVID JOSEPH           231 EAST WILMOUTH        RICKMAN          TN            1           0           0          0           0           0           1 
+                                             ROAD 
+  16236907     BARRETT FIREARMS MFG INC      5926 MILLER LANE         MURFREESBOR      TN           66           0         131          0           0           0         197 
+                                                                      O 
+  16208339     BERETTA USA CORP              1399 GATEWAY DR          GALLATIN         TN         7835           0        8120       2822       38104           0       56881 
+  16203463     BRAVO 5 LLC                   2404 WALNUT GROVE RD CHRISTIANA           TN            0           0           1          0           0           0           1 
+  16207759     COBRAY FIREARMS OF            1801 HWY 68              DUCKTOWN         TN            0           0           0          0           0          60          60 
+               TENNESSEE LLC 
+  16209752     CONSULTEL LLC                 656 CHIPMAN ROAD         BETHPAGE         TN            1           0           0          0           2           0           3 
+  16205316     CUSTOM DEFENSE LLC            308 SOUTH WATER AVE  GALLATIN             TN            0           0           0          0           4           9          13 
+                                             SUITE A 
+  16209108     DAVIS ENTERPRISES LLC         590 AUTUMN MEADOWS  COLLIERVILLE          TN            0           0           0          0           8           4          12 
+                                             LN 
+  16209799     ECHO 3 ARMORY LLC             214 N HORTON PKWY        CHAPEL HILL      TN            0           0           1          1           2           0           4 
+  16204216     GRIFFITTS, JAMES NORMAN       4937 INDIAN WARPATH      MARYVILLE        TN            2           0           0          0           0           0           2 
+                                             RD 
+  16210473     HAND, JOHN GALEN              202 SOUTHWOOD LN         SHELBYVILLE      TN            0           0           0          0           0           1           1 
+  16209630     HANKES, BRET ARNOLD           2400 SLAYDEN MARION  SLAYDEN              TN            0           0           1          0           0           4           5 
+                                             RD 
+  16207387     REPLOGLE, STEVEN CHARLES  118 CAPTAIN AVE              ELIZABETHTON     TN            0           0           0          0           4           4           8 
+  16209216     RODRIGUEZ, VICTOR ANGEL       714 CLAYTON DR           CLARKSVILLE      TN            5           0           0          0           0           0           5 
+  16208865     ROYAL RANGE USA LLC           7741 HWY 70 SOUTH        NASHVILLE        TN            2           0           0          0           0           0           2 
+  16211270     SMITH, DAVID E                4470 UPPER CRAB RD       JAMESTOWN        TN            1           0           0          0           0           0           1 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                                              01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

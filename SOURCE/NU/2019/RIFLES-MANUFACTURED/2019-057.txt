@@ -1,0 +1,40 @@
+                                                            RIFLES MANUFACTURED IN 2019 
+  RDS KEY       LICENSE NAME                               STREET                             CITY                       ST        RIFLE MFG 
+ 15951685       TALON TRAINING GROUP LLC                  301 COMMERCE BLVD                   MIDWAY                      FL              10 
+ 15923596       TAURUS INTERNATIONAL MANUFACTURING INC    16175 NW 49TH AVE                   MIAMI                       FL              10 
+ 15951416       THE GUN SHOPPE OF SARASOTA INC            4402 S TAMIAMI TRAIL UNIT 3         SARASOTA                    FL              2 
+ 15931318       THOMPSON, DWAIN U                         3200 CAVERNS ROAD                   MARIANNA                    FL              3 
+ 15949467       TITLE II MANUFACTURING LLC                4616 ASHTON RD                      SARASOTA                    FL              9 
+ 15916906       TRIDENT ARMS LLC                          3212 N 40TH ST STE 801              TAMPA                       FL              5 
+ 15950464       TRINITY TACTICAL GROUP INC                4366 LOUIS AVENUE SUITE 103         HOLIDAY                     FL              2 
+ 15930975       UM TACTICAL INC                           1955 10 AVE N                       LAKE WORTH BEACH            FL              7 
+ 15949639       USA PRO TEN LLC                           5524 64TH WAY N                     SAINT PETERSBURG            FL              1 
+ 15952620       VOLPE AUTOMATION, LLC                     4908 LANDMARK LANE                  PACE                        FL              1 
+ 15951626       WAR DOG INDUSTRIES LLC                    101 HEAVENSGATE RD SUITE C          DELAND                      FL              19 
+ 15905974       WARREN, ROBERT WAYNE                      2236 WARREN WOODS LN                COTTONDALE                  FL              5 
+ 15913668       WMD GUNS LLC                              3068 - 3070 SE DOMENICA TERRACE     STUART                      FL             142 
+ 15913795       X RING ACCURACY & DESIGN INC              3200 ROWLAND DRIVE                  PORT CHARLOTTE              FL              3 
+ 15932715       ZDRODOWSKI, DAVID PAUL                    3404 BOGGY CREEK RD                 KISSIMMEE                   FL              4 
+ 15807146       ACCURATE ORDNANCE LLC                     724 PATRICK INDUSTRIAL LN STE 100   WINDER                      GA              18 
+ 15804769       ACRW LLC                                  605 SCRUGGS RD                      RINGGOLD                    GA              1 
+ 15808553       ALANS ARMORY LLC                          4185 U.S. HIGHWAY 27                CATAULA                     GA              1 
+ 15811485       BARNES, EDKER PAUL JR                     204 HORACE KING ST                  LAGRANGE                    GA              10 
+ 15813797       BEELAND, GERALD THOMAS JR                 1540 HWY 19 N UNIT A/B              THOMASTON                   GA              6 
+ 15814460       BENNETT, KENNETH JORDAN AND CALLIHAN,     1480 SALEM ROAD                     MINERAL BLUFF               GA              3 
+                MARK HENRY 
+ 15814687       BENTLEY ENTERPRISES, INC                  1018 RIDGEVIEW LANE                 MARIETTA                    GA              2 
+ 15811815       BOSWELL, TIMOTHY KEITH                    5406 HWY 72 W                       COLBERT                     GA              49 
+ 15802643       BP FIREARMS COMPANY LLC                   1270 PROGRESS CENTER AVENUE, SUITE  LAWRENCEVILLE               GA            7205 
+                                                          100 
+ 15811294       BROWN, DAVID SCOTT                        120 CASSIE WALK LN                  LAWRENCEVILLE               GA              1 
+ 15811407       BULLET PROOF GUNSMITHING LLC              3424 MONICA LN SW                   CONYERS                     GA              1 
+ 15813198       C & H PRECISION WEAPONS LLC               459 EDSEL DR                        RICHMOND HILL               GA              32 
+ 15808613       CAMP CREEK GUNWORKS LLC                   3467 COLLEGE ST                     COLLEGE PARK                GA              1 
+ 15814327       CHEROKEE GUNS LLC                         106 OAK RIDGE DRIVE                 CANTON                      GA              1 
+ 15814056       CLARKE PARKE, LLC                         131 FOREST CREEK DRIVE              SWAINSBORO                  GA              13 
+ 15813552       CODEJOCKEYS LLC (FL)                      2798 NEWPORT DRIVE #9100            ELLIJAY                     GA              2 
+ 15806154       COLLIER RIFLES LLC                        4236 NEWTON RD SOUTH                MILLEN                      GA              21 
+ 15806912       COMPETITIVE SHOOTER SERVICES LLC          890 SHURLEY RD                      WARRENTON                   GA              1 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                         01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

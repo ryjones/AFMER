@@ -1,0 +1,38 @@
+                                                              RIFLES MANUFACTURED IN 2019 
+  RDS KEY        LICENSE NAME                                STREET                               CITY                         ST       RIFLE MFG 
+  57513763       A&J GUNS N MORE LLC                         281 CELTIC RD                        HOWE                         TX              14 
+  57503538       AAA CLASICS OF AMERICA LLC                  12390 RENDON RD                      BURLESON                     TX              48 
+  57510030       ALAMO PRECISION RIFLES LLC                  4537 CITY POINT DR                   NORTH RICHLAND HILLS         TX             697 
+  57605923       ALL- IN ARMS ENTERPRISES LLC                10832 BRITTMOORE OAKS PL             HOUSTON                      TX               7 
+  57511159       ALPHA PISTOL TRAINING LLC                   1601 CR 1214                         TEXARKANA                    TX               1 
+  57516001       AMARILLO ARMORY LLC                         6635 CANYON DR                       AMARILLO                     TX              13 
+  57408995       AMERESE INTERNATIONAL LLC                   3301 N PIEDRAS STE C AND E           EL PASO                      TX               2 
+  57511908       AMG UNLIMITED LP                            1913 PUEBLO                          MIDLAND                      TX               1 
+  57410269       ARMORED BOAR GUNWORKS LLC                   5549 RABBIT ROAD                     TEMPLE                       TX               5 
+  57408913       ARMSTRONG, RONALD WRIGHT                    2600 OLD ALICE ROAD STE A            BROWNSVILLE                  TX               1 
+  57513692       ASTEROID PRECISION LLC                      8708 WEST US 377                     TOLAR                        TX               5 
+  57407660       ATX ARMORY LLC                              12119 ROXIE DR                       AUSTIN                       TX              23 
+  57401497       AUSTIN PRECISION PRODUCTS INC               850 CR 177                           LEANDER                      TX             169 
+  57514571       AXIS WEAPON SYSTEMS LLC                     3713 E BANKHEAD HWY                  HUDSON OAKS                  TX               8 
+  57410213       BANDIT'S ARMORY LLC                         17841 BENTON CITY RD                 VON ORMY                     TX              17 
+  57604316       BATTLE RIFLE COMPANY LLC                    17313 EL CAMINO REAL                 HOUSTON                      TX             126 
+  57513458       BD LIBERTY PRECISION ARMS LLC               1417 APRON DRIVE                     BIG SPRING                   TX               8 
+  57605918       BEAR ARMS OF TEXAS LLC                      829 SOUTH MAGNOLIA BLVD STE B        MAGNOLIA                     TX               1 
+  57514719       BEAST MASTER HUNTING LLC                    221 COUNTY ROAD 321                  ABILENE                      TX               4 
+  57606276       BECK ARMS LLC                               22872 ZAMBESI DRIVE                  PORTER                       TX               2 
+  57509557       BECK DEFENSE LLC                            168 CR 3672                          SPRINGTOWN                   TX               1 
+  57454185       BILL WISEMAN & CO, INC                      18456 ST HWY 6 S                     COLLEGE STATION              TX               3 
+  57409457       BLACK BOAR RIFLES LLC                       2881 CEDAR HOLLOW RD                 GEORGETOWN                   TX              19 
+  57512223       BLACK FLAG UNITED LLC                       1724 S HWY 287                       CORSICANA                    TX               1 
+  57509972       BLACK HOG RIFLE COMPANY                     1309 BEN RICHEY DR                   ABILENE                      TX               4 
+  57511900       BLACK RIFLE CUSTOMS LLC                     574 CR 1362                          GARRISON                     TX              21 
+  57513770       BLACKSTONE ARMS LLC                         2016 E HICKORY HILLS RD STE 34       ARGYLE                       TX               1 
+  57409706       BLACKSTONE SHIELD LLC                       3285-A HILLIARD RD                   SAN MARCOS                   TX               3 
+  57513156       BLINK DESIGN AND MANUFACTURING LLC          299 FM1903                           GREENVILLE                   TX               2 
+  57409065       BONETTI EXPLOSIVES LLC                      1190 SMITH RAU RD                    COLUMBUS                     TX               5 
+  57512810       BOUYER ARMS LLC                             125 CHAMPION CT                      WEATHERFORD                  TX              14 
+  57512635       BRACE STEEL COMPONENTS LLC                  540 EASY ST                          GARLAND                      TX             121 
+  57604373       BRADER ARMS CORP                            11111 FORBES RD                      HOUSTON                      TX               1 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                               01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

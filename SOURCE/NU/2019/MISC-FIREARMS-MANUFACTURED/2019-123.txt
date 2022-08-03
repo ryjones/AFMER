@@ -1,0 +1,40 @@
+                                                       MISC. FIREARMS MANUFACTURED IN 2019 
+  RDS KEY         LICENSE NAME                                   STREET                               CITY                        ST       MISC FA MFG 
+  57605570       TEXAS RIFLE WORKS LLC                           21621 RHODES RD STE F                SPRING                       TX                1 
+  57606388       WAFFENFABRIK INC                                405 GRIGSBY AVE                      PORT NECHES                  TX                1 
+  57510774       WAKAL, ALEXSANDER                               308 FM 590 N                         ZEPHYR                       TX               72 
+  57514165       WALPOLE, GARY                                   6693 SH 315 E                        LONG BRANCH                  TX                7 
+  57509877       WILLARD, DANNY TATE                             150 GLENBROOK CIRCLE                 NACOGDOCHES                  TX               14 
+  57513322       WILSON, DAVID GLENN                             15077 PLANTATION RIDGE               FORNEY                       TX                3 
+  57514223       WILSON, DAVID R                                 3601 CEDAR CREEK DR                  SAN ANGELO                   TX                2 
+  57511613       WOLFPACK WEAPONRY LLC                           220 RENAISSANCE DR                   HALLSVILLE                   TX                1 
+  57408451       WRIGHT METAL FINISHING LLC                      106 WILDWOOD RANCH ROAD              ADKINS                       TX                2 
+  98702400       3RD GEN MACHINE INC                             1435 NORTH 200 W                     LOGAN                        UT            10484 
+  98702977       BULLETS AND BURNOUTS LLC                        5621 WEST WELLS PARK RD              WEST JORDAN                  UT                2 
+  98703642       COROLLA CAPITAL MANAGEMENT LLC                  708 W 1800 N STE 11A                 LOGAN                        UT              643 
+  98702834       D AND M PRECISION INC                           9525 SWEET BLOSSOM DR                SOUTH JORDAN                 UT                2 
+  98703548       ECHIS INDUSTRIES LLC                            1382 W BREAKER POINT WAY             RIVERTON                     UT               12 
+  98702757       F5 DEFENSE INC                                  282 S 1250 W SUITE A                 LINDON                       UT                3 
+  98703289       FALLOUT ARMAMENT LLC                            125 SOUTH MAIN ST                    BRIGHAM CITY                 UT                3 
+  98702172       FINO ENTERPRISES LLC                            1408 SOUTH HWY 118                   RICHFIELD                    UT                1 
+  98703558       L & D CUSTOM ARMS LLC                           847 WEST 3270 SOUTH                  HURRICANE                    UT                5 
+  98703771       LEADING EDGE MACHINE                            85 E 4000 N                          HYDE PARK                    UT             1075 
+  98701922       MACHINE GUN ARMORY LLC                          545 W 9460 S                         SANDY                        UT                7 
+  98702471       RK ENTERPRISES LLC                              49 W MAIN ST                         MT PLEASANT                  UT               10 
+  98703127       SEELY, JORDAN JAMES                             3194 NORTH MOUNTAINVILLE RD          MOUNT PLEASANT               UT               10 
+  98703258       STS MANUFACTURING LLC                           673 WEST 1ST ST BLDG 4A BAY 5        OGDEN                        UT              213 
+  98734724       ZDF IMPORT/EXPORT, LLC                          925 W 100 N SUITE A                  NORTH SALT LAKE              UT                5 
+  15412412       APPALACHIAN GUN WORKS LLC                       4568 BLUE RIDGE BLVD                 BLUE RIDGE                   VA              556 
+  15413728       BACKGROUNDS UNLIMITED INC                       2309 LEE HWY                         MOUNT SIDNEY                 VA               21 
+  15412358       BLACK WIDOW DESIGN LLC                          2309 LEE HIGHWAY                     MOUNT SIDNEY                 VA                2 
+  15424393       FOREHAND ARMORY LLC                             4302 REEDY CREEK RD                  LUNENBURG                    VA                1 
+  15424193       GUN LAB LLC                                     36 1ST AVE                           CALLAO                       VA                1 
+  15424121       MCQUILLEN, GARY ELWOOD                          7535 GUINEA ROAD                     HAYES                        VA                7 
+  15424159       REED, CAMERON WAYNE AND DREW GREGORY            1225 GRACE AVE                       CLIFTON FORGE                VA                1 
+  15416619       SHEPHERD, JOHN J                                7910 N SADDLE RIDGE CT               CATLETT                      VA                4 
+  15424910       STARCHASE, LLC                                  515 CENTRAL DRIVE, SUITE 101         VIRGINIA BEACH               VA                4 
+  15406989       STERLING ARSENAL WORKS & TACTICAL SUPPLY LLC    201 DAVIS DRIVE UNIT FF              STERLING                     VA                1 
+  15413308       STERLING CUSTOM LLC                             20350 BLACKJACK RD                   CULPEPER                     VA                1 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                             01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

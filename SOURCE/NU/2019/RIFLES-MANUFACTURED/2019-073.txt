@@ -1,0 +1,38 @@
+                                                              RIFLES MANUFACTURED IN 2019 
+  RDS KEY        LICENSE NAME                                STREET                               CITY                         ST       RIFLE MFG 
+  98101706       NOREEN FIREARMS LLC                         131 JETWAY DRIVE                     BELGRADE                     MT             281 
+  98101902       PLOYHAR PRECISION INC                       33659 RAGHORN RD STE B               POTOMAC                      MT              15 
+  98102420       PLS MANAGEMENT LLC                          3616 EASTSIDE HWY                    STEVENSVILLE                 MT               1 
+  98133799       POWDER RIVER RIFLE CO INC                   201 CENTENNIAL DR                    BIG TIMBER                   MT             305 
+  98101499       PROOF RESEARCH INC                          10 WESTERN VILLAGE LANE              COLUMBIA FALLS               MT             725 
+  98101923       PUMPS ETCETERA LLC                          117 5TH ST                           BROADUS                      MT               7 
+  98135405       PURSLEY, AARON & OTTO, RONALD ROBERT        159 2ND AVE                          BIG SANDY                    MT               6 
+  98101963       SAGE FLATS SHOOTER LLC                      338 HENDERSON AVE                    JORDAN                       MT               2 
+  98101579       SNIPER CENTRAL LLC                          11585 CATTAIL WAY                    MISSOULA                     MT               1 
+  98102022       WEBER CUSTOMS INC                           620 HOFFMAN DRAW                     KILA                         MT              84 
+  98102557       WHEELER, ALEX                               1390 MT-91 UNIT #J                   DILLON                       MT              48 
+  98101871       YATES, WAYNE EDWARD                         538 FESCUE SLOPE ROAD                FLORENCE                     MT              23 
+  98102764       YOUNGS GUNSMITHING INC                      25 LOUISE AVE                        SAND COULEE                  MT               6 
+  15612847       0326 WEAPONS FABRICATION LLC                308 RED CEDAR DR                     SNEADS FERRY                 NC               1 
+  15612099       ACCURATE RIFLE LLC                          2820 CHENAULT ROAD                   CLEVELAND                    NC               1 
+  15609805       AJ GUNS LLC                                 423 BETHLEHEM RD                     KNIGHTDALE                   NC              50 
+  15613134       ALBEMARLE OUTDOOR SUPPLY INCORPORATED       1708 US HWY 52 NORTH                 ALBEMARLE                    NC               1 
+  15611452       ALEXANDER, DONOVAN L                        3003 COLEMAN RD                      FAYETTEVILLE                 NC               4 
+  15612578       AMBROSE, MICHAEL IV                         3954 STAG PARK ROAD                  BURGAW                       NC               6 
+  15602923       AMERICAN TACTICAL & PAWN, INC               501 NORTH LAFAYETTE ST               SHELBY                       NC              16 
+  15609451       ANGSTADT ARMS LLC                           803 PRESSLEY ROAD STE 102            CHARLOTTE                    NC              32 
+  15608525       ANSON TACTICAL ARMS LLC                     2975 WHITE STORE RD                  WADESBORO                    NC               1 
+  15613311       APOLLO CUSTOM INC                           8320 TRIAD DR                        GREENSBORO                   NC             105 
+  15609766       APPALACHIAN ARMS INCORPORATED               48 WALDORF PLACE                     BRASSTOWN                    NC               5 
+  15604527       B&B FIREARMS LLC                            32618 BETHLEHEM CHURCH RD            NORWOOD                      NC              19 
+  15612763       BAKER, CHRISTOPHER A                        1401  N MAIN ST                      LILLINGTON                   NC               3 
+  15604638       BARNES PRECISION MACHINE INC                1434 FARRINGTON RD STE 300           APEX                         NC             336 
+  15606622       BEAR CREEK ARSENAL LLC                      310 MCNEILL RD                       SANFORD                      NC            5979 
+  15612985       BIG IVY GUN CLUB LLC                        770 DILLINGHAM RD                    BARNARDSVILLE                NC              14 
+  15612102       BLACK WIDOW TACTICAL LLC                    213 VALLEY FIELD ROAD                STONEVILLE                   NC              39 
+  15613247       BLUE RIDGE PRECISION LLC                    136 ALPINE ST                        CONNELLYS SPRINGS            NC               4 
+  15611439       BOGER, WESLEY SCOTT                         2034 MARTHA ELLEN RD                 YADKINVILLE                  NC              12 
+  15609629       BROOKS, ROY MICHAEL                         7685 OLD US 1                        NEW HILL                     NC               5 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                               01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

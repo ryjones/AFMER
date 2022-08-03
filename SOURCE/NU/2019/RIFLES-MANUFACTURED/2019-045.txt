@@ -1,0 +1,38 @@
+                                                                RIFLES MANUFACTURED IN 2019 
+  RDS KEY        LICENSE NAME                                  STREET                               CITY                          ST       RIFLE MFG 
+  99203201       ALYESKA PRECISION LLC                        22818 GREEN GARDEN DR                 CHUGIAK                       AK               28 
+  99202128       BOWMAN, FORREST WADE                         29 COLLEGE RD #8B-2                   FAIRBANKS                     AK                3 
+  99202695       CALIBER 49                                   1085 SUNRISE MOUNTAIN CIR             WASILLA                       AK                5 
+  99203038       EVERYDAY DEFENSE SOLUTIONS LLC               1591 N KERRY LYNN LN                  WASILLA                       AK                1 
+  99203286       FAR NORTH GUN SUPPLY                         7650 BETHANY CIR                      ANCHORAGE                     AK                5 
+  99202389       GOEDEN, CHAD J                               2012 CASCADE CREEK RD                 SITKA                         AK               11 
+  99202993       HUTTON, NOEL GLENN                           102 BURKHART ST #D                    SITKA                         AK                1 
+  99201826       LAST FRONTIER CUSTOM GUNS, LLC               3805 SOUTH ROSE ST                    PALMER                        AK                1 
+  99203157       PAPIA, JUSTIN ANTHONY                        894 MOOSE PARK DR                     WASILLA                       AK                2 
+  99200798       WILD WEST GUNS, LLC                          7100 HOMER DRIVE                      ANCHORAGE                     AK               37 
+  16306930       ALABAMA TACTICAL SUPPLY LLC                  131 S MAIN ST                         ARAB                          AL               38 
+  16307238       ANDERSONS GUNSMITHING AND MACHINING LLC      4065 COUNTY ROAD 134                  HENAGAR                       AL                1 
+  16307089       BARBOUR CREEK LLC                            200 SELF RD                           EUFAULA                       AL               54 
+  16304982       BLACK ANKLE MUNITIONS LLC                    670 COUNTY ROAD 105                   SCOTTSBORO                    AL                1 
+  16307216       BLITZ ARMS LLC                               9101 HWY 157                          FLORENCE                      AL                2 
+  16307641       BOTTA, PAUL EDWARD                           10040 BUTTERCREME DR S                MOBILE                        AL                2 
+  16304871       BROWN HOUND LLC                              187 SOUTHERN DR                       ENTERPRISE                    AL                1 
+  16306442       CARRINGTON, MARION COLIN                     661 ALLIANCE RD                       BESSEMER                      AL                2 
+  16303219       CHATTAHOOCHEE GUN WORKS, LLC                 312 LEE RD 553                        PHENIX CITY                   AL               14 
+  16307912       CHILDRESS, MICHAEL ANTHONY                   122 PLATEAU RD                        MONTEVALLO                    AL                2 
+  16303111       CLARK, GREGORY E                             1157 PHILLIPS RD                      LANETT                        AL                1 
+  16307772       COOPER CUSTOMS, LLC                          1009 BETHPAGE LANE                    CALERA                        AL                1 
+  16305276       EASON, THOMAS E                              725 BROOKLANE DRIVE                   HUEYTOWN                      AL                8 
+  16337359       ELLIS, JEFFERY OWEN                          17943 GROUND HOG RD                   ADGER                         AL               50 
+  16303684       GUNTER, WILLIAM S                            156 SUMMER FIELD DR                   DEATSVILLE                    AL                1 
+  16335030       HOPE, DAVID NICHOLAS                         901 GLAZE DR                          BESSEMER                      AL               34 
+  16307143       JONES GUNSMITH SERVICES LLC                  1509 FRIENDSHIP ROAD                  ARAB                          AL                1 
+  16307822       K & M OUTDOORS                               2810 GREENHILL BLVD NW                FORT PAYNE                    AL                2 
+  16307457       KIMBER MFG INC                               200 INDUSTRIAL BOULEVARD              TROY                          AL             3662 
+  16305280       MACH III INC                                 6640 CR 1101                          VINEMONT                      AL               18 
+  16306976       MCMILLAN, ROBERT MALCOLM JR                  53911 CR 21                           STOCKTON                      AL                1 
+  16304700       MHT DEFENSE LLC                              1524 HENRY DAVIS ROAD                 DELTA                         AL               21 
+  16306823       MM VENTURES LLC                              5330 STADIUM TRACE PKWY SUITE 240     HOOVER                        AL                5 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                                   01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

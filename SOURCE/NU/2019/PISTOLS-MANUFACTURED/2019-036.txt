@@ -1,0 +1,47 @@
+                                                       PISTOLS MANUFACTURED IN 2019 
+                                                                                     PISTOL     PISTOL    PISTOL     PISTOL    PISTOL     PISTOL     PISTOL
+  RDS KEY     LICENSE NAME               STREET                CITY           ST          22        25        32        380      9MM          50     TOTAL 
+  15413728   BACKGROUNDS UNLIMITED INC  2309 LEE HWY          MOUNT SIDNEY    VA          0          1         0          0         0          0          1 
+  15414514   BACKWOODS SECURITY LLC      9201 BEAVER BRIDGE RD MOSELEY        VA          0          1         0          0         0          0          1 
+  15414766   BE READY ENTERPRISES LLC    5244 LAD LAND DR     FREDERICKSBU    VA         12          0         4          0         0          0         16 
+                                                              RG 
+  15424905   BIRD, CURTIS LEE            60 GREENRIDGE DRIVE  STAFFORD        VA          0          0         0          2         0          1          3 
+  15412358   BLACK WIDOW DESIGN LLC      2309 LEE HIGHWAY     MOUNT SIDNEY    VA          0          4         2          0         0          0          6 
+  15424363   CURTIS, ZACHERY AND         5571 HOLLINS RD STE C  ROANOKE       VA          0          4         3          0         4          6         17 
+             RICHARD JR 
+  15423758   DREGHAN DEFENSE LLC         5900 THURSTON AVE    VIRGINIA BEACH  VA          0          0         0          0         0          1          1 
+                                         STE B 
+  15424941   DYNAMIC CUSTOM FIREARMS  15103 BRADLEY BRIDGE  CHESTERFIELD      VA          0          0         0          0         7          0          7 
+             LLC                         RD 
+  15416108   E GIUFFRE INC               400 GREYSTONE DR     WIRTZ           VA          0          0         0          0         0          1          1 
+  15424896   EYEIT COM, INC              14920 BEAVER DAM DR  SPOTSYLVANIA    VA          0          0         0          0         0          1          1 
+  15423891   GREELEY CUSTOM LLC          11465 CREST HILL RD  MARSHALL        VA          2          0         0          0         2          5          9 
+  15424190   INDIAN ROCK TACTICAL LLC    14415 WARDS RD       LYNCHBURG       VA          0          0         0          0         0          1          1 
+  15408934   KAYLOR, ROGER M             28199 LEE HWY        MEADOWVIEW      VA          0          9         0          0         0          0          9 
+  15424666   KIRKPATRICK ARMS LLC        10805 WISE CT        SPOTSYLVANIA    VA          0          0         0          0         4          0          4 
+  15402925   KRISS USA, INC              912 CORPORATE LANE   CHESAPEAKE      VA         82          0         0          0       1693      2007       3782 
+  15424855   LAYNE, BRANDON ROSS         186 CUB HOLLOW LN    SPOUT SPRING    VA          1          0         0          0         1          0          2 
+  15424435   LBW SPECIALTY SHOOTERS      942 MADRID RD        WAYNESBORO      VA          7          0         0          0         0          0          7 
+             SUPPLY LLC 
+  15424121   MCQUILLEN, GARY ELWOOD      7535 GUINEA ROAD     HAYES           VA          2          0         0          1        15          7         25 
+  15415734   MODERN PALADIN INC          13139 DANVILLE PIKE  LAUREL FORK     VA          1          0         0          0         0          0          1 
+                                         UNIT 2 
+  15416434   NOVA ADVANCED TACTICAL      9908 RICKOVER CT     MANASSAS        VA          0          0         0          0         1          1          2 
+             SOLUTIONS LLC 
+  15424567   OLD DOMINION                1143 B BAINBRIDGE    CHESAPEAKE      VA          0         10         3          0        10          0         23 
+             MANUFACTURING, INC          BOULEVARD 
+  15424551   OMINOUS ARMS LLC            570 WINDYTOWN RD     FRIES           VA          2          0         3          0         0          0          5 
+  15413630   PERFORMANCE FIREARMS LLC  13345 HERSHEY DR       NOKESVILLE      VA          0          0         1          0         0          0          1 
+  15411903   SAFESIDE TACTICAL LLC       1201 SHENANDOAH AVE  ROANOKE         VA          0         76         0          0        24         15        115 
+  15416619   SHEPHERD, JOHN J            7910 N SADDLE RIDGE  CATLETT         VA          4          1         1          2        19          5         32 
+                                         CT 
+  15413115   SINGLETON, WALTER E JR      5225 KENTUCK RD LOT  RINGGOLD        VA          0          0         0          0         1          0          1 
+                                         18 
+  15410619   SODAN ARMAMENT, LLC         7960 RICHMOND RD     TOANO           VA          0          0         0          0         2          2          4 
+  15406989   STERLING ARSENAL WORKS &  201 DAVIS DRIVE UNIT FF STERLING       VA          0         10         8          0         2          0         20 
+             TACTICAL SUPPLY LLC 
+  15412544   SWVA ARMS LLC               1123 FLORIDA ST      SALEM           VA          0          0         0          0         1          0          1 
+  15407875   SYKES, JOSEPH LARRY         8540 SNAKE CREEK RD  HILLSVILLE      VA          0          0         0          0         4          0          4 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                            01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

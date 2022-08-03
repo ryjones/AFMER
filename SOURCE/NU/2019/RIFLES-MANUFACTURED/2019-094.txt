@@ -1,0 +1,38 @@
+                                                               RIFLES MANUFACTURED IN 2019 
+  RDS KEY        LICENSE NAME                                 STREET                               CITY                         ST        RIFLE MFG 
+  57514926       RTSS GUN RANGE LLC                           215 CR SW 3050                       PURDON                        TX               7 
+  57510179       RUGGLES, TELL WYATT & GENE J                 1179 CR 257                          STEPHENVILLE                  TX               3 
+  57513349       RUSSELL, THOMAS WAYNE II                     2324 THOMAS DRIVE                    BROWNWOOD                     TX               1 
+  57409101       SAGE CREEK ENTERPRISES INC                   237 PR 349                           HONDO                         TX              44 
+  57512558       SHADOWOOD ENTERPRISES LLC                    124 GRAPEVINE HWY STE D              HURST                         TX              14 
+  57515155       SHAW, NATHAN GLENN                           2399 COUNTY ROAD 1885                GRAPELAND                     TX               1 
+  57508900       SHILEN RIFLES INC                            2501 N. INTERSTATE HIGHWAY 45        ENNIS                         TX               8 
+  57515059       SHUMATE, GEORGE GRAY                         2741 SPRUCE PARK DR                  RICHLAND HILLS                TX               1 
+  57406541       SHURLEY BROTHERS LLC                         11210 W HWY 290 SUITE A-150          AUSTIN                        TX               7 
+  57507866       SILVERBACK INDEPENDENT LLC                   25600 AUTUMN RIDGE DR                CANYON                        TX              16 
+  57503222       SMITH, RICKY G                               1033 CR 4380                         DECATUR                       TX              90 
+  57513104       SNOW BEAR VENTURES LLC                       7560 KINGS TRAIL                     FORT WORTH                    TX               2 
+  57605659       SOUTHERN ORACLE FIREARMS LLC                 1616 ALTA VISTA DRIVE                ALVIN                         TX              10 
+  57407799       SPORTSMAN'S ELITE LLC                        4520 DONIPHAN DR                     EL PASO                       TX               4 
+  57506393       STAY SAFE LLC                                211 A S CROCKETT ST                  AMARILLO                      TX              11 
+  57410543       STEALTH PRECISION FIREARMS LLC               16666 HOUSE HAHL RD UNIT H2          BRENHAM                       TX              17 
+  57511910       STEPHENS, BOBBY JOE JR                       13677 FM 314                         BROWNSBORO                    TX               5 
+  57507875       SUNDANCE SKY LLC                             10305 N FREEWAY                      FORT WORTH                    TX               1 
+  57605181       SUPPRESSED WEAPON SYSTEMS LLC                12703 CAPRICORN STE 900              STAFFORD                      TX              36 
+  57513255       TEAM JC GUNS LLC                             1343 STATE HWY 315                   CARTHAGE                      TX               2 
+  57404409       TEMPLE CONTRACT STATION LC                   119 NORTH 19TH ST                    TEMPLE                        TX               6 
+  57409837       TERMINAL BALLISTICS, INC                     8214 HWY 359                         ORANGE GROVE                  TX              11 
+  57513742       TERNARY ENTERPRISES LLC                      7886 BURWICK RD                      JACKSBORO                     TX               4 
+  57410697       TEXAS ARTISTRY LLC                           3945 COTTON GIN RD                   UHLAND                        TX               2 
+  57605570       TEXAS RIFLE WORKS LLC                        21621 RHODES RD STE F                SPRING                        TX               2 
+  57513820       TEXAS SILENCER COMPANY INC                   1814 BARNETT DR                      WEATHERFORD                   TX               8 
+  57408750       THE IMPRESA GROUP INC                        401 ISOM ROAD SUITE 340              SAN ANTONIO                   TX               1 
+  57513704       TPS ARMS LLC                                 1815 S TOWN E BLVD                   MESQUITE                      TX             360 
+  57514322       TRAMMEL, JON ROBERT                          120 W WALKER ST                      BRECKENRIDGE                  TX               7 
+  57407004       TREVINO, THOMAS                              105 BEAR TRACE                       FLORESVILLE                   TX               4 
+  57512976       TRIARC SYSTEMS LLC                           2500 US HWY 287 N                    MANSFIELD                     TX             237 
+  57605586       TRIPLE C FIREARMS LLC                        390 COUNTY RD 373                    SPLENDORA                     TX              11 
+  57514262       US TRINITY CUSTOM LLC                        1266 FM 407 SUITE A                  NORTHLAKE                     TX               5 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                                 01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

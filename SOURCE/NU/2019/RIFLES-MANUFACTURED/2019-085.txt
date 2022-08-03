@@ -1,0 +1,39 @@
+                                                              RIFLES MANUFACTURED IN 2019 
+  RDS KEY        LICENSE NAME                                STREET                              CITY                         ST       RIFLE MFG 
+  82300848       GOODLING, SIDNEY J                          1950 STOVERSTOWN RD                 SPRING GROVE                  PA              15 
+  82304507       GRANT, ROBERT ANDREW                        1134 SHERWOOD DR                    LAURYS STATION                PA              13 
+  82507244       HGW LLC                                     1269 SCHOOL RD                      AVONMORE                      PA               2 
+  82506772       IRON CITY ARMS LLC                          162 A YANKOSKY RD                   CHARLEROI                     PA               2 
+  82508007       JENKINS, CHRISTOPHER MICHAEL                3129 RESERVOIR RD                   BEDFORD                       PA               2 
+  82306295       JMB DISTRIBUTION LLC                        856 GRANDELL AVE                    READING                       PA               1 
+  82507564       JMC TACTICAL LLC                            296 MURDOCKSVILLE RD                CLINTON                       PA              87 
+  82311980       JOSEPH DAMIAN AGLIOTTA                      478 N LANCASTER STREET              JONESTOWN                     PA               1 
+  82309076       KEYSTONE ACCURACY LLC                       330 CARBONDALE RD                   WAVERLY                       PA               3 
+  82302834       KEYSTONE SPORTING ARMS LLC                  155 SODOM RD                        MILTON                        PA           35044 
+  82304013       KING, MARK S                                238 NOTCH RD                        DUNCANNON                     PA              18 
+  82507862       KOZLOFF, ALEXANDER P                        6650 RICK ROAD                      MCLANE                        PA               2 
+  82304234       LANCER SYSTEMS LP                           2800 MILFORD SQUARE PKE             QUAKERTOWN                    PA              55 
+  82310076       LAUSCH, LYDIAN                              RD 2                                JONESTOWN                     PA 
+  82307328       LEISTER, PRESTON                            419 CHENEY RD                       COLUMBIA CROSS ROADS          PA               3 
+  82310283       LIBRANDI MACHINE SHOP INC                   93 AIRPOTY DRIVE                    MIDDLETOWN                    PA              14 
+  82311916       LOCONTE, ANTHONY                            450 HILLTOP RD                      YORK SPRINGS                  PA               5 
+  82507740       MARS ARMORY LLC                             1515 THREE DEGREE RD                MARS                          PA              14 
+  82507394       NINE SEVEN FIREARMS LLC                     7927 LINDISFARNE DR                 PITTSBURGH                    PA              23 
+  82502687       PENNSYLVANIA DEFENSE CONSULTANTS LLC        5731 SMITHFIELD ST                  MC KEESPORT                   PA               2 
+  82305502       PETRIELLO, JAMES C                          61 BOWENS ROAD                      SPRING BROOK TWP              PA               8 
+  82307692       PRITTS, WESTON LEE & BURIAN, ANTHONY        100 W SECOND ST UNIT 7              HUMMELSTOWN                   PA               2 
+                 WILLIAM 
+  82507019       PROCISION ARMS LLC                          2236 AVELLA RD                      AVELLA                        PA              18 
+  82508856       RAPPA, CHRISTOPHER JAMES                    830 STOUFFER AVE                    CHAMBERSBURG                  PA               1 
+  82507263       RIDGELINE GUNSMITHING LLC                   163 MILL HILL RD                    WILLIAMSBURG                  PA               1 
+  82308885       ROBERT W HART AND SON INC                   401 MONTGOMERY ST                   NESCOPECK                     PA              38 
+  82507442       SDK UNLIMITED LLC                           2617 VANCOUVER ST                   GRAPEVILLE                    PA              19 
+  82505096       SHAW PRECISION GUNS INC                     382 WASHINGTON AVE                  BRIDGEVILLE                   PA              85 
+  82300267       SINGLE SHOT RIFLES INC                      419 EMERY RD                        DINGMANS FERRY                PA              48 
+  82508256       STOCK & STEEL WEAPONRY LLC                  166 ZANES LANE                      MCCLURE                       PA               3 
+  82312415       STRATEGIC RESOURCES TRAINING GROUP LLC      1429 SOUTH DUKE STREET              YORK                          PA               1 
+  82306307       STUGART, JAMES T                            80 GRININGER RD                     WILLIAMSPORT                  PA               3 
+  82310578       SURPLUS ARME DESIGN STUDIOS LLC             1101 B ELSINORE PLACE               CHESTER                       PA              14 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                              01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

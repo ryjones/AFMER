@@ -1,0 +1,50 @@
+                                                            PISTOLS MANUFACTURED IN 2019 
+                                                                                              PISTOL     PISTOL      PISTOL     PISTOL      PISTOL      PISTOL      PISTOL
+  RDS KEY      LICENSE NAME                  STREET                  CITY            ST            22         25         32         380       9MM           50      TOTAL 
+  15932568     ARSENAL SUPPLY LLC            8084 ROSE TERRACE      SEMINOLE          FL            1          0           0          0           0          0            1 
+  15930118     ARTICLE II FIREARMS LLC       25430 NW 8TH LN STE    NEWBERRY          FL            0          0           0          0           3          2            5 
+                                             100 
+  15950891     AXIOM CUSTOM GUNS LLC         30921 SATIN LEAF LN    WESLEY            FL            0          0           0          0           5          4            9 
+                                                                    CHAPEL 
+  15932857     BALLISTIC ADVANTAGE LLC       540 LOGISTICS LN STE   OCOEE             FL            0          0           2          0           3          0            5 
+                                             60 
+  15951128     BISHOP, RONALD MORRIS         6677 W MINA LANE       DUNNELLON         FL            2          0           0          0           0          0            2 
+  15949547     BLACK CREEK CUSTOM            369 BLANDING BLVD      ORANGE PARK       FL            3          0           0          0           0          0            3 
+               FIREARMS LLC                  SUITE N12 
+  15931644     BLACK CREEK PRECISION LLC  5151 SUNBEAM ROAD         JACKSONVILLE      FL            0          0           0          0           2          1            3 
+                                             SUITE 9,10,11 
+  15932137     BOA GUN SHOP LLC              10201 NE 233 ST RD     ORANGE            FL            2          0           0          0           0          0            2 
+                                                                    SPRINGS 
+  15949231     BRIGADE MANUFACTURING INC 7305-7307 NW 46TH ST       MIAMI             FL            0          0           9          2         447          0          458 
+  15948882     BUIS INC                      1201 HAMLET AVE        CLEARWATER        FL            0          0           6          0           0          0            6 
+  15931741     BUNKER, BRANDAN               11121 DAYBREAK GLEN  PARRISH             FL            0          0           0          0           3          4            7 
+  15952472     CDA OF FL, LLC                9110 MERCURY DRIVE     SAINT CLOUD       FL            0          0           0          0           8          0            8 
+  15932528     CENTRAL FLORIDA CUSTOM        9620 BOGGY CREEK RD  ORLANDO             FL            0          0           0          0          12          0           12 
+               TRAILERS INC 
+  15951478     CENTRAL FLORIDA CUSTOM        2136 E 4TH ST          ORLANDO           FL            2          0           0          0           0          0            2 
+               TRAILERS INC 
+  15907948     CHARLES W JENKINS LLC         977 18TH AVE SW        VERO BEACH        FL            0          0           0          0           0          4            4 
+  15951376     CORE ELITE OPERATIONS INC  2150 34TH WAY NORTH       LARGO             FL            0          0           2          0           2          0            4 
+                                             SUITE A 
+  15915069     CSC ARMS LLC                  4747 SW 45TH STREET    DAVIE             FL            0          0           0          0           5          0            5 
+  15949016     CW GUNWERKS LLC               10705 SW 216TH ST UNIT  MIAMI            FL            0          0           0          0           1          4            5 
+                                             215 
+  15910123     DIAMONDBACK FIREARMS LLC  3400 GRISSOM PKWY          COCOA             FL        6040           0         212       2260        7607          0       16119 
+  15913631     DNS SIGNS & LIGHTING INC      2520 32ND AVE N        SAINT             FL           13          2           1          8          90          0          114 
+                                                                    PETERSBURG 
+  15913859     EAST COAST CUSTOM             925 WALKER RD          WILDWOOD          FL            2          0           0          0           2          0            4 
+               TACTICAL LLC 
+  15952178     FK BRNO US INC                6342 NW 18TH DRIVE #5  GAINESVILLE       FL            0          0           0          0           0         12           12 
+  15914831     FLORIDA FIREARMS ACADEMY  13317 W HILLSBOROUGH TAMPA                   FL            0          0           0          0           1          0            1 
+               LLC                           AVE 
+  15950984     FUSCO, STEPHEN ANTHONY        18829 COUNTY ROAD 455 FERNDALE           FL            0          0           0          0           2          2            4 
+  15932299     FUSION PRECISION              200 RICH STREET        VENICE            FL            0          0           0          0           6         13           19 
+               ENGINEERING LLC 
+  15930984     GFT ARMS LLC                  6690 COLUMBIA PARK     JACKSONVILLE      FL            0          0           0          0           6          0            6 
+                                             DR STE 2 
+  15909552     GOOD TIME OUTDOORS INC        4600 W HIGHWAY 326     OCALA             FL            0        148          24          0           7          0          179 
+  15950494     GUARDIAN ARMAMENT LLC         102 PABLO POINT DRIVE  JACKSONVILLE      FL            0          0           0          0           1          1            2 
+  15951147     GUNSHINE STATE ARMS CORP  1076 B COTTONWOOD          TALLAHASSEE       FL            0          0           0          0           0          1            1 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                                           01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

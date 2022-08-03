@@ -1,0 +1,42 @@
+                                                    PISTOLS MANUFACTURERS EXPORTED IN 2019 
+  RDS KEY     LICENSE NAME                                   STREET                              CITY                          ST      PISTOLS 
+  99203286   FAR NORTH GUN SUPPLY                           7650 BETHANY CIR                     ANCHORAGE                      AK           10 
+  16307457   KIMBER MFG INC                                 200 INDUSTRIAL BOULEVARD             TROY                           AL          104 
+  57134716   WILSONS GUN SHOP INC                           2452 CR 719                          BERRYVILLE                    AR            53 
+  57104386   NIGHTHAWK CUSTOM LLC                           1306 WEST TRIMBLE AVE                BERRYVILLE                    AR            76 
+  98612151   STINNETT, CODY CLARK                           23662 W LEVI DR                      BUCKEYE                        AZ           3 
+  98604535   TOTEM DEPT STORES                              527 W. MCDOWELL RD.                  PHOENIX                        AZ 
+  98610031   2A TACTICAL LLC                                3710 EAST YEAGER DRIVE               GILBERT                        AZ           3 
+  98600788   PATRIOT ORDNANCE FACTORY INC                   1492 W VICTORY LANE                  PHOENIX                        AZ           2 
+  98614472   STURM, RUGER & COMPANY, INC                    200 RUGER RD                         PRESCOTT                       AZ         8258 
+  98603841   GHOST PRODUCTS INC                             1008 S CENTER ST                     MESA                           AZ           39 
+  93307461   FIREARMS UNLIMITED CALIFORNIA LLC              450 FLETCHER PARKWAY #208            EL CAJON                      CA            2 
+  93301600   FMK FIREARMS INCORPORATED                      1025 A ORTEGA WAY / 1005 ORTEGA WAY  PLACENTIA                     CA           198 
+  58402304   C S SERVICE                                    RT 3 BOX 162                         LONGMONT                      CO 
+  58408169   VIKING ARMAMENT LLC                            596 23 1/2 RD                        GRAND JUNCTION                CO            25 
+  60603306   COLT'S MANUFACTURING COMPANY LLC               545 NEW PARK AVE                     WEST HARTFORD                  CT         1239 
+  15951067   LT DEFENSE LLC                                 2764 W ATLANTIC BLVD                 POMPANO BEACH                  FL           90 
+  15940806   KEL TEC CNC INDUSTRIES INC                     1475 COX ROAD                        COCOA                          FL          148 
+  15932568   ARSENAL SUPPLY LLC                             8084 ROSE TERRACE                    SEMINOLE                       FL           1 
+  15932438   RWC GROUP LLC                                  3901 NE 12TH AVE SUITE #400          POMPANO BEACH                  FL           5 
+  15923596   TAURUS INTERNATIONAL MANUFACTURING INC         16175 NW 49TH AVE                    MIAMI                          FL         3200 
+  15913567   LOCKHEED MARTIN CORPORATION                    100 GLOBAL INNOVATION CIRCLE         ORLANDO                        FL           5 
+  15909576   IVER JOHNSON ARMS INC                          259 GUS HIPP BLVD                    ROCKLEDGE                      FL           30 
+  15910123   DIAMONDBACK FIREARMS LLC                       3400 GRISSOM PKWY                    COCOA                          FL          657 
+  15890327   GLOCK INC                                      6000 HIGHLANDS PKWY                  SMYRNA                        GA         42244 
+  15813136   DANIEL DEFENSE INC                             1334 ORACAL PARKWAY                  BLACK CREEK                   GA            4 
+  15840168   INVERIS TRAINING SOLUTIONS INC                 296 BROGDON RD                       SUWANEE                       GA            74 
+  54201706   LES BAER CUSTOM INC                            1804 IOWA DR                         LE CLAIRE                      IA          285 
+  54204537   VOLQUARTSEN FIREARMS INC                       24276 240TH STREET                   CARROLL                        IA           78 
+  54204587   BROWNELLS INC                                  3006 BROWNELLS PKWY                  GRINNELL                       IA           1 
+  33605516   BRAND, MARK A & ALICIA A                       504 10TH AVE                         COLONA                         IL           1 
+  33604720   MMI INC                                        205 WEST MONDAMIN STREET UNIT B      MINOOKA                        IL           1 
+  43513076   TOTAL HDWE INC COAST TO COAST                  1502 ST RD 9 GREEN MEADOWS S/C       GREENFIELD                     IN 
+  43507212   FREEDOM ORDNANCE MANUFACTURING INC             612 GRACE WAY                        CHANDLER                       IN          320 
+  43507852   SITE KNOWLEDGE INC                             7511 S STATE RD 46                   RILEY                          IN           1 
+  54804830   HOLT TACTICAL SOLUTIONS LLC                    1725 N 38TH ST                       KANSAS CITY                    KS           5 
+  54804681   RAINIER ARMS LLC                               4611 E 31ST ST S                     WICHITA                        KS           78 
+  54804131   STEEL RAIN TACTICAL LLC                        210 NORTHWIND DR                     VALLEY CENTER                  KS           1 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                               01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

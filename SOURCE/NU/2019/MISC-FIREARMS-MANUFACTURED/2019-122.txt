@@ -1,0 +1,40 @@
+                                                          MISC. FIREARMS MANUFACTURED IN 2019 
+  RDS KEY         LICENSE NAME                                      STREET                                 CITY                          ST      MISC FA MFG 
+  57510757        GREEN'S GUNS AND RANGE LLC                        1654 JAMES MARSHALL                   MARSHALL                       TX                21 
+  57407149        HEADQUARTERS OUTFITTERS LLC                       13824 JAMES GARFIELD ST               MANOR                          TX                 3 
+  57513158        HEGAZY LLC                                        1000 POST AND PADDOCK STE 309         GRAND PRAIRIE                  TX               130 
+  57409479        HILL COUNTRY SOUTH ENTERPRISES LLC                681 BULVERDE ROAD SUITE #105          BULVERDE                       TX                 1 
+  57509487        HOLESHOT ARMS LLC                                 118 REGENCY DR STE 200                WYLIE                          TX               191 
+  57403889        HRNCIR, ROSS                                      1346 US HWY 77 S                      HALLETTSVILLE                  TX                 1 
+  57408766        JEM GUNS LLC                                      40130 INDUSTRIAL PARK CIR             GEORGETOWN                     TX                74 
+  57511388        LANTAC USA LLC                                    1300 FORUM WAY STE B                  FORT WORTH                     TX                74 
+  57409842        LANTANA RIFLES LLC                                173 FM 1042                           THREE RIVERS                   TX                 1 
+  57501532        LEE, JEFFREY DAVID                                3401 W PIONEER DRIVE #2               IRVING                         TX                 1 
+  57605287        LINDLEY INDUSTRIES LLC                            4030 SOUTHERLAND RD STE A             HOUSTON                        TX                81 
+  57513142        LIVE OAK ACCURACY LLC                             2405 COUNTRY MEADOW LN                WYLIE                          TX                11 
+  57405001        LONDRIGAN, ROBERT JOHN JR                         11348 FM 56                           MORGAN                         TX               105 
+  57512783        LONE STAR ARMORY LLC                              2006 MARTIN LUTHER KING FRWY          FORT WORTH                     TX                49 
+  57513273        LONE STAR FIREARMS AND MANUFACTURING LLC          4612 CR 919                           CROWLEY                        TX                 3 
+  57512840        MATCH GRADE PRECISION LLC                         311 TRAKEHNER TRAIL                   CELINA                         TX                29 
+  57434208        MAVERICK ARMS, INC                                1001 INDUSTRIAL BLVD                  EAGLE PASS                     TX             63521 
+  57407755        MBO ARMS INC                                      704-A EDWARDS DR                      HARKER HEIGHTS                 TX 
+  57514760        MODERN ARMORY, LLC                                7724 COUNTY RD 1228                   GODLEY                         TX                33 
+  57514687        PAXTON TIRE AND SERVICE, INC                      603 SE 3RD                            DIMMITT                        TX                17 
+  57404971        PINCKNEY SMITH CUSTOM WORKS INC                   1839 HWY 144 SOUTH                    GLEN ROSE                      TX                 1 
+  57511778        PRACTACTS LLC                                     8500 CR 409                           GRANDVIEW                      TX                11 
+  57603438        RADICAL FIREARMS LLC                              4413 BLUEBONNET STE 8                 STAFFORD                       TX              1139 
+  57514831        RENEGADE ARMS LLC                                 1185 HUMBLE RD EAST                   OVERTON                        TX                40 
+  57409934        ROBINSON, BLAKE                                   723 NEIGHBORS CORNER RD               MART                           TX                10 
+  57513349        RUSSELL, THOMAS WAYNE II                          2324 THOMAS DRIVE                     BROWNWOOD                      TX                14 
+  57406578        SERENITY ARMS LLC                                 2858 CEDAR HOLLOW RD                  GEORGETOWN                     TX                 1 
+  57506246        SFX DESIGN INC                                    2500 I-20 EAST                        WEATHERFORD                    TX                 9 
+  57512558        SHADOWOOD ENTERPRISES LLC                         124 GRAPEVINE HWY STE D               HURST                          TX                14 
+  57508900        SHILEN RIFLES INC                                 2501 N. INTERSTATE HIGHWAY 45         ENNIS                          TX                27 
+  57513104        SNOW BEAR VENTURES LLC                            7560 KINGS TRAIL                      FORT WORTH                     TX                15 
+  57410284        STEVENS, HUNTER COLE                              4892 N HWY 183                        LIBERTY HILL                   TX                 1 
+  57541806        STILLERS PRECISION FIREARMS LLC                   543 N 5TH ST                          GARLAND                        TX               927 
+  57513742        TERNARY ENTERPRISES LLC                           7886 BURWICK RD                       JACKSBORO                      TX                 4 
+  57408284        TEXAS COMBAT ARMS LLC                             50 BRIAR CROWN                        UVALDE                         TX                 1 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                                    01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

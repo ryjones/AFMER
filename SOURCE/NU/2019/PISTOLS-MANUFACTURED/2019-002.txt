@@ -1,0 +1,48 @@
+                                                       PISTOLS MANUFACTURED IN 2019 
+                                                                                     PISTOL     PISTOL    PISTOL     PISTOL    PISTOL     PISTOL     PISTOL
+  RDS KEY     LICENSE NAME               STREET                CITY           ST          22        25        32        380      9MM          50     TOTAL 
+  99203249   ASAY, PHILIP WILLIAM        7911 CANAL STREET    ANCHORAGE       AK          1          0         0          0         0          0          1 
+  99202128   BOWMAN, FORREST WADE        29 COLLEGE RD #8B-2  FAIRBANKS       AK          0          0         0          0         1          0          1 
+  99202850   DOWLE, PAUL GORDON          1985 LARIX DR        NORTH POLE      AK          0          0         0          0         0          1          1 
+  99203038   EVERYDAY DEFENSE            1591 N KERRY LYNN LN  WASILLA        AK          0          0         0          0         2          0          2 
+             SOLUTIONS LLC 
+  99203286   FAR NORTH GUN SUPPLY        7650 BETHANY CIR     ANCHORAGE       AK          0          0         2          0         2          5          9 
+  99202389   GOEDEN, CHAD J              2012 CASCADE CREEK   SITKA           AK          0          0         0          0         3          0          3 
+                                         RD 
+  16307089   BARBOUR CREEK LLC           200 SELF RD          EUFAULA         AL          0          0         0          1         5          0          6 
+  16307641   BOTTA, PAUL EDWARD          10040 BUTTERCREME DR MOBILE          AL          7          0         0          0         5          0         12 
+                                         S 
+  16304127   BROTHERS IN ARMS LLC        22571 CANTRELL LANE  ATHENS          AL          0          0         0          0         1          0          1 
+  16306442   CARRINGTON, MARION COLIN    661 ALLIANCE RD      BESSEMER        AL          0          0         0          0         1          0          1 
+  16303219   CHATTAHOOCHEE GUN           312 LEE RD 553       PHENIX CITY     AL          0          0         0          0         2          0          2 
+             WORKS, LLC 
+  16307912   CHILDRESS, MICHAEL          122 PLATEAU RD       MONTEVALLO      AL          0          2         0          0         5          2          9 
+             ANTHONY 
+  16303111   CLARK, GREGORY E            1157 PHILLIPS RD     LANETT          AL          0          0         2          0         1          0          3 
+  16307772   COOPER CUSTOMS, LLC         1009 BETHPAGE LANE   CALERA          AL          0          0         0          0         1          0          1 
+  16307376   CYPRESS CREEK INDOOR        5060 HIGHWAY 157     FLORENCE        AL          0          0         1          0         0          0          1 
+             RANGE INC 
+  16305276   EASON, THOMAS E             725 BROOKLANE DRIVE  HUEYTOWN        AL          0          5         0          0         0          0          5 
+  16337359   ELLIS, JEFFERY OWEN         17943 GROUND HOG RD  ADGER           AL          0         48         9          0         4          0         61 
+  16306429   H & L FIREARMS LLC          4001 COUNTY RD 17    MOUNT HOPE      AL          0          0         0          0         1          0          1 
+  16307457   KIMBER MFG INC              200 INDUSTRIAL       TROY            AL          0          0         0       7430      18626      1777      27833 
+                                         BOULEVARD 
+  16305280   MACH III INC                6640 CR 1101         VINEMONT        AL          3          0         0          0        12          2         17 
+  16304700   MHT DEFENSE LLC             1524 HENRY DAVIS     DELTA           AL          1          0         0          0         0          0          1 
+                                         ROAD 
+  16306445   MULKEY, JAMES ALVIN         642 PINE RD          PELL CITY       AL          6          0         0          0         1          0          7 
+  16307655   PLUNDEROSA FIREARMS, LLC  2126 KIRKMAN DR        BIRMINGHAM      AL          0          0         3          0         0          0          3 
+  16307888   RED PHOENIX DEFENSE LLC     106 JUDSON CT        PRATTVILLE      AL          0          0         0          3         3          0          6 
+  16305652   REMINGTON ARMS COMPANY  1816 REMINGTON           HUNTSVILLE      AL          0          9        39         97       150        741       1036 
+             LLC                         CIRCLE SW 
+  16307883   ROCKET CITY GUN WORKS,      23884 WALES ST       ELKMONT         AL          0          0         0          0         1          0          1 
+             LLC 
+  16304071   SHORT DEFENSE SYSTEMS INC 1561B MONTGOMERY       HOOVER          AL          2          0         0          0         0          0          2 
+                                         HWY 
+  16307788   THE ARMORY GUNS AND         2639 PELHAM PARKWAY  PELHAM          AL          0          4         0          0         0          0          4 
+             AMMO LLC 
+  57105889   6P, LLC                     13565 W HWY 72 STE 10- HIWASSE       AR          0          0         0          0         3          3          6 
+                                         11 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                            01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

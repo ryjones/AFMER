@@ -1,0 +1,48 @@
+                                                          PISTOLS MANUFACTURED IN 2019 
+                                                                                            PISTOL    PISTOL      PISTOL     PISTOL     PISTOL      PISTOL     PISTOL
+  RDS KEY      LICENSE NAME                 STREET                 CITY            ST           22         25         32        380       9MM           50      TOTAL 
+  15415731    TRIUNE ARMS LLC              571 FROST AVE           WARRENTON        VA           0         20          0           0          0          0          20 
+  15424603    VASA LLC                     35510 SAINT JAMES DR    ROUND HILL       VA           0          0          2           0          1          0           3 
+  15414431    WEIDNER CONSULTING LLC       1186 WARRENTON RD       FREDERICKSBU     VA           0          3          0           0          0          0           3 
+                                           STE 102                 RG 
+  60300914    ATLAS GUNWORKS INC           7058 US ROUTE 7         NORTH            VT           0          0          0           0        356        148         504 
+                                                                   FERRISBURGH 
+  60301079    BALD MOUNTAIN MARKET LLC  28 HUBBARD LANE            RUTLAND TOWN  VT              0          0          0           0          2          2           4 
+                                           PLACE 
+  60300994    BLACK WING ARMORY LLC        987 CADYS FALLS ROAD  MORRISVILLE        VT           0          0          1           0          0          0           1 
+  60300037    CASPIAN ARMS LTD             75 CAL FOSTER DR        WOLCOTT          VT           0          0          0           0          0        631         631 
+  60300781    CATAMOUNT ARMS LLC           70 MCDONALD LANE        HINESBURG        VT           1          0          0           0          0          0           1 
+  60333217    CENTURY ARMS INC             236 BRYCE BLVD          GEORGIA          VT           0          0          0           0          0       3650        3650 
+  60300038    FOSTER INDUSTRIES INC        75 CAL FOSTER DR        WOLCOTT          VT           0          0          0           0          0        366         366 
+  60300884    GREEN MOUNTAIN CARBINE       21 TATRO RD             PLYMOUTH         VT           0          0          0           0          0          1           1 
+              LLC 
+  60301051    JAIL BRANCH ARMS LLC         587 E BARRE RD          BARRE            VT           2          0          0           0          0          0           2 
+  60301029    LOST NATION GUNS & AMMO,     27 N RIVER ST           SWANTON          VT           0          0          0           0          4          0           4 
+              LLC 
+  60300864    MCNARY FIREARMS              18 PINE RIDGE RD        VERNON           VT          11          0          0           0          0          0          11 
+              MANUFACTURING, LLC 
+  60300651    NEWLAN, STEVEN JAMES         737 ROUTE 5 S           WINDSOR          VT           1          0          1           0          0          0           2 
+  99106034    ALL AMERICAN ARMORY, LLC     14969 W BOW HILL RD     BOW              WA           0          1          1           0          0          0           2 
+                                           STE #2 
+  99109193    ARMORY42 LLC                 17923 PIONEER WAY E     ORTING           WA           0          0          0           0          0          1           1 
+  99107472    BETHEL ARMAMENT LLC          14835 133RD AVE SE      YELM             WA           1          0          0           0          3          0           4 
+  99106948    BIG IRISH GUN WORKS LLC      5414 SWAN CT            WEST RICHLAND  WA             0          0          0           0          2          0           2 
+  99107016    BRIMSTONE GUNSMITHING INC  4857 NW LAKE RD #115      CAMAS            WA           1          0          1           0          2          0           4 
+  99106477    BRUBAKER ARMS                2107 E MEAD AVE         YAKIMA           WA           1          0          0           0          0          0           1 
+              MANUFACTURING LLC 
+  99108549    EDELWEISS ARMORY, LLC        57 ETRURIA ST APT 103  SEATTLE           WA           0          0          0           0          1          0           1 
+  99107587    GILL ARMS LLC                2608 104TH ST CT S      LAKEWOOD         WA           0          0          0           0          4          0           4 
+                                           BLDG J SUITE B 
+  99104605    GRESHAM ARMORY LLC           8431 10TH PLACE SE      LAKE STEVENS     WA           0          0          0           0          2          0           2 
+  99105925    GREY GHOST PRECISION, LLC  2916 107TH ST S           LAKEWOOD         WA           0          0          0           0        443          0         443 
+  99107743    KLOTZBUECHER, HARLEY         2720 MILL POND DR UNIT  MALAGA           WA           1          0          1           0          0          0           2 
+              KURT                         A5 
+  99108547    LINE OF SIGHT MACHINE AND    17211 83RD AVE COURT  PUYALLUP           WA           0          0          0           0          1          0           1 
+              TOOL, INC                    E 
+  99106349    OKANOGAN ARMS CO LLC         105 W OAK ST            OKANOGAN         WA           0          0          0           0          1          0           1 
+  99114520    OLYMPIC ARMS INC             624 OLD PACIFIC HWY     OLYMPIA          WA           0          0          0           0          0          3           3 
+                                           SE 
+  99104640    PARATUS-X LLC                131 SINES LN            ENTIAT           WA           0          0          0           0          1          0           1 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                                       01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

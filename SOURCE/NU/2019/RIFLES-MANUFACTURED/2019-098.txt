@@ -1,0 +1,40 @@
+                                                              RIFLES MANUFACTURED IN 2019 
+  RDS KEY        LICENSE NAME                                STREET                                CITY                        ST        RIFLE MFG 
+  15415639       HIGHFLYER ARMS LLC                          10 S 5TH ST                          WARRENTON                     VA               2 
+  15423670       HIS ARMS LLC                                7337 ROGUES RD                       NOKESVILLE                    VA               3 
+  15410871       HISTORIC ARMS CORP                          2464 PLANTATION CREEK LANE           CAPE CHARLES                  VA               3 
+  15424190       INDIAN ROCK TACTICAL LLC                    14415 WARDS RD                       LYNCHBURG                     VA               1 
+  15407848       J & L GUNSMITHING, LLC                      645 MARGARET DR                      CHESAPEAKE                    VA               3 
+  15424509       J C COOK ENTERPRISE LLC                     8133 HALPRIN DR                      NORFOLK                       VA               2 
+  15408934       KAYLOR, ROGER M                             28199 LEE HWY                        MEADOWVIEW                    VA               2 
+  15406894       KING ORDNANCE INDUSTRIES LLC                200 BOB MORRISON BLVD                BRISTOL                       VA               2 
+  15402925       KRISS USA, INC                              912 CORPORATE LANE                   CHESAPEAKE                    VA            2644 
+  15424435       LBW SPECIALTY SHOOTERS SUPPLY LLC           942 MADRID RD                        WAYNESBORO                    VA              17 
+  15412077       LIBERTY MANUFACTURING GROUP, LLC            7515 RANCO RD                        HENRICO                       VA              21 
+  15424121       MCQUILLEN, GARY ELWOOD                      7535 GUINEA ROAD                     HAYES                         VA              13 
+  15416434       NOVA ADVANCED TACTICAL SOLUTIONS LLC        9908 RICKOVER CT                     MANASSAS                      VA               7 
+  15424567       OLD DOMINION MANUFACTURING, INC             1143 B BAINBRIDGE BOULEVARD          CHESAPEAKE                    VA              25 
+  15424551       OMINOUS ARMS LLC                            570 WINDYTOWN RD                     FRIES                         VA              14 
+  15405553       OWENS, RANDELL SAM                          339 ELLEN DR                         GATE CITY                     VA               3 
+  15413630       PERFORMANCE FIREARMS LLC                    13345 HERSHEY DR                     NOKESVILLE                    VA              16 
+  15423896       PRO RIFLES LLC                              24 WINSLOW RD                        FREDERICKSBURG                VA               1 
+  15423970       RAPPAHANNOCK FIREARMS LLC                   246 FLETCHERS MILL RD                WOODVILLE                     VA              43 
+  15414709       RECON TACTICAL LLC                          1244 EXECUTIVE BLVD BUILDING C STE   CHESAPEAKE                    VA               6 
+                                                             100 
+  15411903       SAFESIDE TACTICAL LLC                       1201 SHENANDOAH AVE                  ROANOKE                       VA             166 
+  15416619       SHEPHERD, JOHN J                            7910 N SADDLE RIDGE CT               CATLETT                       VA              16 
+  15413115       SINGLETON, WALTER E JR                      5225 KENTUCK RD LOT 18               RINGGOLD                      VA               2 
+  15410619       SODAN ARMAMENT, LLC                         7960 RICHMOND RD                     TOANO                         VA               1 
+  15406989       STERLING ARSENAL WORKS & TACTICAL SUPPLY    201 DAVIS DRIVE UNIT FF              STERLING                      VA              32 
+                 LLC 
+  15413308       STERLING CUSTOM LLC                         20350 BLACKJACK RD                   CULPEPER                      VA               3 
+  15424290       SUNSET RIDGE TACTICAL AND MORE LLC          120 PHEASANT RIDGE ROAD              LYNCHBURG                     VA               1 
+  15412544       SWVA ARMS LLC                               1123 FLORIDA ST                      SALEM                         VA               4 
+  15407875       SYKES, JOSEPH LARRY                         8540 SNAKE CREEK RD                  HILLSVILLE                    VA               5 
+  15416242       TRITON MFG INC                              977 REON DR STE 104                  VIRGINIA BEACH                VA               8 
+  15415731       TRIUNE ARMS LLC                             571 FROST AVE                        WARRENTON                     VA              22 
+  15424603       VASA LLC                                    35510 SAINT JAMES DR                 ROUND HILL                    VA               5 
+  15423729       WALKER, JEFFREY LEWIS                       19234 INGLEWOOD RD                   CULPEPER                      VA               7 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                                01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

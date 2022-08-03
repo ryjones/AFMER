@@ -1,0 +1,50 @@
+                                                            PISTOLS MANUFACTURED IN 2019 
+                                                                                              PISTOL     PISTOL      PISTOL     PISTOL      PISTOL      PISTOL      PISTOL
+  RDS KEY      LICENSE NAME                  STREET                  CITY            ST            22         25         32         380       9MM           50      TOTAL 
+  98803103     BILLET RIFLE SYSTEMS LLC      5070 SIGSTROM DR       CARSON CITY       NV            4          0           2          1          11          6           24 
+  98805448     EGBERT, SPENCER SCOTT         1450 CLOVER VALLEY     WELLS             NV            0          0           0          0           1          0            1 
+                                             ROAD 
+  98804841     FRANKLIN ARMORY, INC.         2246 PARK PLACE SUITE  MINDEN            NV        1370           0          19          0           1          0        1390 
+                                             B 
+  98804993     GEVAS, MICHAEL KENNETH        1361 GEOFREY ST        PAHRUMP           NV           11          0           0          0           8          0           19 
+  98804211     GUNS N ARROWS INC             1321 HWY 395 #A        GARDNERVILLE      NV           10          0           0          0           0          0           10 
+  98804965     IMPACT SPECIALTIES LLC        3855 E PATRICK LN UNIT  LAS VEGAS        NV            0          0          53          0           0          0           53 
+                                             120-130 
+  98805459     JACKSON, DARREN AND           585 CAPISTRANO DR      SPARKS            NV            0          0           0          0           1          0            1 
+               HEATHER 
+  98800873     JIMENEZ ARMS INC              7380 EASTGATE ROAD     HENDERSON         NV        2319         397           0       5230        4888          0       12834 
+                                             SUITE 150 
+  98805185     LIMCAT CUSTOM                 80 GLEN CARRAN         SPARKS            NV           10          0           0          0          16         19           45 
+               INTERNATIONAL LLC             CIRCLE 
+  98804296     LIMCAT CUSTOM                 58 GLEN CARRAN CIR     SPARKS            NV           12          0          17          0           1          4           34 
+               INTERNATIONAL LLC 
+  98805300     LOADED CHAMBER LLC            4555 S FT. APACHE RD   LAS VEGAS         NV            0          0           0          0           0          1            1 
+                                             STE 106 
+  98803253     M-13 INDUSTRIES LLC           3455 S POLARIS STE 5   LAS VEGAS         NV            0          0           0          0           0          3            3 
+  98804799     PRECISION SMALL ARMS INC      2222 PARK PLACE BLD #3 MINDEN            NV            0         35           0          0           0          0           35 
+                                             SUITE D 
+  98805366     RED EYE ARMS LLC              3021 S VALLEY VIEW     LAS VEGAS         NV            0          0           0          0           3          3            6 
+                                             UNIT 113 
+  98804528     SALIENT ARMS                  831 PILOT ROAD, SUITE  LAS VEGAS         NV            0          8         123          0         141          0          272 
+               INTERNATIONAL INC             D 
+  98805267     SCHMIERER, JEREMY             5999 DEAN MARTIN DR    LAS VEGAS         NV            0          0           0          0           1          0            1 
+  98805273     STANLEY, DAVID A              160 E GRANT STREET     SILVER CITY       NV            0          0           0          0           5          0            5 
+  98803482     SWORD INTERNATIONAL INC       610 E GLENDALE AVE     SPARKS            NV            2          0           0          0           0          0            2 
+  98805402     THE 1911 GUYS INC             4560 DONOVAN WAY #K  NORTH LAS           NV            0          0           0          2           7          5           14 
+                                                                    VEGAS 
+  98805449     WILDBOY OUTDOOR SPORTS        6280 S VALLEY VIEW     LAS VEGAS         NV            0          0           0          0          43          0           43 
+               LLC                           BLVD, SUITE 610 
+  61602828     AX TACTICAL LLC               4947 COMMERCIAL DR     YORKVILLE         NY           12          0           0          0           0          0           12 
+                                             STE 2 
+  61603850     BEDELL, DANIEL E II           3976 WALDEN AVE        LANCASTER         NY            0          0           0          0           6          8           14 
+  61604271     BIG ORDNANCE FIREARMS LLC  4592 CALEDONIA RD         LEICESTER         NY            0          0           0          0           0          1            1 
+  61603144     BLUE TUNA GUNSMITHING LLC  870 ONTARIO ST EXT        KENMORE           NY            2          0           0          0           0          0            2 
+  61601079     CZ-USA INC                    65 BORDEN AVE          NORWICH           NY            0          0           0          0        1823       6319        8142 
+  61402024     DABY, GARY FRANCIS II         27 SUNSET ROCK WAY     BLOOMINGDALE  NY                0          0           0          0           0          1            1 
+  61101081     DARK STORM INDUSTRIES LLC  4116 AND 4122 SUNRISE  OAKDALE              NY           33          0           5          0           0          0           38 
+                                             HIGHWAY 
+  61101422     ESPOSITO, GERARDO GUIDO       8019 WOODHAVEN BLVD  GLENDALE            NY            1          0           0          0           0          0            1 
+  61300606     GOOD GUYS GUNS AND AMMO  161 SOUTH                   NANUET            NY            0          0           0          0           5          0            5 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                                           01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

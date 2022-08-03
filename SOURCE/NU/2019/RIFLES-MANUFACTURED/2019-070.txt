@@ -1,0 +1,38 @@
+                                                             RIFLES MANUFACTURED IN 2019 
+  RDS KEY       LICENSE NAME                                STREET                              CITY                        ST        RIFLE MFG 
+ 54303217       G A PRECISION LLC                           1141 SWIFT ST                       NORTH KANSAS CITY            MO             511 
+ 54307532       GARY'S SERVICE / REPAIR LLC                 105 CHESTNUT                        DIAMOND                      MO               4 
+ 54315082       GRAFFITI & GUNS, LLC                        1846 HERMITAGE DR                   IMPERIAL                     MO               4 
+ 54304601       GRANDMASTERS LLC                            29739 HWY J                         GRAVOIS MILLS                MO               3 
+ 54314939       GUNSMITHS OF LIBERTY LLC                    29204 D HWY                         LAWSON                       MO               4 
+ 54312694       HARSHMAN MACHINE & TOOL CO                  1030 SOUTH 8TH ST                   SAINT JOSEPH                 MO               3 
+ 54312736       HENRY LEE'S GUNS AND AMMO LLC               820 N WEST BYPASS                   SPRINGFIELD                  MO              26 
+ 54309645       HERZOG, STEPHEN ELLIS                       606 PRINCETON GATE DR               CHESTERFIELD                 MO               1 
+ 54315049       HUFFMAN, JOSHUA ALAN                        19684 STATE HWY C                   CASSVILLE                    MO               4 
+ 54314740       JEBS ARMS LLC                               33768 W HWY U                       RAYVILLE                     MO              32 
+ 54314950       JOPLIN CENTERFIRE LLC                       7575 W BELLE CENTER RD              JOPLIN                       MO              21 
+ 54314093       JSE SURPLUS LLC                             5004 STATE HWY 74                   CAPE GIRARDEAU               MO              22 
+ 54311637       LYON GUNSMITHING LLC                        10015 SW STATE RT JJ                SAINT JOSEPH                 MO              10 
+ 54306352       M M O COMPANIES INC                         800 BILTMORE DR                     FENTON                       MO              10 
+ 54315494       M&M GUNS AND SUPPLIES, LLC                  16 MAIN STREET                      SAINT PETERS                 MO               3 
+ 54314250       MILE HIGH INVESTMENTS LLC                   7989 N STATE HWY H                  SPRINGFIELD                  MO               2 
+ 54310714       MILES PER HOUR LLC                          86 EMERSON RD                       REEDS SPRING                 MO              22 
+ 54312890       MOA LLC                                     431 THOMAS RD BLDG G                FARMINGTON                   MO              15 
+ 54314767       ONE PLUS DEFENSE AND TRAINING LLC           2103 STATE HWY AA                   SIKESTON                     MO               5 
+ 54310721       PARKER CUSTOM ARMS LLC                      744 STADIUM STADIUM WEST PLAZA      JEFFERSON CITY               MO               2 
+ 54305733       PIERCE GUN WORKS, LLC                       201 WEST JACKSON ST                 GALLATIN                     MO               1 
+ 54313379       PLAN B INDUSTRIES LLC                       300 S COMMERCIAL AVE                SAINT CLAIR                  MO               2 
+ 54306091       PRECISION MACHINED PARTS INC                845 E CENTRAL AVE                   NEVADA                       MO               8 
+ 54314761       PURCELL, MICHAEL                            23234 US HWY 61                     ORAN                         MO               2 
+ 54303230       RALEIGH, DARIN EUGENE                       18622 AUDRAIN CO RD 937             MEXICO                       MO               1 
+ 54310952       RICKETY BRIDGE GUNS LLC                     50257 NORTH RIVER STREET            NOVELTY                      MO               6 
+ 54311493       RIVER'S BEND GUN CO LLC                     401 BLACKHAWK ST                    WESTON                       MO              16 
+ 54314844       SAINT LOUIS TACTICAL LLC                    11040 LIN VALLE SUITE Q             SAINT LOUIS                  MO              29 
+ 54314542       SAVAGE DEFENSE LLC                          10743 COUNTY RD 62                  SAVANNAH                     MO               2 
+ 54310286       SCENARIOX SURVIVAL LLC                      114 CORNERSTONE LN                  SAINT THOMAS                 MO              21 
+ 54314962       SCORPION DEFENSE LLC                        244 N E L HAWKS                     PUXICO                       MO               6 
+ 54306984       SEMO GUN SALES LLC                          125 RIVER RIDGE LN                  CAPE GIRARDEAU               MO               3 
+ 54315017       SMITH & WESSON SALES COMPANY                1800 N RTE Z                        COLUMBIA                     MO          130732 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                            01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

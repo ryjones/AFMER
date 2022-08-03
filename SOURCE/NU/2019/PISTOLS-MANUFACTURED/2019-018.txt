@@ -1,0 +1,44 @@
+                                                            PISTOLS MANUFACTURED IN 2019 
+                                                                                              PISTOL     PISTOL      PISTOL     PISTOL      PISTOL      PISTOL      PISTOL
+  RDS KEY      LICENSE NAME                  STREET                  CITY            ST            22         25         32         380       9MM           50      TOTAL 
+  34105229     DEAD ON ARMS INC              6552 HWY 2             CLOQUET           MN            0          0           0          0          10          0           10 
+  34103165     DEER COUNTRY ARCHERY INC  32981 COUNTY RD 24         STARBUCK          MN            0          2          11          0           0          0           13 
+  34137259     E ARTHUR BROWN CO INC         4088 COUNTY ROAD 40    GARFIELD          MN            0          0           2          0           0          0            2 
+                                             NW 
+  34105106     GROGAN, JODY DEAN             21 VALHALLA RD         SLAYTON           MN            0          3           0          0           1          0            4 
+  34105161     IDEAL CONCEAL INC             4280 SCHOOL BLVD       MONTICELLO        MN            0          0           0        483           0          0          483 
+  34136974     JP ENTERPRISES INC            15125 FRANCESCA        HUGO              MN            1         11          11          0          50          0           73 
+                                             AVENUE 
+  34105309     KING, CORY MICHEAL            116 DONOVAN DR         GRAND RAPIDS      MN            0          4           0          0           0          0            4 
+  34105195     L AND L ENDEAVORS LLC         241 MAIN STREET UNIT 1  MILTONA          MN            0          1           1          0           0          0            2 
+  34105631     LOW PROS LLC                  16 NORTH CENTRAL AVE  KENSINGTON         MN            0          3          10          0           0          0           13 
+  34103314     MAGNUM RESEARCH INC           12602 33RD AVE SW      PILLAGER          MN            0          0           0        580          21       8148        8749 
+  34104602     MAXIM DEFENSE INDUSTRIES      1265 KUHN DRIVE STE    SAINT CLOUD       MN          678          0         760          0           0          0        1438 
+               LLC                           100 
+  34136939     NARTRON, INC                  324 KNOPP VALLEY DR    WINONA            MN            0          0           0          0           0          1            1 
+  34101717     NORDIC COMPONENTS INC         79 EAST 8TH STREET     WACONIA           MN            0          0          15          0          28          0           43 
+  34105188     REDLEG COMPANY INC            1430 STATE HIGHWAY 30  SLAYTON           MN            1          0           0          0           0          0            1 
+  34102463     VELOCITY LLC                  6315 RICE LAKE ROAD    DULUTH            MN            0          0           0          0          85         87          172 
+  54313257     ADAMS GUNWORKS LLC            805 NASHUA RD          LIBERTY           MO            1          0           0          0           0          0            1 
+  54313481     ALIEN ARMORY TACTICAL LLC  3126 WEST CLAY            SAINT CHARLES  MO              62          0           0          3          96         16          177 
+  54306127     BLACK RAIN ORDNANCE INC       11633 IRIS ROAD        NEOSHO            MO            0        304         195          0         275         20          794 
+  54305482     CEDAR FALLS TACTICAL, LLC     3519 CEDAR FALLS       BONNE TERRE       MO            0         20           0          0           0          0           20 
+                                             ROAD SUITE A 
+  54307126     CHEROKEE FIREARMS LLC         1500 W COLLEGE         SPRINGFIELD       MO            0          0           0          0           6          0            6 
+  54301610     CMMG INC                      2301 BOONSLICK DR      BOONVILLE         MO          157       1732         727          0        4755       3339       10710 
+  54314655     DG FIREARMS LLC               22733 LICK CREEK       PERRY             MO            3          0           0          0           0          0            3 
+                                             ESTATES 
+  54315389     EAKER, ARON DANIEL            804 WEST JACK ST       LEES SUMMIT       MO            0          0           0          0           0          1            1 
+  54339122     ED BROWN PRODUCTS, INC        43825 MULDROW TRAIL  PERRY               MO            0          0           0          0         692        378        1070 
+  54315082     GRAFFITI & GUNS, LLC          1846 HERMITAGE DR      IMPERIAL          MO            0          0           0          0           3          4            7 
+  54315049     HUFFMAN, JOSHUA ALAN          19684 STATE HWY C      CASSVILLE         MO            0          0           2          0           0          0            2 
+  54314740     JEBS ARMS LLC                 33768 W HWY U          RAYVILLE          MO            0          0           3          0           0          0            3 
+  54314950     JOPLIN CENTERFIRE LLC         7575 W BELLE CENTER    JOPLIN            MO            0          0           0          0           2         12           14 
+                                             RD 
+  54306614     LOGIC INDUSTRIES LLC          2292 HWY Y             BELLE             MO            0          0           0          0           1          0            1 
+  54311637     LYON GUNSMITHING LLC          10015 SW STATE RT JJ   SAINT JOSEPH      MO            0          2           0          0           0          1            3 
+  54306352     M M O COMPANIES INC           800 BILTMORE DR        FENTON            MO            0          0           0          0           0         11           11 
+  54315494     M&M GUNS AND SUPPLIES, LLC  16 MAIN STREET           SAINT PETERS      MO           10          0           0          0           0          0           10 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                                           01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

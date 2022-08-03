@@ -1,0 +1,38 @@
+                                                                   RIFLES MANUFACTURED IN 2019 
+  RDS KEY         LICENSE NAME                                    STREET                                 CITY                           ST         RIFLE MFG 
+  15951295        DRAKE ASSOCIATES INC                            1130 19TH STREET                       VERO BEACH                      FL                4 
+  15951569        E & B TACTICAL LLC                              3680 N ACCESS RD                       ENGLEWOOD                       FL                8 
+  15913859        EAST COAST CUSTOM TACTICAL LLC                  925 WALKER RD                          WILDWOOD                        FL                4 
+  15911384        ECR FLORIDA LLC                                 863 PIERCE RD                          WAUCHULA                        FL                5 
+  15949614        EXODUS RIFLES INC                               6684 COLUMBIA PARK DR S                JACKSONVILLE                    FL               16 
+  15951708        FAILZERO LLC                                    3300 SW 42ND AVE                       PALM CITY                       FL               29 
+  15914831        FLORIDA FIREARMS ACADEMY LLC                    13317 W HILLSBOROUGH AVE               TAMPA                           FL               16 
+  15950984        FUSCO, STEPHEN ANTHONY                          18829 COUNTY ROAD 455                  FERNDALE                        FL                7 
+  15930984        GFT ARMS LLC                                    6690 COLUMBIA PARK DR STE 2            JACKSONVILLE                    FL               12 
+  15932796        GO2 WEAPONS INC                                 1650 CHAFFEE DRIVE                     TITUSVILLE                      FL                3 
+  15909552        GOOD TIME OUTDOORS INC                          4600 W HIGHWAY 326                     OCALA                           FL              823 
+  15949260        GTGJFE LLC                                      5570 FLORIDA MINING BLVD S STE 106     JACKSONVILLE                    FL               47 
+  15950494        GUARDIAN ARMAMENT LLC                           102 PABLO POINT DRIVE                  JACKSONVILLE                    FL                2 
+  15931535        HAMMER ARMS LLC                                 2749 EDGEWATER DRIVE                   NICEVILLE                       FL                1 
+  15931975        HARDLINE CUSTOM LLC                             6950 PHILIPS HWY STE #2                JACKSONVILLE                    FL               16 
+  15952140        HAVOC WEAPON SYSTEMS LLC                        18454 POSSUM TROT                      DADE CITY                       FL               15 
+  15917604        HERITAGE MANUFACTURING INC                      16175 NW 49TH AVE                      MIAMI                           FL                4 
+  15926496        I O INC                                         295 NORTH DRIVE SUITE A                MELBOURNE                       FL             1691 
+  15930351        IN GUNS WE TRUST LLC                            5625 YOUNGQUIST RD UNIT 1              FORT MYERS                      FL              134 
+  15932070        INFINITE PRODUCTIONS LLC                        105 SE 7TH ST BAY #24                  DEERFIELD BEACH                 FL                6 
+  15952314        JRB INDUSTRIES LLC                              8380 ULMERTON ROAD #308                LARGO                           FL                4 
+  15932423        JTAC INDUSTRIES LLC                             2509 TURKEY CREEK RD STE #1            PLANT CITY                      FL                1 
+  15940806        KEL TEC CNC INDUSTRIES INC                      1475 COX ROAD                          COCOA                           FL            75497 
+  15940998        KNIGHTS MANUFACTURING CO                        701 COLUMBIA BLVD                      TITUSVILLE                      FL                7 
+  15951109        KOTE OF ARMS LLC                                4250 DOW ROAD SUITE 309                MELBOURNE                       FL               59 
+  15949873        KOVRT INDUSTRIES LLC                            2300 31ST ST NORTH                     SAINT PETERSBURG                FL                2 
+  15911510        LEMON, LARRY                                    373 SW KESTOR DR                       PORT SAINT LUCIE                FL                3 
+  15916633        LEWMAN ARMS MANUFACTURING LLC                   2710 EWELL RD                          LAKELAND                        FL                7 
+  15951405        LIGHTS N MORE INSTALLATIONS LLC                 958 JOSIANE CT                         ALTAMONTE SPRINGS               FL               22 
+  15951067        LT DEFENSE LLC                                  2764 W ATLANTIC BLVD                   POMPANO BEACH                   FL               42 
+  15952344        M-A-C-K FLORIDA SUPPLY'S CORPORATION            5123 CHELAN WAY                        LAKE WORTH                      FL               28 
+  15950579        MAN CRAFTS KEY WEST LLC                         2300 N ROOSEVELT BLVD                  KEY WEST                        FL                1 
+  15951941        MORETTI ENTERPRISES, INC                        4691 ORANGE DRIVE                      DAVIE                           FL                7 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                                          01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

@@ -1,0 +1,39 @@
+                                                           RIFLES MANUFACTURED IN 2019 
+  RDS KEY       LICENSE NAME                              STREET                             CITY                       ST       RIFLE MFG 
+ 57605588       VIDARR SUPPRESSOR TECHNOLOGIES LLC        492 OLD DODGE ROAD                OAKHURST                     TX              3 
+ 57514165       WALPOLE, GARY                             6693 SH 315 E                     LONG BRANCH                  TX              2 
+ 57606373       WATTS OUTDOORS, LLC                       5116 US 96                        SILSBEE                      TX             13 
+ 57512390       WBDJR FREEDOM INVESTMENTS LLC             2399 COUNTY ROAD 1885             GRAPELAND                    TX             10 
+ 57505688       WEBSTER, EDWARD MARSHALL                  625 BRIARWOOD TRAIL               JOSHUA                       TX              1 
+ 57504958       WEST TEXAS ORDNANCE INC                   17801 NORTH FM 2230               ACKERLY                      TX             61 
+ 57606145       WHEELHOUSE TACTICAL LLC                   9949 KINGFISHER DR                CONROE                       TX              3 
+ 57511561       WILEY ARMS LLC                            7921 RENDON BLOODWORTH RD         MANSFIELD                    TX              7 
+ 57509877       WILLARD, DANNY TATE                       150 GLENBROOK CIRCLE              NACOGDOCHES                  TX              6 
+ 57409148       WILSON COMPONENTS LLC                     205 BAUXITE DR                    JARRELL                      TX              2 
+ 57514223       WILSON, DAVID R                           3601 CEDAR CREEK DR               SAN ANGELO                   TX              4 
+ 57511613       WOLFPACK WEAPONRY LLC                     220 RENAISSANCE DR                HALLSVILLE                   TX              2 
+ 57402595       WORRELL, CHARLES H                        10479 FM 2093 TIVYDALE RD         FREDERICKSBURG               TX              1 
+ 57408451       WRIGHT METAL FINISHING LLC                106 WILDWOOD RANCH ROAD           ADKINS                       TX              9 
+ 57506014       WYER, DAVID STILES                        213 S 1ST ST                      MULESHOE                     TX              5 
+ 57504503       YOULE, GORDON ELMORE IV & CRUM, JASON     2007 INDUSTRIAL BLVD  STE B       ROCKWALL                     TX              2 
+                DARYL 
+ 98702651       3 PERCENT OUTFITTERS LLC                  10218 WITTS CIRCLE                HEBER                        UT              4 
+ 98704089       AK GUNSMITHING & MACHINING LLC            655 S CENTER ST                   WELLSVILLE                   UT              3 
+ 98701433       ANDERSON, MITCHELL ROBBIE                 74 WEST 100 NORTH                 CENTERFIELD                  UT              1 
+ 98703539       BLACKLINE PRECISION INC                   8415 SOUTH 700 WEST SUITE 10      SANDY                        UT              9 
+ 98703246       BLUE MOUNTAIN PRECISION LLC               3021 E 5000 S                     VERNAL                       UT             50 
+ 98703588       BONNEVILLE ELECTRONICS LLC                2309 E 7800 S                     SOUTH WEBER                  UT              1 
+ 98701005       BROWNING ARMS COMPANY                     ONE BROWNING PLACE                MORGAN                       UT           1186 
+ 98700716       CHILD, LELAND VERL                        4175 SOUTH 4300 WEST              WEST HAVEN                   UT             13 
+ 98702834       D AND M PRECISION INC                     9525 SWEET BLOSSOM DR             SOUTH JORDAN                 UT             20 
+ 98700554       D'ARCY ECHOLS & COMPANY                   98 WEST 300 SOUTH - UNIT #25      MILLVILLE                    UT              2 
+ 98702846       DATAKALU LLC                              14825 S 7560 W                    HERRIMAN                     UT              5 
+ 98703526       DAVIDSON DEFENSE INC                      333 N STATE STREET                OREM                         UT            114 
+ 98704205       DAVIS, KARSTON CONNOR                     50 EAST CENTER STREET             BEAVER                       UT              5 
+ 98704168       DESERT PREDATOR CUSTOM LLC                62 EAST 775 NORTH                 CEDAR CITY                   UT              1 
+ 98701385       DESERT TECH LLC                           1995 WEST ALEXANDER STREET        WEST VALLEY CITY             UT           1436 
+ 98702569       DGXCM LLC                                 1135 W SUNSET BLVD                ST GEORGE                    UT             27 
+ 98702294       DYNAMIC BALANCE MACHINE LLC               2500 S DECKER LAKE BLVD STE 6     WEST VALLEY                  UT              1 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                       01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

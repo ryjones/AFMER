@@ -1,0 +1,23 @@
+                                                           REVOLVERS MANUFACTURED IN 2019 
+  RDS KEY     LICENSE NAME                  STREET                 CITY            ST       RVLR 22     RVLR 32    RVLR 357    RVLR 38     RVLR 44     RVLR 50  RVLR TOTL 
+ 98702757    F5 DEFENSE INC                 282 S 1250 W SUITE A   LINDON           UT            2           0           0           0           1           1          4 
+ 98701641    JEPPSON, BRIAN COLE            5408 W 10180 N         HIGHLAND         UT            0           0           0           0           0           1          1 
+ 98701922    MACHINE GUN ARMORY LLC         545 W 9460 S           SANDY            UT            1           0           0           0           0           0          1 
+ 98734026    NORTH AMERICAN ARMS INC        2150 S 950 E           PROVO            UT        42337           0           0           0           0           0      42337 
+ 98701861    WASATCH ARMS LLC               286 EAST EAGLERIDGE    NORTH SALT       UT            0           0           0           1           0           0          1 
+                                            DR                     LAKE 
+ 15416108    E GIUFFRE INC                  400 GREYSTONE DR       WIRTZ            VA            0           0           0           0           1           0          1 
+ 15423891    GREELEY CUSTOM LLC             11465 CREST HILL RD    MARSHALL         VA            0           0           0           2           0           0          2 
+ 15424121    MCQUILLEN, GARY ELWOOD         7535 GUINEA ROAD       HAYES            VA            0           0           0           2           0           0          2 
+ 15416619    SHEPHERD, JOHN J               7910 N SADDLE RIDGE    CATLETT          VA            2           0           0           1           1           1          5 
+                                            CT 
+ 45503183    HARPERS FERRY ARMORY INC  301 N MILDRED ST            RANSON           WV            0           0          17           8           0           0         25 
+ 58303091    FREEDOM ARMS INC               314 HWY 239            FREEDOM          WY           39          15          61           0          99        178         392 
+ 58302192    PANTALONE, MARK                1412 STATE HWY 116     UPTON            WY            0           0           0           0           0           1          1 
+                                            SOUTH 
+ 58301479    WHITE, NICOLAS R & JENNIFER    411 PALOMINO           BEAR RIVER       WY            1           0           0           0           0           0          1 
+             ANN 
+                                                                                             365440        1674       95094       67821       26507      24065      580601 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                                       01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

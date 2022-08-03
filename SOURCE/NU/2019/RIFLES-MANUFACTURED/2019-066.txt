@@ -1,0 +1,38 @@
+                                                               RIFLES MANUFACTURED IN 2019 
+  RDS KEY        LICENSE NAME                                 STREET                               CITY                         ST        RIFLE MFG 
+  57205462       PATRICKS GUN SHOP LLC                        1191 HAWN AVE                        SHREVEPORT                    LA              23 
+  57206165       PELICAN STATE INVESTOR AND SUPPLIES LLC      70141 HIGHWAY 59 SUITE B             ABITA SPRINGS                 LA               2 
+  57205890       POWERS METAL WORKS LLC                       228 COLORADO RD                      DUSON                         LA               4 
+  57205782       PRAIRIE GUNWORKS LLC                         1340 FORESTRY DR                     VILLE PLATTE                  LA               6 
+  57205333       R HAYS CO LLC                                11249 OLD MANSFIELD RD               KEITHVILLE                    LA               1 
+  57206298       SCREAMING EAGLES GUNS & GEAR LLC             10620 WHITE OAK DR                   KEITHVILLE                    LA               2 
+  57206309       THE A-TEAM PRECISION FIREARMS LLC            87 HWY 856                           RAYVILLE                      LA               7 
+  57204623       TITAN PRECISION RIFLES LLC                   360 EVERGREEN RD                     IOTA                          LA               1 
+  57205022       X RING PROTECTION TRAINING LLC               3220 JEFFERSON ST                    BAKER                         LA               1 
+  60412682       ARMOUR SPORTS INC                            20 TAUNTON GREEN                     TAUNTON                       MA               1 
+  60413686       ATCHKASOV, PAVEL                             410 GREAT ROAD SUITE 6-1-3-D         LITTLETON                     MA               5 
+  60413403       DEAN, RANDALL WILSON                         410 GREAT RD STE 6-2-4-B             LITTLETON                     MA               8 
+  60411686       DOWNRANGE INC                                96 AIRPORT ROAD                      HYANNIS                       MA               1 
+  60413108       FINNERTY, JAMES B                            410 GREAT ROAD SUITE 6-2-15          LITTLETON                     MA               4 
+  60413159       G & N GUNSMITHS, LLC                         570 WASHINGTON ST                    WRENTHAM                      MA               5 
+  60413532       JM INSTRUCTION LLC                           379 LIBERTY ST STE 214 A             ROCKLAND                      MA               1 
+  60413757       K&T GROUP LLC                                410 GREAT RD STE 6-1-3-K             LITTLETON                     MA               1 
+  60413215       POLY METAL FINISHING INC                     ONE ALLEN ST BUILDING 218            SPRINGFIELD                   MA               4 
+  60435456       SAEILO, INC                                  130 GODDARD MEMORIAL DR              WORCESTER                     MA            5640 
+  60414143       SMITH & WESSON INC.                          2100 ROOSEVELT AVENUE                SPRINGFIELD                   MA            2226 
+  60413900       TROY INDUSTRIES INC                          151 CAPITAL DR                       WEST SPRINGFIELD              MA             875 
+  60413467       YANKEE HILL MACHINE CO INC                   412 MAIN ST                          EASTHAMPTON                   MA              31 
+  85207769       ALL AMERICAN MD LLC                          42988 FAIRGROUNDS RD                 LEONARDTOWN                   MD               3 
+  85212207       BOSWELL, STEVEN P                            12035 OREBANK RD                     CLEAR SPRING                  MD              13 
+  85209138       ELTS CONSULTING LLC                          48372 SUNBURST DR                    LEXINGTON PARK                MD               6 
+  85203547       ENGAGE ARMAMENT LLC                          701 EAST GUDE DR SUITE 101           ROCKVILLE                     MD              29 
+  85212877       HANOVER ARMORY LLC                           1327 ASHTON RD STE 5 & 6             HANOVER                       MD             231 
+  85213181       JD GRIM TECHNOLOGIES LLC                     9032 HOLSEY RD                       DAMASCUS                      MD               7 
+  85212394       KRAMER, ROBERT ED                            1019 HUDSON RD                       CAMBRIDGE                     MD              35 
+  85202358       LWRC INTERNATIONAL                           815 CHESAPEAKE DRIVE                 CAMBRIDGE                     MD            4265 
+  85211500       MCKEE, INC                                   8725 BOLLMAN PLACE #1                SAVAGE                        MD             188 
+  85212925       MT UNIVERSAL LLC                             5611/5609 KRAFT DR                   ROCKVILLE                     MD               2 
+  85207007       NRM POWER PRODUCTS LLC                       14212 BRANDYWINE RD                  BRANDYWINE                    MD              24 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                                 01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

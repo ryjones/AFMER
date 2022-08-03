@@ -1,0 +1,50 @@
+                                                       PISTOLS MANUFACTURED IN 2019 
+                                                                                     PISTOL     PISTOL    PISTOL     PISTOL    PISTOL     PISTOL     PISTOL
+  RDS KEY     LICENSE NAME               STREET                CITY           ST          22        25        32        380      9MM          50     TOTAL 
+  98603707   QUENTIN LASER LLC           1025 N MCQUEEN RD    GILBERT         AZ          2          0         0          0         0          0          2 
+                                         STE 153/154 
+  98610145   RAMM. KARL JOSEPH           21958 N BRADEN RD    MARICOPA        AZ          0          0         0          0         8          0          8 
+  98603442   RDTS MANUFACTURING INC      BIG SYCAMORE BLDG A  CAVE CREEK      AZ          0          0         0          0        14          3         17 
+                                         1ST FL 
+  98609826   REDACT WEAPONRY LLC         5103 WEST LUPINE AVE  GLENDALE       AZ          0          3         0          0         0          0          3 
+  98638426   REEDER, GARY NELSON         2599 7TH AVE         FLAGSTAFF       AZ          0          0         0          0         2         11         13 
+  98609331   ROBAR COMPANIES INC         1712 W ALOE VERA DR  PHOENIX         AZ          0          4         0          0         0          4          8 
+  98614807   ROE ARMORY LLC              9250 N 43RD AVE STE 19  GLENDALE     AZ          0          2         4          0        11          1         18 
+  98608964   S & S ARMS LLC              4821 N WINCHESTER RD  APACHE         AZ          0          0         1          0         0          0          1 
+                                                              JUNCTION 
+  98609299   SD TACTICAL ARMS LLC        6301 E NUGGET PATCH  PRESCOTT        AZ          0          0         0          0         7          6         13 
+                                         TRL 
+  98614576   SEND IT COATINGS AND        1122 W VERSILIA DRIVE  ORO VALLEY    AZ          0          0         0          1         7          0          8 
+             CUSTOMS LLC 
+  98605107   SENSENEY, MICHAEL E         10962 NORTH LOCUST   FLORENCE        AZ          0          3         0          0         0          0          3 
+                                         ST 
+  98608309   SERENDIPITY INVESTMENTS     2 SOUTH MILTON RD    FLAGSTAFF       AZ          0          0         0          0         1          0          1 
+             MFG LLC 
+  98611991   SOUTHWEST PRECISION ARMS  1300 S LITCHFIELD AVE  GOODYEAR        AZ          0          0         0          1         8          3         12 
+             LLC                         #A 1040 
+  98612151   STINNETT, CODY CLARK        23662 W LEVI DR      BUCKEYE         AZ          0          0         0          0         0          1          1 
+  98607665   STRATEGIC ARMORY CORPS      525 E PINNACLE PEAK  PHOENIX         AZ          0          0         0          0         4         14         18 
+             LLC                         RD STE 100 
+  98614472   STURM, RUGER & COMPANY,     200 RUGER RD         PRESCOTT        AZ       62188      1520         0      32505     240375     17981     354569 
+             INC 
+  98608267   SUAREZ INTERNATIONAL USA  1616 WEST IRON         PRESCOTT        AZ          0          0         0          0        12          0         12 
+             INC                         SPRINGS RD #3 
+  98605242   TOSSAN, GEORGE              9851 E VOLTAIRE DR   SCOTTSDALE      AZ          0          0         0          0         0          1          1 
+  98606279   TRITON ARMS LLC             2947 KISH AVE STE A  YUMA            AZ          0          0         2          0         4          0          6 
+  98608091   WHITEHEAD, PHILLIP DAVID    4267 N CHOLLA DR     PRESCOTT        AZ          0          0         0          0         5          6         11 
+                                                              VALLEY 
+  98614914   WOODS, JOSEPH LEE           3338 E WINDSOR DR    GILBERT         AZ          0          0         0          0         5          0          5 
+  98606199   WRIGHT ARMORY LLC           250 S MULBERRY #102  MESA            AZ          0          0         0          0         0          1          1 
+  98637956   YOUNG MANUFACTURING INC  5528 N 51ST AVE         GLENDALE        AZ          0          5         0          0        17          0         22 
+  98614703   ZARBOCK, TIMOTHY GENE       3921 SOUTH FELIX     CHANDLER        AZ          2          0         0          0         1          0          3 
+                                         PLACE 
+  96804544   BISHOP AMMUNITION           3221 ELKHORN AVE #27  NORTH          CA          0          0         0          0         0          2          2 
+             MANUFACTURING LLC                                HIGHLANDS 
+  93340727   EXCEL INDUSTRIES INC        1601 FREMONT CT      ONTARIO         CA         321         0         0        140         0          0        461 
+  93307461   FIREARMS UNLIMITED          450 FLETCHER         EL CAJON        CA          0          0         0          0         2          0          2 
+             CALIFORNIA LLC              PARKWAY #208 
+  93307327   FIVE FIVE SIX, INC          1906 OCEANSIDE BLVD  OCEANSIDE       CA          0          4         0          0         0          0          4 
+                                         STE K 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                            01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

@@ -1,0 +1,38 @@
+                                                              RIFLES MANUFACTURED IN 2019 
+  RDS KEY        LICENSE NAME                                STREET                               CITY                         ST       RIFLE MFG 
+  54804830       HOLT TACTICAL SOLUTIONS LLC                 1725 N 38TH ST                       KANSAS CITY                  KS              10 
+  54804645       J. MADISON HOMESTEAD & TRADING CO LLC       39335 LONESTAR RD                    FONTANA                      KS               6 
+  54802542       KT KUSTOMS LLC                              503 S H ST                           WELLINGTON                   KS              85 
+  54803012       LOVE, DEREK EVAN                            303 W PARALLEL                       CONWAY SPRINGS               KS              12 
+  54804093       MENZER, JEFFREY ALLEN                       851 SOUTH LIBERTY                    CHERRYVALE                   KS               8 
+  54804344       MITCHELL MUNITIONS LLC                      15005 BROADMOOR STREET               OVERLAND PARK                KS               2 
+  54803256       PODUNK INC                                  1145 W DENNIS AVE                    OLATHE                       KS              74 
+  54804129       RAWHIDE GUN & SUPPLY LLC                    901 GRAND AVE                        PLAINS                       KS              24 
+  54802214       REEVES, ROBBY DALE                          806 NORTH STEVER ST                  ULYSSES                      KS               8 
+  54803602       RELLIM ARMS LLC                             810 NORTH MAIN                       WICHITA                      KS              13 
+  54802314       SAND CREEK OUTFITTING LLC                   111 E MAIN                           HARPER                       KS               2 
+  54804202       STRATE, RYAN                                1117 MOCHA LANE                      KINSLEY                      KS               1 
+  54804848       SUNFLOWER STATE ARMORY LLC                  5244 MERRIAM DRIVE                   MERRIAM                      KS               1 
+  54803071       VELOCITY MANUFACTURING COMPANY LLC          523 E WALL ST                        FORT SCOTT                   KS               8 
+  54802831       WHITE, TERRY                                12273 S SUNRAY DR                    OLATHE                       KS               1 
+  54804295       WOLF TACTICAL AND DESIGN LLC                815 E HAWTHORNE DR                   DERBY                        KS               1 
+  46105991       ADVANCED WEAPONS TECHNOLOGY LLC             426 FERRY ST                         RUSSELL                      KY              18 
+  46107505       ANCHOR ARMS, LLC                            1076 A MANSFIELD ROAD                GLASGOW                      KY               4 
+  46102970       ATCHLEY, WILLIAM M                          5475 HAMMONSVILLE RD HWY 357         BONNIEVILLE                  KY               1 
+  46104799       COYOTE CREEK ARMORY LLC                     102 LOCUST FORK RD                   STAMPING GROUND              KY               5 
+  46106653       CUSTOM ARMS & ACCESSORIES LLC               12200 PAUL COFFEY BLVD               ASHLAND                      KY              92 
+  46102135       CUSTOM SHOOTING TECHNOLOGIES INC            8794 ELMBURG ROAD                    BAGDAD                       KY               2 
+  46107293       D-K PRODUCTION GROUP LLC                    8755 E HWY 90                        MILL SPRINGS                 KY               1 
+  46100511       DOUBLE STAR CORP                            1805 FORTUNE DR                      WINCHESTER                   KY              20 
+  46107083       DUTY FIREARMS LLC                           2804 IRVINE RD                       WINCHESTER                   KY               1 
+  46107569       DUTY, JONATHAN MICHAEL                      566 ROSEMILL DR                      LEXINGTON                    KY               6 
+  46107034       GARDNER, DAVID LEE                          177 MASON MYERS LN                   BENTON                       KY               1 
+  46107342       HAWK CREEK ARMORY LLC                       86 KELLER RD                         LONDON                       KY              16 
+  46107651       J & T MUNITIONS INC                         1805 FORTUNE DRIVE                   WINCHESTER                   KY              40 
+  46103820       KEYSTONE MANUFACTURING LLC                  737-C2 WERNE DR                      LEXINGTON                    KY              10 
+  46108312       MACHINE GUN MIKE LLC                        948 S MAIN ST                        NICHOLASVILLE                KY               2 
+  46108296       MENSCHENJAGER ARMORY LLC                    1385 SULPHUR LICK ROAD               FRANKFORT                    KY               5 
+  46104635       MERIDIAN ORDNANCE LLC                       36 SOUTH BANK ST                     MOUNT STERLING               KY              21 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                               01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

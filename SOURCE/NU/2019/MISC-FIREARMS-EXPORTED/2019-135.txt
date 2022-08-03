@@ -1,0 +1,41 @@
+                                                MISC. FIREARMS MANUFACTURERS EXPORTED IN 2019 
+ RDS KEY           LICENSE NAME                                       STREET                                 CITY                           ST       MISC FA MFG 
+ 99203286         FAR NORTH GUN SUPPLY                                7650 BETHANY CIR                       ANCHORAGE                      AK                 10 
+ 98604535         TOTEM DEPT STORES                                   527 W. MCDOWELL RD.                    PHOENIX                        AZ 
+ 98607665         STRATEGIC ARMORY CORPS LLC                          525 E PINNACLE PEAK RD STE 100         PHOENIX                        AZ                 18 
+ 58402304         C S SERVICE                                         RT 3 BOX 162                           LONGMONT                       CO 
+ 60603306         COLT'S MANUFACTURING COMPANY LLC                    545 NEW PARK AVE                       WEST HARTFORD                  CT               259 
+ 15952348         VOLUSIA COUNTY CUSTOM COATINGS, LLC                 931 ALEXANDER AVE UNIT 5               PORT ORANGE                     FL                 8 
+ 15913567         LOCKHEED MARTIN CORPORATION                         100 GLOBAL INNOVATION CIRCLE           ORLANDO                         FL                10 
+ 15926564         AMTEC LESS LETHAL SYSTEMS INC                       4700 PROVIDENCE RD                     PERRY                           FL                10 
+ 15813136         DANIEL DEFENSE INC                                  1334 ORACAL PARKWAY                    BLACK CREEK                    GA                  1 
+ 15806454         DEFENSE RESEARCH & DEVELOPMENT LLC                  268 CADILLAC PKWY STE 104              DALLAS                         GA                  1 
+ 15810028         DASAN USA INC                                       2400 MAIN ST                           DULUTH                         GA               185 
+ 54204675         LEWIS MACHINE & TOOL CO                             1600 EAST LEONARD COURT                ELDRIDGE                        IA                39 
+ 54204537         VOLQUARTSEN FIREARMS INC                            24276 240TH STREET                     CARROLL                         IA                 3 
+ 54204587         BROWNELLS INC                                       3006 BROWNELLS PKWY                    GRINNELL                        IA              105 
+ 98202164         TACTICAL SOLUTIONS INC                              2772 S VICTORY VIEW WAY                BOISE                           ID                 9 
+ 98202586         OLDTOWN R&D LLC                                     66 SHEPARD RD                          OLDTOWN                         ID                 4 
+ 43513076         TOTAL HDWE INC COAST TO COAST                       1502 ST RD 9 GREEN MEADOWS S/C         GREENFIELD                      IN 
+ 43507852         SITE KNOWLEDGE INC                                  7511 S STATE RD 46                     RILEY                           IN                 3 
+ 54804681         RAINIER ARMS LLC                                    4611 E 31ST ST S                       WICHITA                        KS               341 
+ 85202358         LWRC INTERNATIONAL                                  815 CHESAPEAKE DRIVE                   CAMBRIDGE                      MD                 29 
+ 85208550         TRIDENT LLC                                         2006 HUNTWOOD DR                       GAMBRILLS                      MD                  8 
+ 60102979         CRAWFORD, JOE D                                     2 EMANUEL DR                           BRUNSWICK                      ME 
+ 60101661         WINDHAM WEAPONRY INC                                999 ROOSEVELT TRAIL BUILDING #3        WINDHAM                        ME                  2 
+ 54301691         ARNOLD DEFENSE AND ELECTRONICS LLC                  3000 ARNOLD TENBROOK RD                ARNOLD                         MO                 11 
+ 54315017         SMITH & WESSON SALES COMPANY                        1800 N RTE Z                           COLUMBIA                       MO              2816 
+ 60200735         STURM, RUGER & COMPANY, INC                         529 SUNAPEE ST                         NEWPORT                        NH                 33 
+ 43134110         AMERICAN APEX CORPORATION                           105 INNOVATION COURT SUITE 1           DELAWARE                       OH                 30 
+ 82313090         NAVAL CO INC                                        4747 COLD SPRING CREAMERY RD           DOYLESTOWN                     PA                  1 
+ 82338992         BORDEN, JAMES F                                     1325 SHELDON HILL ROAD                 SPRINGVILLE                    PA                 76 
+ 82310076         LAUSCH, LYDIAN                                      RD 2                                   JONESTOWN                      PA 
+ 82303681         LEHIGH DEFENSE LLC                                  130 PENN AM DRIVE SUITE D              QUAKERTOWN                     PA                  2 
+ 15704502         AMERICAN TACTICAL INC                               231 DEMING WAY                         SUMMERVILLE                    SC               550 
+ 34633475         H S PRECISION INC                                   1301 TURBINE DR                        RAPID CITY                     SD                 10 
+ 57434208         MAVERICK ARMS, INC                                  1001 INDUSTRIAL BLVD                   EAGLE PASS                     TX               785 
+ 57509487         HOLESHOT ARMS LLC                                   118 REGENCY DR STE 200                 WYLIE                          TX                 28 
+ 57508900         SHILEN RIFLES INC                                   2501 N. INTERSTATE HIGHWAY 45          ENNIS                          TX                  1 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                                         01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

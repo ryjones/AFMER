@@ -1,0 +1,40 @@
+                                                                 RIFLES MANUFACTURED IN 2019 
+  RDS KEY         LICENSE NAME                                  STREET                                 CITY                          ST        RIFLE MFG 
+  98203257       HELLS CANYON ARMORY LLC                        SUITE B 1708 6TH AVE NORTH             LEWISTON                       ID               18 
+  98203697       IDAHO DEFENSE LLC                              410 10TH ST                            PLUMMER                        ID                1 
+  98202781       JAVELIN ARMS LLC                               611 N BROADWAY                         BLACKFOOT                      ID                2 
+  98203304       JOHN BOLLIGERS MOUNTAIN RIFLERY LLC            1779 NORTH ELK ROAD                    POCATELLO                      ID               14 
+  98203467       KINYON, KLAYT HUNTER                           1224 BURRELL AVE                       LEWISTON                       ID                2 
+  98203177       KRG OPS LLC                                    6296 W WAPITI TRAIL                    COEUR D ALENE                  ID               17 
+  98202763       LANE PRECISION RIFLES LLC                      1031 EVERETT AVE                       POCATELLO                      ID               66 
+  98203452       LARSON, DANIEL                                 3000 E SELTICE WAY SUITE 204           POST FALLS                     ID                1 
+  98202185       MCNABB ARMS COMPANY, LLC                       669 WEST QUINN ROAD BUILDING 35        POCATELLO                      ID                1 
+                                                                WEST 
+  98202583       METAL CRAFT MANUFACTURING LLC                  1251 N MIDLAND BLVD                    NAMPA                          ID                1 
+  98203587       OCCAM DEFENSE SOLUTIONS INC                    2182 NURSERY STREET SUITE L            MOSCOW                         ID               52 
+  98202698       OCONNELL, JAMES K                              21218 BIG CANYON RD                    PECK                           ID               26 
+  98203290       PREMIER TACTICAL AND DESIGNS LLC               20222 SOUTH LOFFS BAY RD               COEUR D ALENE                  ID                4 
+  98201252       PRIMARY WEAPONS SYSTEMS INC                    255 N. STEELHEAD WAY                   BOISE                          ID             1186 
+  98202827       REV TACTICAL LLC                               1797B W HIGHWAY 52                     EMMETT                         ID               38 
+  98201763       RIVERMAN, LLC                                  6040 N GOVERNMENT #101                 DALTON GARDENS                 ID                4 
+  98202658       SALVATION GUN WORKS LLC                        493 N 4138 E                           RIGBY                          ID                3 
+  98202543       SEEKINS PRECISION LLC                          159 AMERICAN WAY                       LEWISTON                       ID             1971 
+  98202201       SELKIRK MOUNTAIN PRECISION GUNSMITHING,        2765 TURNER HILL RD                    BONNERS FERRY                  ID                3 
+                 LLC 
+  98203592       SNAKE RIVER RIFLEWORKS LLC                     13930 S PIANO AVE                      NAMPA                          ID                1 
+  98203225       SOLDIER MOUNTAIN ARMS LLC                      2328 ELDRIGE AVE                       TWIN FALLS                     ID                5 
+  98202164       TACTICAL SOLUTIONS INC                         2772 S VICTORY VIEW WAY                BOISE                          ID             1800 
+  98202987       TOWER III INC                                  6050 S HIGH WILLOW LN                  IDAHO FALLS                    ID                7 
+  98203249       TROJAN FIREARMS LLC                            2212 CORTLAND PLACE                    NAMPA                          ID              143 
+  98203692       UNCONVENTIONAL EQUIPMENT SOLUTIONS, LLC        28049 MERRICK LN                       BRUNEAU                        ID                1 
+  98202619       WEATHERMON, COREY ALVIN                        12338 RANCHVIEW DR                     NAMPA                          ID               96 
+  98203082       WEST TECH ARMS LLC                             466 S 5TH W                            REXBURG                        ID                3 
+  98203785       WILDCAT ARMS LLC                               5345 SE 1ST AVE                        NEW PLYMOUTH                   ID                1 
+  98203050       WILKINSON ARMS LLC                             14754 MURPHY FLAT ROAD                 MURPHY                         ID               11 
+  33606339       ARMORERS LOCKER INC                            25007 MICHELE DRIVE                    PLAINFIELD                      IL              15 
+  33605667       DEVIL DOG ARMS LLC                             2000 GARY LANE                         GENEVA                          IL              87 
+  33705354       DOWN RANGE ORDNANCE LLC                        920 LUCINDA LANE                       QUINCY                          IL               3 
+  33605115       DR GUNS LLC                                    551 TELSER RD                          LAKE ZURICH                     IL             179 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                                       01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

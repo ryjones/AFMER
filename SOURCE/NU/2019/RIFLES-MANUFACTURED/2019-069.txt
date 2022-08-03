@@ -1,0 +1,38 @@
+                                                           RIFLES MANUFACTURED IN 2019 
+  RDS KEY       LICENSE NAME                              STREET                             CITY                       ST       RIFLE MFG 
+ 34105179       FIRING LINE LLC                           3409 MAYHEW LAKE RD NE            SAUK RAPIDS                 MN               2 
+ 34105106       GROGAN, JODY DEAN                         21 VALHALLA RD                    SLAYTON                     MN              19 
+ 34136974       JP ENTERPRISES INC                        15125 FRANCESCA AVENUE            HUGO                        MN            1739 
+ 34105309       KING, CORY MICHEAL                        116 DONOVAN DR                    GRAND RAPIDS                MN              14 
+ 34105195       L AND L ENDEAVORS LLC                     241 MAIN STREET UNIT 1            MILTONA                     MN               1 
+ 34105631       LOW PROS LLC                              16 NORTH CENTRAL AVE              KENSINGTON                  MN               9 
+ 34103314       MAGNUM RESEARCH INC                       12602 33RD AVE SW                 PILLAGER                    MN             939 
+ 34136939       NARTRON, INC                              324 KNOPP VALLEY DR               WINONA                      MN               4 
+ 34101717       NORDIC COMPONENTS INC                     79 EAST 8TH STREET                WACONIA                     MN             738 
+ 34105055       NORTH PLAINS DESIGN, INC                  4350 WOODHILL DRIVE               INDEPENDENCE                MN               2 
+ 34104145       PA ENTERPRISES                            3152 COUNTRY DR                   LITTLE CANADA               MN              12 
+ 34105188       REDLEG COMPANY INC                        1430 STATE HIGHWAY 30             SLAYTON                     MN               5 
+ 34102652       SLR15 RIFLES INC                          7689 MAIN ST                      FRIDLEY                     MN               2 
+ 34105616       SQUEEBIT LLC                              25365 NEWPORT AVE                 NEW PRAGUE                  MN               3 
+ 34105041       TPS ARMS LLC                              47995 CEDARCREST TRAIL            RUSH CITY                   MN              16 
+ 34102463       VELOCITY LLC                              6315 RICE LAKE ROAD               DULUTH                      MN            1175 
+ 34105714       WOLDCO ARMS LLC                           8039 145TH AVE                    MILACA                      MN               2 
+ 54312627       ACCURACY ADDICTION LLC                    111 RIO DRIVE                     MOSCOW MILLS                MO               2 
+ 54309353       ACCURACY INDUSTRIES LLC                   6606 NE ANTIOCH RD                GLADSTONE                   MO               1 
+ 54313257       ADAMS GUNWORKS LLC                        805 NASHUA RD                     LIBERTY                     MO               9 
+ 54313481       ALIEN ARMORY TACTICAL LLC                 3126 WEST CLAY                    SAINT CHARLES               MO             115 
+ 54315503       ANATOLIAN ARMS LLC                        415 E. LIBERTY STREET             MEXICO                      MO               4 
+ 54306127       BLACK RAIN ORDNANCE INC                   11633 IRIS ROAD                   NEOSHO                      MO            6399 
+ 54314277       BOOGER COUNTY OUTFITTERS LLC              9435 HWY N STE A                  MOUNTAIN GROVE              MO               3 
+ 54305482       CEDAR FALLS TACTICAL, LLC                 3519 CEDAR FALLS ROAD SUITE A     BONNE TERRE                 MO              19 
+ 54307126       CHEROKEE FIREARMS LLC                     1500 W COLLEGE                    SPRINGFIELD                 MO              51 
+ 54301610       CMMG INC                                  2301 BOONSLICK DR                 BOONVILLE                   MO            3133 
+ 54303892       COMPETITIVE EDGE GUN WORKS LLC            17154 CR 180                      BOGARD                      MO               3 
+ 54303117       COUNTRY GUN SHOP LLC                      6949 EAST 20TH STREET             JOPLIN                      MO               2 
+ 54309531       CRESCENT CUSTOMS LLC                      405 EAST 13TH AVE                 NORTH KANSAS CITY           MO              34 
+ 54315338       CURTIS, ISAIAH ESAU                       39981 ORCHID ST                   CLARENCE                    MO              16 
+ 54314655       DG FIREARMS LLC                           22733 LICK CREEK ESTATES          PERRY                       MO               6 
+ 54339122       ED BROWN PRODUCTS, INC                    43825 MULDROW TRAIL               PERRY                       MO               2 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                       01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

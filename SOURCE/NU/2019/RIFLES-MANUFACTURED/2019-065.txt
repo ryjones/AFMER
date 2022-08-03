@@ -1,0 +1,38 @@
+                                                           RIFLES MANUFACTURED IN 2019 
+  RDS KEY       LICENSE NAME                              STREET                             CITY                       ST       RIFLE MFG 
+ 46106623       NEMESIS ARMS INC                          102 REED DR                       PARK CITY                    KY             59 
+ 46107575       OPS SUPPLY INC                            820 BUCK CREEK ROAD               SIMPSONVILLE                 KY             11 
+ 46105298       PERSONAL DEFENSE SYSTEMS LLC              14177 HERRING MILL RD             HOPKINSVILLE                 KY              2 
+ 46108081       PTP TACTICAL LLC                          3181 STATE ROUTE 121 S            MAYFIELD                     KY             14 
+ 46108237       RANGE AMERICA FTC, INC                    3021 OLD HUSBANDS RD              PADUCAH                      KY              2 
+ 46103520       WM C ANDERSON INC                         1743 ANDERSON BLVD                HEBRON                       KY           1551 
+ 46108263       WM C ANDERSON INC                         1743 ANDERSON BOULEVARD           HEBRON                       KY           1822 
+ 57206119       556 TACTICAL, LLC                         4705 HWY 15                       WINNSBORO                    LA             11 
+ 57206038       AK TACTICAL COATINGS LLC                  3700 LAPALCO BLVD SUITE J         HARVEY                       LA              1 
+ 57203561       ALL WEATHER ARMS, LLC                     128 ROBERTSON RD                  BALL                         LA              7 
+ 57205707       ASCENSION ARMS LLC                        10185 BOBBY MARCHAND LN           SAINT AMANT                  LA             11 
+ 57205673       BAYOU TECHE GUNS LLC                      136 MARKET ST                     ARNAUDVILLE                  LA              3 
+ 57206041       BOURGEOIS, STEVEN JAMES                   528 N MILLET                      GRAMERCY                     LA             11 
+ 57205738       BREWD ARMS LLC                            740 EVANGELINE RD                 MONTZ                        LA              2 
+ 57233690       CLARK CUSTOM GUNS INC                     336 SHOOTOUT LN                   PRINCETON                    LA              6 
+ 57205671       DANIEL LLC                                102 DAYBREAK DR                   SUNSET                       LA             39 
+ 57204714       DAVCO SERVICES LLC                        1655 SWAN LAKE ROAD               BOSSIER CITY                 LA             18 
+ 57205544       FLOWERS, JOSEPH TREVOR                    1452 HWY 135                      RAYVILLE                     LA              2 
+ 57205773       GULF COAST POWDER COATING LLC             169 THOMPSON RD                   HOUMA                        LA              4 
+ 57205427       HOSS SERVICES LLC                         320 BRUCE RD                      GEORGETOWN                   LA              1 
+ 57205057       IIA DEFENSE LLP                           1954 HWY 22 WEST                  MADISONVILLE                 LA              5 
+ 57205922       INTEGRAL ARMS LLC                         2930 BELMONT AVE                  BATON ROUGE                  LA              1 
+ 57205882       ISTRE BROTHERS ENTERPRISE LLC             1208 FOURTH ST                    LAKE ARTHUR                  LA              1 
+ 57205201       JBW CUSTOM LLC                            529 W MCKINLEY                    HAUGHTON                     LA              9 
+ 57203445       KEA WEAPONS SYSTEMS LLC                   2811 FALMOTH DR                   SHREVEPORT                   LA              3 
+ 57204729       KMW LONG RANGE SOLUTIONS LLC              1405 FRANK ANDREWS BLVD STE B     ALEXANDRIA                   LA             15 
+ 57203371       L & H GUNSMITH OF BASTROP LLC             918 NORTH WASHINGTON ST           BASTROP                      LA              2 
+ 57205691       LOUISIANA RANGE GUN CLUB INC              313 W LAFAYETTE ST                MAURICE                      LA              9 
+ 57203726       MESA KINETIC RESEARCH LLC                 13238 AIRLINE HIGHWAY             GONZALES                     LA             10 
+ 57206005       MICKEY'S ARMS & AMMO LLC                  441 SILVERLEAF                    MANSFIELD                    LA              4 
+ 57205017       MOODY CUSTOM ARMS LLC                     128 DOE LN                        BENTON                       LA              1 
+ 57205187       MOORE, DAVID E SR                         1214 BIG FOUR CORNERS RD          JEANERETTE                   LA              2 
+ 57205314       NEELY, JAMES EDWARD JR                    5235 TOPSY BEL RD                 LAKE CHARLES                 LA             46 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                       01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

@@ -1,0 +1,40 @@
+                                                      MISC. FIREARMS MANUFACTURED IN 2019 
+  RDS KEY        LICENSE NAME                                    STREET                              CITY                        ST      MISC FA MFG 
+  60604374       METALLURGICAL PROCESSING INC                    68 ARTHUR STREET                   NEW BRITAIN                  CT               74 
+  60600773       O F MOSSBERG & SONS INC                         7 GRASSO AVE                       NORTH HAVEN                  CT               13 
+  60602196       STANDARD MANUFACTURING CO LLC                   100 BURRITT STREET                 NEW BRITAIN                  CT              185 
+  60600763       STURM, RUGER & COMPANY, INC                     1 LACEY PL                         SOUTHPORT                    CT                2 
+  15932944       AA TACTICAL INC                                 451 N FERDON BLVD                  CRESTVIEW                     FL              66 
+  15952184       ADAMS ARMS HOLDINGS, LLC                        21228 POWELL ROAD                  BROOKSVILLE                   FL              39 
+  15912791       ADEQ FIREARMS COMPANY                           4921 WEST CYPRESS STREET           TAMPA                         FL               1 
+  15926564       AMTEC LESS LETHAL SYSTEMS INC                   4700 PROVIDENCE RD                 PERRY                         FL              72 
+  15951134       AR'S BY DESIGN LLC                              490 NORTH STREET SUITE 104         LONGWOOD                      FL               8 
+  15907991       ARES DEFENSE SYSTEMS INC                        1100 WOODY BURKE ROAD              MELBOURNE                     FL             359 
+  15930118       ARTICLE II FIREARMS LLC                         25430 NW 8TH LN STE 100            NEWBERRY                      FL              24 
+  15950459       AZT TECHNOLOGY LLC                              10130 MARKET STREET SUITE 7        NAPLES                        FL             101 
+  15931514       B&T USA LLC                                     1911 US HWY 301 N SUITE 480 & 470  TAMPA                         FL              23 
+  15932857       BALLISTIC ADVANTAGE LLC                         540 LOGISTICS LN STE 60            OCOEE                         FL              35 
+  15950730       BAYSHORE GUNS AND GOLD INC                      6350 BAYSHORE RD                   NORTH FORT MYERS              FL               2 
+  15931644       BLACK CREEK PRECISION LLC                       5151 SUNBEAM ROAD SUITE 9,10,11    JACKSONVILLE                  FL             183 
+  15950414       BLACKBURN, LARRY DOYLE                          5406 SYCAMORE DR                   PENSACOLA                     FL               3 
+  15932137       BOA GUN SHOP LLC                                10201 NE 233 ST RD                 ORANGE SPRINGS                FL               2 
+  15948882       BUIS INC                                        1201 HAMLET AVE                    CLEARWATER                    FL               5 
+  15932528       CENTRAL FLORIDA CUSTOM TRAILERS INC             9620 BOGGY CREEK RD                ORLANDO                       FL            9391 
+  15925543       DIV 3 INC                                       1440 & 1460 SOUTH LEAVITT AVE      ORANGE CITY                   FL              89 
+  15913631       DNS SIGNS & LIGHTING INC                        2520 32ND AVE N                    SAINT PETERSBURG              FL              46 
+  15951708       FAILZERO LLC                                    3300 SW 42ND AVE                   PALM CITY                     FL               1 
+  15931697       FROG BONES LLC                                  404 SOUTH HARBOR CITY BLVD         MELBOURNE                     FL             189 
+  15950976       GHOST FIREARMS LLC                              828 S NOVA RD                      DAYTONA BEACH                 FL             594 
+  15932796       GO2 WEAPONS INC                                 1650 CHAFFEE DRIVE                 TITUSVILLE                    FL               2 
+  15923284       JERICHO SERVICES LLC                            6354 49TH STREET NORTH             PINELLAS PARK                 FL              20 
+  15940998       KNIGHTS MANUFACTURING CO                        701 COLUMBIA BLVD                  TITUSVILLE                    FL              12 
+  15950544       KOVACS, DEREK                                   29 BASS LAKE DR                    DEBARY                        FL               5 
+  15911510       LEMON, LARRY                                    373 SW KESTOR DR                   PORT SAINT LUCIE              FL               3 
+  15949790       MCCUTCHEN FIREARMS LLC                          1515 GUNN HWY                      ODESSA                        FL              28 
+  15932010       MORIARTI ARMAMENTS LLC                          7315 NW 46 ST                      MIAMI                         FL             222 
+  15950121       MUTINY ARMS LLC                                 2701 SUCCESS DR                    ODESSA                        FL              45 
+  15906911       MVB INDUSTRIES INC                              510 GOOLSBY BLVD BAY #5            DEERFIELD BEACH               FL              42 
+  15932747       OLD GLORY GUN WORKS INC                         402 LAKE ST                        UMATILLA                      FL               2 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                           01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

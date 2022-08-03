@@ -1,0 +1,42 @@
+                                                    PISTOLS MANUFACTURERS EXPORTED IN 2019 
+  RDS KEY     LICENSE NAME                                   STREET                              CITY                          ST      PISTOLS 
+  60413900   TROY INDUSTRIES INC                            151 CAPITAL DR                       WEST SPRINGFIELD              MA           175 
+  60435456   SAEILO, INC                                    130 GODDARD MEMORIAL DR              WORCESTER                     MA           200 
+  60414143   SMITH & WESSON INC.                            2100 ROOSEVELT AVENUE                SPRINGFIELD                   MA            8 
+  85208550   TRIDENT LLC                                    2006 HUNTWOOD DR                     GAMBRILLS                     MD            13 
+  60102979   CRAWFORD, JOE D                                2 EMANUEL DR                         BRUNSWICK                     ME 
+  34105161   IDEAL CONCEAL INC                              4280 SCHOOL BLVD                     MONTICELLO                    MN           483 
+  34101717   NORDIC COMPONENTS INC                          79 EAST 8TH STREET                   WACONIA                       MN            41 
+  34103314   MAGNUM RESEARCH INC                            12602 33RD AVE SW                    PILLAGER                      MN           279 
+  54339122   ED BROWN PRODUCTS, INC                         43825 MULDROW TRAIL                  PERRY                         MO            12 
+  54310039   BIXLER, CHRISTOPHER A                          213 MORGAN ST                        AUXVASSE                      MO            2 
+  54315017   SMITH & WESSON SALES COMPANY                   1800 N RTE Z                         COLUMBIA                      MO         15495 
+  16404549   REMINGTON ARMS COMPANY LLC                     366 STATELINE RD                     SOUTHAVEN                     MS          1206 
+  98102233   LEWIS DEFENSE LLC                              2120 INDUSTRIAL DR                   BOZEMAN                       MT            5 
+  15612984   TRAILBLAZER FIREARMS LLC                       388 CANE CREEK RD                    FLETCHER                      NC            25 
+  15609063   STURM RUGER & COMPANY INC                      271 CARDWELL RD                      MAYODAN                       NC          1643 
+  15609451   ANGSTADT ARMS LLC                              803 PRESSLEY ROAD STE 102            CHARLOTTE                     NC           288 
+  54701811   HATCHER GUN COMPANY LLC                        76650 RD 342                         ELSIE                         NE            2 
+  60202258   EVOLUTION ARMORY LLC                           424 ROUTE 125 UNIT 6                 BRENTWOOD                     NH            2 
+  60201816   SIG SAUER INC                                  72 PEASE BLVD                        NEWINGTON                     NH         48965 
+  60201608   WILCOX INDUSTRIES CORP                         25 PISCATAQUA DR                     NEWINGTON                     NH            6 
+  60200735   STURM, RUGER & COMPANY, INC                    529 SUNAPEE ST                       NEWPORT                       NH            81 
+  82200698   HENRY RAC HOLDING CORP                         59 E 1ST ST                          BAYONNE                        NJ          764 
+  98800094   ARSENAL INC                                    4395 W POST RD UNIT 100              LAS VEGAS                     NV            45 
+  98805402   THE 1911 GUYS INC                              4560 DONOVAN WAY #K                  NORTH LAS VEGAS               NV            14 
+  98804206   CENTRE FIREARMS CO INC                         180 CASSIA WAY UNIT 505-506          HENDERSON                     NV           190 
+  61101138   CENTRE FIREARMS CO INC                         47-40 METROPOLITAN AVE               RIDGEWOOD                     NY            21 
+  61300458   KIMBER MFG INC                                 1120 SAW MILL RIVER RD               YONKERS                       NY          2368 
+  61601132   AMCHAR WHOLESALE, INC                          100 AIRPARK DR                       ROCHESTER                     NY            16 
+  57304247   BP OUTFITTERS LLC                              6709 E 41ST ST                       TULSA                         OK            1 
+  57302798   COLD HAND ARMS LLC                             615 W WILSHIRE  STE 1400             OKLAHOMA CITY                 OK            2 
+  82506113   CABOT GUN COMPANY LLC                          501 WINFIELD ROAD                    CABOT                          PA           24 
+  82310076   LAUSCH, LYDIAN                                 RD 2                                 JONESTOWN                      PA 
+  82307692   PRITTS, WESTON LEE & BURIAN, ANTHONY WILLIAM   100 W SECOND ST UNIT 7               HUMMELSTOWN                    PA           29 
+  15702581   FN AMERICA, LLC                                797 OLD CLEMSON ROAD                 COLUMBIA                      SC          2037 
+  34600877   REMINGTON ARMS COMPANY LLC                     1209 AND 1310 INDUSTRY RD            STURGIS                       SD            5 
+  16207387   REPLOGLE, STEVEN CHARLES                       118 CAPTAIN AVE                      ELIZABETHTON                   TN           8 
+  16236907   BARRETT FIREARMS MFG INC                       5926 MILLER LANE                     MURFREESBORO                   TN           13 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                               01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

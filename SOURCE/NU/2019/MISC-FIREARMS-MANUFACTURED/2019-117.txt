@@ -1,0 +1,40 @@
+                                                     MISC. FIREARMS MANUFACTURED IN 2019 
+  RDS KEY        LICENSE NAME                                  STREET                              CITY                        ST     MISC FA MFG 
+  34104159       SOTA ARMS INC                                 39719 GRAND AVE                     NORTH BRANCH                MN             4901 
+  54301691       ARNOLD DEFENSE AND ELECTRONICS LLC            3000 ARNOLD TENBROOK RD             ARNOLD                      MO              42 
+  54305437       BADGER ORDNANCE LLC                           1830 JASPER ST                      NO KANSAS CITY              MO              13 
+  54306127       BLACK RAIN ORDNANCE INC                       11633 IRIS ROAD                     NEOSHO                      MO             6537 
+  54310645       BRICE BREEDEN ENTERPRISES LLC                 330 EVERGREEN DR                    SULLIVAN                    MO               2 
+  54311537       BROCKFELD, PAUL E                             727 E BOONESLICK RD                 TRUESDALE                   MO              18 
+  54307126       CHEROKEE FIREARMS LLC                         1500 W COLLEGE                      SPRINGFIELD                 MO              42 
+  54301610       CMMG INC                                      2301 BOONSLICK DR                   BOONVILLE                   MO             992 
+  54312736       HENRY LEE'S GUNS AND AMMO LLC                 820 N WEST BYPASS                   SPRINGFIELD                 MO              15 
+  54306091       PRECISION MACHINED PARTS INC                  845 E CENTRAL AVE                   NEVADA                      MO             339 
+  54303230       RALEIGH, DARIN EUGENE                         18622 AUDRAIN CO RD 937             MEXICO                      MO               2 
+  54314542       SAVAGE DEFENSE LLC                            10743 COUNTY RD 62                  SAVANNAH                    MO              21 
+  54315017       SMITH & WESSON SALES COMPANY                  1800 N RTE Z                        COLUMBIA                    MO             1734 
+  54312841       TUTTLE'S GUNS AND GUNSMITHING LLC             607 RICHARDS ST                     SUMMERSVILLE                MO               1 
+  16405246       BIG BEE BEE LLC                               610 MAPLE WOOD RD                   CARTHAGE                    MS               5 
+  16404924       BROWN, JOHN GREGORY SR                        1193 SHERMAN AVE                    VICKSBURG                   MS               1 
+  16403789       BRYANT'S MACHINE SHOP, INC                    5734 HWY 80 W                       JACKSON                     MS               8 
+  16404072       COTTON BRANCH CUSTOM FIREARMS LLC             915 ALLEN RD                        SMITHDALE                   MS               1 
+  16403539       FIANNA SYSTEMS LLC                            2974 JEFFERSON ST                   MACON                       MS               5 
+  16405291       HELANBAK LLC                                  1481 HWY 13 NORTH                   COLUMBIA                    MS              15 
+  16404549       REMINGTON ARMS COMPANY LLC                    366 STATELINE RD                    SOUTHAVEN                   MS             2432 
+  16403899       TGC OUTDOORS LLC                              662 HWY 7 NORTH                     ABBEVILLE                   MS              27 
+  98102490       BEARDSLEY, TED                                308 E MAIN ST                       MANHATTAN                   MT              23 
+  98101194       BLACK GOLD CUSTOM ARMS INC                    312A ANDREA DRIVE                   BELGRADE                    MT               9 
+  98155388       C SHARPS ARMS CO INC                          100 CENTENNIAL DR                   BIG TIMBER                  MT               7 
+  98101187       DEFIANCE MACHINE INC                          3881 MT HWY 40 W                    COLUMBIA FALLS              MT             3419 
+  98102105       FALKOR, SID INC                               2902 HWY 93 NORTH                   KALISPELL                   MT             260 
+  98101706       NOREEN FIREARMS LLC                           131 JETWAY DRIVE                    BELGRADE                    MT             849 
+  98102557       WHEELER, ALEX                                 1390 MT-91 UNIT #J                  DILLON                      MT               1 
+  15612847       0326 WEAPONS FABRICATION LLC                  308 RED CEDAR DR                    SNEADS FERRY                NC               1 
+  15612578       AMBROSE, MICHAEL IV                           3954 STAG PARK ROAD                 BURGAW                      NC               2 
+  15608525       ANSON TACTICAL ARMS LLC                       2975 WHITE STORE RD                 WADESBORO                   NC              11 
+  15613240       BAT CAVE BALLISTICS INC                       156 REYNOLDS SCHOOL ROAD            ASHEVILLE                   NC               6 
+  15611439       BOGER, WESLEY SCOTT                           2034 MARTHA ELLEN RD                YADKINVILLE                 NC               2 
+  15611250       CAROLINA GUN AND RELOADING INC                993 LOWES LANE                      IRON STATION                NC               3 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                         01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

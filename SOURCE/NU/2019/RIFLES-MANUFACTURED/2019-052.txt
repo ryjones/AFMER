@@ -1,0 +1,38 @@
+                                                                   RIFLES MANUFACTURED IN 2019 
+  RDS KEY         LICENSE NAME                                    STREET                                  CITY                           ST        RIFLE MFG 
+  58407295        DICKS HOBBY SHOP LLC                            1406 W 8TH ST                           LOVELAND                        CO                1 
+  58404032        DORN, RICK A                                    45820 EAST 56TH AVE                     BENNETT                         CO                1 
+  58408515        DYK RIFLE AND MACHINE LLC                       11675 DALEY CIRCLE                      PARKER                          CO               10 
+  58406128        GENERAL COMMERCE LLC                            2041 BROADWAY 2ND FLOOR                 BOULDER                         CO                3 
+  58407693        GFC USA LLC                                     7185 GARDENSTONE DR                     COLORADO SPRINGS                CO                4 
+  58403287        GRE-TAN RIFLES LLC                              24005 HWY 13                            MEEKER                          CO                5 
+  58409305        GREENFIELD, JEREMIAH                            59313 IDA RD                            OLATHE                          CO                5 
+  58404509        GUN WORKS BY BRUCE LLC                          42808 PEARSON RANCH LOOP                PARKER                          CO                1 
+  58408587        HARTKE, LONNIE EUGENE                           1149 N PICKETWIRE LN                    PUEBLO WEST                     CO                3 
+  58401680        HERITAGE ARMS INC                               1631 P ROAD                             LOMA                            CO                3 
+  58404227        HIGH TECH CUSTOMS INC                           3109 N CASCADE AVE STE 103              COLORADO SPRINGS                CO               12 
+  58407571        HIGHER LEVEL DEFENSE LLC                        2209 20TH ST RD                         GREELEY                         CO                8 
+  58402313        HOGAN, THEODORE KENNETH                         1432 S NUCLA ST                         AURORA                          CO                4 
+  58404368        HOMELAND GUNSMITHING LLC                        915 SOUTH COUNTY RD # 137               BENNETT                         CO                5 
+  58408858        HRQ ENTERPRIZES LLC                             351 S MOBILE ST                         ELIZABETH                       CO                2 
+  58407161        JB TACTICAL LLC                                 11919 W I-70 FRONTAGE RD N SUITE 127    WHEAT RIDGE                     CO                8 
+  58406632        KOVAN MATCH RIFLES LLC                          537 CHICKADEE LANE                      BAILEY                          CO                7 
+  58409044        KYNA MUNITIONS LLC                              6955 PALMER PARK BLVD                   COLORADO SPRINGS                CO               15 
+  58407097        LIBERTY OR DEATH INC                            7795 KELBRAN LN                         WELLINGTON                      CO                9 
+  58402309        M+M INC                                         10909 IRMA DRIVE                        NORTHGLENN                      CO              252 
+  58400531        MCKINNEY, RICHARD PHILLIP                       1523 W HIGHWAY 34                       LOVELAND                        CO                1 
+  58405850        MILE HIGH SHOOTING ACCESSORIES LLC              3731 MONARCH ST                         ERIE                            CO               46 
+  58408190        OASIS CUSTOM FIREARMS LLC                       2935 N PROSPECT ST STE 100              COLORADO SPRINGS                CO               44 
+  58407525        OMEGA DEFENSE AND TACTICAL ARMORY LLC           2420 HOVER DR                           CASTLE ROCK                     CO                5 
+  58408628        PALMER DIVIDE CUSTOMS LLC                       2017 PRIVATE RD 104                     ELBERT                          CO                4 
+  58409566        PARAG, WAYNE E                                  1473 TOMICHI DR                         FRANKTOWN                       CO                1 
+  58405752        PHOENIX WEAPONRY LLC                            504 2ND ST                              BERTHOUD                        CO               24 
+  58405648        PROCESS LIMITED                                 8760 ROSEBUD PL                         PARKER                          CO                4 
+  58408852        RIEGS, LLC                                      691 SHOSHONE CT                         WINDSOR                         CO                1 
+  58407038        ROCKY MOUNTAIN PECISION RIFFLES INC             385 MIRA SOL DR                         DURANGO                         CO               58 
+  58407659        ROTATING BOLT INDUSTRIES LLC                    8052 S PARKER RD                        CENTENNIAL                      CO                8 
+  58407771        SPELLMAN ENTERPRISES LLC                        2462 WAYNOKA RD                         COLORADO SPRINGS                CO                1 
+  58408667        SS RIFLES LLC                                   290 PARK AVE                            MEEKER                          CO               20 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                                           01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

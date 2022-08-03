@@ -1,0 +1,45 @@
+                                                       PISTOLS MANUFACTURED IN 2019 
+                                                                                     PISTOL     PISTOL    PISTOL     PISTOL    PISTOL     PISTOL     PISTOL
+  RDS KEY     LICENSE NAME               STREET                CITY           ST          22        25        32        380      9MM          50     TOTAL 
+  15610397   PILOT MOUNTAIN ARMS LLC     412 AMBER DAWN LN    RALEIGH         NC          0          0         0          0         0          3          3 
+  15612398   PRICE ARMORY LLC            125 W PALMER STREET  RAEFORD         NC          0          0         0          0         1          1          2 
+  15609712   RD'S GUNS AND AMMO LLC      1901 LIBERTY DR      THOMASVILLE     NC          0          6         0          0         0          0          6 
+  15604372   RIFLEMAN CONSULTING LLC     201 REMINGTON LANE   CARTHAGE        NC         13          0         5          0         5          0         23 
+  15608729   RTD PRECISION LLC           1333 LOOP RD         BUNNLEVEL       NC          0          0         0          0         2          3          5 
+  15610453   SILENTARMS LLC              304 SORRELL DRIVE    WENDELL         NC          0          0         0          0         3          0          3 
+  15610522   STICKLE, WILLIAM ROBERT     1402 TIMBER LANE     ASHEBORO        NC          4          0         1          1         0          0          6 
+  15609063   STURM RUGER & COMPANY       271 CARDWELL RD      MAYODAN         NC       42305     19922       3731    106664         4          0     172626 
+             INC 
+  15611510   THE AK GUY INC              581 EXECUTIVE PL  STE  FAYETTEVILLE  NC          0          0         0          0         0          1          1 
+                                         100 A 
+  15612663   THE ROCK GUNS INC           5329 YADKIN RD       FAYETTEVILLE    NC          2          0         0          0         1         15         18 
+  15607560   TMW ENTERPRISES LLC         3520 GILLEY DR       JONESVILLE      NC          0          1         0          0         0          0          1 
+  15612984   TRAILBLAZER FIREARMS LLC    388 CANE CREEK RD    FLETCHER        NC        3453         0         0          0         0          0       3453 
+  15604887   USA TACTICAL FIREARMS LLC  102 2ND ST SE         CATAWBA         NC          0          0         0          0         0          5          5 
+  15612674   ZRODELTA LLC                100 BEIERSDORF DR    RUTHERFORD      NC          0          0         0          0       325          0        325 
+                                                              COLLEGE 
+  34501258   DAKOTA GUNS LLC             875 8TH AVE SOUTH    WAHPETON        ND          1          0         0          2         3          0          6 
+  34501221   MACK TACTICAL CUSTOM        3327 46TH AVE S      FARGO           ND          0          0         0          0         3          0          3 
+             FIREARMS AND GUNSMITHING 
+             LLC 
+  34500555   NODAK ARMS INC              601 104TH STREET SE  MINOT           ND          7          0         0          0         0          0          7 
+  34501059   ROUGHRIDER ARMS LLC         5201 GATEWAY DR UNIT  GRAND FORKS    ND         134         4         8          0         5          0        151 
+                                         2 
+  54702255   88 TACTICAL BUILDING GROUP  15350 SHEPARD ST     OMAHA           NE         71         46        21         96       1083       168       1485 
+             LLC 
+  54702562   ALY AND KAUFMAN LLC         545 SOUTH 19TH AVE   BROKEN BOW      NE          0          0         0          0         1          0          1 
+  54701905   CHAMBERS CUSTOM LLC         1226 COUNTY ROAD 2250 WILBER         NE          0          0         0          0        34         15         49 
+  54702483   CUSTOM GUN SOLUTIONS LLC  347 E 1ST STREET       GREENWOOD       NE          0          8         0          0         3          0         11 
+  54734146   CYLINDER & SLIDE INC        245 E 4TH ST         FREMONT         NE          0          0         0          2        17         20         39 
+  54701183   FCW LLC                     5370 HWY 77          CORTLAND        NE          0          0         0          0         1          2          3 
+  54702467   GRIESS GUN ARMS LLC         637 JANSEN RD        DANNEBROG       NE          2          0         0          0         0          0          2 
+  54701811   HATCHER GUN COMPANY LLC  76650 RD 342            ELSIE           NE          1          0         1          0         0          0          2 
+  54702409   KIIKER, JUSTIN D            304 W PINE           DONIPHAN        NE          1          0         0          0         1          0          2 
+  54702022   MEAD INDUSTRIES INC         411 WALNUT ST        WOOD RIVER      NE          0          0         0          0         2          0          2 
+  54701615   OMAHA TACTICAL RANGE AND  6481 1/2 S 86TH CIRCLE  RALSTON        NE          0          4         1          0         1          0          6 
+             SUPPLY INC 
+  54702538   SNYDER, W CRAIG             2100 E 13 ST         CRETE           NE          0          0         0          0         2          0          2 
+  54702347   Z HANGING SPUR LLC          10979 724 RD         OXFORD          NE          0          0         0          0         0          2          2 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                            01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

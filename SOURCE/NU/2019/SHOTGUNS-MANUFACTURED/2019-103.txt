@@ -1,0 +1,40 @@
+                                                                  SHOTGUNS MANUFACTURED IN 2019 
+  RDS KEY          LICENSE NAME                                          STREET                                   CITY                            ST      SHOTGUN MFG 
+  16307089         BARBOUR CREEK LLC                                     200 SELF RD                              EUFAULA                          AL                  1 
+  16305280         MACH III INC                                          6640 CR 1101                             VINEMONT                         AL                  5 
+  16307888         RED PHOENIX DEFENSE LLC                               106 JUDSON CT                            PRATTVILLE                       AL                  1 
+  16305652         REMINGTON ARMS COMPANY LLC                            1816 REMINGTON CIRCLE SW                 HUNTSVILLE                       AL                374 
+  16307883         ROCKET CITY GUN WORKS, LLC                            23884 WALES ST                           ELKMONT                          AL                  1 
+  57105201         DSKTB GROUP LLC                                       103 SW WINSTED LN STE 29                 BENTONVILLE                      AR                 41 
+  57105851         WE-R-ARS, INC                                         5517 WHEELER AVE                         FORT SMITH                       AR                  1 
+  57134716         WILSONS GUN SHOP INC                                  2452 CR 719                              BERRYVILLE                       AR                146 
+  98607683         ASGARD DEFENSE SYSTEMS LLC                            7810 N US HIGHWAY 89 SUITE 320           FLAGSTAFF                        AZ                  1 
+  98605029         BROWN, TIMOTHY DAVID                                  14201 N GIBSON TRL                       TUCSON                           AZ                  1 
+  98605178         DISRUPTIVE PRODUCTS INC                               1683 W GRANT RD STE 102                  TUCSON                           AZ                  2 
+  98609918         GERVASE, ANDREW MICHAEL                               30151 N 149TH STREET                     SCOTTSDALE                       AZ                  3 
+  98608267         SUAREZ INTERNATIONAL USA INC                          1616 WEST IRON SPRINGS RD #3             PRESCOTT                         AZ                  4 
+  98604535         TOTEM DEPT STORES                                     527 W. MCDOWELL RD.                      PHOENIX                          AZ 
+  96804544         BISHOP AMMUNITION MANUFACTURING LLC                   3221 ELKHORN AVE #27                     NORTH HIGHLANDS                  CA                  3 
+  96805068         RED LINE ENGINEERING INC                              4616 WEED PATCH COURT                    GREENWOOD                        CA                  1 
+  93306083         RIDER MUNITIONS LLC                                   16816 S BROADWAY ST                      GARDENA                          CA                  2 
+  97703355         SOULIE, MARC B                                        2128 N FIRST ST UNIT C                   SAN JOSE                         CA                112 
+  58402304         C S SERVICE                                           RT 3 BOX 162                             LONGMONT                         CO 
+  58409483         CRITICAL DEFENSE SYSTEMS LLC                          277 COUNTY ROAD 50 UNIT B                GUNNISON                         CO                  1 
+  58402371         LIPPARD, KARL                                         2544 PATRIOT HTS                         COLORADO SPRINGS                 CO                  4 
+  58407038         ROCKY MOUNTAIN PECISION RIFFLES INC                   385 MIRA SOL DR                          DURANGO                          CO                  1 
+  60634862         CONNECTICUT SHOTGUN MANUFACTURING CO                  100 BURRITT STREET                       NEW BRITAIN                      CT                243 
+  60600773         O F MOSSBERG & SONS INC                               7 GRASSO AVE                             NORTH HAVEN                      CT                 81 
+  60602196         STANDARD MANUFACTURING CO LLC                         100 BURRITT STREET                       NEW BRITAIN                      CT               1337 
+  60600763         STURM, RUGER & COMPANY, INC                           1 LACEY PL                               SOUTHPORT                        CT                  1 
+  15908565         AMERICAN METAL FINISHING CORPORATION                  7594 CHANCELLOR DRIVE                    ORLANDO                          FL                  1 
+  15930118         ARTICLE II FIREARMS LLC                               25430 NW 8TH LN STE 100                  NEWBERRY                         FL                  1 
+  15932857         BALLISTIC ADVANTAGE LLC                               540 LOGISTICS LN STE 60                  OCOEE                            FL                  1 
+  15932137         BOA GUN SHOP LLC                                      10201 NE 233 ST RD                       ORANGE SPRINGS                   FL                  1 
+  15932528         CENTRAL FLORIDA CUSTOM TRAILERS INC                   9620 BOGGY CREEK RD                      ORLANDO                          FL                  2 
+  15913631         DNS SIGNS & LIGHTING INC                              2520 32ND AVE N                          SAINT PETERSBURG                 FL                 17 
+  15940806         KEL TEC CNC INDUSTRIES INC                            1475 COX ROAD                            COCOA                            FL              22434 
+  15911510         LEMON, LARRY                                          373 SW KESTOR DR                         PORT SAINT LUCIE                 FL                  1 
+  15951405         LIGHTS N MORE INSTALLATIONS LLC                       958 JOSIANE CT                           ALTAMONTE SPRINGS                FL                  1 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                                                01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

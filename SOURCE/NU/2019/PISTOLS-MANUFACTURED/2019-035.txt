@@ -1,0 +1,50 @@
+                                                           PISTOLS MANUFACTURED IN 2019 
+                                                                                             PISTOL     PISTOL      PISTOL     PISTOL     PISTOL      PISTOL      PISTOL
+  RDS KEY      LICENSE NAME                 STREET                  CITY             ST           22         25         32        380        9MM           50      TOTAL 
+  98703474    IMPACT INC                    4343 W 7800 S STE B     WEST JORDAN      UT            0          0          0           0          5           0           5 
+  98702334    IRON MOUNTAIN FIREARMS        387 N 300 W             CEDAR CITY       UT            0          0          0           0          0           2           2 
+              LLC 
+  98702881    JANKE CUSTOM ARMS LLC         150 S 100 W             WILLARD          UT            1          0          0           0          0           0           1 
+  98701641    JEPPSON, BRIAN COLE           5408 W 10180 N          HIGHLAND         UT            0          0          0           0          5           3           8 
+  98703558    L & D CUSTOM ARMS LLC         847 WEST 3270 SOUTH     HURRICANE        UT            1          0          0           0          0           1           2 
+  98703963    M TERRY CONSULTING, INC       15121 SOUTH GALLANT     BLUFFDALE        UT            0          1          0           0          0           0           1 
+                                            DR 
+  98701922    MACHINE GUN ARMORY LLC        545 W 9460 S            SANDY            UT            0          0          0           0          2           2           4 
+  98703105    MOA CUSTOMS LLC               2323 E ROLLING OAKS     LAYTON           UT            0          0          0           0          0           1           1 
+                                            LN 
+  98703396    MOUNTAIN TOP ADVENTURES  13951 SOUTH IVIE             HERRIMAN         UT            0          0          0           0          0           5           5 
+              INC                           FARMS DRIVE 
+  98734026    NORTH AMERICAN ARMS INC       2150 S 950 E            PROVO            UT            0         38        380         192          0           0         610 
+  98704363    OUTDOOR ADVENTURE             1617 W 1000 S           SYRACUSE         UT            0          0          0           0          3           1           4 
+              COMPANY LLC 
+  98701606    RED ROCK PRECISION LLC        181 N COMMERCIAL ST     MORGAN           UT            0          0          0           2          1           0           3 
+  98703127    SEELY, JORDAN JAMES           3194 NORTH              MOUNT            UT            1          0          0           2         23           4          30 
+                                            MOUNTAINVILLE RD        PLEASANT 
+  98703758    SHANESON CONSULTING           1124 S CONCORD          SALT LAKE CITY   UT            1          0          0           0          0           0           1 
+              GROUP LLC                     STREET 
+  98701056    SILENCERCO, LLC               5511 SOUTH 6055 WEST  WEST VALLEY        UT            0          0          0           0        159           0         159 
+                                                                    CITY 
+  98704238    SIMPER & COMPANY LLC          5166 TICKLEGRASS        WEST JORDAN      UT            0          0          0           0          2           0           2 
+                                            ROAD 
+  98702241    SKYARMS LLC                   5408 WEST 10180 NORTH HIGHLAND           UT            0          0          0           0          1           0           1 
+  98702726    SPECTRE, LLC                  1020 WEST 600 SOUTH     LINDON           UT            0          0          0           0          0           2           2 
+                                            STE 200 
+  98702386    STAHELI'S SHOOTING            363 E 200 S             PLEASANT         UT            1          0          1           0          0           0           2 
+              SUPPLIES LLC                                          GROVE 
+  98704240    TDJ BUYER, LLC                550 NORTH CEMETERY      GUNNISON         UT            0          0          0           0         17           0          17 
+                                            RD BUILDING #1 
+  98734710    TDJ INC                       550 NORTH CEMETERY      GUNNISON         UT            0          0          0           0         48           0          48 
+                                            ROAD, BUILDING #1 
+  98703761    TRAJECTORY ARMS LLC           1049 WILDFLOWER WAY  SPRINGVILLE         UT            0          2          0           0          0           0           2 
+  98703598    USACCURACY AND BRASS LLC  1322 N SCOTCH PINE DR  DUCHESNE              UT          17           0         10           0          4           1          32 
+  98701861    WASATCH ARMS LLC              286 EAST EAGLERIDGE     NORTH SALT       UT            0          0          0           0          3           0           3 
+                                            DR                      LAKE 
+  98734724    ZDF IMPORT/EXPORT, LLC        925 W 100 N SUITE A     NORTH SALT       UT            0         58         32           0         17           0         107 
+                                                                    LAKE 
+  15410684    ACCURACY X, INC               733 MIDDLE VALLEY RD  HARDY              VA            0          0          0           0         22          23          45 
+  15423622    ALEXANDER INDUSTRIES INC      104 CENTRE CT           RADFORD          VA            0          0          0           0          0         162         162 
+  15412412    APPALACHIAN GUN WORKS         4568 BLUE RIDGE BLVD  BLUE RIDGE         VA            4          0          3           0          3           0          10 
+              LLC 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                                          01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

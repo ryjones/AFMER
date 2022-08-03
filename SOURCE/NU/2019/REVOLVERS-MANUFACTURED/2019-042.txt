@@ -1,0 +1,46 @@
+                                                        REVOLVERS MANUFACTURED IN 2019 
+  RDS KEY    LICENSE NAME                 STREET                CITY           ST      RVLR 22     RVLR 32   RVLR 357    RVLR 38    RVLR 44     RVLR 50  RVLR TOTL 
+ 54315017    SMITH & WESSON SALES        1800 N RTE Z          COLUMBIA        MO         3892           0      20323      40272      11034        7725      83246 
+             COMPANY 
+ 54313812    TERRY TACTICAL INC          505 SW BONANZA DR     LEES SUMMIT     MO            1           0          0          0          0           0          1 
+ 54312841    TUTTLE'S GUNS AND           607 RICHARDS ST       SUMMERSVILLE  MO              0           0          1          0          0           0          1 
+             GUNSMITHING LLC 
+ 16405181    FINAL PROTECTIVE LINE LLC   610 CR 50325          ROSE HILL        MS           1           0          1          0          0           0          2 
+ 98102201    DERRY, MICHAEL              628 IRON GROUSE RD    TROY             MT           0           0          0          0          0           1          1 
+ 98102889    HEFFERNAN DRUG INC          103 GLACIER DR        LOLO             MT           0           0          0          0          1           0          1 
+ 98102420    PLS MANAGEMENT LLC          3616 EASTSIDE HWY     STEVENSVILLE     MT           0           0          0          0          0           2          2 
+ 98101871    YATES, WAYNE EDWARD         538 FESCUE SLOPE      FLORENCE         MT           0           0          1          0          0           0          1 
+                                         ROAD 
+ 15612365    INNOVATIVE ENDEAVORS INC    111 DEALWOOD DR       STATESVILLE      NC           0           0          0          0          0           2          2 
+ 15609063    STURM RUGER & COMPANY INC  271 CARDWELL RD        MAYODAN          NC           1           0          0          0          0           0          1 
+ 15604887    USA TACTICAL FIREARMS LLC   102 2ND ST SE         CATAWBA          NC           0           0          0          0          0           1          1 
+ 34501258    DAKOTA GUNS LLC             875 8TH AVE SOUTH     WAHPETON         ND          14           0          0          0          0           0         14 
+ 34501221    MACK TACTICAL CUSTOM        3327 46TH AVE S       FARGO            ND           0           0          0          0          1           0          1 
+             FIREARMS AND GUNSMITHING 
+             LLC 
+ 54702255    88 TACTICAL BUILDING GROUP  15350 SHEPARD ST      OMAHA            NE          14           0          0          0         40          13         67 
+             LLC 
+ 54734146    CYLINDER & SLIDE INC        245 E 4TH ST          FREMONT          NE           0           0          1          0          0           0          1 
+ 60204276    2A TACTICAL LLC             99 TOLEND RD          BARRINGTON       NH           0           2          0          1          0           0          3 
+ 60201484    STURM, RUGER & COMPANY,     411 SUNAPEE ST        NEWPORT          NH         296          10        481         72        120          69       1048 
+             INC 
+ 60200735    STURM, RUGER & COMPANY,     529 SUNAPEE ST        NEWPORT          NH      102509         406      46071      10702      12191       11209     183088 
+             INC 
+ 58502501    JK GUNSMITHING LLC          16 ZANJA ROAD         SAN ANTONIO     NM            0           0          0          2          0           0          2 
+ 58501585    ROY, ROBERT                 5940-A MIDWAY PARK    ALBUQUERQUE     NM            0           1          2          5          0           0          8 
+                                         BLVD 
+ 98805459    JACKSON, DARREN AND         585 CAPISTRANO DR     SPARKS           NV           1           0          0          0          0           0          1 
+             HEATHER 
+ 98802391    WILD WEST GUNS LLC          5225 WYNN ROAD        LAS VEGAS        NV           0           0          0          0          0           8          8 
+ 61601079    CZ-USA INC                  65 BORDEN AVE         NORWICH          NY           0           0         58          0          0           0         58 
+ 61300606    GOOD GUYS GUNS AND AMMO     161 SOUTH             NANUET           NY           1           0          0          0          0           0          1 
+             LLC                         MIDDLETOWN RD 
+ 61300458    KIMBER MFG INC              1120 SAW MILL RIVER RD YONKERS         NY           0           0       4790          0          0           0       4790 
+ 61101084    SURVIVABILITY SERVICES      65 MONTAUK HIGHWAY  EAST HAMPTON  NY                0           0          0          2          0           0          2 
+             INTERNATIONAL LLC 
+ 43403352    DNB ARMS LLC                1704 W MAIN ST        LOUISVILLE       OH           0           0          0          0         16           0         16 
+ 43405654    JOHNSON, TONY DALE          2648 BLACK OAK DR     NILES            OH           0           0          0          0          0           2          2 
+ 43104596    PRECISION DEFENSE LLC       1858 CEDAR HILL RD    LANCASTER        OH           0           0          1          0          0           0          1 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                               01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

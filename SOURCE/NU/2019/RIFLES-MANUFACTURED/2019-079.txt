@@ -1,0 +1,38 @@
+                                                                   RIFLES MANUFACTURED IN 2019 
+  RDS KEY         LICENSE NAME                                    STREET                                 CITY                           ST         RIFLE MFG 
+  61300458        KIMBER MFG INC                                  1120 SAW MILL RIVER RD                 YONKERS                         NY             3702 
+  61602574        LAGENDYK, JEFFREY M                             213 ELDER DRIVE                        FARMINGTON                      NY                4 
+  61100308        LRB OF LONG ISLAND INC                          96 CHERRY LANE                         FLORAL PARK                     NY               49 
+  61604442        LUCHETTA, COREY NICHOLAS                        980 FISHER RD                          STAMFORD                        NY              351 
+  61400873        MANEY, MICHAEL THOMAS                           35 LOCUST GROVE RD                     SARATOGA SPRINGS                NY                8 
+  61101425        NIOSI FIREARMS DEVELOPMENT LLC                  200 ROGERS WAY STE D                   WESTHAMPTON BEACH               NY               16 
+  61603743        POGGI, JOHN J III                               16640 CR 155                           WATERTOWN                       NY                2 
+  61602475        REMINGTON ARMS COMPANY LLC                      14 HOEFLER AVE                         ILION                           NY             2152 
+  61602560        REX AGENCY LLC                                  2363 STATE ROUTE 69 BLDG B             PARISH                          NY                1 
+  61604450        SON OF A GUN LLC                                60 SYRACUSE ST                         BALDWINSVILLE                   NY               25 
+  61101399        STRONG ISLAND ARMORY INC                        434 / 438 SUNRISE HWY                  ROCKVILLE CENTRE                NY                7 
+  61101084        SURVIVABILITY SERVICES INTERNATIONAL LLC        65 MONTAUK HIGHWAY                     EAST HAMPTON                    NY                3 
+  61602575        TAMOL, THOMAS PAUL                              685 WELCH RD                           JAVA CENTER                     NY                3 
+  61601135        TURNBULL MANUFACTURING COMPANY                  6680 RT 5-20                           BLOOMFIELD                      NY               13 
+  61604523        WARMBRODT, DOUGLAS ERIC                         462 HILL RD                            HILTON                          NY                2 
+  61604542        WOLCOTT GUNS INC                                3052 WALDEN AVE                        DEPEW                           NY               13 
+  43102394        ACRODYNE MFG CO                                 41 KINGSTON AVE                        COLUMBUS                        OH               43 
+  43403691        AQUA GRAPHIX LLC                                3829 HAMILTON AVE STE 200              CLEVELAND                       OH               18 
+  43406248        ARMSCOTE GUN FINISHING LLC                      12715 STATE RT 113                     WAKEMAN                         OH                1 
+  43404791        ARTEMIS ARMS LLC                                50 JACKSON ST                          PORT CLINTON                    OH               22 
+  43103870        ASSAULT WEAPONS OF OHIO LLC                     582 N FAIRFIELD RD                     BEAVERCREEK                     OH               69 
+  43406097        B, KING'S FIREARMS, TRAINING AND RETAIL LLC     200 W MAIN ST SUITE C                  ELIDA                           OH               23 
+  43404950        BDSI INC                                        12117 BEREA RD                         CLEVELAND                       OH               39 
+  43404865        BEACHLER, WILLIAM THOMAS                        634 HYDE SHAFFER RD                    BRISTOLVILLE                    OH                1 
+  43105898        BRAUN, STEVEN A                                 3366 PATTERSON HALPIN RD               HOUSTON                         OH                6 
+  43405538        BRIAN POWLEY ENGRAVERS LLC                      206 OAKWOOD AVE                        BLOOMINGDALE                    OH                1 
+  43403656        BULLSEYE CUSTOM SHOP LLC                        1380 BONNIE DR                         MANSFIELD                       OH                1 
+  43403105        CHESHIER, SHAWN                                 10007 FRANCHESTER RD                   BURBANK                         OH                5 
+  43403909        CITIZENS FIREARMS TRAINING LLC                  10175 QUEENS WAY UNIT 7                CHAGRIN FALLS                   OH                2 
+  43405649        CLASS 3 TOYS LLC                                6880 CORINTH COURT RD                  FARMDALE                        OH                8 
+  43104897        CQMD LLC                                        3840 LACON RD UNIT 7                   HILLIARD                        OH               27 
+  43106559        CUTTER MACHINE WORKS LLC                        10280 CROUSE WILLISON RD               JOHNSTOWN                       OH                2 
+  43404700        DARK TOWER LLC                                  5940 CEDAR POINT RD                    OREGON                          OH                1 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                                          01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

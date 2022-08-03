@@ -1,0 +1,50 @@
+                                                       PISTOLS MANUFACTURED IN 2019 
+                                                                                     PISTOL     PISTOL    PISTOL     PISTOL    PISTOL     PISTOL     PISTOL
+  RDS KEY     LICENSE NAME               STREET                CITY           ST          22        25        32        380      9MM          50     TOTAL 
+  58409044   KYNA MUNITIONS LLC          6955 PALMER PARK     COLORADO        CO          3          0         0          0         3          0          6 
+                                         BLVD                 SPRINGS 
+  58402893   LEGACY CUSTOM PRODUCTS      65 NORTH SKYLANE DR  DURANGO         CO          0          0         0          0         1          0          1 
+             INC 
+  58402371   LIPPARD, KARL               2544 PATRIOT HTS     COLORADO        CO          0          0         0          0         0         20         20 
+                                                              SPRINGS 
+  58408190   OASIS CUSTOM FIREARMS LLC  2935 N PROSPECT ST    COLORADO        CO          0          1         0          0         0          1          2 
+                                         STE 100              SPRINGS 
+  58405752   PHOENIX WEAPONRY LLC        504 2ND ST           BERTHOUD        CO          1          0         0          0         0          0          1 
+  58404219   PTC ENTERPRISES LLC         2803 JUNCTION ST     DURANGO         CO          1          0         0          0         0          0          1 
+  58407038   ROCKY MOUNTAIN PECISION     385 MIRA SOL DR      DURANGO         CO          0          0         0          0         2          0          2 
+             RIFFLES INC 
+  58407278   STOKER, BROCK               3141 52ND AVE        GREELEY         CO          0          0         0          0         5          0          5 
+  58404115   TRIGGER TIME GUN CLUB LLC  3575 STAGECOACH RD    LONGMONT        CO          0          0         0          0         7          4         11 
+  58408169   VIKING ARMAMENT LLC         596 23 1/2 RD        GRAND           CO          0         32         2          0         0          0         34 
+                                                              JUNCTION 
+  60604566   ANTWORKS PRECISION LLC      54 VENTA DRIVE       NORTHFORD       CT          2          0         0          0         0          0          2 
+  60603306   COLT'S MANUFACTURING        545 NEW PARK AVE     WEST            CT          0          0         0        456       7831     20735      29022 
+             COMPANY LLC                                      HARTFORD 
+  60602599   DELTA ARSENAL LLC           342 QUINNIPIAC ST BLD 8 WALLINGFORD  CT          0          0         0          0         1          0          1 
+  60601238   JOJOS GUNWORKS LLC          122 SPRING ST D9     SOUTHINGTON     CT          0          0         0          0         0          7          7 
+  60600773   O F MOSSBERG & SONS INC     7 GRASSO AVE         NORTH HAVEN     CT          0          0         0          0         6          0          6 
+  60604716   SMITH TACTICAL LLC          160 CHRISTIAN STREET  OXFORD         CT          0          0         0          0         4          0          4 
+  60602196   STANDARD MANUFACTURING      100 BURRITT STREET   NEW BRITAIN     CT        3786         0         0          0         0        623       4409 
+             CO LLC 
+  60600763   STURM, RUGER & COMPANY,     1 LACEY PL           SOUTHPORT       CT         36          0         0         14        50         21        121 
+             INC 
+  60603402   USA FIREARMS CORP           119 ROWLEY STREET    WINSTED         CT          0          0         0          0         0         21         21 
+  15932944   AA TACTICAL INC             451 N FERDON BLVD    CRESTVIEW       FL          0          0         0          0         0          1          1 
+  15952184   ADAMS ARMS HOLDINGS, LLC    21228 POWELL ROAD    BROOKSVILLE     FL         52          0         0          0        73          0        125 
+  15926771   ADVANCED TACTICAL           4579 BEE RIDGE ROAD  SARASOTA        FL          1          0         0          0         0          0          1 
+             FIREARMS LLC 
+  15917575   ADVANCED WEAPONS &          1508 INDUSTRIAL DR   NEW SMYRNA      FL          0          0         0          0         0          1          1 
+             FIREARMS LLC                                     BEACH 
+  15908565   AMERICAN METAL FINISHING    7594 CHANCELLOR      ORLANDO         FL          0          0         0          0         1          0          1 
+             CORPORATION                 DRIVE 
+  15905746   AMERICAN VINTAGE GUN AND  4920 LENA RD UNIT 102 & BRADENTON      FL          0          0         0          0        10          0         10 
+             PAWN, INC                   103 
+  15909126   AMMO DUMP INTERNATIONAL  1556 S STATE ROAD 53    MADISON         FL         19          0         0          0         4          0         23 
+             LLC 
+  15951134   AR'S BY DESIGN LLC          490 NORTH STREET     LONGWOOD        FL          0          0         0          0         6          1          7 
+                                         SUITE 104 
+  15907991   ARES DEFENSE SYSTEMS INC  1100 WOODY BURKE       MELBOURNE       FL         329         0        165         0         0          0        494 
+                                         ROAD 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                            01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

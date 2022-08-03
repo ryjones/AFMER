@@ -1,0 +1,48 @@
+                                                       PISTOLS MANUFACTURED IN 2019 
+                                                                                     PISTOL     PISTOL    PISTOL     PISTOL    PISTOL     PISTOL     PISTOL
+  RDS KEY     LICENSE NAME               STREET                CITY           ST          22        25        32        380      9MM          50     TOTAL 
+                                         #100 
+  99303579   HELLER ENTERPRISES          504 MILTON WAY       ST HELENS       OR          0          0         0          0         0          2          2 
+             TACTICAL INC 
+  99305935   INMAN TACTICAL LLC          585 EMPRESS AVE      EUGENE          OR          0          0         0          0         1          0          1 
+  99301142   NOSLER, INC                 2115 SW 6TH STREET   REDMOND         OR          4          5        28          0         0          0         37 
+  99301001   NOVESKE RIFLEWORKS LLC      594 NE E ST          GRANTS PASS     OR          0        163        226         0       164          0        553 
+  99305420   OREGON GUN COMPANY LLC      17843 SE MCLOUGHLIN  MILWAUKIE       OR         15          0         0          0         0          0         15 
+                                         BLVD STE 1 
+  99303209   PACIFIC TRADING GROUP LLC  3395 48TH AVE NE      SALEM           OR         54          7         6         55       153         94        369 
+  99304043   R&J FIREARMS LIMITED        11225 YOUNGBERG HILL  MCMINNVILLE    OR          1          0         0          0         0          0          1 
+             PARTNERSHIP                 RD 
+  99304489   SUPERM ENTERPRISES LLC      725 BRIDGE ST        VERNONIA        OR         32          5         5         29       105         50        226 
+  99304359   V7 WEAPON SYSTEMS, LLC      450 FIR POINT LANE AGG  GLENDALE     OR          3          0        11          0         0          0         14 
+                                         BLDG 1 
+  99305963   WHITING, KREGG              548 N 4TH ST         CARLTON         OR          0          0         0          0         0          1          1 
+  99302088   YEAMANS, MATTHEW B          480 ROGUE RIVER PKWY  TALENT         OR          0          1         0          0         0          0          1 
+  82310753   717 ARMORY LLC              7500 DERRY ST        HARRISBURG      PA          0          0         8          0         0          0          8 
+  82309134   ARMORY LLC                  818 INTERCHANGE RD   KRESGEVILLE     PA          1          0         0          0         0          0          1 
+  82312290   BIG IRON CERAKOTING INC     156 N MAIN ST        SHAVERTOWN      PA          0          0         0          0        12          0         12 
+  82311376   BLUE LINE FIREARMS LLC      8039 MOUNTAIN VIEW   NORTHAMPTON     PA          0          7         2          0         7          0         16 
+                                         CIR 
+  82311882   COGAN FIREARMS LLC          1025 THOMAS DR       WARMINSTER      PA          0          0         0          0         2          0          2 
+  82310214   DAVIS, WILLIAM STANLEY AND  105 LANTERN LN       STEWARTSTOW  PA             0          0         0          0         1          2          3 
+             MERSON, JOHN MARSHALL                            N 
+  82310349   DEATH VALLEY TACTICAL LLC   265 SICKLER POND     JERMYN          PA          1          0         0          0         1          0          2 
+                                         ROAD 
+  82502681   EVANS MACHINING SERVICE     314 STATE STREET     CLAIRTON        PA          0          0         0          0         3          0          3 
+             INC 
+  82304778   FELEGIE, MICHAEL JR         1233 TOMHICKEN RD    FERN GLEN       PA          1          0         1          0         0          0          2 
+  82307379   FOXHOLE FIREARMS LLC        160 CRUM RD          FAIRFIELD       PA          3          0         4          3         7          6         23 
+  82507062   GIGLIOTTI RIFLEWORKS LLC    5373 BIG RUN         REYNOLDSVILLE  PA           0          0         0          0         1          0          1 
+                                         PRESCOTTVILLE RD 
+  82304507   GRANT, ROBERT ANDREW        1134 SHERWOOD DR     LAURYS          PA         12          1         0          3         4         15         35 
+                                                              STATION 
+  82308739   GUARDIAN TRAINING CENTER  1528 CAMPUS DRIVE      WARMINSTER      PA          0          2         0          0         0          0          2 
+             LLC 
+  82306295   JMB DISTRIBUTION LLC        856 GRANDELL AVE     READING         PA          2          0         0          0         0          0          2 
+  82507564   JMC TACTICAL LLC            296 MURDOCKSVILLE RD  CLINTON        PA         15          0         3          0         7          0         25 
+  82302834   KEYSTONE SPORTING ARMS      155 SODOM RD         MILTON          PA         472         0         0          0         0          0        472 
+             LLC 
+  82304234   LANCER SYSTEMS LP           2800 MILFORD SQUARE  QUAKERTOWN      PA          0          2         0          0         0          0          2 
+                                         PKE 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                            01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

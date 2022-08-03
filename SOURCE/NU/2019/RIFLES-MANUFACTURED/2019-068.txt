@@ -1,0 +1,38 @@
+                                                              RIFLES MANUFACTURED IN 2019 
+  RDS KEY        LICENSE NAME                                STREET                               CITY                         ST       RIFLE MFG 
+  43808413       GRID INTERNATIONAL SECURITY SOLUTIONS LLC   38099 SCHOOLCRAFT SUITE 119          LIVONIA                       MI            166 
+  43807369       HIGH CALIBER FIREARMS LLC                   7730 N 6TH ST                        KALAMAZOO                     MI              1 
+  43811012       I R C  CUSTOMS LLC                          230 GARRETSON TRAIL                  OXFORD                        MI              5 
+  43806487       J & J PRECISION FIREARMS LLC                27680 YANKEE ST                      EDWARDSBURG                   MI              1 
+  43807837       J&D ARMAMENT LLC                            5921 HOLLOW CORNERS RD               DRYDEN                        MI              1 
+  43808788       KICKIN STEEL CUSTOM ARMS, LLC               10292 GORDON RD                      FENTON                        MI             17 
+  43807157       LOADER MONKEY LLC                           15232 BENTWOOD TRAIL                 PETERSBURG                    MI              4 
+  43808431       LOW SIGNATURE SOLUTIONS LLC                 1217 CHICAGO RD                      TROY                          MI              1 
+  43809176       MID MICHIGAN ARMORY LLC                     1665 FISH LAKE RD                    LAPEER                        MI              2 
+  43810891       MIDWEST DEFENSE CORP                        15543 BIRCH DR                       TRAVERSE CITY                 MI              4 
+  43810774       MIDWEST MOUNTAIN HUNTER LLC                 1036 BURNS STREET                    HOWELL                        MI              4 
+  43811114       MOS A1 SERVICES, LLC                        9750 EASTON RD                       DEXTER                        MI              5 
+  43808216       NEXT LEVEL ARMAMENT LLC                     6778 - 18TH AVE                      JENISON                       MI             81 
+  43809663       NW ARMS LLC                                 4328 WALKER RD                       MARLETTE                      MI              8 
+  43803551       RED OAK GUNSMITHING, LTD                    20508 STATE STREET                   ONAWAY                        MI              1 
+  43810766       SHEPARD, MITCHELL PAUL                      6540 FULTON STREET SUITE 2           ADA                           MI              2 
+  43804970       SHUFF'S PARKERIZING LLC                     8300 WALWORTH RD                     JEROME                        MI              5 
+  43810091       SPEC ARMS LLC                               389 EAST DIVISION                    SPARTA                        MI             55 
+  43810337       SPINNERS FIT AND CHAMBER LLC                2638 142ND AVE STE B                 DORR                          MI             10 
+  43810251       THE LEAD BUNKER INC                         3791 ANN ARBOR ROAD                  JACKSON                       MI              2 
+  43806956       TURNER'S TACTICAL ARMS & GUNSMITHING LLC    1230 SOUTH RANGE RD                  ST CLAIR                      MI              7 
+  43809424       TYPE A RIFLE CO LLC                         2291 OAK INDUSTRIAL DR NE            GRAND RAPIDS                  MI            235 
+  43809911       VASILION, CHRISTOPHER & PHILLIP             14072 EVERETT STREET                 DEWITT                        MI              1 
+  43809872       WARLOK TACTICAL LLC                         12676 10 MILE RD STE B               SOUTH LYON                    MI              1 
+  43809932       WILLIS GUN LLC                              10280 BEMIS                          WILLIS                        MI             13 
+  43811212       YOOPER ARMORY LLC                           1619 7TH ST                          MENOMINEE                     MI              2 
+  34104920       ALEX PRO FIREARMS LLC                       8290 STATE HWY 29 N                  ALEXANDRIA                   MN            1640 
+  34104185       ALEXANDRIA PRO FAB CO INC                   8210 STATE HWY 29 NORTH              ALEXANDRIA                   MN              25 
+  34104884       BARRELS AND ARROWS LLC                      3041 US HWY 59                       MARSHALL                     MN               2 
+  34105138       BATTLE CREEK ARMORY LLC                     6969 S WASHINGTON AVE                EDINA                        MN               5 
+  34105229       DEAD ON ARMS INC                            6552 HWY 2                           CLOQUET                      MN              95 
+  34103165       DEER COUNTRY ARCHERY INC                    32981 COUNTY RD 24                   STARBUCK                     MN              15 
+  34137259       E ARTHUR BROWN CO INC                       4088 COUNTY ROAD 40 NW               GARFIELD                     MN               2 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                               01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

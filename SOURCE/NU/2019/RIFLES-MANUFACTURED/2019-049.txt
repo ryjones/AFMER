@@ -1,0 +1,38 @@
+                                                                RIFLES MANUFACTURED IN 2019 
+  RDS KEY        LICENSE NAME                                  STREET                                CITY                          ST        RIFLE MFG 
+  98611538       PEW PEW AZ LLC                                11104 E SEGURA AVE                    MESA                           AZ               1 
+  98601124       PIECE OF HISTORY FIREARMS, LLC                926 W PRINCE RD                       TUCSON                         AZ               5 
+  98609304       POOLE, WILLIAM JAMES                          910 WEST WICKENBURG WAY               WICKENBURG                     AZ              23 
+  98607693       PRECISION AMERICAN RIFLE LLC                  281 COUNTY ROAD 9213                  SNOWFLAKE                      AZ               1 
+  98604805       PRECISION FIREARM SERVICE AND SALES LLC       3220 E REDWOOD LN                     PHOENIX                        AZ               5 
+  98603638       PRECISION OPERATIONS LLC                      5907 E CALLE DE LA TIERRA             HEREFORD                       AZ               3 
+  98610545       PRECISION WORKS LLC                           3533 E CONTESSA CIRCLE                MESA                           AZ               4 
+  98607294       PREDATOR TECHNOLOGY GROUP LLC                 7942 WEST DEVONSHIRE AVENUE           PHOENIX                        AZ               5 
+  98609604       PRESCOTT CUSTOM GUNWORKS LLC                  578 MILLER VALLEY RD #C               PRESCOTT                       AZ               3 
+  98603707       QUENTIN LASER LLC                             1025 N MCQUEEN RD STE 153/154         GILBERT                        AZ              11 
+  98600222       R & S FIREARMS INC                            2183 MCCULLOCH BLVD                   LAKE HAVASU CITY               AZ               2 
+  98609368       RCK GUNWORKS LLC                              14380 EAST BRADSHAW RD                HUMBOLDT                       AZ               2 
+  98609826       REDACT WEAPONRY LLC                           5103 WEST LUPINE AVE                  GLENDALE                       AZ               7 
+  98609331       ROBAR COMPANIES INC                           1712 W ALOE VERA DR                   PHOENIX                        AZ              36 
+  98614807       ROE ARMORY LLC                                9250 N 43RD AVE STE 19                GLENDALE                       AZ               5 
+  98608964       S & S ARMS LLC                                4821 N WINCHESTER RD                  APACHE JUNCTION                AZ               1 
+  98605461       SAMCORP INC                                   1857 COMMANDER DR UNIT B              LAKE HAVASU CITY               AZ               2 
+  98609299       SD TACTICAL ARMS LLC                          6301 E NUGGET PATCH TRL               PRESCOTT                       AZ              26 
+  98604284       SEMENKO, WAYNE ANTHONY                        3441 S PALO VERDE STE 117-125         TUCSON                         AZ               1 
+  98605107       SENSENEY, MICHAEL E                           10962 NORTH LOCUST ST                 FLORENCE                       AZ               3 
+  98608309       SERENDIPITY INVESTMENTS MFG LLC               2 SOUTH MILTON RD                     FLAGSTAFF                      AZ              16 
+  98614878       SIERRA ARMS LLC                               23602 N 81ST ST                       SCOTTSDALE                     AZ               1 
+  98602330       SMITH ENTERPRISE INC                          1701 W 10TH ST 14                     TEMPE                          AZ               3 
+  98610341       SNYDER, SCOTT ARTHUR                          3622 W GLEESON RD                     ELFRIDA                        AZ               2 
+  98612151       STINNETT, CODY CLARK                          23662 W LEVI DR                       BUCKEYE                        AZ               3 
+  98607665       STRATEGIC ARMORY CORPS LLC                    525 E PINNACLE PEAK RD STE 100        PHOENIX                        AZ            1962 
+  98614472       STURM, RUGER & COMPANY, INC                   200 RUGER RD                          PRESCOTT                       AZ              10 
+  98605696       TACDRIVERS LLC                                2900 W GUNSITE RD                     PAULDEN                        AZ               2 
+  98610120       THOMPSON, WILLIAM JOHN                        896 CANYON BREEZE CT                  PRESCOTT                       AZ               1 
+  98605242       TOSSAN, GEORGE                                9851 E VOLTAIRE DR                    SCOTTSDALE                     AZ               7 
+  98604535       TOTEM DEPT STORES                             527 W. MCDOWELL RD.                   PHOENIX                        AZ 
+  98606279       TRITON ARMS LLC                               2947 KISH AVE STE A                   YUMA                           AZ              15 
+  98614852       VALLEY FORGE WEAPONRY LLC                     7000 EAST MAYO BLVD STE 1048          PHOENIX                        AZ               1 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                                    01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

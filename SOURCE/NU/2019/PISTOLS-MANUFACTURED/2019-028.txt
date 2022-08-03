@@ -1,0 +1,48 @@
+                                                       PISTOLS MANUFACTURED IN 2019 
+                                                                                     PISTOL     PISTOL    PISTOL     PISTOL    PISTOL     PISTOL     PISTOL
+  RDS KEY     LICENSE NAME               STREET                CITY           ST          22        25        32        380      9MM          50     TOTAL 
+  82311916   LOCONTE, ANTHONY            450 HILLTOP RD       YORK SPRINGS    PA          0          3         0          0         0          0          3 
+  82309400   LZK MANUFACTURING INC       28 ONION BLVD        SHREWSBURY      PA          0          0         0          0         1          0          1 
+  82507394   NINE SEVEN FIREARMS LLC     7927 LINDISFARNE DR  PITTSBURGH      PA          0          3         6          0         4          0         13 
+  82308115   ODD BROTHERS ARMORY LLC  1947 W. TRINDLE RD      CARLISLE        PA          2          0         0          0         0          0          2 
+  82311009   PATRIOT ARMORY AND          1000 REVENUE DR      TELFORD         PA          0          0         0          0         1          0          1 
+             COATINGS LLC 
+  82502864   PENN UNITED TECHNOLOGIES  799 NORTH PIKE RD      CABOT           PA          0          0         0          0         0         56         56 
+             INC 
+  82307692   PRITTS, WESTON LEE &        100 W SECOND ST UNIT  HUMMELSTOWN  PA            0          0         1          0        21          7         29 
+             BURIAN, ANTHONY WILLIAM     7 
+  82508856   RAPPA, CHRISTOPHER JAMES  830 STOUFFER AVE       CHAMBERSBUR     PA          1          0         0          1         3          0          5 
+                                                              G 
+  82507442   SDK UNLIMITED LLC           2617 VANCOUVER ST    GRAPEVILLE      PA          0         44        20          0         1          3         68 
+  82505096   SHAW PRECISION GUNS INC     382 WASHINGTON AVE   BRIDGEVILLE     PA          1          0         1          0         0          0          2 
+  82508256   STOCK & STEEL WEAPONRY      166 ZANES LANE       MCCLURE         PA          1          0         0          0         1          1          3 
+             LLC 
+  82310578   SURPLUS ARME DESIGN         1101 B ELSINORE PLACE  CHESTER       PA          0          0         0          0         4          1          5 
+             STUDIOS LLC 
+  82303270   U S ARMAMENT CORP           121 VALLEY VIEW DR   EPHRATA         PA          0          0        253         1         0          0        254 
+  82305930   WARWICK TACTICAL LLC        1917 MCFARLAND DR    LANDISVILLE     PA          0          0         0          0         2          0          2 
+  82303130   WELLS CUSTOM GUNMAKERS  1750 MALONEY HILL RD  NICHOLSON          PA          0          0         0          0         1          0          1 
+             LLC 
+  16600346   A E RODRIGUEZ INC           196 SEGARRA ST STE 2C  SAN JUAN      PR          0          0         0          0         0         12         12 
+  60500865   ATA MANUFACTURING INC       125 HARRISON AVE     WOONSOCKET      RI          0          0         0          0         0          2          2 
+  15704477   ACE FIREARMS INC            116 KAY DRIVE STE B  EASLEY          SC          0          0         0          0         8          0          8 
+  15704502   AMERICAN TACTICAL INC       231 DEMING WAY       SUMMERVILLE     SC          0          0         0          0       456      28176      28632 
+  15706257   AUTO MAG LTD CO             4232 MEADOW ST       LORIS           SC          0          0         0          0         0          5          5 
+  15703422   CORMAC ENTERPRISES INC      1205 38TH AVE N      MYRTLE BEACH    SC          0          2         0          0         0          0          2 
+  15705275   DOC'S TACTICAL WEAPONS      5712 HIGHWAY 25      HODGES          SC         12          0        32          0         2          0         46 
+             SYSTEMS LLC                 NORTH 
+  15706258   DRAGONFLY CUSTOM GUNS       3000 DRYWALL RD      MYRTLE BEACH    SC          0          0         0          0         6          4         10 
+             LLC 
+  15702581   FN AMERICA, LLC             797 OLD CLEMSON ROAD COLUMBIA        SC          0          0         0          0      32974     13016      45990 
+  15706379   GR8 DEALZ GUN & PAWN LLC    215 EDGEFIELD RD     NORTH           SC          0          0         0          0         0          7          7 
+                                                              AUGUSTA 
+  15705409   IKON WEAPONS LLC            1951 PISGAH ROAD,    FLORENCE        SC         36          0         0          0         0          0         36 
+                                         ROOM 125 
+  15701803   JARRETT RIFLES INC          383 BROWN RD         JACKSON         SC          0          0         0          0         0          7          7 
+  15706470   JONES, ALEXANDER            519 STICKLEY PLACE   LANCASTER       SC          0          0         0          0        10          0         10 
+  15706528   KRATOS TACTICAL LLC         6232 MCTOWN RD       LANCASTER       SC          0          0         0          0         0         14         14 
+  15706187   LEAD STAR LTD CO            2121 OLD DUNBAR ROAD  WEST           SC          0         48         3          0         0          0         51 
+                                                              COLUMBIA 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                            01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

@@ -1,0 +1,39 @@
+                                                              RIFLES MANUFACTURED IN 2019 
+  RDS KEY        LICENSE NAME                                STREET                               CITY                         ST       RIFLE MFG 
+  98703127       SEELY, JORDAN JAMES                         3194 NORTH MOUNTAINVILLE RD          MOUNT PLEASANT               UT              11 
+  98703758       SHANESON CONSULTING GROUP LLC               1124 S CONCORD STREET                SALT LAKE CITY               UT               6 
+  98703760       SPORTSMANS WAREHOUSE INC                    1630 SOUTH 5070 WEST SUITE 200       SALT LAKE CITY               UT               2 
+  98702386       STAHELI'S SHOOTING SUPPLIES LLC             363 E 200 S                          PLEASANT GROVE               UT              15 
+  98703258       STS MANUFACTURING LLC                       673 WEST 1ST ST BLDG 4A BAY 5        OGDEN                        UT               1 
+  98701886       SUB MOA FIREARMS LLC                        1669 NW HENEFER ROAD                 HENEFER                      UT              21 
+  98704240       TDJ BUYER, LLC                              550 NORTH CEMETERY RD BUILDING #1    GUNNISON                     UT           10411 
+  98734710       TDJ INC                                     550 NORTH CEMETERY ROAD, BUILDING    GUNNISON                     UT           17221 
+                                                             #1 
+  98703891       THE ARSENAL GUNSMITH, LLC                   4698 WEST POINT DR                   WEST VALLEY CITY             UT               3 
+  98703523       TOMORROW LLC                                975 E 200 S                          OREM                         UT               2 
+  98703761       TRAJECTORY ARMS LLC                         1049 WILDFLOWER WAY                  SPRINGVILLE                  UT               3 
+  98703598       USACCURACY AND BRASS LLC                    1322 N SCOTCH PINE DR                DUCHESNE                     UT             204 
+  98701861       WASATCH ARMS LLC                            286 EAST EAGLERIDGE DR               NORTH SALT LAKE              UT               4 
+  98703776       WHH FIREARMS LLC                            1724 N 6400 W                        CORINNE                      UT               2 
+  98702822       X CALIBUR ARMS LLC                          545 E 100 S                          MEADOW                       UT               6 
+  98734724       ZDF IMPORT/EXPORT, LLC                      925 W 100 N SUITE A                  NORTH SALT LAKE              UT              98 
+  15410684       ACCURACY X, INC                             733 MIDDLE VALLEY RD                 HARDY                        VA               2 
+  15423622       ALEXANDER INDUSTRIES INC                    104 CENTRE CT                        RADFORD                      VA             765 
+  15412412       APPALACHIAN GUN WORKS LLC                   4568 BLUE RIDGE BLVD                 BLUE RIDGE                   VA              40 
+  15424311       ASHBURY INTERNATIONAL GROUP INC             84 BUSINESS PARK CIR                 RUCKERSVILLE                 VA              19 
+  15413728       BACKGROUNDS UNLIMITED INC                   2309 LEE HWY                         MOUNT SIDNEY                 VA               4 
+  15414766       BE READY ENTERPRISES LLC                    5244 LAD LAND DR                     FREDERICKSBURG               VA              21 
+  15424905       BIRD, CURTIS LEE                            60 GREENRIDGE DRIVE                  STAFFORD                     VA               3 
+  15412358       BLACK WIDOW DESIGN LLC                      2309 LEE HIGHWAY                     MOUNT SIDNEY                 VA               3 
+  15424363       CURTIS, ZACHERY AND RICHARD JR              5571 HOLLINS RD STE C                ROANOKE                      VA              65 
+  15416091       DEFCON ONE LLC                              1001 B SPARROW RD                    CHESAPEAKE                   VA               6 
+  15424555       DEFCON ONE LLC                              1001 B SPARROW RD                    CHESAPEAKE                   VA               4 
+  15423758       DREGHAN DEFENSE LLC                         5900 THURSTON AVE STE B              VIRGINIA BEACH               VA               6 
+  15416108       E GIUFFRE INC                               400 GREYSTONE DR                     WIRTZ                        VA              13 
+  15423950       ENGINETEC INC                               1397 TAYLOR FARM RD                  VIRGINIA BEACH               VA               1 
+  15424182       EVANS, TIMOTHY RAY                          1849 CLEGHORN VALLEY RD              MARION                       VA               4 
+  15424531       FREEDOM FORGE ARMORY LLC                    7400 BRANDY CREEK DRIVE              MECHANICSVILLE               VA               1 
+  15424723       GLOVIER, STEPHEN                            217 DEAN HOLLOW RD                   NICKELSVILLE                 VA               3 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                               01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

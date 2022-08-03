@@ -1,0 +1,48 @@
+                                                               PISTOLS MANUFACTURED IN 2019 
+                                                                                                   PISTOL     PISTOL      PISTOL       PISTOL      PISTOL      PISTOL       PISTOL
+  RDS KEY       LICENSE NAME                   STREET                   CITY              ST           22          25          32         380        9MM            50      TOTAL 
+  57306271     1776 ENTERPRISES LLC            333840 E 1070 RD         MCLOUD            OK            0            0           0           1           2           0            3 
+  57304247     BP OUTFITTERS LLC               6709 E 41ST ST           TULSA             OK            0            0           0           0           1           0            1 
+  57302798     COLD HAND ARMS LLC              615 W WILSHIRE  STE      OKLAHOMA CITY  OK               1            0           1           0           0           0            2 
+                                               1400 
+  57302390     CUTTING EDGE ARMS LLC           6840 NW 11TH STREET      OKLAHOMA CITY  OK               0            0           0           0           1           1            2 
+  57306942     EDMOND ARMS, LLC                14113 OSAGE DR           EDMOND            OK            0            0           0           0           0           1            1 
+  57305807     ETCHED ORDNANCE LLC             23851 E. HWY 51 BLD 2    BROKEN            OK            0            4           0           0          10           0           14 
+                                                                        ARROW 
+  57304832     HARSH FIREARMS LLC              3535 MACDONNELL DR       NORMAN            OK            0            0           1           0           0           0            1 
+  57306211     INFINITY CUSTOM SERVICES        6644 SE QUAIL RIDGE RD  BARTLESVILLE       OK            0            3           0           0           0           0            3 
+               LLC 
+  57305618     IRON SIGHT INC                  4814 S ELWOOD AVE        TULSA             OK           13            0           0           0           0           0           13 
+  57306509     ISRAEL, JASON LEE               110721 S 4746 RD         MULDROW           OK            0            0           0           0           1           1            2 
+  57305294     JARVIS INC                      3609 W 109TH ST S        JENKS             OK            0            0           0           0           1           1            2 
+  57306996     MOREY, HOWARD MICHAEL           2408 N MOORE AVENUE  MOORE                 OK            0            3           1           0           1           0            5 
+  57305420     PARABELLUM COMBAT               301 WORLEY ST            STILWELL          OK            0            8           0           0          39           2           49 
+               SYSTEMS LLC 
+  57305132     PHILLIPS, DONALD LYLE           5115 HUGHES DR           TUTTLE            OK            0            0           0           0           1           0            1 
+  57302015     RED DIRT ARMORY LLC             9301 SW 99TH             MUSTANG           OK            0            0           0           0           1           1            2 
+  57306448     RED ROCK FIREARMS LLC           6226 E LAKE HELLUMS      ENID              OK           19            0           1          17         118          46          201 
+                                               RD 
+  57307081     SHADOW FOX ORDNANCE LLC  12517 JERRAD LN                 MCLOUD            OK            0            1           0           0           0           0            1 
+  57306647     UF ENTERPRISES LLC              1509 VAIL DR             EDMOND            OK            0            0           0           0           2           1            3 
+  57304484     WHITE, RICHARD EDWARD           41139 BEAR RD            TERLTON           OK            0            0           0           0           2           0            2 
+  99304076     3 GUYZ, INC                     7940 NE NICHOLAS CT      HILLSBORO         OR            1            0           0           0           0           0            1 
+                                               UNIT B 
+  99304223     A-TEAM ARMS LLC                 201 SE 10TH ST           GRANTS PASS       OR            0            0           0           0           5           0            5 
+  99303414     ALPHA GUN SYSTEMS LLC           4835 NOREN AVE NE        KEIZER            OR            3            0           0           0           0           0            3 
+  99305934     AVANT GARDE MEDIA LLC           21088 S HWY 211 SUITE  COLTON              OR            0            1           0           0           0           0            1 
+                                               D 
+  99305785     AXTS INC                        875 NE KINGWOOD AVE  REDMOND               OR            0          53           34           0           0           0           87 
+  99303808     B N B ARMORY LLC                16187 MEADOWS RD         WHITE CITY        OR            2            0           0           0           0           0            2 
+  99301526     CALICO LIGHT WEAPON             1090 HEMLOCK ST          ELGIN             OR            2            0           0           0           3           0            5 
+               SYSTEMS 
+  99305826     ELKHORN TRAIL RIFLES LLC        667 DEER VALLEY LANE  COTTAGE              OR           11            0           2           0           0           0           13 
+                                                                        GROVE 
+  99303182     EMERALD VALLEY ARMORY           147 W OREGON AVE         CRESWELL          OR            1            0           4           0           1           2            8 
+               LLC 
+  99305401     EXAKT EDGE MANUFACTURING  2880 FERRY ST SW               ALBANY            OR            0            0           0           0           1           0            1 
+               INC 
+  99304356     GREYHOUND TACTICAL              9575 SW BEAVERTON-       BEAVERTON         OR            5            0           0           0           0           0            5 
+               SOLUTIONS, LLC                  HILLSDALE HWY SUITE 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                                                   01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

@@ -1,0 +1,38 @@
+                                                              RIFLES MANUFACTURED IN 2019 
+  RDS KEY        LICENSE NAME                                STREET                              CITY                         ST       RIFLE MFG 
+  16306445       MULKEY, JAMES ALVIN                         642 PINE RD                         PELL CITY                     AL               4 
+  16307655       PLUNDEROSA FIREARMS, LLC                    2126 KIRKMAN DR                     BIRMINGHAM                    AL               7 
+  16307888       RED PHOENIX DEFENSE LLC                     106 JUDSON CT                       PRATTVILLE                    AL               3 
+  16305652       REMINGTON ARMS COMPANY LLC                  1816 REMINGTON CIRCLE SW            HUNTSVILLE                    AL            1847 
+  16307883       ROCKET CITY GUN WORKS, LLC                  23884 WALES ST                      ELKMONT                       AL               7 
+  16306411       SCB ENTERPRISES LLC                         1799 COUNTY RD 226                  MOULTON                       AL               2 
+  16303984       STEYR ARMS, INC.                            2530 MORGAN ROAD                    BESSEMER                      AL            1380 
+  16307788       THE ARMORY GUNS AND AMMO LLC                2639 PELHAM PARKWAY                 PELHAM                        AL               6 
+  16306842       TOMBIGBEE PRECISION LLC                     200 4TH AVE                         GROVE HILL                    AL               5 
+  16307513       TOWNSEND, MICHAEL                           7179 MILL WAY                       TUSCALOOSA                    AL               3 
+  57105524       4 B PRECISION RIFLES LLC                    16707 HWY 13 S                      HUMNOKE                       AR               2 
+  57105827       A&K SOUTHERN SHOT LLC                       2218 NARROWS RD                     LONSDALE                      AR               3 
+  57105198       AKWORX INCORPORATED                         106 CANTWELL LANE                   GASSVILLE                     AR               2 
+  57102051       BLANKENSHIP, SCOTTY L                       17227 RIVER VALLEY RD               SILOAM SPRINGS                AR               5 
+  57105448       BOHANNON, BRET AND GILLEY, MARVIN           121 RIVERSIDE PARK RD               SEARCY                        AR               1 
+  57103276       BUCHANAN, DAVID LANCE                       216 TINKLE CIRCLE                   MOUNTAIN VIEW                 AR               1 
+  57104828       COBB, ROBERT ALLEN                          404 N DUDNEY ST                     MAGNOLIA                      AR               1 
+  57103826       CRUCIBLE ARMAMENT LLC                       43 CR 4254                          JONESBORO                     AR               3 
+  57105201       DSKTB GROUP LLC                             103 SW WINSTED LN STE 29            BENTONVILLE                   AR              95 
+  57104824       EVANS, JIMMY M                              360 SILZELL DR                      MOUNTAIN HOME                 AR              10 
+  57104512       FEDERAL ARMAMENT LLC                        5730 N 6TH ST                       FORT SMITH                    AR            1650 
+  57104924       HASKINS, DALE LYNN                          614 W MAIN ST                       WALNUT RIDGE                  AR               3 
+  57105502       J & J GUNSMITHING AND HYDROGRAPHICS         25174 HWY 71 N                      MANSFIELD                     AR               6 
+  57105258       JED'S SPORTING GOODS LLC                    56 FINE WAY                         ALMA                          AR               2 
+  57105246       LEWIS, ROBERT TODD                          17900 AUSTIN LN                     LITTLE ROCK                   AR              10 
+  57105752       LONGSHOT FIREARMS, LLC                      315A S SEBASTIAN                    WEST HELENA                   AR               3 
+  57105663       MCINTOSH, MONTE WAYNE                       303 PHILLIPS RD 241                 LEXA                          AR               1 
+  57100526       OZARK PRECISION RIFLES, LLC                 6471 MC 4018                        YELLVILLE                     AR               5 
+  57105281       SPECIALTY GUN WORKS LLC                     1041 HINSON RD                      EL DORADO                     AR               2 
+  57105439       STRIPLIN, WILLIAM A JR                      4942 SPEER ST                       FORT SMITH                    AR               6 
+  57102593       TOP NOTCH ACCESSORIES, INC.                 2823 SR 124                         RUSSELLVILLE                  AR               3 
+  57105851       WE-R-ARS, INC                               5517 WHEELER AVE                    FORT SMITH                    AR               1 
+  57103652       WILDMAN ARMS & OUTFITTERS INC               25502 INTERSTATE 30 N               BRYANT                        AR               4 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                              01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

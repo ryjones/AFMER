@@ -1,0 +1,38 @@
+                                                              RIFLES MANUFACTURED IN 2019 
+  RDS KEY        LICENSE NAME                                STREET                                CITY                        ST        RIFLE MFG 
+  54701183       FCW LLC                                     5370 HWY 77                          CORTLAND                      NE              15 
+  54702467       GRIESS GUN ARMS LLC                         637 JANSEN RD                        DANNEBROG                     NE               6 
+  54701811       HATCHER GUN COMPANY LLC                     76650 RD 342                         ELSIE                         NE               5 
+  54702474       HEARTLAND CUSTOM LLC                        2475 HAWTHORN STREET                 SEWARD                        NE              21 
+  54702598       INNER 10 WEAPONS AND TRAINING LLC           8910 MILITARY ROAD                   OMAHA                         NE               1 
+  54702022       MEAD INDUSTRIES INC                         411 WALNUT ST                        WOOD RIVER                    NE               3 
+  54701615       OMAHA TACTICAL RANGE AND SUPPLY INC         6481 1/2 S 86TH CIRCLE               RALSTON                       NE              33 
+  54701179       PERFECT TURNING INC                         218 E THIRD STREET                   KIMBALL                       NE               7 
+  54701865       TO HALL MOTOR CO, INC                       2415 2ND AVE                         KEARNEY                       NE               1 
+  54702347       Z HANGING SPUR LLC                          10979 724 RD                         OXFORD                        NE               2 
+  54701663       ZERMATT ARMS INC                            100 MONROE ST                        BENNET                        NE               5 
+  60204276       2A TACTICAL LLC                             99 TOLEND RD                         BARRINGTON                    NH              37 
+  60203274       603 COATINGS LLC                            44 PEACHAM RD                        CENTER BARNSTEAD              NH               1 
+  60204239       AEDAN PRECISION LLC                         552 CENTER RD                        HILLSBOROUGH                  NH               2 
+  60202055       BLACK OP ARMS LLC                           224 WASHINGTON STREET                CLAREMONT                     NH              61 
+  60204086       CARMON PRECISION LLC                        27 MADISON CIR                       HILLSBOROUGH                  NH               5 
+  60202708       GREAT NORTHERN SPORTS CENTER INC            237 ROCKINGHAM RD                    DERRY                         NH               2 
+  60201938       HOOK, ANTHONY PAUL                          18 LAMY DR UNIT #5                   GOFFSTOWN                     NH              24 
+  60205137       KEENE GUYS PERFORMANCE SOLUTIONS LLC        497 NH RTE 12 N                      FITZWILLIAM                   NH               9 
+  60203705       LAKES AREA GUNWORKS LLC                     152 COLBATH RD                       CTR BARNSTEAD                 NH               4 
+  60202082       LAUZE, WILLIAM SCOTT                        105 UNION STREET STE 2               WHITEFIELD                    NH              11 
+  60202715       MACPHERSON FIREARMS LLC                     87 ROUTE 27                          BRENTWOOD                     NH              16 
+  60201012       MATRIX AEROSPACE CORPORATION                421 RIVER ROAD                       CLAREMONT                     NH               7 
+  60202267       OLD GLORY GUNS & AMMO LLC                   781 FITCHBURG ROAD                   GREENVILLE                    NH              19 
+  60205145       ORCHARD ARMORY LLC                          70 SANDOWN RD                        DANVILLE                      NH               2 
+  60202814       Q LLC                                       4 CUTTS ST UNIT 3                    PORTSMOUTH                    NH             909 
+  60202671       ROBERTS, RAYMOND WALLACE III                17 HALE RD                           WINCHESTER                    NH               4 
+  60202354       RP ABRASIVES & MACHINE INC                  20 SPAULDING AVE UNIT 2              ROCHESTER                     NH            4794 
+  60201816       SIG SAUER INC                               72 PEASE BLVD                        NEWINGTON                     NH           22204 
+  60201484       STURM, RUGER & COMPANY, INC                 411 SUNAPEE ST                       NEWPORT                       NH            1124 
+  60200735       STURM, RUGER & COMPANY, INC                 529 SUNAPEE ST                       NEWPORT                       NH          298665 
+  60203422       UNITED RESEARCH AND DEVELOPMENT LLC         25 COMMERCIAL DRIVE UNIT #6          BRENTWOOD                     NH               1 
+  60205104       US RIFLE, LLC                               91 DOOE ROAD                         DUBLIN                        NH               8 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                                01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

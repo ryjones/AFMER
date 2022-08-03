@@ -1,0 +1,41 @@
+                                                          MISC. FIREARMS MANUFACTURED IN 2019 
+  RDS KEY         LICENSE NAME                                      STREET                                 CITY                          ST      MISC FA MFG 
+  98804314        RED ROCK RIFLEWORKS LLC                           101 W BROOKS AVE UNIT K               NORTH LAS VEGAS                NV                21 
+  98803073        VEGAS ARMORY LLC                                  55 W MAYFLOWER AVE                    NORTH LAS VEGAS                NV                11 
+  61604410        BAXTER & SONS ARMORY LTD                          43 NORTH 2ND ST                       ALLEGANY                       NY                 2 
+  61602265        BRISTOL, CHRISTOPHER RAYMOND                      2394 STATE ROUTE 174                  MARIETTA                       NY                 2 
+  61101081        DARK STORM INDUSTRIES LLC                         4116 AND 4122 SUNRISE HIGHWAY         OAKDALE                        NY              1854 
+  61603100        FERMER PRECISION INC                              114 JOHNSON RD                        ILION                          NY              1167 
+  61100308        LRB OF LONG ISLAND INC                            96 CHERRY LANE                        FLORAL PARK                    NY                83 
+  61603465        PERFORMANCE PAINTBALL INC                         1250 SCOTTSVILLE RD SUITE 30A         ROCHESTER                      NY                40 
+  61603743        POGGI, JOHN J III                                 16640 CR 155                          WATERTOWN                      NY                 9 
+  61602475        REMINGTON ARMS COMPANY LLC                        14 HOEFLER AVE                        ILION                          NY               235 
+  61101399        STRONG ISLAND ARMORY INC                          434 / 438 SUNRISE HWY                 ROCKVILLE CENTRE               NY                 4 
+  43104892        3G TACTICAL LLC                                   1435 COMMERCE PARK DR                 TIPP CITY                      OH                 4 
+  43105124        ANDERSON, BARRY                                   146 CHAPEL RD                         AMELIA                         OH                 1 
+  43403691        AQUA GRAPHIX LLC                                  3829 HAMILTON AVE STE 200             CLEVELAND                      OH               248 
+  43409588        ARES INC                                          BUILDING 818 FRONT ST ERIE            PORT CLINTON                   OH                 2 
+                                                                    INDUSTRIAL PARK 
+  43404950        BDSI INC                                          12117 BEREA RD                        CLEVELAND                      OH                25 
+  43405844        BRINKER HILL ENTERPRISES LLC                      6721 BRINKER ST SW                    NAVARRE                        OH                 7 
+  43104897        CQMD LLC                                          3840 LACON RD UNIT 7                  HILLIARD                       OH                42 
+  43106635        FAXON FIREARMS LLC                                4348 LE SAINT CT                      FAIRFIELD                      OH                 2 
+  43404861        GEORGE E HARTLEY                                  18250 CR 6                            COSHOCTON                      OH                10 
+  43106083        HARD ACQUISITION SALES SERVICE ARMORY LLC         1118 GAHANNA PKWY                     GAHANNA                        OH                12 
+  43405385        JLV PRODUCTIONS LLC                               106 W 58TH ST                         ASHTABULA                      OH                 5 
+  43405676        KCIN ARMS LLC                                     2151 ATKINS AVENUE                    LAKEWOOD                       OH                14 
+  43437065        KELBLY'S RIFLE RANGE INC                          7222 DALTON FOX LAKE RD               NORTH LAWRENCE                 OH               813 
+  43401968        KMP CLASSIC ARMS, INC                             556 CALDWELL AVE                      MANSFIELD                      OH               129 
+  43104596        PRECISION DEFENSE LLC                             1858 CEDAR HILL RD                    LANCASTER                      OH                24 
+  57306485        ADVANCED COMBAT LLC                               4753 S UNION AVE                      TULSA                          OK               563 
+  57304684        CAIN AND ABEL ENTERPRISES LLC                     9950- C E 55TH PLACE                  TULSA                          OK                 1 
+  57305807        ETCHED ORDNANCE LLC                               23851 E. HWY 51 BLD 2                 BROKEN ARROW                   OK                 2 
+  57306448        RED ROCK FIREARMS LLC                             6226 E LAKE HELLUMS RD                ENID                           OK                78 
+  57304976        RISE ARMAMENT LLC                                 1605 E IOLA ST                        BROKEN ARROW                   OK               690 
+  57305225        TAPE MATICS INC                                   1539 INDUSTRIAL LN                    TISHOMINGO                     OK              1026 
+  57304484        WHITE, RICHARD EDWARD                             41139 BEAR RD                         TERLTON                        OK                 3 
+  99304076        3 GUYZ, INC                                       7940 NE NICHOLAS CT UNIT B            HILLSBORO                      OR                19 
+  99306167        ERA3, LLC                                         351 CALIFORNIA AVE                    GRANTS PASS                    OR                 1 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                                    01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

@@ -1,0 +1,52 @@
+                                                       PISTOLS MANUFACTURED IN 2019 
+                                                                                     PISTOL     PISTOL    PISTOL     PISTOL    PISTOL     PISTOL     PISTOL
+  RDS KEY     LICENSE NAME               STREET                CITY           ST          22        25         32       380       9MM         50      TOTAL 
+  15814056   CLARKE PARKE, LLC           131 FOREST CREEK     SWAINSBORO      GA          0          0         0          0         0         12         12 
+                                         DRIVE 
+  15808936   COMBAT PRECISION            4020 PRESERVE        CUMMING         GA          0          0         0          0         8          3         11 
+             TECHNOLOGIES LLC            CROSSING LN 
+  15813136   DANIEL DEFENSE INC          1334 ORACAL PARKWAY  BLACK CREEK     GA          6       4164       1072         8       151          3       5404 
+  15810028   DASAN USA INC               2400 MAIN ST         DULUTH          GA          0          0         0          0        42          0         42 
+  15812064   DAWN OF DEFENSE LLC         1462 CROSS ST        FORT            GA          0          0        10          0         0          0         10 
+                                                              OGLETHORPE 
+  15806454   DEFENSE RESEARCH &          268 CADILLAC PKWY STE DALLAS         GA          2          0         2          0         0          0          4 
+             DEVELOPMENT LLC             104 
+  15814246   DOUBLE TAP CLEANERS LLC     780 GOLF COURSE RD   DEMOREST        GA          0          1         1          0         1          0          3 
+                                         SUITE B 
+  15814801   EDWARDS MILITARY SUPPLY     4319 VICTORY DRIVE   COLUMBUS        GA          0          1         0          0         0          0          1 
+             LLC 
+  15813143   EVOLVED TACTICAL COATINGS  105 TALLAPOOSA ST     BREMEN          GA         50          0         0         98       507          1        656 
+             LLC 
+  15813285   FIRST INNOVATIONS INC       5425 PEACHTREE       PEACHTREE       GA          0          0         0          0         1          0          1 
+                                         PARKWAY NW           CORNERS 
+  15890327   GLOCK INC                   6000 HIGHLANDS PKWY  SMYRNA          GA       41000         0         0      28000     189374     15239     273613 
+  15813708   HEAD DOWN FIREARMS LLC      333 BUTLER INDUSTRIAL  DALLAS        GA          0         94        17          0         0          0        111 
+                                         DR 
+  15804493   HECKLER & KOCH, INC         5175 CARGO DR        COLUMBUS        GA          0          0         0          0         0       7878       7878 
+  15812006   HYDROSHOCK CUSTOM           636-C S OLD BELAIR RD  GROVETOWN     GA          0          0         0          0         2          0          2 
+             GRAFIX LLC 
+  15807443   INTEGRITY ARMS & SURVIVAL,  1205 WASHINGTON      JEFFERSON       GA          5          0         3          0         0          0          8 
+             LLC                         STREET 
+  15840168   INVERIS TRAINING SOLUTIONS  296 BROGDON RD       SUWANEE         GA          0          0         0          0       486         14        500 
+             INC 
+  15813460   JMS & JP LLC                2991 LAGUNA DR       DECATUR         GA          0          0         0          3         4          0          7 
+  15814146   KARVASALE, MARK AUGUSTUS  506 HICKORY GAP TRAIL  DALLAS          GA          0          0         0          0         7          0          7 
+  15813946   KINDON TOOL, LLC            737 HARRY MCCARTY    BETHLEHEM       GA          0          0         0          0        12          0         12 
+                                         ROAD SUITE 301 
+  15813122   MAC DEFENSE INDUSTRIES      519 CHEROKEE MILLS   WOODSTOCK       GA          0          0         0          0         4          0          4 
+             LLC                         DR 
+  15809536   MADDMACS PRECISION          2401 BEAVERDALE RD   DALTON          GA          7          0         0          0         0          0          7 
+             TACTICAL LLC                NE 
+  15804952   MASTERPIECE ARMS HOLDING  4904 HIGHWAY 98        COMER           GA         140         0         0          0       3471         2       3613 
+             COMPANY 
+  15808591   MEAN LLC                    7535 HWY 92          WOODSTOCK       GA          0          0         0          0         1          0          1 
+  15812100   MIDGARD ARMORY LLC          68 SMITH CIRCLE      DAWSONVILLE     GA          0          0         0          0         1          0          1 
+  15813498   PATRIOT ARMS AND SUPPLIES  346 ROYAL RD          GIRARD          GA          0          0         1          0         0          0          1 
+             LLC 
+  15802724   PRECISION PRODUCTS          58 LATIMER ST        HAZLEHURST      GA          0          0         3          0         0          0          3 
+             MACHINE & FAB INC 
+  15809465   QUIET RIOT FIREARMS LLC     40 HARKINS ST        MCDONOUGH       GA          0          0         0          0         1          0          1 
+  15813065   RENATUS ARMS LLC            4401 BAKER GROVE     ACWORTH         GA          0          0         0          0         1          0          1 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                            01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

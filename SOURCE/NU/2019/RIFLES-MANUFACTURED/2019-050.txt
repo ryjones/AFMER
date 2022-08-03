@@ -1,0 +1,38 @@
+                                                                 RIFLES MANUFACTURED IN 2019 
+  RDS KEY        LICENSE NAME                                   STREET                                CITY                          ST        RIFLE MFG 
+  98614284       VEGUNS LLC                                    12418 W CORRINE DR                     EL MIRAGE                      AZ               1 
+  98605356       VIGILANCE RIFLES, INC                         4845 N SPRUCE                          CHINO VALLEY                   AZ              33 
+  98608091       WHITEHEAD, PHILLIP DAVID                      4267 N CHOLLA DR                       PRESCOTT VALLEY                AZ               6 
+  98614881       WILCOXEN, DAVID E SR                          20801 W MANVILLE RD                    MARANA                         AZ               5 
+  98614914       WOODS, JOSEPH LEE                             3338 E WINDSOR DR                      GILBERT                        AZ               2 
+  98606199       WRIGHT ARMORY LLC                             250 S MULBERRY #102                    MESA                           AZ               9 
+  98637956       YOUNG MANUFACTURING INC                       5528 N 51ST AVE                        GLENDALE                       AZ               6 
+  98614703       ZARBOCK, TIMOTHY GENE                         3921 SOUTH FELIX PLACE                 CHANDLER                       AZ               1 
+  96804076       29 OUTDOOR GEAR LLC                           3431 BROADWAY STE A-5                  AMERICAN CANYON                CA               3 
+  99401135       ACCARDO, ROBERT N JR                          416 HUMMINGBIRD LANE                   LIVERMORE                      CA               4 
+  93306448       ALPHA PRECISION WORKS CORP                    704 NORTH VALLEY ST STE V              ANAHEIM                        CA               2 
+  93306769       ASK DEFENSIVE TRAINING CO                     1399 W COLTON AVE STE 6 & 8            REDLANDS                       CA               2 
+  96804544       BISHOP AMMUNITION MANUFACTURING LLC           3221 ELKHORN AVE #27                   NORTH HIGHLANDS                CA              10 
+  97702900       CHESEBRO RIFLES INC                           19564 HIGHLINE RD                      TEHACHAPI                      CA               1 
+  93303316       CREC INVESTMENTS INC                          6734 DOOLITTLE AVENUE UNIT H           RIVERSIDE                      CA               7 
+  99501807       DEE CONSULTING CO LLC                         15335 DITTMAR DR                       WHITTIER                       CA               6 
+  93340727       EXCEL INDUSTRIES INC                          1601 FREMONT CT                        ONTARIO                        CA              73 
+  93307461       FIREARMS UNLIMITED CALIFORNIA LLC             450 FLETCHER PARKWAY #208              EL CAJON                       CA               1 
+  93307327       FIVE FIVE SIX, INC                            1906 OCEANSIDE BLVD STE K              OCEANSIDE                      CA               3 
+  93301600       FMK FIREARMS INCORPORATED                     1025 A ORTEGA WAY / 1005 ORTEGA WAY  PLACENTIA                        CA            3525 
+  97703283       GAALSWYK, ROBERT JOHN                         3222 N DEMAREE ST STE D                VISALIA                        CA               5 
+  93306737       GET LOADED INC                                12210 MICHIGAN ST STE H                GRAND TERRACE                  CA               2 
+  96804298       GOLD COUNTRY SPORTS INC                       1160 LOZANOS RD                        NEWCASTLE                      CA              47 
+  96803398       GRECO, RICK                                   7093 DANYEUR RD                        REDDING                        CA               2 
+  93305615       GUNFIGHTER TACTICAL, LLC                      7190 MIRAMAR RD #115                   SAN DIEGO                      CA              45 
+  93304728       GUNS, AMMO AND ACCESSORIES, INC               11324 GREENWOOD WAY                    ONTARIO                        CA               4 
+  97703876       JH VERNA INC                                  601 ATWATER BLVD                       ATWATER                        CA               1 
+  96805373       KETCHUM, JAMES ALFRED                         1725 MOCLIPS DRIVE                     PETALUMA                       CA               3 
+  97702642       KUEHL, FRANCIS TERRY                          8744 WOODLAND HEIGHTS LN               SALINAS                        CA               8 
+  97704058       LORTZ, LACEY                                  3016 MILDRED LANE                      BAKERSFIELD                    CA              25 
+  97704402       MAGAN, WILLIAM SHAEN                          3506 RANCH RD                          BISHOP                         CA               3 
+  96804535       MARTIN, PABLO DANIEL                          3501 REDWOOD DR                        REDWAY                         CA              12 
+  93304983       MERSON, JAN-STEVEN                            664 BROOKLINE PL                       FULLERTON                      CA               7 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                                     01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

@@ -1,0 +1,39 @@
+                                                             RIFLES MANUFACTURED IN 2019 
+  RDS KEY        LICENSE NAME                               STREET                               CITY                        ST        RIFLE MFG 
+  15613630      BURCH, MARK ALEXANDER                       193 ROSEMAN LN                      STATESVILLE                   NC               1 
+  15608012      CAROLINA BULLETS LLC                        423 EAST SHERATON PARK RD           PLEASANT GARDEN               NC              12 
+  15611250      CAROLINA GUN AND RELOADING INC              993 LOWES LANE                      IRON STATION                  NC               7 
+  15612387      CAROLINA PATRIOT ARMORY LLC                 1011 WR LANE                        BURLINGTON                    NC               2 
+  15611985      CUSTOM GUNS AND AMMUNITION LLC              15 SUNFLOWER DRIVE                  YOUNGSVILLE                   NC               1 
+  15612732      DAVIS CUSTOM RIFLE AND MACHINE LLC          377 ISENHOUR RD                     ZIONVILLE                     NC               6 
+  15613093      DEFCON DELTA TACTICAL LLC                   142 REEP RD                         KINGS MOUNTAIN                NC               7 
+  15603403      DEL-TON, INC                                330 AVIATION PARKWAY                ELIZABETHTOWN                 NC           31013 
+  15613420      DNA FIREARM SYSTEMS INC                     212 E MAIN ST WAREHOUSE             LOCUST                        NC              27 
+  15613483      DOUBLE H GUNSMITHING & SHOOTING SUPPLY      102 FARMER ROAD                     BLANCHE                       NC               1 
+                LLC 
+  15605343      GLOVER, DANIEL CARTER                       473 ROBBINS RD                      YOUNGSVILLE                   NC              14 
+  15609943      GRANVILLE GUN WORKS INC                     208 F NORTH MAIN STREET             CREEDMOOR                     NC               4 
+  15610664      HEAVY ARMOR DIVISION LLC                    7916 STINSON  HARTIS RD             INDIAN TRAIL                  NC              23 
+  15612075      HICKORY SPORTING AND TACTICAL LLC           3462 SPRINGS RD NE                  HICKORY                       NC               2 
+  15640357      HILTS, RICHARD JAY                          413 WHITEHAT RD                     HERTFORD                      NC               1 
+  15612392      INGALLS, WIND NARIN                         409 CHICAGO DR, STE 107             FAYETTEVILLE                  NC              24 
+  15610860      INSURGENT TACTICAL LLC                      58 CUTTER CIRCLE                    SANFORD                       NC              14 
+  15610779      JAMES RIVER ARMORY INC                      745 HWY 117 S                       BURGAW                        NC            5147 
+  15611921      KEENER, JACKIE C                            326 ROBINSON RD                     CLYDE                         NC               5 
+  15607270      KOVACEVIC, KEVIN MATTHEW                    206 6TH STREET                      AYDEN                         NC               2 
+  15610427      LAZY K CARTRIDGE COMPANY LLC                456 US 70                           HAVELOCK                      NC               5 
+  15611808      LEAHY, BRUCE EDWARD                         8422 FOXTRAIL DR                    FAYETTEVILLE                  NC               3 
+  15613412      LONG GUN RESOLUTIONS LLC                    5405 HWY 205                        MARSHVILLE                    NC               3 
+  15612863      M2 PERFORMANCE SOLUTIONS LLC                1480 ODELL SCHOOL RD                CONCORD                       NC               2 
+  15607858      MELVIN, LARRY DAVID                         4809 LANCASTER HWY                  MONROE                        NC               2 
+  15612489      NELSON, JOSEPH VINCENT                      1140 GREENMEADE CT                  GREENVILLE                    NC               2 
+  15613153      NICHOLS, TERRY CHRISTOPHER                  1077 GODDARD LN                     MILLERS CREEK                 NC               2 
+  15603314      OUTDOOR COLORS LLC                          286 INDUSTRIAL PARK                 RUTHERFORDTON                 NC            5479 
+  15610110      P&M PERFORMANCE RACING ENGINES INC          5424 RICHLANDS HWY                  JACKSONVILLE                  NC               1 
+  15612842      PHALANX SHOOTING SYSTEMS LLC                33 OAKRIDGE DR                      CAMERON                       NC               1 
+  15610397      PILOT MOUNTAIN ARMS LLC                     412 AMBER DAWN LN                   RALEIGH                       NC               3 
+  15613428      PLAINFIELD PRECISION LLC                    3601 PLAINFIELD DR                  SHELBY                        NC               1 
+  15612398      PRICE ARMORY LLC                            125 W PALMER STREET                 RAEFORD                       NC               2 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                             01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

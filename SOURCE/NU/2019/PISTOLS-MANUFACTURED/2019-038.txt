@@ -1,0 +1,46 @@
+                                                         PISTOLS MANUFACTURED IN 2019 
+                                                                                         PISTOL    PISTOL     PISTOL     PISTOL     PISTOL     PISTOL     PISTOL
+  RDS KEY     LICENSE NAME                STREET                 CITY           ST           22        25         32        380       9MM          50      TOTAL 
+  99107062    TECH HEAVY INDUSTRIES INC  7 STANSBURY RD         RIVERSIDE        WA           3          0         0          0          4          0          7 
+  99108520    THIRD BAY LLC               9721 NE LIVINGSTON    CAMAS            WA           3          0         0          0          0          0          3 
+                                          MOUNTAIN CT 
+  99109358    WHITEDOG ARMS LLC           4440 SUNSET WAY       LONGVIEW         WA           0          0         0          0          2          0          2 
+  99107069    ZEV TECHNOLOGIES INC        2120 NORTHPARK DRIVE  CENTRALIA        WA           0         56        57          0       2336          0        2449 
+  33907899    ALBRIGHT GUN WORKS LLC      230 PAWLING AVE       HARTLAND         WI           0          0         0          0          2          0          2 
+  33908009    BADGER STATE ORDNANCE       17 1/2 WILSON AVE     WESTON           WI           0          0         1          0          0          0          1 
+              LLC 
+  33903743    BRAVO COMPANY MFG INC       340 MAPLE AVE         HARTLAND         WI           0       2383         0          0          0          0        2383 
+  33908596    BRIGHT LINE INVESTIGATIONS  101 DIVISION STREET N  STEVENS POINT   WI           0          0         0          5         11          0          16 
+              LLC                         SUITE 8 
+  33905871    DEZ TACTICAL ARMS INC       1223 SOUTH BLVD       BARABOO          WI           1          0         1          0          0          0          2 
+  33903050    HEARING PROTECTION LLC      801 SOUTH 12TH STREET WATERTOWN        WI           0         25        21          0          0          0          46 
+  33910192    HENRY RAC HOLDING CORP      107 W COLEMAN ST      RICE LAKE        WI           4          0         0          0          0          8          12 
+  33908953    HIGH VOLTAGE CUSTOM LLC     417 E ROSENLUND ST    WOODVILLE        WI           0          1         2          0          0          0          3 
+  33908626    HINZE, BRETT ALAN           150 W STATE ST        ADAMS            WI           0          0         0          0          2          0          2 
+  33910464    HOWELL ARMS INC             419 S ARCH STREET     JANESVILLE       WI           0          0         0          1          0          0          1 
+  33907913    ION GROUP LLC               W213S7530 ANNES WAY  MUSKEGO           WI           0          0         0          0          1          1          2 
+  33906644    KOFFMAN, JAMES A            W3128 COUNTY ROAD F  EDEN              WI           1          0         0          0          2          1          4 
+  33900697    LAUER, STEVEN MICHAEL       3601 129TH ST         CHIPPEWA         WI           0          0         0          0          0          4          4 
+                                                                FALLS 
+  33907431    MGS HOLDINGS GROUP LLC      N60W15128 BOBOLINK    MENOMONEE        WI           3          0         1          0          2          0          6 
+                                          AVENUE                FALLS 
+  33904930    MIDWEST INDUSTRIES INC      W292 S4498 HILLSIDE RD  WAUKESHA       WI          73          0        24          0          0          0          97 
+  33905564    MINUTE OF ANGLE             1501 W MAPLE ST       RIVER FALLS      WI           0          0         0          0          1          0          1 
+              ENTERPRISES LLC 
+  33905869    PEEPS & JAWA LLC            100 E HAVEN DR        WATERTOWN        WI           0          1         0          0          1          3          5 
+  33904639    SCOTSMAN ARMS LLC           320 PUTNAM STREET     EAU CLAIRE       WI           0          0         0          0          5          0          5 
+                                          SUITE 7 
+  33906873    THE GUN GARAGE LLC          61729 WEISTER RD      ASHLAND          WI           0          0         0          0          0          1          1 
+  33910001    THE WISCONSIN TRIGGER       315 HART ST           WATERTOWN        WI           0          0         0          0          2          1          3 
+              COMPANY, INC 
+  33908887    THUREON HOLDINGS LLC        W185 N11521 WHITNEY   GERMANTOWN       WI           0          0         0          0          2          0          2 
+                                          DR 
+  33910225    TRI-BOLT LLC                3663 ALGOMA RD        NEW FRANKEN      WI           0          1         0          0          0          0          1 
+  33910751    TRUE ZERO LLC               W1549 STATE ROAD 23   MOUNT            WI           3          0         0          0          0          0          3 
+                                                                CALVARY 
+  33907594    WORKS ARMAMENT LLC          1 TAUNTON CIRCLE      MADISON          WI           1          0         1          0          2          2          6 
+  45503901    FOLEY DEFENSE LLC           2563 RITTER DR        SHADY SPRING     WV           0          0         0          0          4          1          5 
+  45503183    HARPERS FERRY ARMORY INC  301 N MILDRED ST        RANSON           WV           0          3         0          0          2         10          15 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                                  01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

@@ -1,0 +1,39 @@
+                                                                 RIFLES MANUFACTURED IN 2019 
+  RDS KEY        LICENSE NAME                                   STREET                                CITY                          ST        RIFLE MFG 
+  16207386       CROCKER, CHASE HUNTER                         1355-B LYNNFIELD RD STE 245 ROOM       MEMPHIS                        TN               1 
+                                                               #245-38 
+  16206145       CROSS MACHINE TOOL CO INC                     312 LAW COMMUNITY RD                   LEXINGTON                      TN               1 
+  16205316       CUSTOM DEFENSE LLC                            308 SOUTH WATER AVE SUITE A            GALLATIN                       TN              11 
+  16207156       CZECHPOINT INC                                5005 CHAPMAN HWY SUITE B               KNOXVILLE                      TN             358 
+  16208514       DAUNTLESS ARMS LLC                            134 UPPER JONES RD                     LENOIR CITY                    TN               2 
+  16209108       DAVIS ENTERPRISES LLC                         590 AUTUMN MEADOWS LN                  COLLIERVILLE                   TN              21 
+  16210791       DTV TACTICAL INNOVATIONS LLC                  100 PIONEER CT                         HENDERSONVILLE                 TN               7 
+  16209799       ECHO 3 ARMORY LLC                             214 N HORTON PKWY                      CHAPEL HILL                    TN              14 
+  16204216       GRIFFITTS, JAMES NORMAN                       4937 INDIAN WARPATH RD                 MARYVILLE                      TN               2 
+  16209630       HANKES, BRET ARNOLD                           2400 SLAYDEN MARION RD                 SLAYDEN                        TN              43 
+  16204731       IRONWORKS MFG LLC                             1812 NORTH BROAD ST STE 2              TAZEWELL                       TN               1 
+  16209990       MBX TACTICAL LLC                              180 LITTLETON DRIVE                    LOUDON                         TN             136 
+  16203266       MCGUIRE, JOHN B                               2973 SHELLS FORD ROAD                  MC MINNVILLE                   TN              46 
+  16210587       MILITARY SYSTEMS GROUP, INC                   736 FESSLERS LANE                      NASHVILLE                      TN               6 
+  16208413       PAULSON, KRISTOPHER LEE                       7741 US 70S                            NASHVILLE                      TN               1 
+  16208712       PEERLESS CONSOLIDATED LLC                     803 FORREST DRIVE                      TULLAHOMA                      TN               1 
+  16209193       PRECISION ARMS OF TENNESSEE LLC               115 ISLAND RD                          JACKSBORO                      TN               9 
+  16205304       RIEHL, MARK EDWARD                            2012 W STATE ST                        BRISTOL                        TN               4 
+  16209216       RODRIGUEZ, VICTOR ANGEL                       714 CLAYTON DR                         CLARKSVILLE                    TN               6 
+  16208865       ROYAL RANGE USA LLC                           7741 HWY 70 SOUTH                      NASHVILLE                      TN               4 
+  16208671       SLC FIREARMS LLC                              917 N MAIN ST                          SHELBYVILLE                    TN               7 
+  16211270       SMITH, DAVID E                                4470 UPPER CRAB RD                     JAMESTOWN                      TN               3 
+  16210358       STATE LINE GUN AND BOW WORKS LLC              30092 E RAILROAD ST                    ARDMORE                        TN              37 
+  16207129       TENNESSEE ARMS COMPANY LLC                    708 EAST COURT STREET                  DYERSBURG                      TN             400 
+  16209828       THE TACTICAL EDGE LLC                         219 INDUSTRIAL DRIVE  UNIT B           CLARKSVILLE                    TN              87 
+  16208955       THOMAS, ETHAN AUGUST                          910 DIXIE LANE                         PLEASANT VIEW                  TN              11 
+  16207343       TRACHET, DAVID PAUL                           524 OLD SALEM RD                       MURFREESBORO                   TN               1 
+  16208855       ULTIMATE ARMS LLC                             308B SOUTH WATER AVE                   GALLATIN                       TN              19 
+  16210314       VETERANS TACTICAL SOLUTIONS LLC               6920 WINCHESTER ROAD SUITE 101         MEMPHIS                        TN             135 
+  16205997       WILLIAMS, JOHN MICHAEL                        5674 CLEAVES CIRCLE SUITE 103          ARLINGTON                      TN               2 
+  16206220       WILLYERD, JACK E AND ERIC J                   4820 OLD HWY 48                        CUNNINGHAM                     TN               9 
+  57510073       4W INC                                        3403 SW 6TH AVE                        AMARILLO                       TX               2 
+  57602759       A M ROBERTS LLC                               19515 WIED RD SUITE D                  SPRING                         TX              23 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                                     01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

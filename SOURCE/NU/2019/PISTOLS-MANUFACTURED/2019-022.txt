@@ -1,0 +1,49 @@
+                                                             PISTOLS MANUFACTURED IN 2019 
+                                                                                                PISTOL      PISTOL     PISTOL      PISTOL      PISTOL      PISTOL      PISTOL
+  RDS KEY       LICENSE NAME                  STREET                  CITY             ST            22         25          32         380       9MM            50      TOTAL 
+  60204276     2A TACTICAL LLC                99 TOLEND RD            BARRINGTON        NH            0           2          0           3          30          14          49 
+  60202910     AERODYNAMICS INC               142 BATCHELDER RD       SEABROOK          NH            0           0          0           0          12           0          12 
+  60202055     BLACK OP ARMS LLC              224 WASHINGTON          CLAREMONT         NH           12           0          3           0           9           0          24 
+                                              STREET 
+  60202258     EVOLUTION ARMORY LLC           424 ROUTE 125 UNIT 6    BRENTWOOD         NH            0           0          0           0           0           2           2 
+  60201938     HOOK, ANTHONY PAUL             18 LAMY DR UNIT #5      GOFFSTOWN         NH            4           0          0           0           3           1           8 
+  60205137     KEENE GUYS PERFORMANCE         497 NH RTE 12 N         FITZWILLIAM       NH            0           0          6           0           0           0           6 
+               SOLUTIONS LLC 
+  60202715     MACPHERSON FIREARMS LLC  87 ROUTE 27                   BRENTWOOD         NH           10           0          0           0           2           0          12 
+  60201012     MATRIX AEROSPACE               421 RIVER ROAD          CLAREMONT         NH            0           0          0           0          29           0          29 
+               CORPORATION 
+  60202267     OLD GLORY GUNS & AMMO LLC  781 FITCHBURG ROAD          GREENVILLE        NH            0           0          3           0           5           0           8 
+  60202069     PALMER GUN WORKS LLC           52 PALMER RD            ENFIELD           NH            0           1          0           0           0           0           1 
+  60202814     Q LLC                          4 CUTTS ST UNIT 3       PORTSMOUTH        NH            0           4       1755           0           0           0        1759 
+  60202671     ROBERTS, RAYMOND WALLACE 17 HALE RD                    WINCHESTER        NH            0           1          0           0           2           0           3 
+               III 
+  60201816     SIG SAUER INC                  72 PEASE BLVD           NEWINGTON         NH          743       5009        4327       29309      615757      37181       692326 
+  60201484     STURM, RUGER & COMPANY,        411 SUNAPEE ST          NEWPORT           NH           66           0          0           0           1           0          67 
+               INC 
+  60200735     STURM, RUGER & COMPANY,        529 SUNAPEE ST          NEWPORT           NH         9042           0          0           0           0           1        9043 
+               INC 
+  60201658     WICKED WEAPONRY LLC            21 LONDONDERRY          HOOKSETT          NH            0           8          6           0           7           0          21 
+                                              TURNPIKE UNIT 1 
+  82200698     HENRY RAC HOLDING CORP         59 E 1ST ST             BAYONNE           NJ         1286           0          0         622           0       1280         3188 
+  58502819     COMPOSITE SUPPLIES LLC         5101 RAE CT NE          RIO RANCHO        NM           60           0          5           0           5           0          70 
+  58501194     HAYES, STANLEY EDWARD          415 KOLLEEN CT          WHITE ROCK        NM            6           0          0           0           0           0           6 
+  58502501     JK GUNSMITHING LLC             16 ZANJA ROAD           SAN ANTONIO       NM            0           0          2           1           6           0           9 
+  58502905     MORRIS ORDNANCE AND ARMS 8415 N CACTUS LANE            HOBBS             NM            0           0          1           0           1           0           2 
+               LLC 
+  58502898     RED MOUNTAIN BUNKER LLC        4840 COCHISE ROAD       DEMING            NM            1           0          0           0           0           0           1 
+                                              SOUTHWEST 
+  58502746     REPUBLIC FORGE LLC             8400 RIO GRANDE BLVD  LOS RANCHOS         NM            0           0          0           0          11          25          36 
+                                              NW 
+  58501585     ROY, ROBERT                    5940-A MIDWAY PARK      ALBUQUERQUE       NM            0           0          0           2           6          10          18 
+                                              BLVD 
+  58502766     WALKER, CHARLES EDWARD         105 AUTUMN SAGE LN      CHAPARRAL         NM            0           0          0           0           0           2           2 
+  98801026     ALFONSI ENTERPRISES LLC        2771 INDUSTRIAL RD      LAS VEGAS         NV            0           0          0           0           4           0           4 
+  98805271     ARCHON FIREARMS INC            831 PILOT ROAD, SUITE  LAS VEGAS          NV            0           0          0           0          21           0          21 
+                                              D 
+  98800094     ARSENAL INC                    4395 W POST RD UNIT     LAS VEGAS         NV            0           0        200           0           0           0         200 
+                                              100 
+  98803415     BATTLE ARMS DEVELOPMENT  451 E SUNSET RD               HENDERSON         NV            0         31           0           0           7           0          38 
+               INC 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                                               01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

@@ -1,0 +1,40 @@
+                                                     MISC. FIREARMS MANUFACTURED IN 2019 
+  RDS KEY        LICENSE NAME                                  STREET                             CITY                        ST      MISC FA MFG 
+  15613376       FOOTHILLS DEFENSE SYSTEMS, LLC                5613 CLARIDGE DR                   HICKORY                     NC               8 
+  15612039       HELL FIRE ARMORY LLC                          4716 CAROLINA BEACH RD             WILMINGTON                  NC               88 
+  15610860       INSURGENT TACTICAL LLC                        58 CUTTER CIRCLE                   SANFORD                     NC               4 
+  15610779       JAMES RIVER ARMORY INC                        745 HWY 117 S                      BURGAW                      NC               43 
+  15610427       LAZY K CARTRIDGE COMPANY LLC                  456 US 70                          HAVELOCK                    NC               1 
+  15612863       M2 PERFORMANCE SOLUTIONS LLC                  1480 ODELL SCHOOL RD               CONCORD                     NC               3 
+  15611977       MARTIN RE HOLDINGS LLC                        217 QUILON CIR                     WILMINGTON                  NC               4 
+  15610787       MOORE, BETTY H                                3701 NC 89 HWY E                   WALNUT COVE                 NC               21 
+  15610110       P&M PERFORMANCE RACING ENGINES INC            5424 RICHLANDS HWY                 JACKSONVILLE                NC               1 
+  15612842       PHALANX SHOOTING SYSTEMS LLC                  33 OAKRIDGE DR                     CAMERON                     NC               2 
+  15611407       POLY-TECH INDUSTRIAL INC                      13728 STATESVILLE RD               HUNTERSVILLE                NC              293 
+  15609063       STURM RUGER & COMPANY INC                     271 CARDWELL RD                    MAYODAN                     NC             2731 
+  15641041       THOMPSON, LACY MACK JR                        5648 OLD THOMPSON RD               NORWOOD                     NC               2 
+  15611464       TRAPHILL ENTERPRISES LLC                      972 WOLLETT MILL RD                BATTLEBORO                  NC               2 
+  15610908       TURNER ARMAMENT LLC                           1287 RIPKEN DR                     HICKORY                     NC               28 
+  15612674       ZRODELTA LLC                                  100 BEIERSDORF DR                  RUTHERFORD COLLEGE          NC              225 
+  15612880       ZRODELTA, LLC                                 100 BEIERSDORF DR                  RUTHERFORD COLLEGE          NC              271 
+  34501258       DAKOTA GUNS LLC                               875 8TH AVE SOUTH                  WAHPETON                    ND               1 
+  34501101       JOYCE, JAMES                                  2947 133RD F AVE NW                ARNEGARD                    ND               1 
+  34500555       NODAK ARMS INC                                601 104TH STREET SE                MINOT                       ND              109 
+  34501059       ROUGHRIDER ARMS LLC                           5201 GATEWAY DR UNIT 2             GRAND FORKS                 ND               19 
+  54702562       ALY AND KAUFMAN LLC                           545 SOUTH 19TH AVE                 BROKEN BOW                  NE               1 
+  54701179       PERFECT TURNING INC                           218 E THIRD STREET                 KIMBALL                     NE               3 
+  54701663       ZERMATT ARMS INC                              100 MONROE ST                      BENNET                      NE             2450 
+  60204276       2A TACTICAL LLC                               99 TOLEND RD                       BARRINGTON                  NH              458 
+  60202008       HM MACHINE LLC                                44 VENTURE DRIVE                   DOVER                       NH             5741 
+  60201938       HOOK, ANTHONY PAUL                            18 LAMY DR UNIT #5                 GOFFSTOWN                   NH               12 
+  60201012       MATRIX AEROSPACE CORPORATION                  421 RIVER ROAD                     CLAREMONT                   NH              216 
+  60202267       OLD GLORY GUNS & AMMO LLC                     781 FITCHBURG ROAD                 GREENVILLE                  NH               16 
+  60202671       ROBERTS, RAYMOND WALLACE III                  17 HALE RD                         WINCHESTER                  NH               1 
+  60201816       SIG SAUER INC                                 72 PEASE BLVD                      NEWINGTON                   NH               23 
+  82201527       GSD COATINGS LLC                              2 INDUSTRIAL DR STE G              KEYPORT                     NJ              205 
+  58502819       COMPOSITE SUPPLIES LLC                        5101 RAE CT NE                     RIO RANCHO                  NM              128 
+  58502501       JK GUNSMITHING LLC                            16 ZANJA ROAD                      SAN ANTONIO                 NM               8 
+  98804841       FRANKLIN ARMORY, INC.                         2246 PARK PLACE SUITE B            MINDEN                      NV             2928 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                        01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

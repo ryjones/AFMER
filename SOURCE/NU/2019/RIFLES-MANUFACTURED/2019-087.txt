@@ -1,0 +1,38 @@
+                                                                 RIFLES MANUFACTURED IN 2019 
+  RDS KEY         LICENSE NAME                                  STREET                                 CITY                          ST        RIFLE MFG 
+  15705536       REAPER FIREARMS INC                            144 KAY DR                             EASLEY                         SC                2 
+  15705879       REBEL YELL ARMY LLC                            166 DELLA LN                           DORCHESTER                     SC               10 
+  15705175       SECOND AMENDMENT WEAPONRY LLC                  549 LEESVILLE CHURCH RD                CLINTON                        SC                4 
+  15703868       SPORTSMAN INC                                  247 HANDS MILL HWY                     ROCK HILL                      SC                7 
+  15706163       STAMEY, RUSSELL J                              476 ROWELLS RD                         CATAWBA                        SC               14 
+  15704483       TRI COUNTY SALES INC                           9881 OCEAN HWY                         PAWLEYS ISLAND                 SC                7 
+  15706487       WARE SHOALS MACHINE TOOL LLC                   5712 HIGHWAY 25 NORTH                  HODGES                         SC               44 
+  15702747       WHEATON ARMS INC                               205 HUNTERS HILL                       EASLEY                         SC                1 
+  34601243       AKERS, ROBERT WESLEY                           1350 NEVA WAY                          RAPID CITY                     SD                6 
+  34601260       ALLIANCE CUSTOM ARMORY INC                     18 SOUTH BROADWAY STREET               COLUMBIA                       SD               28 
+  34601672       FMJ ENTERPRISES, LLC                           325 N POPLAR AVE                       PARKER                         SD                1 
+  34633475       H S PRECISION INC                              1301 TURBINE DR                        RAPID CITY                     SD              202 
+  34601550       JOHNSON, KENNETH ROY                           2281 SOUTH PLAZA DR UNIT 16            RAPID CITY                     SD                4 
+  34601173       LAKORR LLC                                     24369 RUSHMORE RANCH ROAD              KEYSTONE                       SD                3 
+  34601660       MAXSON INVESTMENTS LLC                         4113 W 89TH ST                         SIOUX FALLS                    SD                1 
+  34633933       MAYER, LOUIS                                   422 N MAIN                             ISABEL                         SD                5 
+  34600877       REMINGTON ARMS COMPANY LLC                     1209 AND 1310 INDUSTRY RD              STURGIS                        SD              642 
+  34601555       SCHILLING CUSTOM SERVICE LLC                   14870 229TH STREET                     RAPID CITY                     SD                1 
+  34601475       SMOKING GUN INC                                4711 S INTERSTATE 90 SERVICE RD        RAPID CITY                     SD                2 
+  34601673       TACTICOOL SOLUTIONS LLC                        6101 W QUEENS CIR                      SIOUX FALLS                    SD                3 
+  34600738       TETON RIVER TRADERS GUN SHOP LLC               801 W HIGHWAY 14 & 34                  FORT PIERRE                    SD               15 
+  34601593       TS CUSTOMS LLC                                 907 EAST 4TH STREET                    MILLER                         SD               65 
+  16209868       ALDRED, DARREN CHRISTOPHER                     4049 WILLOW WAY                        MORRISTOWN                     TN                1 
+  16211099       ARNEY, DAVID JOSEPH                            231 EAST WILMOUTH ROAD                 RICKMAN                        TN                4 
+  16236907       BARRETT FIREARMS MFG INC                       5926 MILLER LANE                       MURFREESBORO                   TN             5710 
+  16208339       BERETTA USA CORP                               1399 GATEWAY DR                        GALLATIN                       TN               28 
+  16210173       BIG BUCK CUSTOMS, LLC                          1635 RENFROE RD                        HUNTINGDON                     TN                1 
+  16209916       CAMPBELL ARMS MANUFACTURING LLC                24070 HWY 70                           HUNTINGDON                     TN                7 
+  16210667       CASH, COREY AND SCHAUS, ERIK                   410 E 3RD AVE                          HAMPTON                        TN               16 
+  16210920       CELEROT FIREARMS, LLC                          3940 HIGHWAY 431                       COLUMBIA                       TN                2 
+  16206954       CHANDLER HARDWOODS INC                         107 E 2ND ST                           SOUTH PITTSBURG                TN               11 
+  16209752       CONSULTEL LLC                                  656 CHIPMAN ROAD                       BETHPAGE                       TN                3 
+  16208492       CORLEY, JOSEPH D B                             302 TYREE SPRINGS RD                   WHITE HOUSE                    TN                3 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                                       01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

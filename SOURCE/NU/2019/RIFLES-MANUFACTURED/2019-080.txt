@@ -1,0 +1,38 @@
+                                                                  RIFLES MANUFACTURED IN 2019 
+  RDS KEY         LICENSE NAME                                   STREET                                 CITY                           ST        RIFLE MFG 
+  43403855        DELTA GROUP TECHNOLOGY LLC                     19240 TOWNSHIP RD 47                   BELLE CENTER                   OH                 7 
+  43106863        DK CUSTOM COATINGS LLC                         8168 STATE ROUTE 125                   WEST PORTSMOUTH                OH                 1 
+  43403352        DNB ARMS LLC                                   1704 W MAIN ST                         LOUISVILLE                     OH                22 
+  43402452        ERIE ORDNANCE DEPOT LLC                        113 S FINDLAY PIKE                     PORTAGE                        OH                 1 
+  43106842        FALCON GLOBAL SUPPLY LLC                       425 S SANDUSKY STREET                  DELAWARE                       OH                 1 
+  43106635        FAXON FIREARMS LLC                             4348 LE SAINT CT                       FAIRFIELD                      OH                33 
+  43106402        FLASHPOINT INC                                 7513 COOK JONES RD                     WAYNESVILLE                    OH                 7 
+  43106423        FLATWATER ARMORY LLC                           5488 PANTHER RUN                       LIBERTY TOWNSHIP               OH                 4 
+  43405811        GARRETTS GUN PARTS LLC                         3315 N RIDGE ROAD EAST UNIT 315        ASHTABULA                      OH                38 
+  43404861        GEORGE E HARTLEY                               18250 CR 6                             COSHOCTON                      OH                 1 
+  43106787        GIGANDET, STEVEN CARL                          8820 LAKE RIDGE DR.                    LEWIS CENTER                   OH                 1 
+  43106917        HENNING, BRANDON SCOTT                         10 WEST PEASE AVE                      DAYTON                         OH                 2 
+  43405808        HPA OF RICHFIELD LLC                           2417 NORTH CLEVELAND-MASSILLON RD  AKRON                              OH                 1 
+  43104803        INLAND MANUFACTURING LLC                       6785 W THIRD ST                        DAYTON                         OH               252 
+  43403347        J AND J PERFORMANCE INC                        410 E WOOD ST                          SHREVE                         OH                26 
+  43405691        JEM FIREARMS LTD                               5639 PATRICK ST SW                     CANTON                         OH                 1 
+  43404074        JIM EYSTER HERITAGE GUNSMITHS LLC              6441 BISHOP RD                         CENTERBURG                     OH                 1 
+  43100615        JOHNSON, JAMES DOUGLAS                         8141 ST RT 245                         DE GRAFF                       OH                 2 
+  43405654        JOHNSON, TONY DALE                             2648 BLACK OAK DR                      NILES                          OH                 6 
+  43103635        JONES, JOSEPH CURTIS                           6011 US RT 40 E                        LEWISBURG                      OH                 7 
+  43437065        KELBLY'S RIFLE RANGE INC                       7222 DALTON FOX LAKE RD                NORTH LAWRENCE                 OH                49 
+  43104033        LAUGHLIN, BARRY DAVID                          5304 MORRIS RD                         SPRINGFIELD                    OH                 1 
+  43406167        LEHIGH DEFENSE, LLC                            1288 BANTAM RIDGE RD                   WINTERSVILLE                   OH                 2 
+  43106494        LIGHTHOUSE GUNSMITHS LLC                       1137 MAGIE AVENUE                      FAIRFIELD                      OH                17 
+  43401741        LINKE, RICHARD WILLIAM                         310 JUDSON RD                          KENT                           OH                 2 
+  43103822        LL EMERSON GROUP LLC                           9230 CR 2                              WEST MANSFIELD                 OH                 6 
+  43405665        LORENZ, DAVID CHRISTOPHER                      65465 MATHEWS RD                       CAMBRIDGE                      OH                 5 
+  43102967        LUXUS ARMS LLC                                 222 HOMAN WAY                          MOUNT ORAB                     OH               528 
+  43406309        MACHAMER, CHRISTOPHER JOHN                     2188 MOHLER DRIVE NW                   NORTH CANTON                   OH                 6 
+  43403501        MARLOWE, RICHARD B                             726 ERIE ST                            WOODVILLE                      OH                 1 
+  43403346        MESZAROS, ROBERT DANIEL                        9501 E CENTER ST                       WINDHAM                        OH                 1 
+  43103686        METAL GEAR ARMORY LLC                          368 LINCOLN AVE                        LANCASTER                      OH                 1 
+  43404665        NIGHT WALKER CUSTOM LLC                        218 FOREST ST                          LAGRANGE                       OH                 1 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                                         01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

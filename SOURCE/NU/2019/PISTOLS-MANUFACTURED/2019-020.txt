@@ -1,0 +1,49 @@
+                                                          PISTOLS MANUFACTURED IN 2019 
+                                                                                            PISTOL    PISTOL      PISTOL     PISTOL     PISTOL      PISTOL     PISTOL
+  RDS KEY      LICENSE NAME                 STREET                 CITY            ST           22         25         32        380       9MM           50      TOTAL 
+  98101677    MCCONNELL, NOAH LEE          464 ASH ROAD SUITE D    KALISPELL        MT           0          0          2           0          0          0           2 
+  98102683    NAGEL, VINCENT E             580 IDAHO STREET        DEER LODGE       MT           0          2          0           0          0          0           2 
+  98102420    PLS MANAGEMENT LLC           3616 EASTSIDE HWY       STEVENSVILLE     MT           0          0          0           0          0          1           1 
+  98100916    PLUMMER & ASSOCIATES INC     587 HWY 93 S            HAMILTON         MT           0          0          0           5         10          0          15 
+  98101923    PUMPS ETCETERA LLC           117 5TH ST              BROADUS          MT           1          0          0           0          0          1           2 
+  15609805    AJ GUNS LLC                  423 BETHLEHEM RD        KNIGHTDALE       NC           0          0          0           0          2          5           7 
+  15611452    ALEXANDER, DONOVAN L         3003 COLEMAN RD         FAYETTEVILLE     NC           2          0          0           0          0          0           2 
+  15602923    AMERICAN TACTICAL & PAWN,  501 NORTH LAFAYETTE  SHELBY                NC           0          3          0           0          0          0           3 
+              INC                          ST 
+  15609451    ANGSTADT ARMS LLC            803 PRESSLEY ROAD       CHARLOTTE        NC           0          0          0           0        734          0         734 
+                                           STE 102 
+  15613311    APOLLO CUSTOM INC            8320 TRIAD DR           GREENSBORO       NC           5          0          0        3303      13687          0       16995 
+  15609766    APPALACHIAN ARMS             48 WALDORF PLACE        BRASSTOWN        NC           0          0          0           0          0          1           1 
+              INCORPORATED 
+  15604638    BARNES PRECISION MACHINE  1434 FARRINGTON RD         APEX             NC          43          0         25           0          2          0          70 
+              INC                          STE 300 
+  15613240    BAT CAVE BALLISTICS INC      156 REYNOLDS SCHOOL  ASHEVILLE           NC           0          0          0           0          0          1           1 
+                                           ROAD 
+  15609629    BROOKS, ROY MICHAEL          7685 OLD US 1           NEW HILL         NC           0          1          2           0          3          1           7 
+  15611250    CAROLINA GUN AND             993 LOWES LANE          IRON STATION     NC           1          0          0           0          1          0           2 
+              RELOADING INC 
+  15601287    CJK FARMS INC                194 BUNCOMBE HILL LN  MOUNT OLIVE        NC           0          2          0           0          0          0           2 
+  15613093    DEFCON DELTA TACTICAL LLC  142 REEP RD               KINGS            NC           0          0          0           0          2          0           2 
+                                                                   MOUNTAIN 
+  15603403    DEL-TON, INC                 330 AVIATION PARKWAY  ELIZABETHTOW       NC           0       4600          0           0          0          0        4600 
+                                                                   N 
+  15613420    DNA FIREARM SYSTEMS INC      212 E MAIN ST           LOCUST           NC           0          0          1           0          0          0           1 
+                                           WAREHOUSE 
+  15612761    ELAM, CLAUDE BENJAMINE III   92 VICTORIA HILLS DR S  FUQUAY VARINA  NC             0          5          0           0          0          0           5 
+  15609943    GRANVILLE GUN WORKS INC      208 F NORTH MAIN        CREEDMOOR        NC           0          0          0           0          3          0           3 
+                                           STREET 
+  15610664    HEAVY ARMOR DIVISION LLC     7916 STINSON  HARTIS    INDIAN TRAIL     NC           0          0          0           0         19         33          52 
+                                           RD 
+  15612365    INNOVATIVE ENDEAVORS INC     111 DEALWOOD DR         STATESVILLE      NC           2          0          0           1          8          0          11 
+  15613103    KABLAMMO KUSTOM              1320 SLOAN ROAD         MOUNT ULLA       NC           0          0          0           0          0          1           1 
+              FIREARMS LLC 
+  15609698    KC'S KUSTOM CREATIONS LLC  816 MAIN ST               MAYSVILLE        NC           6          0          0           0          2          6          14 
+  15610427    LAZY K CARTRIDGE COMPANY  456 US 70                  HAVELOCK         NC           0          0          2           0          0          0           2 
+              LLC 
+  15610787    MOORE, BETTY H               3701 NC 89 HWY E        WALNUT COVE      NC           0          1          1           0          4          0           6 
+  15603314    OUTDOOR COLORS LLC           286 INDUSTRIAL PARK     RUTHERFORDT      NC        2395          0          0           0       3119          0        5514 
+                                                                   ON 
+  15613475    PET APOCALYPSE LLC           436 WOLFPOINT EXT       FAYETTEVILLE     NC           0          2          0           0          1          0           3 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                                       01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

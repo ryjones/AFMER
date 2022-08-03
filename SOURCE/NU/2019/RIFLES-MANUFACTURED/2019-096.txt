@@ -1,0 +1,38 @@
+                                                              RIFLES MANUFACTURED IN 2019 
+  RDS KEY        LICENSE NAME                                STREET                              CITY                         ST       RIFLE MFG 
+  98703548       ECHIS INDUSTRIES LLC                        1382 W BREAKER POINT WAY            RIVERTON                      UT               3 
+  98702757       F5 DEFENSE INC                              282 S 1250 W SUITE A                LINDON                        UT              19 
+  98703289       FALLOUT ARMAMENT LLC                        125 SOUTH MAIN ST                   BRIGHAM CITY                  UT              15 
+  98702318       FIERCE FIREARMS LLC                         360 NORTH R FIERCE LANE             REDMOND                       UT            2644 
+  98702172       FINO ENTERPRISES LLC                        1408 SOUTH HWY 118                  RICHFIELD                     UT               2 
+  98702790       FLAWLESS FIREARMS LLC                       333 NORTH STATE ST                  OREM                          UT               5 
+  98703431       FREEMAN PRECISION FIREARMS LLC              627 COPPER COURT                    SANTAQUIN                     UT              18 
+  98703978       GREENWOOD LONG RANGE, LLC                   591 N 1700 W                        LEHI                          UT               2 
+  98702410       HAIR TRIGGER LLC                            491 E 2650 N                        NORTH LOGAN                   UT               6 
+  98703780       HERBERT, GREGORY S                          2001 NORTH 600 WEST                 LEHI                          UT              16 
+  98701212       HISKEY, BRADLEY K                           1825 NORTH MAIN # 2                 SPANISH FORK                  UT              19 
+  98702894       HOLMGREN BROTHERS ARMS LLC                  6206 NORTH 4600 WEST SUITE A        BEAR RIVER CITY               UT               4 
+  98704077       HUNSAKER, CLIFFORD                          5506 W 10030 N                      HIGHLAND                      UT               6 
+  98702334       IRON MOUNTAIN FIREARMS LLC                  387 N 300 W                         CEDAR CITY                    UT               3 
+  98701641       JEPPSON, BRIAN COLE                         5408 W 10180 N                      HIGHLAND                      UT               9 
+  98703558       L & D CUSTOM ARMS LLC                       847 WEST 3270 SOUTH                 HURRICANE                     UT               3 
+  98704170       LAMBORN PRECISION RIFLES LLC                1682 WILLOW WAY                     LOGAN                         UT               2 
+  98703877       LONG RANGE SHOOTERS OF UTAH, LLC            858 HEALEY HOMESTEAD CIR            ALPINE                        UT               2 
+  98703963       M TERRY CONSULTING, INC                     15121 SOUTH GALLANT DR              BLUFFDALE                     UT               1 
+  98701922       MACHINE GUN ARMORY LLC                      545 W 9460 S                        SANDY                         UT              20 
+  98701757       MATCH GRADE MACHINE INC                     740 NORTH PINION ST                 HILDALE                       UT               7 
+  98703105       MOA CUSTOMS LLC                             2323 E ROLLING OAKS LN              LAYTON                        UT               6 
+  98703396       MOUNTAIN TOP ADVENTURES INC                 13951 SOUTH IVIE FARMS DRIVE        HERRIMAN                      UT               3 
+  98702623       MOUNTAIN VIEW ARMS LLC                      2485 SOUTH 1350 WEST                LOGAN                         UT               8 
+  98703717       PATRIOT PRECISION LLC                       8265 E 7500 N                       LAPOINT                       UT               6 
+  98701000       PAWELEC, RICHARD S                          512 NORTH MAIN ST                   KANARRAVILLE                  UT               5 
+  98701853       PRATT, STEPHEN D & JONI                     12441 S 4380 W                      PAYSON                        UT              24 
+  98702417       PRESTEGE CAR SALES LLC                      1874 SO DANIELS RD UNIT B           HEBER                         UT               1 
+  98703456       RACK AND RUNNIN' CUSTOMS LLC                13808 SO RALPH H WAY                HERRIMAN                      UT               1 
+  98701606       RED ROCK PRECISION LLC                      181 N COMMERCIAL ST                 MORGAN                        UT              70 
+  98703466       ROBISON, QUINT N                            95 NORTH MAIN ST                    MEADOW                        UT               5 
+  98702336       ROWDY'S LLC                                 610 NO INDUSTRIAL RD                ST GEORGE                     UT               1 
+  98703139       SAGE COUNTRY RIFLES LLC                     3516 WEST 5000 SOUTH                ROY                           UT               2 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                              01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

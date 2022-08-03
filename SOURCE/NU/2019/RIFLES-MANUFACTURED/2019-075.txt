@@ -1,0 +1,39 @@
+                                                                RIFLES MANUFACTURED IN 2019 
+  RDS KEY        LICENSE NAME                                  STREET                               CITY                          ST       RIFLE MFG 
+  15612743       PRO GUN LLC                                  4557 TECHNOLOGY DR, STE 5             WILMINGTON                    NC                6 
+  15609712       RD'S GUNS AND AMMO LLC                       1901 LIBERTY DR                       THOMASVILLE                   NC               35 
+  15604372       RIFLEMAN CONSULTING LLC                      201 REMINGTON LANE                    CARTHAGE                      NC               26 
+  15610984       RILEY DEFENSE INC                            2975 INTERSTATE ST                    CHARLOTTE                     NC             6485 
+  15608729       RTD PRECISION LLC                            1333 LOOP RD                          BUNNLEVEL                     NC                2 
+  15609181       SERIG,SCOTT ROBERT                           2704 TOWNES DRIVE                     GREENVILLE                    NC                2 
+  15610453       SILENTARMS LLC                               304 SORRELL DRIVE                     WENDELL                       NC               24 
+  15610522       STICKLE, WILLIAM ROBERT                      1402 TIMBER LANE                      ASHEBORO                      NC               35 
+  15609063       STURM RUGER & COMPANY INC                    271 CARDWELL RD                       MAYODAN                       NC           251340 
+  15611687       SWIFT CREEK RIFLES LLC                       323 BALD HEAD ISLAND DR               GARNER                        NC               34 
+  15610295       TAUNTON, SCOTT WAYNE                         214 N LONG DRIVE                      ROCKINGHAM                    NC                1 
+  15640626       TAYLOR, GEORGE JOSEPH                        424 PETERSBURG RD                     RICHLANDS                     NC                3 
+  15604129       TEMPLAR CONSULTING LLC                       104 BUTTERMILK WAY                    APEX                          NC                1 
+  15605753       TGR ENTERPRISES INC                          26 CHARITY LANE                       CANDLER                       NC                5 
+  15611510       THE AK GUY INC                               581 EXECUTIVE PL  STE 100 A           FAYETTEVILLE                  NC                1 
+  15612663       THE ROCK GUNS INC                            5329 YADKIN RD                        FAYETTEVILLE                  NC                6 
+  15607560       TMW ENTERPRISES LLC                          3520 GILLEY DR                        JONESVILLE                    NC               14 
+  15604740       TOOLEY CUSTOM RIFLES LLC                     479B TAR CREEK RD                     ORIENTAL                      NC               10 
+  15604887       USA TACTICAL FIREARMS LLC                    102 2ND ST SE                         CATAWBA                       NC               33 
+  15609947       VADUM INC                                    601 HUTTON ST SUITE 109               RALEIGH                       NC                5 
+  15612774       WEBER, CHRISTOPHER JOHN                      400 N POPLAR STREET                   ABERDEEN                      NC                1 
+  15604367       WILLIAM LEWIS CORLEY                         710 COVINGTON CT                      HUBERT                        NC                7 
+  15611513       WOLF HUNTER ORDNANCE LLC                     1512 OCTONE DR                        WILLOW SPRING                 NC                1 
+  15612674       ZRODELTA LLC                                 100 BEIERSDORF DR                     RUTHERFORD COLLEGE            NC              197 
+  34501258       DAKOTA GUNS LLC                              875 8TH AVE SOUTH                     WAHPETON                      ND               20 
+  34501101       JOYCE, JAMES                                 2947 133RD F AVE NW                   ARNEGARD                      ND                1 
+  34501221       MACK TACTICAL CUSTOM FIREARMS AND            3327 46TH AVE S                       FARGO                         ND                3 
+                 GUNSMITHING LLC 
+  34500555       NODAK ARMS INC                               601 104TH STREET SE                   MINOT                         ND              108 
+  34501059       ROUGHRIDER ARMS LLC                          5201 GATEWAY DR UNIT 2                GRAND FORKS                   ND               68 
+  34501284       SIERRA TWO INDUSTRIES LLC                    7308 YUKON DR UNIT 5                  BISMARCK                      ND                2 
+  54702255       88 TACTICAL BUILDING GROUP LLC               15350 SHEPARD ST                      OMAHA                         NE              628 
+  54702081       BEEKMAN, BRIAN & NANCY                       567 GOLF RD                           SOUTH SIOUX CITY              NE                1 
+  54702483       CUSTOM GUN SOLUTIONS LLC                     347 E 1ST STREET                      GREENWOOD                     NE               27 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                                   01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

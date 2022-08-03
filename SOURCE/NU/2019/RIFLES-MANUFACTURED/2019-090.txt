@@ -1,0 +1,38 @@
+                                                             RIFLES MANUFACTURED IN 2019 
+  RDS KEY       LICENSE NAME                                STREET                              CITY                        ST        RIFLE MFG 
+ 57514561       BREWER, STEVEN TEVIRRO                      8210 MCCAIN DR                      DALLAS                       TX               2 
+ 57409765       BRUGGEMAN, TERRANCE J                       2218 ASPEN DR                       PORTLAND                     TX              16 
+ 57512398       BRYANT CUSTOM LLC                           7761 FM 592                         WHEELER                      TX              12 
+ 57605428       BULLETS, BLADES & CONCEALMENT LLC           111 I-45 SOUTH STE G-2              HUNTSVILLE                   TX             189 
+ 57508838       BURGER, GREG                                7220 E COUNTY RD 105                MIDLAND                      TX               7 
+ 57605551       BURNET FLAG FIREARMS LLC                    40291 S HILL PASS                   MAGNOLIA                     TX               6 
+ 57407314       CACTUS WEAPONS SYSTEMS INC                  3056 SOUTH US HWY 277               DEL RIO                      TX              10 
+ 57515214       CANTON GUNS & AMMO LLC                      1190 S TRADE DAYS BLVD STE 3        CANTON                       TX              24 
+ 57513459       CASEY, KEVIN                                1969 WINCHESTER DR                  FRISCO                       TX               3 
+ 57514515       CG JONES INVESTMENTS, LLC                   44 BOUNTY RD W                      BENBROOK                     TX               9 
+ 57410455       CHAMPION ARMS, LLC                          379 PR 863                          ROCHELLE                     TX              30 
+ 57409741       CHARLIE MIKE PRECISION INC                  124 S 2ND ST                        NORMANGEE                    TX              14 
+ 57605844       CLINTS GUNS & AMMO LLC                      20206 PRINCE CREEK DR               KATY                         TX             359 
+ 57410373       COVENANT ARMORY LLC                         200 VALLEY VISTA ROAD               WIMBERLEY                    TX               1 
+ 57408922       CROSSROADS PRECISION RIFLES LLC             1602 LA VALLIERE ST                 VICTORIA                     TX              20 
+ 57409217       CSR INDUSTRIES LLC                          33 SOUTH MESQUITE DRIVE             VICTORIA                     TX               6 
+ 57407994       CUSTOM DEFENSE FIREARMS LLC                 1911 E RANCIER AVE                  KILLEEN                      TX               5 
+ 57513839       CUSTOM SHOP LLC                             N HWY 69 - 7680 N US HWY 69         ALBA                         TX               1 
+ 57512249       DAREINGARMS LLC                             2141 COLLINS RD SUITE 902           DENTON                       TX              21 
+ 57403973       DAVID WHITING                               2843 HAYDEN RANCH RD                FREDERICKSBURG               TX               2 
+ 57401590       DAWSON PRECISION INC                        3300 CR 233                         FLORENCE                     TX               1 
+ 57513709       DEFENSE MANUFACTURING SOLUTIONS LLC         701 E PINE                          EDGEWOOD                     TX               9 
+ 57405698       DRJ INVESTMENTS LLC                         5826 AVENUE B                       SHERIDAN                     TX               3 
+ 57406445       DURY'S GUN SHOP INC                         1039 NE LOOP 410                    SAN ANTONIO                  TX               5 
+ 57514096       EAST TEXAS MACHINING & MANUFACTURING LLC    13864 CR 4196D                      HENDERSON                    TX              21 
+ 57602760       EISEMAN, BARNEY A                           7502 BRYAN LANE                     MONTGOMERY                   TX               4 
+ 57410069       ELITE ARMORY LLC                            110 S ELM                           MADISONVILLE                 TX              43 
+ 57606385       ELLIS III, JAMES THEDFORD                   5656 WHEATLEY ST                    HOUSTON                      TX               7 
+ 57510959       ENR ENTERPRISES LLC                         1907 AMESBURY CT                    SOUTHLAKE                    TX               1 
+ 57605418       EO'S VENTURES LLC                           830 W 14TH ST                       HOUSTON                      TX               5 
+ 57509739       ERWIN PAWN INC                              1506 SE 10TH STREET                 AMARILLO                     TX              52 
+ 57602230       ESG GUNWORKS LLC                            3000 N MAIN #3B                     BAYTOWN                      TX              22 
+ 57509410       ETHRIDGE ARMS LLC                           243 KING RANCH CT                   FORT WORTH                   TX               2 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                            01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

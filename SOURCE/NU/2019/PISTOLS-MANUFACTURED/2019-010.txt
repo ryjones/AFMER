@@ -1,0 +1,50 @@
+                                                           PISTOLS MANUFACTURED IN 2019 
+                                                                                             PISTOL     PISTOL      PISTOL     PISTOL     PISTOL      PISTOL      PISTOL
+  RDS KEY      LICENSE NAME                 STREET                  CITY             ST           22         25         32        380        9MM           50      TOTAL 
+  15952291    SCALLYWAG'S CUSTOMS LLC       166 CESSNA DRIVE UNIT  PORT SAINT JOE  FL              0          0          0           0          0           3           3 
+                                            G 
+  15903222    SCCY INDUSTRIES LLC           1800 CONCEPT COURT      DAYTONA          FL            0          0          0       11245      63349           0       74594 
+                                                                    BEACH 
+  15930785    SHARK COAST TACTICAL LLC      2819 BEE RIDGE RD #A    SARASOTA         FL            0         56         18           0        101          10         185 
+  15949272    SJV LIMITED INC               4429 GARRISON RD        PANAMA CITY      FL            0          0          1           0          2           0           3 
+  15917322    SLR RIFLEWORKS LLC            1232 WINTER GARDEN      WINTER           FL            3          0          0           0          0           0           3 
+                                            VINELAND RD STE 120     GARDEN 
+  15951855    SPARTAC MANUFACTURING         11151 66TH ST SUITE 301  LARGO           FL            0         11          0           0          0           0          11 
+              LLC 
+  15913173    SPECIAL OPS TACTICAL LLC      655 GEM COMMERCE        APOPKA           FL            5          0          0           0          0           0           5 
+                                            COURT 
+  15912499    SPECIALTY ARMS INC            7065 HWY 90             GRAND RIDGE      FL            1          0          0           0          1           0           2 
+  15904524    SPIKE'S TACTICAL LLC          2036 APEX COURT         APOPKA           FL            0          0          0           0          0         207         207 
+  15920435    SR GUNSMITHING LLC            1501 ASHBY CREEK RD     OSTEEN           FL            0          0          0           0          2           0           2 
+  15948923    SUNCOAST WEAPONS AND          787 COMMERCE DR UNIT  VENICE             FL            0          0          0           0          1           0           1 
+              TACTICAL LLC                  11 
+  15917213    SUPERIOR PRECISION RIFLES  83 CARA TRAIL              CRAWFORDVILL     FL            0          0          0           0          2           0           2 
+              LLC                                                   E 
+  15915559    SWUB ENTERPRISES INC          36 S HWY 17-92          DEBARY           FL            0         10          5           0          0           0          15 
+  15949593    TACTICAL LIFE LLC             10388 WEST STATE RD     DAVIE            FL         134           0         53           0         24           0         211 
+                                            84 UNIT 114 
+  15951685    TALON TRAINING GROUP LLC      301 COMMERCE BLVD       MIDWAY           FL            0          0          2           0          1           0           3 
+  15923596    TAURUS INTERNATIONAL          16175 NW 49TH AVE       MIAMI            FL       55378           2          0       71590          0           0      126970 
+              MANUFACTURING INC 
+  15916906    TRIDENT ARMS LLC              3212 N 40TH ST STE 801  TAMPA            FL            0          0          0           0          9           3          12 
+  15950464    TRINITY TACTICAL GROUP INC  4366 LOUIS AVENUE         HOLIDAY          FL            0          1          0           0          0           0           1 
+                                            SUITE 103 
+  15949639    USA PRO TEN LLC               5524 64TH WAY N         SAINT            FL            2          0          0           0          7           0           9 
+                                                                    PETERSBURG 
+  15932209    VERITAS TACTICAL LLC          207 N GOLDENROD RD      ORLANDO          FL          27           0          0           0          0           0          27 
+                                            #200 
+  15951626    WAR DOG INDUSTRIES LLC        101 HEAVENSGATE RD      DELAND           FL          10           0          0           0          0           0          10 
+                                            SUITE C 
+  15913668    WMD GUNS LLC                  3068 - 3070 SE          STUART           FL            0         64          0           0          0           0          64 
+                                            DOMENICA TERRACE 
+  15931913    YOUR FIRST SHOT INC           22220 60TH AVE E        BRADENTON        FL            1          0          0           0          0           0           1 
+  15932715    ZDRODOWSKI, DAVID PAUL        3404 BOGGY CREEK RD  KISSIMMEE           FL            0          0          0           0          2           0           2 
+  15814265    1911 USA, LLC                 176 BUGLE DR            CLEVELAND        GA            0          0          0           0          0           1           1 
+  15811485    BARNES, EDKER PAUL JR         204 HORACE KING ST      LAGRANGE         GA            0          3          2           0          1           0           6 
+  15814460    BENNETT, KENNETH JORDAN       1480 SALEM ROAD         MINERAL BLUFF    GA            1          0          1           0          0           0           2 
+              AND CALLIHAN, MARK HENRY 
+  15814720    BRUTE WARRIOR SYSTEMS         326 LAKE FOREST DRIVE  NEWNAN            GA            0          0          0           1          0           0           1 
+              LLC 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                                          01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

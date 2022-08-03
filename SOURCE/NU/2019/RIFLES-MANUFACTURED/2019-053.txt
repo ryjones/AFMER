@@ -1,0 +1,38 @@
+                                                           RIFLES MANUFACTURED IN 2019 
+  RDS KEY       LICENSE NAME                              STREET                             CITY                       ST       RIFLE MFG 
+ 58407278       STOKER, BROCK                             3141 52ND AVE                     GREELEY                      CO             37 
+ 58408932       STONEHAVEN ARMS, LLC                      5227 BRISTOL ST                   ARVADA                       CO              1 
+ 58408721       TACTICOOL ARMS LLC                        928 13TH STREET STE 5             GREELEY                      CO             18 
+ 58404115       TRIGGER TIME GUN CLUB LLC                 3575 STAGECOACH RD                LONGMONT                     CO             20 
+ 58409777       VERTEC TOOL, INC                          1123 ELKTON DR                    COLORADO SPRINGS             CO              9 
+ 58408169       VIKING ARMAMENT LLC                       596 23 1/2 RD                     GRAND JUNCTION               CO             28 
+ 58404859       WELLINGTON ARMS LLC                       8900 W 1ST ST                     WELLINGTON                   CO              4 
+ 58409120       WINDAGE WEAPONRY LLC                      4476 SWEETWATER ROAD              GYPSUM                       CO              1 
+ 60603711       BLACK TIDES GROUP LLC                     8 DIANE DR                        MONROE                       CT              1 
+ 60600279       CARLESCO, STEPHEN P                       2458 BOSTON POST ROAD             GUILFORD                     CT              2 
+ 60603306       COLT'S MANUFACTURING COMPANY LLC          545 NEW PARK AVE                  WEST HARTFORD                CT          10091 
+ 60602956       COMGRAF LLC                               93 WATER STREET                   GUILFORD                     CT              1 
+ 60634862       CONNECTICUT SHOTGUN MANUFACTURING CO      100 BURRITT STREET                NEW BRITAIN                  CT              2 
+ 60602995       DELTA LEVEL DEFENSE LLC                   40 EMBREE STREET                  STRATFORD                    CT             50 
+ 60603454       DJS FIREARMS, LLC                         4 NICHOLAS SQUARE                 NEW MILFORD                  CT              2 
+ 60603526       FIREARMS LLC                              450 THAMES ST                     GROTON                       CT              1 
+ 60602610       MINUTEMEN ARMS LLC                        35 WASHINGTON ST                  TRUMBULL                     CT              2 
+ 60600773       O F MOSSBERG & SONS INC                   7 GRASSO AVE                      NORTH HAVEN                  CT             76 
+ 60603042       PAUWAY CORP                               63 NORTH CHERRY STREET            WALLINGFORD                  CT            716 
+ 60604716       SMITH TACTICAL LLC                        160 CHRISTIAN STREET              OXFORD                       CT             25 
+ 60602196       STANDARD MANUFACTURING CO LLC             100 BURRITT STREET                NEW BRITAIN                  CT            600 
+ 60600763       STURM, RUGER & COMPANY, INC               1 LACEY PL                        SOUTHPORT                    CT            105 
+ 85100968       GUNSHOOTER ENTERPRISES LLC                22957 DEEP BRANCH RD              GEORGETOWN                   DE             34 
+ 15950807       A.F.I. ARMORY LLC                         17401 PARRISH GROVE RD            DADE CITY                    FL              2 
+ 15932944       AA TACTICAL INC                           451 N FERDON BLVD                 CRESTVIEW                    FL             15 
+ 15952184       ADAMS ARMS HOLDINGS, LLC                  21228 POWELL ROAD                 BROOKSVILLE                  FL            244 
+ 15912791       ADEQ FIREARMS COMPANY                     4921 WEST CYPRESS STREET          TAMPA                        FL              1 
+ 15926771       ADVANCED TACTICAL FIREARMS LLC            4579 BEE RIDGE ROAD               SARASOTA                     FL              2 
+ 15917575       ADVANCED WEAPONS & FIREARMS LLC           1508 INDUSTRIAL DR                NEW SMYRNA BEACH             FL              1 
+ 15901343       AK-USA MANUFACTURING INC                  3112-1 PALM AVENUE                FORT MYERS                   FL              6 
+ 15948877       AMERICAN HANDHELD WEAPONRY INC            203 SW 125TH AVENUE               PLANTATION                   FL             15 
+ 15908565       AMERICAN METAL FINISHING CORPORATION      7594 CHANCELLOR DRIVE             ORLANDO                      FL             14 
+ 15905746       AMERICAN VINTAGE GUN AND PAWN, INC        4920 LENA RD UNIT 102 & 103       BRADENTON                    FL              1 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                       01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

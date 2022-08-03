@@ -1,0 +1,40 @@
+                                                            MISC. FIREARMS MANUFACTURED IN 2019 
+  RDS KEY          LICENSE NAME                                        STREET                                  CITY                           ST       MISC FA MFG 
+  15407875         SYKES, JOSEPH LARRY                                 8540 SNAKE CREEK RD                     HILLSVILLE                      VA                 1 
+  15407569         UMBRELLA CORP WEAPONS RESEARCH GROUP                545 S BIRDNECK RD STE 202 B             VIRGINIA BEACH                  VA               430 
+  15414431         WEIDNER CONSULTING LLC                              1186 WARRENTON RD STE 102               FREDERICKSBURG                  VA                47 
+  60300549         AMRICK, DANIEL                                      1114 RT 30                              BOMOSEEN                        VT                 5 
+  60333217         CENTURY ARMS INC                                    236 BRYCE BLVD                          GEORGIA                         VT             10103 
+  60301009         WHITE'S SPORTING GOODS, LLC                         39 RIVERSIDE COURT                      LYNDONVILLE                     VT                 1 
+  99106034         ALL AMERICAN ARMORY, LLC                            14969 W BOW HILL RD STE #2              BOW                            WA                  4 
+  99101182         AMERICAN RIFLE COMPANY INC                          4403 RUSSELL RD SUITE 110               MUKILTEO                       WA                258 
+  99109193         ARMORY42 LLC                                        17923 PIONEER WAY E                     ORTING                         WA                  4 
+  99107472         BETHEL ARMAMENT LLC                                 14835 133RD AVE SE                      YELM                           WA                  9 
+  99106948         BIG IRISH GUN WORKS LLC                             5414 SWAN CT                            WEST RICHLAND                  WA                  4 
+  99105914         DEFENSE ARMAMENT DESIGN LLC                         1616 SPRING WATER                       WENATCHEE                      WA                  3 
+  99105925         GREY GHOST PRECISION, LLC                           2916 107TH ST S                         LAKEWOOD                       WA               2775 
+  99108694         HAWK AMERICAN OUTDOORS INC                          108 EAST 1ST ST                         CLE ELUM                       WA                  3 
+  99106894         JONES ARMS LLC                                      63 HOOKER RD                            SEQUIM                         WA                 18 
+  99104640         PARATUS-X LLC                                       131 SINES LN                            ENTIAT                         WA                  3 
+  99108529         RED DIRECT DEFENSE LLC                              11304 25TH STREET NE                    LAKE STEVENS                   WA                  1 
+  99108530         STEELHEAD ARMS, LLC                                 21137 STATE ROUTE 410 E SUITE F         BONNEY LAKE                    WA                 10 
+  99103937         TRIPLETT FIREARMS COMPANY                           1800 37TH ST                            WASHOUGAL                      WA                 40 
+  99107069         ZEV TECHNOLOGIES INC                                2120 NORTHPARK DRIVE                    CENTRALIA                      WA               1426 
+  33908009         BADGER STATE ORDNANCE LLC                           17 1/2 WILSON AVE                       WESTON                          WI                 2 
+  33903957         BARTLEIN BARRELS INC                                W208 N16939 N CENTER ST                 JACKSON                         WI                39 
+  33901982         GARY'S GUNS INC                                     W 226 N 1455 NORTH AVENUE               WAUKESHA                        WI                 1 
+  33910192         HENRY RAC HOLDING CORP                              107 W COLEMAN ST                        RICE LAKE                       WI               395 
+  33905794         JAGEMANN STAMPING COMPANY                           5757 WEST CUSTER ST                     MANITOWOC                       WI                35 
+  33906644         KOFFMAN, JAMES A                                    W3128 COUNTY ROAD F                     EDEN                            WI                 3 
+  33909285         MUKWA TACTICAL LLC                                  N3341 EBERT ROAD                        NEW LONDON                      WI                 8 
+  33908485         ROARING CREEK ARMS LLC                              W11235 SPAULDING RD                     BLACK RIVER FALLS               WI                25 
+  33905169         ROTH CONCEPT INNOVATIONS LLC                        N9652 HIGHLINE RD UNIT NM               KAUKAUNA                        WI                27 
+  33904639         SCOTSMAN ARMS LLC                                   320 PUTNAM STREET SUITE 7               EAU CLAIRE                      WI                72 
+  33907761         TRIPWIRE WEAPON SYSTEMS LLC                         W9076 HWY A                             DELAVAN                         WI                 1 
+  33910751         TRUE ZERO LLC                                       W1549 STATE ROAD 23                     MOUNT CALVARY                   WI                 3 
+  33907594         WORKS ARMAMENT LLC                                  1 TAUNTON CIRCLE                        MADISON                         WI                16 
+  45503692         CHILDERS GUNS LLC                                   521 GASTON AVE                          FAIRMONT                       WV               3080 
+  45503183         HARPERS FERRY ARMORY INC                            301 N MILDRED ST                        RANSON                         WV                 17 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                                          01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

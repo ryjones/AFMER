@@ -1,0 +1,47 @@
+                                                        PISTOLS MANUFACTURED IN 2019 
+                                                                                        PISTOL    PISTOL     PISTOL     PISTOL     PISTOL     PISTOL     PISTOL
+  RDS KEY     LICENSE NAME                STREET                 CITY           ST          22         25        32        380       9MM          50      TOTAL 
+  33735964    OTTE, MICHAEL M             7458 PIN OAK RD       EDWARDSVILLE     IL          0          0          0          0         6          8          14 
+  33604340    PAWLOWSKI, MATTHEW ALAN  9520 PAULING RD          MONEE            IL          2          0          2          3        38          7          52 
+  33602315    RIZZO, ANTHONY CARL         15796 STONEWALL       MILLBROOK        IL          0          0          0          0         5          0           5 
+                                          DRIVE 
+  33703568    SHEEPDOG KNIFE & GUN, LLC'  1031 W MADISON ST     MASCOUTAH        IL          0          0          0          0         0          5           5 
+  33601205    SPORTSWEREUS INC            855 COMMERCE          CARPENTERSVI     IL          0          0          0          0         0          3           3 
+                                          PARKWAY               LLE 
+  43504565    BELL, JOSEPH D              211 WEST MAIN ST      MILROY           IN          1          0          0          0         0          0           1 
+  43506819    BLACK BART'S LLC            4135 N 450 W          COLUMBIA CITY    IN          1          0          0          0         0          0           1 
+  43504312    BOSTICK, TED B JR           2230 WEST SNAKEHILL   LIBERTY          IN          0          0          0          0         1          0           1 
+                                          ROAD 
+  43506392    CABOT GUN COMPANY LLC       3610 FOCUS DR         FORT WAYNE       IN          0          0          0          0        71        234         305 
+  43506000    CENTURION ARMS LLC          8985 CARMEL RIDGE RD  MORGANTOWN       IN          3          0          0          0         0          0           3 
+  43507290    FOSTECH INC                 320 MYERS STREET      SEYMOUR          IN          0        132          5          0         0          0         137 
+  43507212    FREEDOM ORDNANCE            612 GRACE WAY         CHANDLER         IN          0          0          0          0      6417          0        6417 
+              MANUFACTURING INC 
+  43508026    MB GUNWORKS LLC             1414 KENSINGTON BLVD  FORT WAYNE       IN          0          0          0          0         1          0           1 
+  43507998    MCALISTER, THOMAS BRIAN     1634 FLETCHER STREET  ANDERSON         IN          0          0          0          1         0          0           1 
+  43507948    MODERN DEFENSIVE            706 N MAIN ST         BLUFFTON         IN          0          0          1          0         0          0           1 
+              ENHANCEMENT LLC 
+  43506762    MOORE GUNWORKS LLC          292 SOUTH COUNTY RD  AVON              IN          0          0          0          0         1          0           1 
+                                          800 EAST 
+  43506095    NORRIS ARMS CO LLC          405 N OLD STATE RD 15  MILFORD         IN          1          0          0          0         0          0           1 
+  43508509    OPEN RANGE GUNWORKS LLC  9628 MULDOON RD          FORT WAYNE       IN          0          2          0          0         0          0           2 
+  43505821    PACE TACTICAL LLC           5721 E 400 S          SAINT ANTHONY    IN          0          0          0          0         4          0           4 
+  43507728    PADGETT, MICHAEL DALE       470 7TH ST SE         LINTON           IN          0          0          0          0         1          1           2 
+  43507759    RAFFERTY CUSTOM GUNS LLC  7277 GOAT HOLLOW        MARTINSVILLE     IN          1          0          0          0         6          1           8 
+                                          ROAD 
+  43507572    RDMURPHY LLC                50 OMEGA LN           PLAINFIELD       IN          0          0          1          0         0          0           1 
+  43507182    SALTZMAN GUN WORKS INC      3896 S 400 WEST       TIPTON           IN          0          1          1          0         0          0           2 
+  43507852    SITE KNOWLEDGE INC          7511 S STATE RD 46    RILEY            IN          0          0          0          0         0          1           1 
+  43507109    STAR RIFLES LLC             8785 N 900 E          SHERIDAN         IN          2          0          1          0         0          0           3 
+  43504812    TACTICAL WEAPONS & SUPPLY  2303 INDIANAPOLIS RD   CRAWFORDSVIL     IN          3          0          2          0         0          0           5 
+              LLC                                               LE 
+  43507032    TIPPMANN ARMS COMPANY       2955 SOUTH            FORT WAYNE       IN        287          0          0          0         0          0         287 
+              LLC                         MAPLECREST ROAD 
+  43504670    WARRIOR ARMS LLC            389 E US HWY 30       VALPARAISO       IN          0          0          4          0         4          2          10 
+  43504744    ZR TACTICAL SOLUTIONS LLC   15223 HERRIMAN BLVD   NOBLESVILLE      IN          0          0          0          0        14          0          14 
+                                          SUITE 4 
+  54804318    A AND M POWDER COATING      22435 QUIVIRA RD      BUCYRUS          KS          2          0          0          1         6          0           9 
+              LLC 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                                 01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

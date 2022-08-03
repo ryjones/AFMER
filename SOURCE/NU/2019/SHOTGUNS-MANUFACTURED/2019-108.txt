@@ -1,0 +1,25 @@
+                                                                  SHOTGUNS MANUFACTURED IN 2019 
+  RDS KEY          LICENSE NAME                                          STREET                                   CITY                            ST      SHOTGUN MFG 
+  98701641         JEPPSON, BRIAN COLE                                   5408 W 10180 N                           HIGHLAND                         UT                  1 
+  98701606         RED ROCK PRECISION LLC                                181 N COMMERCIAL ST                      MORGAN                           UT                  3 
+  98703127         SEELY, JORDAN JAMES                                   3194 NORTH MOUNTAINVILLE RD              MOUNT PLEASANT                   UT                  5 
+  15424905         BIRD, CURTIS LEE                                      60 GREENRIDGE DRIVE                      STAFFORD                         VA                  3 
+  15424666         KIRKPATRICK ARMS LLC                                  10805 WISE CT                            SPOTSYLVANIA                     VA                  2 
+  15424121         MCQUILLEN, GARY ELWOOD                                7535 GUINEA ROAD                         HAYES                            VA                  7 
+  15416619         SHEPHERD, JOHN J                                      7910 N SADDLE RIDGE CT                   CATLETT                          VA                 19 
+  60300777         STEPHENS PRECISION, INC                               293 INDUSTRIAL DRIVE                     BRADFORD                         VT                  1 
+  99109282         J&R SPECIALTY GUNSMITHS, LLC                          4482 HIGHWAY 25 S                        HUNTERS                          WA                  2 
+  99107062         TECH HEAVY INDUSTRIES INC                             7 STANSBURY RD                           RIVERSIDE                        WA                  1 
+  33908596         BRIGHT LINE INVESTIGATIONS LLC                        101 DIVISION STREET N SUITE 8            STEVENS POINT                    WI                  8 
+  33910192         HENRY RAC HOLDING CORP                                107 W COLEMAN ST                         RICE LAKE                        WI              16299 
+  33907913         ION GROUP LLC                                         W213S7530 ANNES WAY                      MUSKEGO                          WI                  2 
+  33905169         ROTH CONCEPT INNOVATIONS LLC                          N9652 HIGHLINE RD UNIT NM                KAUKAUNA                         WI                  7 
+  33910001         THE WISCONSIN TRIGGER COMPANY, INC                    315 HART ST                              WATERTOWN                        WI                  6 
+  33906931         U S COMPETITION ARMS INC                              1925 ROOSEVELT AVE                       RACINE                           WI                133 
+  58302190         FREEDOM TACTICAL LLC                                  9341 DELAWARE                            CHEYENNE                         WY                  1 
+  58302029         WEATHERBY INC                                         1550 YELLOWTAIL DR                       SHERIDAN                         WY              13568 
+  58301479         WHITE, NICOLAS R & JENNIFER ANN                       411 PALOMINO                             BEAR RIVER                       WY                  2 
+                                                                                                                                                                 480735 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                                                01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

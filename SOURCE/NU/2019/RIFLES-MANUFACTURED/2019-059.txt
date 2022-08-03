@@ -1,0 +1,39 @@
+                                                                RIFLES MANUFACTURED IN 2019 
+  RDS KEY        LICENSE NAME                                  STREET                               CITY                          ST       RIFLE MFG 
+  15812701       SECTION 8 ARMAMENT INC                       2563 HWY 29 S                         COLBERT                       GA                3 
+  15806820       SECTION 8 LLC                                316 LYONS ST                          JACKSON                       GA                2 
+  15805768       SHOOTERS DEN OF GEORGIA INC                  1040 TURKEY INDUSTRIAL ROAD STE B     WATKINSVILLE                  GA                1 
+  15805211       SMALL ARMS RESTORATION INC                   831 SAGE LN                           CONYERS                       GA                1 
+  15810669       SMITH TACTICAL & DEFENSE LLC                 215 CROSSBOW LANE                     TALKING ROCK                  GA               26 
+  15812488       SUB MOA PARTS LLC                            1270 SEA WAY NE                       TOWNSEND                      GA                6 
+  15811120       TACTICAL RESOLVE LLC                         91 LUCIOUS KENNEDY RD                 GLENNVILLE                    GA               23 
+  15813504       TALON ARMAMENT LLC                           8530 COBB CENTER DR NW                KENNESAW                      GA             1572 
+  15808331       THE OUTPOST ARMORY LLC                       2002 EMA DELL PL                      LOGANVILLE                    GA                2 
+  15811641       TIPTON, MARK ALAN                            2876 OLD JESUP RD                     BRUNSWICK                     GA                1 
+  15811140       TRINITY PRECISION & ARMS INC                 4643 HWY 280                          CLAXTON                       GA                8 
+  15812793       VALOR RIDGE GUNS LLC                         1229 JOHNSON FERRY ROAD SUITE 201     MARIETTA                      GA                4 
+  15804927       WALKER TOOL & MFG, INC                       1300 ROSS RD                          SHADY DALE                    GA                2 
+  99900289       KILIMANJARO HAWAII LLC                       7 WATERFRONT PLAZA 500 ALA MOANA      HONOLULU                       HI               5 
+                                                              BLVD STE 400 
+  54202999       2ND AMENDMENT CO., LLC                       1950 DODGE RD STE 108                 CEDAR RAPIDS                   IA              18 
+  54203899       ARMSTRONG ENTERPRISES LLC                    2880 HWY 44                           PANORA                         IA               3 
+  54204315       BAL LONG RANGE LLC                           2005 357 ST                           OSAGE                          IA               6 
+  54204692       BEAR ARMS, LLC                               25 S 15TH ST SUITE 2B                 COUNCIL BLUFFS                 IA              16 
+  54204098       BETTIN CUSTOM GUNS LLC                       3090 NEEDHAM AVE                      LAKE VIEW                      IA              10 
+  54204587       BROWNELLS INC                                3006 BROWNELLS PKWY                   GRINNELL                       IA            2815 
+  54203111       CHELGREN, JANET LEE                          398 W 230TH STREET                    BLOOMFIELD                     IA               1 
+  54203229       CREATIVE ARMS LLC                            1430 EAST FLEMING AVE                 DES MOINES                     IA              48 
+  54204631       DEFENSIVE RESOURCES MANUFACTURING LLC        305 NORTH GRANT AVE                   ELKHART                        IA               1 
+  54203920       IN RUT LLC                                   1300 ARIZONA PLACE SW                 ORANGE CITY                    IA               3 
+  54200689       JARD INC                                     3149 NEST AVE                         SHELDON                        IA              26 
+  54204832       KRAKLIO ARMS LLC                             1019 257TH STREET                     WHEATLAND                      IA               5 
+  54201706       LES BAER CUSTOM INC                          1804 IOWA DR                          LE CLAIRE                      IA              34 
+  54204675       LEWIS MACHINE & TOOL CO                      1600 EAST LEONARD COURT               ELDRIDGE                       IA             733 
+  54202961       M POWELL ENTERPRISE LLC                      417 EAST MAIN ST                      CENTRAL CITY                   IA               2 
+  54204205       MAN O' WAR PRECISION ARM, LLC                12403 M AVE                           PERRY                          IA               1 
+  54203954       MCF CUSTOM FIREARMS LLC                      526 CLOVER CIR                        FREDERICKSBURG                 IA              42 
+  54201425       MIDWEST METAL CREATIONS, LLC                 743 ADAMS AVE                         LISBON                         IA              34 
+  54204710       OUTDOOR PURSUIT LLC                          2710 280TH ST                         SAC CITY                       IA               3 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                                   01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

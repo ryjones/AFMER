@@ -1,0 +1,47 @@
+                                                          PISTOLS MANUFACTURED IN 2019 
+                                                                                            PISTOL    PISTOL      PISTOL     PISTOL     PISTOL      PISTOL     PISTOL
+  RDS KEY      LICENSE NAME                 STREET                 CITY            ST           22         25         32        380       9MM           50      TOTAL 
+  57434208    MAVERICK ARMS, INC           1001 INDUSTRIAL BLVD    EAGLE PASS       TX           0          0          0           0      23438          0       23438 
+  57510232    MCENROE SOLUTIONS LLC        1505 PRECISION DR       PLANO            TX           2          0          0           0          0          0           2 
+  57602488    MG ARMS, INC                 6030 TREASCHWIG         SPRING           TX           0          0          0           0          1          1           2 
+  57409415    MICKLER AND ASSOCIATES INC  301 SOUTH HWY 183 STE  LEANDER            TX           3          0          0           0          0          0           3 
+                                           A 
+  57511075    MOAB TACTICAL ADVENTURES  113 LA FAWN CIR            GARLAND          TX           0          0          0           0          0          1           1 
+              LLC 
+  57514547    MOSEMAN. MARTIN DARRELL      2932 MISTY'S RUN        FT WORTH         TX           0          2          0           0          0          0           2 
+  57514376    OCTO ARMS, INC               1062 WILKERSON RD       LUFKIN           TX           8          0          0           0          0          0           8 
+  57408204    PATRIOT ENTERTAINMENT LLC  8301 S IH 35              AUSTIN           TX           0          1          2           0          0          0           3 
+  57514687    PAXTON TIRE AND SERVICE,     603 SE 3RD              DIMMITT          TX           1          0          0           1         12          0          14 
+              INC 
+  57407268    PEINE CUSTOM FIREARMS INC  2379 COUNTY ROAD 4390 KEMPNER              TX           0          0          0           0          2          0           2 
+  57606085    PINKSTON, JONATHAN ALLEN     25629 WATSON RANCH      MONTGOMERY       TX           0          0          0           0          0          1           1 
+                                           RD 
+  57514341    PITTINGER, MATTHEW T         260 L LEE ST            LONGVIEW         TX           0          0          0           0          1          0           1 
+  57605289    POWELL, OAKLEY LYNDON        776 WIRE RD             HUNTSVILLE       TX           2          0          0           0          5          0           7 
+  57515010    Q-FIRE LLC                   1015 DOMINIQUE DR       WEATHERFORD      TX           1          0          1           0          0          0           2 
+  57603438    RADICAL FIREARMS LLC         4413 BLUEBONNET STE 8 STAFFORD           TX        2577          0       1885           0          0         97        4559 
+  57514831    RENEGADE ARMS LLC            1185 HUMBLE RD EAST     OVERTON          TX           8          0          0           5         16          0          29 
+  57515541    REVOLUTIONARY ROLLER         5848 KIMBER LANE        FRISCO           TX           0          0          0           0          9          0           9 
+              LOCKS, LLC 
+  57407611    RH CUSTOM GUNS LLC           730 MUSTANG ST SUITE  FREDERICKSBU       TX           0          0          1           0          0          1           2 
+                                           7                       RG 
+  57503567    RIDDLE, GROVER GLEN          7749 COUNTY ROAD 409  GRANDVIEW          TX           0          0          0           0          0          1           1 
+  57409934    ROBINSON, BLAKE              723 NEIGHBORS           MART             TX           2          0          1           0          4          0           7 
+                                           CORNER RD 
+  57514926    RTSS GUN RANGE LLC           215 CR SW 3050          PURDON           TX           2          0          0           4          2          0           8 
+  57506246    SFX DESIGN INC               2500 I-20 EAST          WEATHERFORD      TX           0          0          0           0          1          0           1 
+  57512440    SHADOW SYSTEMS LLC           730 F AVENUE STE 210    PLANO            TX           0          0          0           0       5969          0        5969 
+  57512558    SHADOWOOD ENTERPRISES        124 GRAPEVINE HWY       HURST            TX           0          9          2           0          0          0          11 
+              LLC                          STE D 
+  57515155    SHAW, NATHAN GLENN           2399 COUNTY ROAD 1885 GRAPELAND          TX           0          0          0           0          0          1           1 
+  57507866    SILVERBACK INDEPENDENT       25600 AUTUMN RIDGE      CANYON           TX           1          0          0           0          1          0           2 
+              LLC                          DR 
+  57408782    SLAPMULE ARMAMENT            1528 E HWY 71           WEST POINT       TX           0          0          0           0          3          0           3 
+              COMPANY 
+  57512804    SMITH, ANDREW J              237 S DEPOT ST          DEPORT           TX           0          0          0           0          1          0           1 
+  57605659    SOUTHERN ORACLE FIREARMS  1616 ALTA VISTA DRIVE  ALVIN                TX           3          1          0           0          1          2           7 
+              LLC 
+  57407799    SPORTSMAN'S ELITE LLC        4520 DONIPHAN DR        EL PASO          TX           8          0          0           0          1          0           9 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                                       01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

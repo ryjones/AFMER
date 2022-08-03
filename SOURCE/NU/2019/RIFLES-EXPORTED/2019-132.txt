@@ -1,0 +1,41 @@
+                                                     RIFLES MANUFACTURERS EXPORTED IN 2019 
+  RDS KEY     LICENSE NAME                                   STREET                               City                         ST       RIFLE EXP 
+  60201816    SIG SAUER INC                                  72 PEASE BLVD                        NEWINGTON                    NH            1441 
+  60201608    WILCOX INDUSTRIES CORP                         25 PISCATAQUA DR                     NEWINGTON                    NH               4 
+  60200735    STURM, RUGER & COMPANY, INC                    529 SUNAPEE ST                       NEWPORT                      NH           24655 
+  82200698    HENRY RAC HOLDING CORP                         59 E 1ST ST                          BAYONNE                      NJ           11499 
+  98803482    SWORD INTERNATIONAL INC                        610 E GLENDALE AVE                   SPARKS                       NV               3 
+  98803415    BATTLE ARMS DEVELOPMENT INC                    451 E SUNSET RD                      HENDERSON                    NV               4 
+  61101138    CENTRE FIREARMS CO INC                         47-40 METROPOLITAN AVE               RIDGEWOOD                    NY             229 
+  61602170    JUST RIGHT CARBINES LLC                        231 SALTONSTALL ST                   CANANDAIGUA                  NY             329 
+  61300458    KIMBER MFG INC                                 1120 SAW MILL RIVER RD               YONKERS                      NY             366 
+  61601135    TURNBULL MANUFACTURING COMPANY                 6680 RT 5-20                         BLOOMFIELD                   NY               1 
+  61602475    REMINGTON ARMS COMPANY LLC                     14 HOEFLER AVE                       ILION                        NY             283 
+  61603552    BORDWELL, DILLON JAMES                         7205 US RT 11                        TULLY                        NY               4 
+  43437065    KELBLY'S RIFLE RANGE INC                       7222 DALTON FOX LAKE RD              NORTH LAWRENCE               OH              88 
+  43100615    JOHNSON, JAMES DOUGLAS                         8141 ST RT 245                       DE GRAFF                     OH               2 
+  57306534    GH ARMS LLC                                    208 NW 19TH STREET                   OKLAHOMA CITY                OK               1 
+  57304666    OKLAHOMA MACHINE GUNS LLC                      615 W WILSHIRE STE 1400              OKLAHOMA CITY                OK               1 
+  99301142    NOSLER, INC                                    2115 SW 6TH STREET                   REDMOND                      OR              19 
+  99305785    AXTS INC                                       875 NE KINGWOOD AVE                  REDMOND                      OR              14 
+  99301937    TORNADO TECHNOLOGIES LLC                       2020 NE ALOCLEK DR SUITE 102         HILLSBORO                    OR               1 
+  82338992    BORDEN, JAMES F                                1325 SHELDON HILL ROAD               SPRINGVILLE                  PA               2 
+  82310076    LAUSCH, LYDIAN                                 RD 2                                 JONESTOWN                    PA 
+  82304234    LANCER SYSTEMS LP                              2800 MILFORD SQUARE PKE              QUAKERTOWN                   PA               4 
+  82507764    AMBROSE, RANDALL LYNN                          13187 JOHN LINDSAY RD                GREENCASTLE                  PA               4 
+  82307692    PRITTS, WESTON LEE & BURIAN, ANTHONY WILLIAM   100 W SECOND ST UNIT 7               HUMMELSTOWN                  PA               2 
+  15704502    AMERICAN TACTICAL INC                          231 DEMING WAY                       SUMMERVILLE                  SC             526 
+  34600877    REMINGTON ARMS COMPANY LLC                     1209 AND 1310 INDUSTRY RD            STURGIS                      SD              98 
+  34633475    H S PRECISION INC                              1301 TURBINE DR                      RAPID CITY                   SD               5 
+  16236907    BARRETT FIREARMS MFG INC                       5926 MILLER LANE                     MURFREESBORO                 TN             875 
+  16208339    BERETTA USA CORP                               1399 GATEWAY DR                      GALLATIN                     TN               7 
+  16209990    MBX TACTICAL LLC                               180 LITTLETON DRIVE                  LOUDON                       TN              14 
+  57401497    AUSTIN PRECISION PRODUCTS INC                  850 CR 177                           LEANDER                      TX              15 
+  57409065    BONETTI EXPLOSIVES LLC                         1190 SMITH RAU RD                    COLUMBUS                     TX               5 
+  57512765    TRUE VELOCITY INC                              1036 NICHLOSON RD NORTHGATE 11       GARLAND                      TX              22 
+  57434208    MAVERICK ARMS, INC                             1001 INDUSTRIAL BLVD                 EAGLE PASS                   TX            4449 
+  57604220    TEXAS ARMAMENT & TECHNOLOGY LLC                2014 AIRPORT DR STE 500              CONROE                       TX             602 
+  57512635    BRACE STEEL COMPONENTS LLC                     540 EASY ST                          GARLAND                      TX               2 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                               01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

@@ -1,0 +1,40 @@
+                                                           MISC. FIREARMS MANUFACTURED IN 2019 
+  RDS KEY          LICENSE NAME                                       STREET                                 CITY                           ST      MISC FA MFG 
+  99301728        HALO MANUFACTURING LLC                              3970 HAMPSHIRE LANE                    EUGENE                         OR                14 
+  99304508        PACIFIC TOOL & GAUGE INC                            675 ANTELOPE ROAD                      WHITE CITY                     OR               308 
+  99303209        PACIFIC TRADING GROUP LLC                           3395 48TH AVE NE                       SALEM                          OR                44 
+  99304653        RICHARDSON, ROBERT LEROY JR                         2137 NE INDUSTRY DR STE 4              GRANTS PASS                    OR               109 
+  99305293        STEVE HARGETT AND JEFF MERRIMAN LLC                 2860 SE MAPLE ST                       HILLSBORO                      OR                 3 
+  99306222        STUBBORN MULE LLC                                   351 CALIFORNIA AVE                     GRANTS PASS                    OR               478 
+  99305963        WHITING, KREGG                                      548 N 4TH ST                           CARLTON                        OR                 8 
+  99302088        YEAMANS, MATTHEW B                                  480 ROGUE RIVER PKWY                   TALENT                         OR                10 
+  82505767        ADVANCED POWDER PRODUCTS INC                        301 ENTERPRISE DR                      PHILIPSBURG                    PA              9049 
+  82303723        BLAK FORGE ARMOURY LLC                              1927 MAIN ST.                          MORRIS                         PA                10 
+  82338992        BORDEN, JAMES F                                     1325 SHELDON HILL ROAD                 SPRINGVILLE                    PA               171 
+  82505590        BORDEN, ROBERT FRANCIS                              111 HALL ST                            SHEFFIELD                      PA                 3 
+  82310349        DEATH VALLEY TACTICAL LLC                           265 SICKLER POND ROAD                  JERMYN                         PA                 7 
+  82305100        GEISSELE AUTOMATICS LLC                             800  NORTH WALES ROAD                  NORTH WALES                    PA                66 
+  82506356        GENERAL MANUFACTURING COMPANY                       3249 INDUSTRIAL BLVD                   BETHEL PARK                    PA                21 
+  82507062        GIGLIOTTI RIFLEWORKS LLC                            5373 BIG RUN PRESCOTTVILLE RD          REYNOLDSVILLE                  PA                 1 
+  82505277        H & W GLOBAL INDUSTRIES INC                         414 INNOVATION DR                      BLAIRSVILLE                    PA              4164 
+  82304234        LANCER SYSTEMS LP                                   2800 MILFORD SQUARE PKE                QUAKERTOWN                     PA                35 
+  82303888        LANCO TACTICAL LLC                                  498 WEST HIGH STREET                   ELIZABETHTOWN                  PA               300 
+  82310076        LAUSCH, LYDIAN                                      RD 2                                   JONESTOWN                      PA 
+  82508455        MANVENTURE OUTPOST LLC                              STE 1 10722 FAIRGROUNDS RD             HUNTINGDON                     PA                66 
+  82507394        NINE SEVEN FIREARMS LLC                             7927 LINDISFARNE DR                    PITTSBURGH                     PA                23 
+  82311187        OSSUR CONSULTING LLC                                6569 WINDMERE RD                       HARRISBURG                     PA               190 
+  82508856        RAPPA, CHRISTOPHER JAMES                            830 STOUFFER AVE                       CHAMBERSBURG                   PA                 6 
+  82310578        SURPLUS ARME DESIGN STUDIOS LLC                     1101 B ELSINORE PLACE                  CHESTER                        PA                16 
+  82303270        U S ARMAMENT CORP                                   121 VALLEY VIEW DR                     EPHRATA                        PA                 3 
+  82305930        WARWICK TACTICAL LLC                                1917 MCFARLAND DR                      LANDISVILLE                    PA                 1 
+  82303130        WELLS CUSTOM GUNMAKERS LLC                          1750 MALONEY HILL RD                   NICHOLSON                      PA                65 
+  60500865        ATA MANUFACTURING INC                               125 HARRISON AVE                       WOONSOCKET                      RI                5 
+  15704477        ACE FIREARMS INC                                    116 KAY DRIVE STE B                    EASLEY                         SC                 2 
+  15704502        AMERICAN TACTICAL INC                               231 DEMING WAY                         SUMMERVILLE                    SC             13954 
+  15705409        IKON WEAPONS LLC                                    1951 PISGAH ROAD, ROOM 125             FLORENCE                       SC                 4 
+  15706187        LEAD STAR LTD CO                                    2121 OLD DUNBAR ROAD                   WEST COLUMBIA                  SC               277 
+  15705090        LIGHTNING TACTICAL & TRAINING LLC                   172 HERITAGE PKWY                      BLUFFTON                       SC                 1 
+  15702546        PALMETTO STATE ARMORY, LLC                          2121 OLD DUNBAR RD                     WEST COLUMBIA                  SC            275975 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                                        01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

@@ -1,0 +1,38 @@
+                                                                 RIFLES MANUFACTURED IN 2019 
+  RDS KEY        LICENSE NAME                                   STREET                                 CITY                          ST        RIFLE MFG 
+  99108547       LINE OF SIGHT MACHINE AND TOOL, INC            17211 83RD AVE COURT E                PUYALLUP                       WA                1 
+  99104060       MATSON, ALBERT JAMES                           20211 NE YACOLT MTN RD                YACOLT                         WA               10 
+  99106349       OKANOGAN ARMS CO LLC                           105 W OAK ST                          OKANOGAN                       WA                2 
+  99114520       OLYMPIC ARMS INC                               624 OLD PACIFIC HWY SE                OLYMPIA                        WA              266 
+  99107401       OTTER CREEK PREMIUM FIREARMS LLC               41203 N HARDESTY RD                   ELK                            WA                7 
+  99108583       PACIFIC NORTH WEAPONS, LLC                     2711 W CASCADE WAY                    SPOKANE                        WA                5 
+  99105817       PANTEL, JOSHUA                                 16926 116TH AVENUE SE                 RENTON                         WA                3 
+  99104640       PARATUS-X LLC                                  131 SINES LN                          ENTIAT                         WA                1 
+  99106439       REHV ARMS LLC                                  27623 COVINGTON WAY SE UNIT 2         COVINGTON                      WA                1 
+  99104679       STONEFIRE ARMS LLC                             26224 173RD AVE SE                    COVINGTON                      WA               12 
+  99108205       TAYLOR DEFENSE SOLUTIONS LLC                   17410 S BLUEBIRD RD                   CHENEY                         WA                1 
+  99107062       TECH HEAVY INDUSTRIES INC                      7 STANSBURY RD                        RIVERSIDE                      WA               10 
+  99107463       TENEX INCORPORATED                             4261 SWEET ROAD                       BLAINE                         WA                4 
+  99109358       WHITEDOG ARMS LLC                              4440 SUNSET WAY                       LONGVIEW                       WA                5 
+  99107069       ZEV TECHNOLOGIES INC                           2120 NORTHPARK DRIVE                  CENTRALIA                      WA               83 
+  33907899       ALBRIGHT GUN WORKS LLC                         230 PAWLING AVE                       HARTLAND                       WI                7 
+  33908838       BLACK, RICHARD DOUGLAS                         25616 75TH ST                         SALEM                          WI                1 
+  33903743       BRAVO COMPANY MFG INC                          340 MAPLE AVE                         HARTLAND                       WI             9748 
+  33909782       BRIGHT LINE INVESTIGATIONS LLC                 935 W RIVER ROAD                      MOSINEE                        WI                2 
+  33908596       BRIGHT LINE INVESTIGATIONS LLC                 101 DIVISION STREET N SUITE 8         STEVENS POINT                  WI               20 
+  33906949       BUISSE, BRETT                                  921 COMMERCE DR UNIT 2                UNION GROVE                    WI                4 
+  33904626       CUSTOM SERVICES LLC                            E10590 PINE ROAD                      FALL CREEK                     WI                4 
+  33905871       DEZ TACTICAL ARMS INC                          1223 SOUTH BLVD                       BARABOO                        WI               44 
+  33900732       EAST RIDGE / STATE ARMS GUN CO INC             6319 5TH AVE                          BANCROFT                       WI               23 
+  33906608       F BOMB ORDNANCE LLC                            2149 US HIGHWAY 8                     ST CROIX FALLS                 WI               11 
+  33907555       GADSDEN SERVICES LLC                           2391 GEMINI RD                        GREEN BAY                      WI                1 
+  33903050       HEARING PROTECTION LLC                         801 SOUTH 12TH STREET                 WATERTOWN                      WI                9 
+  33910192       HENRY RAC HOLDING CORP                         107 W COLEMAN ST                      RICE LAKE                      WI            40195 
+  33908953       HIGH VOLTAGE CUSTOM LLC                        417 E ROSENLUND ST                    WOODVILLE                      WI                4 
+  33908626       HINZE, BRETT ALAN                              150 W STATE ST                        ADAMS                          WI                1 
+  33907913       ION GROUP LLC                                  W213S7530 ANNES WAY                   MUSKEGO                        WI                9 
+  33907085       JEMAK LLC                                      W 226 N 4165 SUNDER CREEK CT          PEWAUKEE                       WI               10 
+  33906644       KOFFMAN, JAMES A                               W3128 COUNTY ROAD F                   EDEN                           WI                1 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                                      01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

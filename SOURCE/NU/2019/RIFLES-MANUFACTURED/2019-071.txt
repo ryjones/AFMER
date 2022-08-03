@@ -1,0 +1,40 @@
+                                                             RIFLES MANUFACTURED IN 2019 
+  RDS KEY        LICENSE NAME                               STREET                               CITY                        ST        RIFLE MFG 
+  54313326      STERLING PRECISION LLC                      1602 AIR PARK DR                    FARMINGTON                    MO              34 
+  54313812      TERRY TACTICAL INC                          505 SW BONANZA DR                   LEES SUMMIT                   MO               6 
+  54340380      THE CUTTING EDGE PRECISION MACHINING        1150 PROGRESS ST                    MOUNT VERNON                  MO               4 
+                SERVICES INC 
+  54312841      TUTTLE'S GUNS AND GUNSMITHING LLC           607 RICHARDS ST                     SUMMERSVILLE                  MO               3 
+  54306071      WATSON, ROY ALLEN                           705  SOUTH J J HWY                  JASPER                        MO               3 
+  54314965      WESTEN USA LLC                              1841 N OAK GROVE                    SPRINGFIELD                   MO               6 
+  54310180      WOLFF ABBOTT & REINHEIMER LLC               8508 TALMA CT                       SAINT LOUIS                   MO               1 
+  16403638      3CLB, LLC                                   895 GREENWOOD CHAPEL ROAD           CARTHAGE                      MS               1 
+  16404074      A&W GUNWERKS LLC                            1123 CR 193                         BLUE SPRINGS                  MS               1 
+  16405269      ART OF WAR CUSTOM LLC                       12081 HWY 603                       BAY SAINT LOUIS               MS              15 
+  16403862      BCA INC                                     311 SECOND AVE                      SHELBY                        MS              13 
+  16405246      BIG BEE BEE LLC                             610 MAPLE WOOD RD                   CARTHAGE                      MS               3 
+  16404677      BOWEN ARMORY RIFLES LLC                     62 DONNIE GREEN RD                  BASSFIELD                     MS               4 
+  16404905      BOYD PRECISION ARMS LLC                     2611 SMITH STATION ROAD             EDWARDS                       MS              17 
+  16404924      BROWN, JOHN GREGORY SR                      1193 SHERMAN AVE                    VICKSBURG                     MS               4 
+  16403789      BRYANT'S MACHINE SHOP, INC                  5734 HWY 80 W                       JACKSON                       MS               5 
+  16405033      C & B CUSTOM PRECISION LLC                  32630 HWY 25 N                      STURGIS                       MS               4 
+  16404072      COTTON BRANCH CUSTOM FIREARMS LLC           915 ALLEN RD                        SMITHDALE                     MS               1 
+  16404844      DEEP SOUTH TACTICAL FIREARMS LLC            710 SECOND ST                       PELAHATCHIE                   MS              33 
+  16405252      DELTA PRECISION SHOOTING LLC                1039 HWY 471                        BRANDON                       MS               7 
+  16402616      DIXIE PRECISION RIFLES LLC                  129 FAIRMONT PLAZA                  PEARL                         MS              31 
+  16405181      FINAL PROTECTIVE LINE LLC                   610 CR 50325                        ROSE HILL                     MS              23 
+  16405291      HELANBAK LLC                                1481 HWY 13 NORTH                   COLUMBIA                      MS               5 
+  16404152      HOUSER ENTERPRISES LLC                      6223 HWY 305 STE C                  OLIVE BRANCH                  MS               1 
+  16404620      JMS MANUFACTURING INC                       3247 HWY 63 S BUILDING 7            LUCEDALE                      MS              10 
+  16405141      KIOTE RIFLES LLC                            3017 HWY 80 UNIT 6                  BRANDON                       MS              18 
+  16405352      MARTIN, MARK                                64 APACHE DRIVE                     GRENADA                       MS               1 
+  16403240      MOODY, ROBERT KEITH                         3720 RALEY CIRCLE                   MERIDIAN                      MS               1 
+  16404019      NORSE PRECISION RIFLES LLC                  1214 SPRING ST                      WAYNESBORO                    MS               3 
+  16404167      OWENS, ELIZABETH SUCCESSOR TO OWENS,        423 FORREST CT                      COLUMBUS                      MS               3 
+                TERRY A 
+  16404549      REMINGTON ARMS COMPANY LLC                  366 STATELINE RD                    SOUTHAVEN                     MS          285491 
+  16403548      SHERWOOD TACTICAL LLC                       3925 HWY 61 N                       CLEVELAND                     MS              14 
+  16403899      TGC OUTDOORS LLC                            662 HWY 7 NORTH                     ABBEVILLE                     MS              34 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                             01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

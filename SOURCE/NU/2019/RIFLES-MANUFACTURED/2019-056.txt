@@ -1,0 +1,40 @@
+                                                                    RIFLES MANUFACTURED IN 2019 
+  RDS KEY         LICENSE NAME                                    STREET                                   CITY                           ST        RIFLE MFG 
+  15932010        MORIARTI ARMAMENTS LLC                          7315 NW 46 ST                           MIAMI                            FL              122 
+  15950121        MUTINY ARMS LLC                                 2701 SUCCESS DR                         ODESSA                           FL               23 
+  15930143        NIGHT OPS LLC                                   119 BLUEBERRY ROAD                      FREEPORT                         FL                1 
+  15932747        OLD GLORY GUN WORKS INC                         402 LAKE ST                             UMATILLA                         FL                1 
+  15950074        OMEGA TACTICAL LLC                              4153 SW 47TH AVE UNIT 133               DAVIE                            FL                2 
+  15932456        ON TARGET SPORTS LLC                            2000 WELLS POND CT                      ORANGE PARK                      FL                4 
+  15951018        OWENS, BERTRAM CLAYTON                          11602 HIDDEN HILLS DRIVE S              JACKSONVILLE                     FL                2 
+  15932810        PATRIOT TACTICAL USA LLC                        3905 ABBY LN                            JACKSONVILLE                     FL                9 
+  15950185        PCP TACTICAL LLC                                3895 39TH SQ                            VERO BEACH                       FL                3 
+  15914376        PERFORMANCE ARMAMENT CORP                       3130 SW 19 ST #452                      PEMBROKE PARK                    FL                2 
+  15950048        PERRY, CONNIE LYNN                              175 SW 20TH WAY STE N-4                 DANIA BEACH                      FL                2 
+  15932101        PISTOL PETE THE GUNSMITH LLC                    8279 NW 64TH ST                         MIAMI                            FL                5 
+  15915979        PRAESTOLOR ARMS LLC                             2040 SHORT AVE                          ODESSA                           FL               18 
+  15947048        QUINNELL, DONALD LEE                            3112-3 PALM AVE                         FORT MYERS                       FL                1 
+  15932310        RATTLESNAKE TACTICAL LLC                        1758, 1760, 1762, 1764 BUSINESS CENTER  KISSIMMEE                        FL               48 
+                                                                  LANE 
+  15914244        RMW XTREME INC                                  1011 406TH COURT EAST                   MYAKKA CITY                      FL                6 
+  15951075        RUMMANS FIREARMS LLC                            8236 W JAMESTOWN CIR                    NORTH FORT MYERS                 FL                3 
+  15932438        RWC GROUP LLC                                   3901 NE 12TH AVE SUITE #400             POMPANO BEACH                    FL              560 
+  15946787        SERBU FIREARMS INC                              6019 W CHELSEA STREET                   TAMPA                            FL              376 
+  15931718        SHADOW SOLUTIONS LLC                            1711 DALE MABRY HWY                     LUTZ                             FL                1 
+  15930785        SHARK COAST TACTICAL LLC                        2819 BEE RIDGE RD #A                    SARASOTA                         FL               41 
+  15949272        SJV LIMITED INC                                 4429 GARRISON RD                        PANAMA CITY                      FL               16 
+  15917322        SLR RIFLEWORKS LLC                              1232 WINTER GARDEN VINELAND RD STE  WINTER GARDEN                        FL                4 
+                                                                  120 
+  15951855        SPARTAC MANUFACTURING LLC                       11151 66TH ST SUITE 301                 LARGO                            FL                5 
+  15913173        SPECIAL OPS TACTICAL LLC                        655 GEM COMMERCE COURT                  APOPKA                           FL               23 
+  15912499        SPECIALTY ARMS INC                              7065 HWY 90                             GRAND RIDGE                      FL                1 
+  15904524        SPIKE'S TACTICAL LLC                            2036 APEX COURT                         APOPKA                           FL              608 
+  15920435        SR GUNSMITHING LLC                              1501 ASHBY CREEK RD                     OSTEEN                           FL                1 
+  15948923        SUNCOAST WEAPONS AND TACTICAL LLC               787 COMMERCE DR UNIT 11                 VENICE                           FL                4 
+  15917213        SUPERIOR PRECISION RIFLES LLC                   83 CARA TRAIL                           CRAWFORDVILLE                    FL                7 
+  15949553        SV PRECISION LLC                                8055 COUNTY LINE RD                     MELROSE                          FL                2 
+  15915559        SWUB ENTERPRISES INC                            36 S HWY 17-92                          DEBARY                           FL               15 
+  15949593        TACTICAL LIFE LLC                               10388 WEST STATE RD 84 UNIT 114         DAVIE                            FL               39 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                                            01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

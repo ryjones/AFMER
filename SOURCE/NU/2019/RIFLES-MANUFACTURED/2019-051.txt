@@ -1,0 +1,39 @@
+                                                              RIFLES MANUFACTURED IN 2019 
+  RDS KEY        LICENSE NAME                                STREET                                CITY                        ST        RIFLE MFG 
+  93304780       MRM TRANS LLC                               7256 GARDEN GROVE BLVD               WESTMINSTER                   CA              30 
+  93306659       OCELLO, RONALD MILLARD                      1931 NORTH KELLY AVE                 UPLAND                        CA               3 
+  93306666       OLYMPUS ARMS LLC                            2500 HUNSAKER DR #C                  RUNNING SPRINGS               CA               7 
+  93307345       OMNI EQUIPMENT SOLUTIONS, INC               4855 RUFFNER ST STE D1               SAN DIEGO                     CA               5 
+  93304211       ORRELL SALVESON INC                         490 ALABAMA ST STE 103               REDLANDS                      CA              26 
+  97703753       RE-MIL LLC                                  5200 WHEELER CANYON RD               SANTA PAULA                   CA              20 
+  96805068       RED LINE ENGINEERING INC                    4616 WEED PATCH COURT                GREENWOOD                     CA               1 
+  99401424       RICHARDSON, TODD                            1984 NATIONAL AVE                    HAYWARD                       CA              12 
+  93306083       RIDER MUNITIONS LLC                         16816 S BROADWAY ST                  GARDENA                       CA               7 
+  96803588       RUBICON PRECISION, INC                      3040 STATE HWY 193                   GREENWOOD                     CA               4 
+  99502445       SHOOTERS AND SHELLS INC                     5501 HARMONY LANE                    LANCASTER                     CA               3 
+  97703907       SIERRA ARMS CORP                            1408 N CARPENTER RD STE 1            MODESTO                       CA               6 
+  97703060       TARAN TACTICAL INNOVATIONS LLC              1250 TIERRA REJADA RD                SIMI VALLEY                   CA              15 
+  97702383       THORPE, JON & KANDICE AND KOETSIER RON &    1976 E PACIFIC AVE                   TULARE                        CA               4 
+                 BETH 
+  93304572       TILOTTA, GIOVANNI VINCENZO                  4855 RUFFNER ST STE D1               SAN DIEGO                     CA               9 
+  93306790       TORTORT MANUFACTURING                       15541 COMPUTER LANE                  HUNTINGTON BEACH              CA               1 
+  93305119       TOWLE, INC                                  10020 PROSPECT AVE STE A08           SANTEE                        CA               1 
+  96804826       TRIPLE A'S SPORTING GOODS LLC               1722 & 1724 SPRINGS RD               VALLEJO                       CA               8 
+  93306185       TSG GROUP LLC                               1401 N BATAVIA STE 112               ORANGE                        CA              11 
+  93307371       VALOR INDUSTRIES LLC                        10844 E AVE # B1                     HESPERIA                      CA               5 
+  97702995       YATES, LYNDON                               3332 SANTA FE STREET                 RIVERBANK                     CA              18 
+  97702763       ZAK GLOBAL ENTERPRISES LLC                  130 EASY STREET UNIT 3               PASO ROBLES                   CA               1 
+  58407395       300 ARMS INC                                7074 MOUNT NIMBUS ST                 WELLINGTON                    CO              72 
+  58409991       ALTER EGO FIREARMS LLC                      355 CLOVER PLACE                     DURANGO                       CO               1 
+  58406551       BLUE DIAMOND INDUSTRIES INC                 1202 GROVE ST                        DENVER                        CO               1 
+  58402304       C S SERVICE                                 RT 3 BOX 162                         LONGMONT                      CO 
+  58407960       COLORADO GUN CLEANERS LLC                   4984 RONALD REAGAN BLVD              JOHNSTOWN                     CO               1 
+  58402465       COLORADO SHOOTING SPORTS LLC                2435 8TH AVE UNIT A                  GREELEY                       CO              14 
+  58408503       COLORADO TITLE II FIREARMS LLC              7648 MARSHALL DRIVE                  FOUNTAIN                      CO               1 
+  58406423       COOK'S GUN REPAIR & CUSTOMIZING LLC         575 VALLEY ST #8                     COLORADO SPRINGS              CO               1 
+  58401710       COOK, GERALD M                              1600 RAPID CT                        BERTHOUD                      CO               3 
+  58409483       CRITICAL DEFENSE SYSTEMS LLC                277 COUNTY ROAD 50 UNIT B            GUNNISON                      CO               5 
+  58405118       CROSSGYRO LLC                               8369 DOVE RIDGE WAY                  PARKER                        CO               1 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                                01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

@@ -1,0 +1,36 @@
+                                                                RIFLES MANUFACTURED IN 2019 
+  RDS KEY        LICENSE NAME                                  STREET                                CITY                         ST        RIFLE MFG 
+  45502425       SNYDER, KURT DWAYNE                           128 OLEN AVE                         PRINCETON                      WV                7 
+  45502860       VIGILANT SECURITY SERVICES LLC                21150 BARBOUR COUNTY HWY             PHILIPPI                       WV                1 
+  45501641       VINTEC MANUFACTURING LLC                      44 BERKELY DR                        SUMMERSVILLE                   WV                5 
+  58301888       BAKER ENTERPRISES LLP                         684 ANTELOPE GAP RD                  WHEATLAND                      WY                8 
+  58302151       BEAR MARK LLC                                 30 IDONNA DR                         WHEATLAND                      WY                2 
+  58300734       BIG HORN ARMORY INC                           774 ROAD 2AB                         CODY                           WY               49 
+  58302063       CROSS EYED CUSTOM RIFLES LLC                  3812 TAM O SHANTER DR                RIVERTON                       WY                4 
+  58300887       D SCHIMMEL LLC                                5 GREASEWOOD CT                      ROZET                          WY                5 
+  58302127       DOHERTY, JARED                                13 VALLEY DR                         DOUGLAS                        WY                9 
+  58302190       FREEDOM TACTICAL LLC                          9341 DELAWARE                        CHEYENNE                       WY               30 
+  58302194       FULL SPECTRUM ENTERPRISES, LLC                222 N BEVERLY ST                     CASPER                         WY                2 
+  58301160       GRIFFIN ARMS LLC                              213 SOUTH AVE C1                     CHEYENNE                       WY                1 
+  58300591       GUNWERKS LLC                                  201 BLACKBURN ST                     CODY                           WY             1119 
+  58301879       INSIGHT PRECISION ARMS LLC                    512 VALLEY VIEW DR                   TORRINGTON                     WY                5 
+  58301112       LAW, RICK J                                   5203 RAVEN STREET                    GILLETTE                       WY                3 
+  58301616       MIDDLE TENNESSEE GUNSMITHING INC              600 ROLLING MEADOWS LN               LANDER                         WY                1 
+  58302192       PANTALONE, MARK                               1412 STATE HWY 116 SOUTH             UPTON                          WY                1 
+  58301302       PERFORMANCE OIL TOOLS INC                     3420 BIG HORN AVE                    CODY                           WY               45 
+  58302038       PUCKER FACTOR PRECISION LLC                   3047 ALMY RD 107                     EVANSTON                       WY                9 
+  58302239       RED DESERT FIREARMS LLC                       155 GAP ROAD                         GILLETTE                       WY                4 
+  58301010       RGS LLC                                       404 N JACKSON                        CASPER                         WY                7 
+  58300619       ROSENCRANSE, TREVOR S                         610 SOUTH 8TH ST                     BASIN                          WY               13 
+  58301968       STRAIGHT JACKET ARMORY LLC                    91 ALLEGIANCE CIR SUITE E            EVANSTON                       WY                2 
+  58301324       TEAPOT CREEK PRECISION GUNSMITHING LLC        26795 N HWY 259                      CASPER                         WY               19 
+  58302029       WEATHERBY INC                                 1550 YELLOWTAIL DR                   SHERIDAN                       WY            24908 
+  58301479       WHITE, NICOLAS R & JENNIFER ANN               411 PALOMINO                         BEAR RIVER                     WY                1 
+  58301472       WYO ARMS LLC                                  6503 CROSSBOW TRAIL                  CHEYENNE                       WY                1 
+  58301629       WYOMING ARMORY PRECISION FIREARMS LLC         553 14TH ST                          CODY                           WY                7 
+  58302168       WYOMING GUN COMPANY INC                       580 LANDMARK DR                      CASPER                         WY                8 
+  58301022       WYOMING WEAPON SPECIALISTS LLC                955B NORTH 7 MILE RD                 CASPER                         WY                1 
+                                                                                                                                               1957667 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                                   01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

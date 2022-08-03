@@ -1,0 +1,38 @@
+                                                          RIFLES MANUFACTURED IN 2019 
+  RDS KEY       LICENSE NAME                             STREET                            CITY                       ST       RIFLE MFG 
+ 43507948      MODERN DEFENSIVE ENHANCEMENT LLC          706 N MAIN ST                     BLUFFTON                    IN             4 
+ 43506762      MOORE GUNWORKS LLC                        292 SOUTH COUNTY RD 800 EAST      AVON                        IN             4 
+ 43506095      NORRIS ARMS CO LLC                        405 N OLD STATE RD 15             MILFORD                     IN             7 
+ 43508509      OPEN RANGE GUNWORKS LLC                   9628 MULDOON RD                   FORT WAYNE                  IN             4 
+ 43505821      PACE TACTICAL LLC                         5721 E 400 S                      SAINT ANTHONY               IN             4 
+ 43502315      POLLEY TECH LLC                           333 S STATE RD  11                SEYMOUR                     IN             1 
+ 43503547      POWDER KEG LLC                            8267 E COUNTY RD 1200 NORTH       SUNMAN                      IN             6 
+ 43507572      RDMURPHY LLC                              50 OMEGA LN                       PLAINFIELD                  IN             3 
+ 43504974      RED BULL ARMORY LLC                       440 PEACEFUL VALLEY RD            MITCHELL                    IN             4 
+ 43507182      SALTZMAN GUN WORKS INC                    3896 S 400 WEST                   TIPTON                      IN            14 
+ 43505419      SHEPHERD FIREARMS LLC                     6768 TALMA RD                     ROCHESTER                   IN             4 
+ 43507852      SITE KNOWLEDGE INC                        7511 S STATE RD 46                RILEY                       IN             1 
+ 43508480      SOF ARMS, LLC                             4752 STARDUST CIRCLE              PLAINFIELD                  IN             1 
+ 43507109      STAR RIFLES LLC                           8785 N 900 E                      SHERIDAN                    IN            10 
+ 43504812      TACTICAL WEAPONS & SUPPLY LLC             2303 INDIANAPOLIS RD              CRAWFORDSVILLE              IN            21 
+ 43507032      TIPPMANN ARMS COMPANY LLC                 2955 SOUTH MAPLECREST ROAD        FORT WAYNE                  IN           2418 
+ 43513076      TOTAL HDWE INC COAST TO COAST             1502 ST RD 9 GREEN MEADOWS S/C    GREENFIELD                  IN 
+ 43504670      WARRIOR ARMS LLC                          389 E US HWY 30                   VALPARAISO                  IN            50 
+ 43504744      ZR TACTICAL SOLUTIONS LLC                 15223 HERRIMAN BLVD SUITE 4       NOBLESVILLE                 IN            23 
+ 54804318      A AND M POWDER COATING LLC                22435 QUIVIRA RD                  BUCYRUS                    KS              4 
+ 54803956      ALLEE, MICHAEL D                          12510 W 62ND TERRACE  STE 110     SHAWNEE                    KS              6 
+ 54804824      ALLEY, JOHN ROBERT JR                     5824 MCCOY STREET                 SHAWNEE                    KS              2 
+ 54804724      BIG RACK GUNSMITHING LLC                  744 3100 AVENUE                   ABILENE                    KS              2 
+ 54802912      CHURCH, MARY                              7927 SW 60TH ST                   SEDGWICK                   KS              2 
+ 54803929      CLARK, TODD ALAN                          2708 DRY CREEK                    GREAT BEND                 KS             16 
+ 54803746      CORBET, WILLIAM A JR                      1304 LAWRENCE AVE                 LEAVENWORTH                KS              1 
+ 54804300      CZ USA                                    3327 & 3341 N 7TH ST TRAFFICWAY   KANSAS CITY                KS           10565 
+ 54801893      CZ-USA                                    3341 & 3327 N 7TH ST TRAFFICWAY   KANSAS CITY                KS             16 
+ 54804391      DRUSSEL, COLBY                            9585 HANDS ROAD                   GARDEN CITY                KS             20 
+ 54802241      FREEDOM ARM LLC                           231 1ST ST JACOBS CREEK           HARTFORD                   KS              4 
+ 54804547      GAGNEBIN, ZACHARY JOSEPH                  804 S KENT RD                     HUTCHINSON                 KS              4 
+ 54803973      GREAT PLAINS GUNS INC                     4816 HWY 59                       BALDWIN CITY               KS              5 
+ 54804589      HAYDEN PRECISION RIFLES LLC               1316 SOUTH DAKOTA AVENUE          SATANTA                    KS             22 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                    01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

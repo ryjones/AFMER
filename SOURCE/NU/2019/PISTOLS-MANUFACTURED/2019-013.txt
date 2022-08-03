@@ -1,0 +1,48 @@
+                                                       PISTOLS MANUFACTURED IN 2019 
+                                                                                     PISTOL     PISTOL    PISTOL     PISTOL    PISTOL     PISTOL     PISTOL
+  RDS KEY     LICENSE NAME               STREET                CITY           ST          22        25        32        380      9MM          50     TOTAL 
+  98203161   CHANDLER, MARTIN            616 SOUTH MAIN       HAILEY          ID          2          0         0          0         0          0          2 
+  98203175   COLLINS, KENNETH LEE        504 PORPHYRY STREET  SALMON          ID          0          0         0          0         0          1          1 
+  98203282   E AND W FIREARMS LLC        23 NORTHRIDGE WAY    JEROME          ID          1          0         0          0         0          0          1 
+  98203575   EAGLE DEFENSE LLC           4910 W DENTON ST     BOISE           ID          1          0         0          0         0          0          1 
+  98203463   FECHER, BLAKE HENRY         6306 SOUTH PAPER     BOISE           ID          9          1         5          1        33          6         55 
+                                         BIRCH 
+  98202516   FLOYDS CUSTOM SHOP INC      103 SARAGOSA RD      BLANCHARD       ID          0          1         0          0         1          0          2 
+  98203044   FM PRODUCTS INC             11969 WEST TIOGA ST  BOISE           ID          0          0         0          0       640          2        642 
+  98203715   GIBSON GUN LLC              340 S MAIN           MOUNTAIN        ID          0          0         0          0         0          1          1 
+                                                              HOME 
+  98202568   GOUGH TACTICAL ADVANCED  2165 S 1800 E           GOODING         ID          3          0         1          0         0          0          4 
+             CONCEPTS LLC 
+  98202583   METAL CRAFT                 1251 N MIDLAND BLVD  NAMPA           ID          0          0         0          0         4          0          4 
+             MANUFACTURING LLC 
+  98203587   OCCAM DEFENSE SOLUTIONS  2182 NURSERY STREET  MOSCOW             ID          0          0         1          0         0          0          1 
+             INC                         SUITE L 
+  98202698   OCONNELL, JAMES K           21218 BIG CANYON RD  PECK            ID          5          0         0          1        12         18         36 
+  98202586   OLDTOWN R&D LLC             66 SHEPARD RD        OLDTOWN         ID          0          0         0          0         0         20         20 
+  98201252   PRIMARY WEAPONS SYSTEMS  255 N. STEELHEAD WAY  BOISE             ID         423         0        97          0       144          0        664 
+             INC 
+  98201763   RIVERMAN, LLC               6040 N GOVERNMENT    DALTON          ID          0          0         0          0         1          0          1 
+                                         #101                 GARDENS 
+  98202658   SALVATION GUN WORKS LLC     493 N 4138 E         RIGBY           ID          3          0         0          1         0          0          4 
+  98202543   SEEKINS PRECISION LLC       159 AMERICAN WAY     LEWISTON        ID          0          1        18          0         0          0         19 
+  98203050   WILKINSON ARMS LLC          14754 MURPHY FLAT    MURPHY          ID          0          0         0          0         1          0          1 
+                                         ROAD 
+  33703832   BALDWIN GUN WORKS, LLC      17951 CAPLINGER POND  MARION          IL         0          0         1          0         0          0          1 
+                                         RD 
+  33605516   BRAND, MARK A & ALICIA A    504 10TH AVE         COLONA           IL         0          0         0          0         1          0          1 
+  33606205   CARNE CUSTOMS LLC           4808 BURMAN DR       CRYSTAL LAKE     IL         0          0         0          0         9          5         14 
+  33605667   DEVIL DOG ARMS LLC          2000 GARY LANE       GENEVA           IL         0          0         0          0       147        162        309 
+  33605115   DR GUNS LLC                 551 TELSER RD        LAKE ZURICH      IL         0         12         0          5        17          0         34 
+  33637390   DS ARMS INC                 27990/27996 W        LAKE             IL         0          0         0          0         0         88         88 
+                                         INDUSTRIAL AVE       BARRINGTON 
+  33635626   KREBS CUSTOM INC            1000 N RAND RD #106  WAUCONDA         IL         1          0        57          0        21          1         80 
+                                         AND #105 
+  33637243   LEWIS MACHINE & TOOL CO     1305 W 11TH ST       MILAN            IL         0          0         0          0         1          0          1 
+  33606328   MANTICORE ARMS INC          747 HERRA ST UNIT A  ELBURN           IL         0          0         0          0         2          0          2 
+  33604720   MMI INC                     205 WEST MONDAMIN    MINOOKA          IL         0          0         1          0         0          0          1 
+                                         STREET UNIT B 
+  33733384   OGLESBY & OGLESBY           744 W ANDREW RD      SPRINGFIELD      IL         0          0         0          0         0          1          1 
+             GUNMAKERS INC 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                            01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

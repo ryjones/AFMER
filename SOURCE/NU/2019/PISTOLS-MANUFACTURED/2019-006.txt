@@ -1,0 +1,51 @@
+                                                             PISTOLS MANUFACTURED IN 2019 
+                                                                                                PISTOL     PISTOL      PISTOL     PISTOL      PISTOL      PISTOL      PISTOL
+  RDS KEY       LICENSE NAME                  STREET                  CITY             ST           22          25         32         380        9MM           50      TOTAL 
+  93301600     FMK FIREARMS                  1025 A ORTEGA WAY /      PLACENTIA        CA            0           0           0          0        3587           0        3587 
+               INCORPORATED                  1005 ORTEGA WAY 
+  93305615     GUNFIGHTER TACTICAL, LLC      7190 MIRAMAR RD #115  SAN DIEGO           CA          183           0           0          8          21           0         212 
+  99501059     INDEPENDENT STUDIO            9545 WENTWORTH ST        SUNLAND          CA            0           0           0          0           8           0           8 
+               SERVICES, LLC 
+  93302759     LEDESMA, PAUL                 13552 CENTRAL AVE,       CHINO            CA            3           0           0          0           0           0           3 
+                                             UNIT C 
+  93306659     OCELLO, RONALD MILLARD        1931 NORTH KELLY AVE  UPLAND              CA            0           0           0          0           4           1           5 
+  93304211     ORRELL SALVESON INC           490 ALABAMA ST STE 103 REDLANDS           CA            0           0           0          0           0           1           1 
+  93336988     PHOENIX ARMS                  4231 BRICKELL STREET  ONTARIO             CA        13888        2812           0          0           0           0       16700 
+  96805068     RED LINE ENGINEERING INC      4616 WEED PATCH          GREENWOOD        CA            0           0           0          0           2           0           2 
+                                             COURT 
+  93306083     RIDER MUNITIONS LLC           16816 S BROADWAY ST      GARDENA          CA            0           0           0          0           7           0           7 
+  93307405     RYENEX INC                    2575 CHINO HILLS         CHINO HILLS      CA            9           0           0          0           0           0           9 
+                                             PARKWAY #F 
+  93306914     SWAIM, BRETT RAYMOND &        5819 BERYL ST            RANCHO           CA            0          69           1          0          10          16          96 
+               KRISTINA MARIE                                         CUCAMONGA 
+  93304827     TRIP WIRE LLC                 6861 NANCY RIDGE DR      SAN DIEGO        CA            1           0           0          0           4           2           7 
+                                             STE B 
+  93306185     TSG GROUP LLC                 1401 N BATAVIA STE 112  ORANGE            CA            0           8           0          0           0           0           8 
+  97702945     VON COLLN, JOHN               3166 E THOUSAND OAKS  THOUSAND            CA           84           0           3          0          22           0         109 
+                                             BLVD                     OAKS 
+  58407395     300 ARMS INC                  7074 MOUNT NIMBUS ST  WELLINGTON          CO            0           0           0          0          26          63          89 
+  58402891     BEULAH METAL RECOVERY         9008 PINE AVE            BEULAH           CO            1           2           0          2           4           3          12 
+               LLC 
+  58409547     BLACK MAGIC CONSULTING        5504 S LILLY CREEK CT    BYERS            CO            0           0           0          0           1           0           1 
+               LLC 
+  58406551     BLUE DIAMOND INDUSTRIES       1202 GROVE ST            DENVER           CO            0           0           2          0           0           0           2 
+               INC 
+  58403831     BLUE NORTHER GUNSMITH LLC 6424 EAST COUNTY RD          WELLINGTON       CO            0           0           0          0           0          50          50 
+                                             66 
+  58408503     COLORADO TITLE II FIREARMS  7648 MARSHALL DRIVE        FOUNTAIN         CO            0           0           0          0           1           0           1 
+               LLC 
+  58406423     COOK'S GUN REPAIR &           575 VALLEY ST #8         COLORADO         CO            0           0           1          0           0           0           1 
+               CUSTOMIZING LLC                                        SPRINGS 
+  58409483     CRITICAL DEFENSE SYSTEMS      277 COUNTY ROAD 50       GUNNISON         CO            0           0           0          0           5           0           5 
+               LLC                           UNIT B 
+  58405118     CROSSGYRO LLC                 8369 DOVE RIDGE WAY      PARKER           CO            0           0           0          0           2           0           2 
+  58408099     DANGER CLOSE ARMAMENT         6801 S EMPORIA ST #102  GREENWOOD         CO            0           0           0          0          16           0          16 
+               INC                                                    VILLAGE 
+  58403287     GRE-TAN RIFLES LLC            24005 HWY 13             MEEKER           CO            0           0           0          0           1           0           1 
+  58408587     HARTKE, LONNIE EUGENE         1149 N PICKETWIRE LN     PUEBLO WEST      CO            1           0           0          0           0           0           1 
+  58408858     HRQ ENTERPRIZES LLC           351 S MOBILE ST          ELIZABETH        CO            4           0           2          0           0           0           6 
+  58410065     K & DR ENTERPRISES, LLC       1231 TWIN PEAKS          LONGMONT         CO            0           0           0          0           0           1           1 
+                                             CIRCLE 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                                              01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

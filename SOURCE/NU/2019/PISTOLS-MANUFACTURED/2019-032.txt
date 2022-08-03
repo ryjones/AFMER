@@ -1,0 +1,49 @@
+                                                       PISTOLS MANUFACTURED IN 2019 
+                                                                                     PISTOL     PISTOL    PISTOL     PISTOL    PISTOL     PISTOL     PISTOL
+  RDS KEY     LICENSE NAME               STREET                CITY           ST          22        25        32        380      9MM          50     TOTAL 
+                                         DRIVE 
+  57510757   GREEN'S GUNS AND RANGE      1654 JAMES MARSHALL  MARSHALL        TX          7          0         0          3        33         10         53 
+             LLC 
+  57514276   HALE, NICHOLAS RAY          1106 S ASH           PERRYTON        TX          0          0         0          0         0          1          1 
+  57511113   HARDESTY, JEFFERY L         656 CR 8201          NACOGDOCHES  TX             0         17         0          0        15          0         32 
+  57513158   HEGAZY LLC                  1000 POST AND        GRAND PRAIRIE   TX          0          0        37          0         0          0         37 
+                                         PADDOCK STE 309 
+  57410264   HOGG, KEITH SCOTT           697 CR 408           LOTT            TX          0          1         1          0         0          0          2 
+  57509487   HOLESHOT ARMS LLC           118 REGENCY DR STE   WYLIE           TX          0          0         0          0         4          1          5 
+                                         200 
+  57515381   HOLLAND POINT LLC           3357 LEIGH CT        SACHSE          TX          1          0         0          0         0          0          1 
+  57515370   HOTEL-MIKE LLC              4429 LIMERICK LN     FRISCO          TX          0          0         0          0         1          0          1 
+  57512044   HUCKLEBERRY ARMS LLC        181 COUNTY ROAD 8201  NACOGDOCHES    TX          0          1         0          0         0          0          1 
+  57409973   INCENDIA ARMS COMPANY,      832 HARPER ROAD      KERRVILLE       TX          3          0         0          0         0          0          3 
+             LLC                         SUITE 2 
+  57604892   INTERFOR USA GROUP INC      12515 MAXIM DR       HOUSTON         TX          0          0         0          0        23          0         23 
+  57603164   JESS BRILEY MANUFACTURING  1230 LUMPKIN RD       HOUSTON         TX          1          0         0          0         0          2          3 
+             COMPANY 
+  57407346   JESSE JAMES FIREARMS        12285 TRAUTWEIN ROAD  AUSTIN         TX          0          0         0          0         0          5          5 
+             UNLIMITED LLC 
+  57514025   JOHNSON'S GUN WORKS LLC     2110 HWY 84          BROWNWOOD       TX         30          0        23          0         7          0         60 
+  57605130   JULIET VICTOR               19923 STUEBNER       SPRING          TX          0          0         0          0         2          0          2 
+             TECHNOLOGIES LLC            AIRLINE RD STE 12/13 
+  57605746   KAB DEFENSE LLC             701 S PERSIMMON      TOMBALL         TX          0          0         0          0        11          0         11 
+                                         STREET BLDG C SUITE 
+                                         100 
+  57410423   KEEP FIRING LLC             10633 ROYAL TARA     AUSTIN          TX          0          0         0          0         1          0          1 
+                                         COVE 
+  57500776   KNIPSTEIN, ROBERT CHARLES  1721 VENETIAN CIRCLE  ARLINGTON       TX          0          0         0          0         1          0          1 
+  57505714   LANE, TERRY RAY SR &        12467 CR 580         BLUE RIDGE      TX          1          0         0          0         0          0          1 
+             WHITESIDE, KEITH ROY 
+  57511388   LANTAC USA LLC              1300 FORUM WAY STE B  FORT WORTH     TX          0         78        17          0        38          0        133 
+  57409842   LANTANA RIFLES LLC          173 FM 1042          THREE RIVERS    TX          0          0         0          1         0          0          1 
+  57513190   LEJUCH SECURITY LLC         425 RIDGEVIEW DRIVE  SHERMAN         TX          0          0         0          0         3          0          3 
+  57405001   LONDRIGAN, ROBERT JOHN JR  11348 FM 56           MORGAN          TX          0          0         0          0         1         11         12 
+  57512783   LONE STAR ARMORY LLC        2006 MARTIN LUTHER   FORT WORTH      TX          8          0         7          0         2          1         18 
+                                         KING FRWY 
+  57603353   LONESTAR INNOVATIONS LLC  4403 SPRING CYPRESS  SPRING            TX          0          0         0          0         3          2          5 
+                                         RD UNIT 7 
+  57514168   MAMMOTH VALLEY ARMS LLC  169 IMPERIAL MAMMOTH  WEATHERFORD       TX          0          0         0          0         0          1          1 
+                                         VALLEY LN 
+  57513138   MATADOR WEAPONS GROUP       4603 AINSWORTH CIR   GRAPEVINE       TX          0          3         0          0         0          0          3 
+             LLC 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                            01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

@@ -1,0 +1,47 @@
+                                                           PISTOLS MANUFACTURED IN 2019 
+                                                                                             PISTOL     PISTOL     PISTOL     PISTOL      PISTOL     PISTOL      PISTOL
+  RDS KEY      LICENSE NAME                 STREET                  CITY            ST           22         25         32         380       9MM           50      TOTAL 
+  60101936    PATHIAKIS, NICKOLAS JOHN JR  94 STRATTON RD          RANGELEY          ME           0          0           5          0          3           3          11 
+  60102508    RICHARDS, LUCAS               855 STATE RD           MAPLETON          ME           2          0           0          0          4           5          11 
+  60101661    WINDHAM WEAPONRY INC          999 ROOSEVELT TRAIL    WINDHAM           ME           0        103         139          0        117          99         458 
+                                            BUILDING #3 
+  43809636    ADVANCED TACTICS LLC          4661 S DICKERSON RD    LAKE CITY         MI           0          3           0          0          0           0           3 
+  43811025    ATLAS ARMORY, LLC             8999 HADLEY ST #255    ATLAS             MI           0          1           0          0          2           0           3 
+  43807385    BK GUNS N STUFF LLC           6255 POTTERS RD        SARANAC           MI           0          1           0          0          0           0           1 
+  43807226    BLACK SWAMP FIREARMS LLC  5255 CONSEAR RD            OTTAWA LAKE       MI           5          0           2          0          0           0           7 
+  43805485    CHEELY CUSTOM GUNWORKS  15785 STEGER                 HUDSON            MI           0          0           0          0          6           7          13 
+              LLC                           INDUSTRIAL DR 
+  43808768    CLOSE QUARTERS TACTICAL       50485 UTICA DR         SHELBY            MI           0         45           0          0          0           0          45 
+              LLC                                                  TOWNSHIP 
+  43807902    ELITE FIREARMS & TRAINING     9893 ADAMS RD          MIDDLEVILLE       MI           0          0           0          2         10           0          12 
+  43810822    GREAT LAKES FIREARMS AND  424 E DIVISION             SPARTA            MI           2          0           0          0          0           2           4 
+              AMMUNITION LLC 
+  43807369    HIGH CALIBER FIREARMS LLC     7730 N 6TH ST          KALAMAZOO         MI           0          0           1          0          0           0           1 
+  43809703    HYSTERIA GUNWORKS LLC         4655 GRAY HAWK LN      AUBURN            MI           2          0           0          1          0           0           3 
+  43807837    J&D ARMAMENT LLC              5921 HOLLOW CORNERS  DRYDEN              MI           0          0           1          0          0           0           1 
+                                            RD 
+  43808788    KICKIN STEEL CUSTOM ARMS,  10292 GORDON RD           FENTON            MI           0          0           5          0          1           0           6 
+              LLC 
+  43809176    MID MICHIGAN ARMORY LLC       1665 FISH LAKE RD      LAPEER            MI           0          0           1          0          0           0           1 
+  43810891    MIDWEST DEFENSE CORP          15543 BIRCH DR         TRAVERSE CITY     MI           0          0           0          0          1           0           1 
+  43811114    MOS A1 SERVICES, LLC          9750 EASTON RD         DEXTER            MI           0         14           0          0          0           0          14 
+  43805547    NATIONAL FIREARM REPAIR       15178 HANOVER AVE      ALLEN PARK        MI           0          0           0          0          0           1           1 
+              LLC 
+  43809663    NW ARMS LLC                   4328 WALKER RD         MARLETTE          MI           2          0           1          0          0           0           3 
+  43811131    RIVERSIDE ARMAMENT, LLC       8625 HOMERICH AVE SW  BYRON CENTER       MI           0          1           1          0          0           0           2 
+  43810091    SPEC ARMS LLC                 389 EAST DIVISION      SPARTA            MI           0          3           6          0          0           0           9 
+  43809417    SPENCER RACE GUNS LLC         5001 WILLOW RD         MILAN             MI           0          0           0          0          4           0           4 
+  43810803    SWAMP TURKEY CUSTOM           5170 N RAISIN CENTER   TECUMSEH          MI           0          0           0          0          9           0           9 
+              CERAKOTE, LLC                 HWY 
+  43806956    TURNER'S TACTICAL ARMS &      1230 SOUTH RANGE RD  ST CLAIR            MI           1          0           0          0          1           1           3 
+              GUNSMITHING LLC 
+  43809424    TYPE A RIFLE CO LLC           2291 OAK INDUSTRIAL    GRAND RAPIDS      MI         206          0           0          5         68           0         279 
+                                            DR NE 
+  43809932    WILLIS GUN LLC                10280 BEMIS            WILLIS            MI           2          0           2          1          7           6          18 
+  34104920    ALEX PRO FIREARMS LLC         8290 STATE HWY 29 N    ALEXANDRIA       MN           18          1         104          0         64          20         207 
+  34104185    ALEXANDRIA PRO FAB CO INC  8210 STATE HWY 29         ALEXANDRIA       MN            0          1           0          0          0           0           1 
+                                            NORTH 
+  34104884    BARRELS AND ARROWS LLC        3041 US HWY 59         MARSHALL         MN            1          1           0          0          0           0           2 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                                         01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

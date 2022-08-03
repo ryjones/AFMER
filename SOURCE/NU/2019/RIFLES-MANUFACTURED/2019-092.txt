@@ -1,0 +1,38 @@
+                                                                RIFLES MANUFACTURED IN 2019 
+  RDS KEY        LICENSE NAME                                  STREET                                CITY                         ST        RIFLE MFG 
+  57409973       INCENDIA ARMS COMPANY, LLC                    832 HARPER ROAD SUITE 2              KERRVILLE                      TX                7 
+  57510646       INTEGRATED ARMS & AMMUNITION LLC              2246 CR 4120                         JACKSONVILLE                   TX                3 
+  57409257       INTEGRATED SENSOR & IMAGING LLC               383 FM 2093 #R006                    FREDERICKSBURG                 TX                3 
+  57604892       INTERFOR USA GROUP INC                        12515 MAXIM DR                       HOUSTON                        TX               12 
+  57507349       JACKSON, STEVEN CHARLES                       280 AUSTIN RD                        GUNTER                         TX                1 
+  57512155       JBRYANT ENTERPRISES INC                       18875 FM 121                         GUNTER                         TX                2 
+  57512302       JERICHO ARMAMENT LLC                          3718 S COUNTY RD 1316                ODESSA                         TX                1 
+  57603164       JESS BRILEY MANUFACTURING COMPANY             1230 LUMPKIN RD                      HOUSTON                        TX                2 
+  57407346       JESSE JAMES FIREARMS UNLIMITED LLC            12285 TRAUTWEIN ROAD                 AUSTIN                         TX                8 
+  57514025       JOHNSON'S GUN WORKS LLC                       2110 HWY 84                          BROWNWOOD                      TX              118 
+  57515435       JOHNSTON, BENJAMIN STEWART                    112 N PALSTINE ST                    ATHENS                         TX                4 
+  57605130       JULIET VICTOR TECHNOLOGIES LLC                19923 STUEBNER AIRLINE RD STE 12/13  SPRING                         TX                1 
+  57403453       KIDD INNOVATIVE DESIGN LLC                    2633 TERMINAL LOOP RD                MCQUEENEY                      TX              885 
+  57409337       KSSM INDUSTRIES LLC                           34153 SUNSET LANE                    BROOKSHIRE                     TX                6 
+  57509917       LADD, BOBBY F & SIMPSON, SANDRA E             650 COX RD                           LUFKIN                         TX                1 
+  57405587       LAMBERT, BRIAN J & RACHEL L                   5130 SHAW RD                         TEMPLE                         TX                1 
+  57505714       LANE, TERRY RAY SR & WHITESIDE, KEITH ROY     12467 CR 580                         BLUE RIDGE                     TX                2 
+  57511388       LANTAC USA LLC                                1300 FORUM WAY STE B                 FORT WORTH                     TX               38 
+  57409842       LANTANA RIFLES LLC                            173 FM 1042                          THREE RIVERS                   TX               22 
+  57542125       LAU, MICHAEL RICHARD                          34280 N STATE HWY 108                MINGUS                         TX                5 
+  57513190       LEJUCH SECURITY LLC                           425 RIDGEVIEW DRIVE                  SHERMAN                        TX                1 
+  57605287       LINDLEY INDUSTRIES LLC                        4030 SOUTHERLAND RD STE A            HOUSTON                        TX               15 
+  57513142       LIVE OAK ACCURACY LLC                         2405 COUNTRY MEADOW LN               WYLIE                          TX                1 
+  57512783       LONE STAR ARMORY LLC                          2006 MARTIN LUTHER KING FRWY         FORT WORTH                     TX               72 
+  57513273       LONE STAR FIREARMS AND MANUFACTURING LLC  4612 CR 919                              CROWLEY                        TX                1 
+  57514168       MAMMOTH VALLEY ARMS LLC                       169 IMPERIAL MAMMOTH VALLEY LN       WEATHERFORD                    TX                1 
+  57407775       MANSFIELD, BRUCE EDWARD                       1203 HWY 71 W                        BASTROP                        TX                5 
+  57513138       MATADOR WEAPONS GROUP LLC                     4603 AINSWORTH CIR                   GRAPEVINE                      TX               10 
+  57434208       MAVERICK ARMS, INC                            1001 INDUSTRIAL BLVD                 EAGLE PASS                     TX            76771 
+  57407755       MBO ARMS INC                                  704-A EDWARDS DR                     HARKER HEIGHTS                 TX 
+  57510232       MCENROE SOLUTIONS LLC                         1505 PRECISION DR                    PLANO                          TX                1 
+  57515320       MCGAUGHY, RICHARD, SAMUEL                     12350 COUNTY ROAD O                  PERRYTON                       TX                2 
+  57602488       MG ARMS, INC                                  6030 TREASCHWIG                      SPRING                         TX               68 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                                   01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

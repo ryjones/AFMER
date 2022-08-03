@@ -1,0 +1,39 @@
+                                                             RIFLES MANUFACTURED IN 2019 
+  RDS KEY       LICENSE NAME                                STREET                              CITY                        ST        RIFLE MFG 
+ 57306647       UF ENTERPRISES LLC                          1509 VAIL DR                        EDMOND                       OK              12 
+ 57306585       WARHORSE ARMS LLC                           9276 S 258TH E AVE                  BROKEN ARROW                 OK               1 
+ 57304484       WHITE, RICHARD EDWARD                       41139 BEAR RD                       TERLTON                      OK               1 
+ 57336699       ZIMMERMAN, DAN B                            3840 SW 113TH                       OKLAHOMA CITY                OK               5 
+ 99305793       1000 SUNNY LLC                              23515 SW ELDERBERRY LANE            WEST LINN                    OR               3 
+ 99304223       A-TEAM ARMS LLC                             201 SE 10TH ST                      GRANTS PASS                  OR               9 
+ 99303423       ANDERSON, WILLIAM KEITH                     30836 SW LARSON RD                  LEBANON                      OR               5 
+ 99305934       AVANT GARDE MEDIA LLC                       21088 S HWY 211 SUITE D             COLTON                       OR               4 
+ 99305785       AXTS INC                                    875 NE KINGWOOD AVE                 REDMOND                      OR            1373 
+ 99303808       B N B ARMORY LLC                            16187 MEADOWS RD                    WHITE CITY                   OR               7 
+ 99304543       BLAGG RIFLES LLC                            801 SE NYE AVE                      PENDLETON                    OR              14 
+ 99304480       BUEHLER CUSTOM SPORTING ARMS LLC            4706 TABLE ROCK ROAD, UNIT F        CENTRAL POINT                OR               5 
+ 99301526       CALICO LIGHT WEAPON SYSTEMS                 1090 HEMLOCK ST                     ELGIN                        OR              15 
+ 99305410       COAST TO COAST PRECISION LLC                370 SW NEWTON DR                    WALDPORT                     OR               7 
+ 99304401       COLD BARREL PRECISION FIREARMS LLC          2200 HULL RD                        MEDFORD                      OR               5 
+ 99306237       CUTTING EDGE RIFLES LLC                     261 NW 29TH ST                      REDMOND                      OR              27 
+ 99305826       ELKHORN TRAIL RIFLES LLC                    667 DEER VALLEY LANE                COTTAGE GROVE                OR              10 
+ 99303182       EMERALD VALLEY ARMORY LLC                   147 W OREGON AVE                    CRESWELL                     OR               8 
+ 99306167       ERA3, LLC                                   351 CALIFORNIA AVE                  GRANTS PASS                  OR              18 
+ 99305401       EXAKT EDGE MANUFACTURING INC                2880 FERRY ST SW                    ALBANY                       OR               1 
+ 99305041       EXODUS PRECISION RIFLES LLC                 390 SUNRISE DR                      GRANTS PASS                  OR               1 
+ 99305706       GRANITE PRECISION MACHINING LLC             62209 GAERTNER LN                   LA GRANDE                    OR               2 
+ 99304356       GREYHOUND TACTICAL SOLUTIONS, LLC           9575 SW BEAVERTON-HILLSDALE HWY     BEAVERTON                    OR               7 
+                                                            SUITE #100 
+ 99303579       HELLER ENTERPRISES TACTICAL INC             504 MILTON WAY                      ST HELENS                    OR               3 
+ 99305950       HYDRO-DIP LLC                               2300 WINDMILL RD                    BAKER CITY                   OR               1 
+ 99305935       INMAN TACTICAL LLC                          585 EMPRESS AVE                     EUGENE                       OR               1 
+ 99304063       MOA RIFLES, LLC                             2606 SW 4TH STREET SUITE B          REDMOND                      OR             202 
+ 99301142       NOSLER, INC                                 2115 SW 6TH STREET                  REDMOND                      OR             711 
+ 99301001       NOVESKE RIFLEWORKS LLC                      594 NE E ST                         GRANTS PASS                  OR             369 
+ 99305280       ORCO GUNWORKS LLC                           138 N WASSON ST                     COOS BAY                     OR               4 
+ 99305420       OREGON GUN COMPANY LLC                      17843 SE MCLOUGHLIN BLVD STE 1      MILWAUKIE                    OR              49 
+ 99306036       OREGON MOUNTAIN RIFLE CO LLC                38000 SE LOUDON RD                  CORBETT                      OR              19 
+ 99303209       PACIFIC TRADING GROUP LLC                   3395 48TH AVE NE                    SALEM                        OR             130 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                            01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

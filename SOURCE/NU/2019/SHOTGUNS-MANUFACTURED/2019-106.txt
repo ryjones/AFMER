@@ -1,0 +1,40 @@
+                                                                  SHOTGUNS MANUFACTURED IN 2019 
+  RDS KEY          LICENSE NAME                                          STREET                                   CITY                            ST      SHOTGUN MFG 
+  61401200         BARDEN, J JASON                                       7940 RT 30                               BLUE MOUNTAIN LAKE               NY                  1 
+  61101333         DEFEND USARMS LLC                                     162 BROADWAY                             AMITYVILLE                       NY                  1 
+  61101425         NIOSI FIREARMS DEVELOPMENT LLC                        200 ROGERS WAY STE D                     WESTHAMPTON BEACH                NY                  8 
+  61602475         REMINGTON ARMS COMPANY LLC                            14 HOEFLER AVE                           ILION                            NY                617 
+  61101084         SURVIVABILITY SERVICES INTERNATIONAL LLC              65 MONTAUK HIGHWAY                       EAST HAMPTON                     NY                  1 
+  43406248         ARMSCOTE GUN FINISHING LLC                            12715 STATE RT 113                       WAKEMAN                          OH                  3 
+  43403352         DNB ARMS LLC                                          1704 W MAIN ST                           LOUISVILLE                       OH                 28 
+  43104803         INLAND MANUFACTURING LLC                              6785 W THIRD ST                          DAYTON                           OH                151 
+  43402589         ITHACA DISTRIBUTION INC                               420 N WARPOLE ST                         UPPER SANDUSKY                   OH                549 
+  43405654         JOHNSON, TONY DALE                                    2648 BLACK OAK DR                        NILES                            OH                  5 
+  43405676         KCIN ARMS LLC                                         2151 ATKINS AVENUE                       LAKEWOOD                         OH                  2 
+  43402507         MILLIGAN, DENNIS                                      2640 HOLTZ RD                            SHELBY                           OH                  2 
+  43104596         PRECISION DEFENSE LLC                                 1858 CEDAR HILL RD                       LANCASTER                        OH                  6 
+  43400282         ROONEY, TERRANCE L                                    4140 ROOT RD                             NORTH OLMSTED                    OH                  1 
+  43104835         TUSKER ARMS CORPORATION                               8220 INDUSTRIAL PKWY SUITE 100           PLAIN CITY                       OH                  5 
+  57306967         ARMED OKLAHOMA, LLC                                   18746 E 81ST STREET NORTH                OWASSO                           OK                  4 
+  57305697         INTERNATIONAL FIREARM CORPORATION LLC                 5701 E RENO AVE STE E                    MIDWEST CITY                     OK                250 
+  57306509         ISRAEL, JASON LEE                                     110721 S 4746 RD                         MULDROW                          OK                 20 
+  57306448         RED ROCK FIREARMS LLC                                 6226 E LAKE HELLUMS RD                   ENID                             OK                 26 
+  99305615         DARK SHADOW WEAPONRY LLC                              425 SW MADISON AVE SUITE 210             CORVALLIS                        OR                  1 
+  99305401         EXAKT EDGE MANUFACTURING INC                          2880 FERRY ST SW                         ALBANY                           OR                  6 
+  99303209         PACIFIC TRADING GROUP LLC                             3395 48TH AVE NE                         SALEM                            OR                 40 
+  99302709         R & R RACING INC                                      42670 RODGERS MOUNTAIN LOOP              SCIO                             OR                  3 
+  99305293         STEVE HARGETT AND JEFF MERRIMAN LLC                   2860 SE MAPLE ST                         HILLSBORO                        OR                  2 
+  99304489         SUPERM ENTERPRISES LLC                                725 BRIDGE ST                            VERNONIA                         OR                 76 
+  99305963         WHITING, KREGG                                        548 N 4TH ST                             CARLTON                          OR                  9 
+  82505590         BORDEN, ROBERT FRANCIS                                111 HALL ST                              SHEFFIELD                        PA                  1 
+  82311882         COGAN FIREARMS LLC                                    1025 THOMAS DR                           WARMINSTER                       PA                  2 
+  82310349         DEATH VALLEY TACTICAL LLC                             265 SICKLER POND ROAD                    JERMYN                           PA                  1 
+  82307379         FOXHOLE FIREARMS LLC                                  160 CRUM RD                              FAIRFIELD                        PA                  1 
+  82310076         LAUSCH, LYDIAN                                        RD 2                                     JONESTOWN                        PA 
+  82333855         TAR HUNT CUSTOM RIFLES INC                            101 DOGTOWN RD                           BLOOMSBURG                       PA                  3 
+  15704502         AMERICAN TACTICAL INC                                 231 DEMING WAY                           SUMMERVILLE                      SC               1646 
+  15702581         FN AMERICA, LLC                                       797 OLD CLEMSON ROAD                     COLUMBIA                         SC                 17 
+  34600877         REMINGTON ARMS COMPANY LLC                            1209 AND 1310 INDUSTRY RD                STURGIS                          SD                  3 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                                                01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

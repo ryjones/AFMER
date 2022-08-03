@@ -1,0 +1,48 @@
+                                                       PISTOLS MANUFACTURED IN 2019 
+                                                                                     PISTOL     PISTOL    PISTOL     PISTOL    PISTOL     PISTOL     PISTOL
+  RDS KEY     LICENSE NAME               STREET                CITY           ST          22        25        32        380      9MM          50     TOTAL 
+  46103520   WM C ANDERSON INC           1743 ANDERSON BLVD   HEBRON          KY         76          0         0          0         0          0         76 
+  46108263   WM C ANDERSON INC           1743 ANDERSON        HEBRON          KY          0          0         0          0        27          0         27 
+                                         BOULEVARD 
+  57206119   556 TACTICAL, LLC           4705 HWY 15          WINNSBORO       LA          0          0         0          0         3          0          3 
+  57206038   AK TACTICAL COATINGS LLC    3700 LAPALCO BLVD    HARVEY          LA          0          0         0          0         0          3          3 
+                                         SUITE J 
+  57204834   AKLYS DEFENSE LLC           9683 MAMMOTH AVE     BATON ROUGE     LA          0          0         1          0         0          0          1 
+  57203561   ALL WEATHER ARMS, LLC       128 ROBERTSON RD     BALL            LA          1          0         0          0         1          0          2 
+  57206010   BAYOU GUN RUNNER LLC        1107 FLORIDA AVE SW  DENHAM          LA          0          0         0          0         1          0          1 
+                                                              SPRINGS 
+  57233690   CLARK CUSTOM GUNS INC       336 SHOOTOUT LN      PRINCETON       LA          0          0         0          0         0          7          7 
+  57205671   DANIEL LLC                  102 DAYBREAK DR      SUNSET          LA          0          0         0          0         0         36         36 
+  57205922   INTEGRAL ARMS LLC           2930 BELMONT AVE     BATON ROUGE     LA          0          0         0          0         1          0          1 
+  57205314   NEELY, JAMES EDWARD JR      5235 TOPSY BEL RD    LAKE CHARLES    LA          0          0         0          0         3          0          3 
+  57205462   PATRICKS GUN SHOP LLC       1191 HAWN AVE        SHREVEPORT      LA          0          3         3          0         0          0          6 
+  57206165   PELICAN STATE INVESTOR AND 70141 HIGHWAY 59      ABITA SPRINGS   LA          0          0         0          0         2          0          2 
+             SUPPLIES LLC                SUITE B 
+  60412456   BUSINESS END CUSTOMS LLC  147 SUMMIT ST BLDG 3B  PEABODY         MA          0          0         0          0         7          3         10 
+                                         #2 
+  60412424   DIAMONDHEAD USA             622 UNION STREET     WEST            MA          0         72        25          0         1          0         98 
+                                                              SPRINGFIELD 
+  60435456   SAEILO, INC                 130 GODDARD          WORCESTER       MA          0          0         0       1288       2970      8088      12346 
+                                         MEMORIAL DR 
+  60414143   SMITH & WESSON INC.         2100 ROOSEVELT       SPRINGFIELD     MA         23          0         1        925       4371       187       5507 
+                                         AVENUE 
+  60413900   TROY INDUSTRIES INC         151 CAPITAL DR       WEST            MA         37          3         1          0         0          0         41 
+                                                              SPRINGFIELD 
+  60412247   WHALLEY PRECISION INC       28 HUDSON DRIVE      SOUTHWICK       MA          0         56        798       495         0          0       1349 
+  60413467   YANKEE HILL MACHINE CO INC  412 MAIN ST          EASTHAMPTON     MA          0          0         0          0         8          0          8 
+  85203547   ENGAGE ARMAMENT LLC         701 EAST GUDE DR     ROCKVILLE       MD          0          5         0          0         0          0          5 
+                                         SUITE 101 
+  85212877   HANOVER ARMORY LLC          1327 ASHTON RD STE 5 & HANOVER       MD          0         13        12          0         5          1         31 
+                                         6 
+  85202358   LWRC INTERNATIONAL          815 CHESAPEAKE DRIVE  CAMBRIDGE      MD         675         0        86         33         0        618       1412 
+  85207007   NRM POWER PRODUCTS LLC      14212 BRANDYWINE RD  BRANDYWINE      MD          3          2         0          2        21         37         65 
+  85206041   PARTRIDGE, ROGER FREDRICK  11211 RACE TRACK RD   BERLIN          MD          0          3         0          0         0          0          3 
+  85204307   TOMMY BUILT TACTICAL LLC    18910 GOSHEN RD      GAITHERSBURG  MD            0          0         0          0        36        484        520 
+  60101613   COLLINS, JAMES M            03 MEMORY LANE       HERMON          ME          1          0         1          0         0          0          2 
+  60101921   HEALD, DONALD RAYMOND IV  926 BEACH RD           LINCOLNVILLE    ME          0          0         1          0         2          1          4 
+  60102885   KELLEY, MEGAN AS            482 WATER ST         ELLSWORTH       ME          0          0         0          0         1          0          1 
+             SUCCESSOR TO NORRIS, 
+             CHRISTOPHER 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                            01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

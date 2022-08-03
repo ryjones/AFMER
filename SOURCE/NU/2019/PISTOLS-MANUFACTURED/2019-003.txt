@@ -1,0 +1,49 @@
+                                                       PISTOLS MANUFACTURED IN 2019 
+                                                                                     PISTOL     PISTOL    PISTOL     PISTOL    PISTOL     PISTOL     PISTOL
+  RDS KEY     LICENSE NAME               STREET                CITY           ST          22        25        32        380      9MM          50     TOTAL 
+  57102051   BLANKENSHIP, SCOTTY L       17227 RIVER VALLEY RD  SILOAM        AR          4          0         0          0         0          0          4 
+                                                              SPRINGS 
+  57105448   BOHANNON, BRET AND GILLEY,  121 RIVERSIDE PARK RD  SEARCY        AR          0          0         0          0         1          0          1 
+             MARVIN 
+  57105843   BOYD TACTICAL DEFENSE LLC  107 MARTIN CIRCLE     FORT SMITH      AR          2          0         0          0         0          0          2 
+  57105201   DSKTB GROUP LLC             103 SW WINSTED LN STE  BENTONVILLE   AR         13          0         0         36       131         23        203 
+                                         29 
+  57104512   FEDERAL ARMAMENT LLC        5730 N 6TH ST        FORT SMITH      AR          0        630        646         0         0          0       1276 
+  57101324   GUNCRAFTER INDUSTRIES,      171 MADISON 1510     HUNTSVILLE      AR          0          0         0          0       124         77        201 
+             LLC 
+  57105502   J & J GUNSMITHING AND       25174 HWY 71 N       MANSFIELD       AR          0          0         0          0         2          0          2 
+             HYDROGRAPHICS 
+  57105246   LEWIS, ROBERT TODD          17900 AUSTIN LN      LITTLE ROCK     AR          0          0         0          0         1          0          1 
+  57105752   LONGSHOT FIREARMS, LLC      315A S SEBASTIAN     WEST HELENA     AR          0          0         1          0         0          0          1 
+  57104386   NIGHTHAWK CUSTOM LLC        1306 WEST TRIMBLE AVE BERRYVILLE     AR          0          0         0          0       1106      1159       2265 
+  57105798   PODEMSKI, MICHAEL CHESTER  434 CR 1422           MOUNTAIN        AR          0          0         0          0         2          1          3 
+             JR                                               HOME 
+  57102593   TOP NOTCH ACCESSORIES,      2823 SR 124          RUSSELLVILLE    AR          0          0         0          0       121        115        236 
+             INC. 
+  57101116   VLH INC                     1105 INDUSTRIAL DR   BERRYVILLE      AR          0          0         0          0       1187      1203       2390 
+  57104667   WALTHER MANUFACTURING       7700 CHAD COLLEY     FORT SMITH      AR          0          0       9830         0         0          0       9830 
+             INC                         BLVD 
+  57105851   WE-R-ARS, INC               5517 WHEELER AVE     FORT SMITH      AR          0          0         0          0         2          0          2 
+  57134716   WILSONS GUN SHOP INC        2452 CR 719          BERRYVILLE      AR          0          0         0          0       3632      1272       4904 
+  98610031   2A TACTICAL LLC             3710 EAST YEAGER     GILBERT         AZ          0          3         0          0         0          0          3 
+                                         DRIVE 
+  98600962   ABRAMS AIRBORNE MFG, INC    3735 N ROMERO RD     TUCSON          AZ          3          3         1          3        19          5         34 
+  98614583   ACMC 93 LLC                 9743 E IMPALA AVE    MESA            AZ          2          0         0          0         5          0          7 
+  98608169   AGAINST ALL ENEMIES LLC     2152 MCCULLOCH BLVD  LAKE HAVASU     AZ          0          1         3          0         0          0          4 
+                                         NORTH STE B          CITY 
+  98610573   AMMO A-Z LLC                2005 W DEER VALLEY RD PHOENIX        AZ          0         27         0          0         0          0         27 
+                                         #103 
+  98609711   ARIZONA SILENCER LLC        2355 E WIDE VIEW CT  ORO VALLEY      AZ          0          0         0          0         2          0          2 
+  98614975   BLACK HAT MANUFACTURING  31105 NORTH 222ND       WITTMANN        AZ          0          0         0          0         0          1          1 
+             LLC                         DRIVE 
+  98612776   BREACHER'S CUSTOM GUNS      2001 W ROSE GARDEN   PHOENIX         AZ          0          0         1          3         8          1         13 
+             LLC                         LANE 
+  98605029   BROWN, TIMOTHY DAVID        14201 N GIBSON TRL   TUCSON          AZ          0          0         0          0         1          0          1 
+  98608759   BTE USA MANUFACTURING LLC  2601 W LONE CACTUS    PHOENIX         AZ          1          0         2          0        11          0         14 
+                                         DR STE E 
+  98609040   BURTON, ROBERT GORDON       20215 W MORETON WAY  WICKENBURG      AZ          1          1         0          2         5          1         10 
+  98607475   CAMERONS LLC                24015 N 45TH DR      GLENDALE        AZ          0          0         0          0         3          1          4 
+  98614699   CANTER, JAY                 10619 E MENDOZA AVE  MESA            AZ          0          0         0          0         1          0          1 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                            01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 

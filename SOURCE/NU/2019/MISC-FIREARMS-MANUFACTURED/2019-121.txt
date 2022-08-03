@@ -1,0 +1,40 @@
+                                                          MISC. FIREARMS MANUFACTURED IN 2019 
+  RDS KEY          LICENSE NAME                                      STREET                                 CITY                          ST       MISC FA MFG 
+  15705536        REAPER FIREARMS INC                                144 KAY DR                             EASLEY                         SC                 1 
+  15705646        SCZESNY, BENJAMIN LEE                              142 TIRASCO CT                         WARRENVILLE                    SC                 9 
+  34600877        REMINGTON ARMS COMPANY LLC                         1209 AND 1310 INDUSTRY RD              STURGIS                        SD                33 
+  34601593        TS CUSTOMS LLC                                     907 EAST 4TH STREET                    MILLER                         SD                28 
+  34600551        WEST RIVER RIFLE COMPANY LLC                       3560 MAYER AVE                         STURGIS                        SD                77 
+  16205861        ABSTON MACHINE SHOP INC                            1266 ARDMORE HWY                       TAFT                           TN                 1 
+  16210667        CASH, COREY AND SCHAUS, ERIK                       410 E 3RD AVE                          HAMPTON                        TN                 4 
+  16206145        CROSS MACHINE TOOL CO INC                          312 LAW COMMUNITY RD                   LEXINGTON                      TN               566 
+  16209799        ECHO 3 ARMORY LLC                                  214 N HORTON PKWY                      CHAPEL HILL                    TN                13 
+  16206302        F J FEDDERSEN INC                                  7501 CORPORATE PARK DR                 LOUDON                         TN                11 
+  16209502        GOAT BOX TACTICAL                                  578 OLD BELL TOWN MILL RD              TELLICO PLAINS                 TN                 6 
+  16210358        STATE LINE GUN AND BOW WORKS LLC                   30092 E RAILROAD ST                    ARDMORE                        TN                 4 
+  16210642        T REX ARMS INC                                     758 INDUSTRIAL ROAD                    CENTERVILLE                    TN                 1 
+  16207129        TENNESSEE ARMS COMPANY LLC                         708 EAST COURT STREET                  DYERSBURG                      TN              4830 
+  16204298        VEGA BALLISTICS CORPORATION                        1776 S BELL AVE                        PARIS                          TN                 3 
+  16209127        VISIONARY FABRICATION LLC                          151 MIDWAY LANE                        OAK RIDGE                      TN                 4 
+  16206220        WILLYERD, JACK E AND ERIC J                        4820 OLD HWY 48                        CUNNINGHAM                     TN                 2 
+  57602577        74U LLC                                            17 HICKORY CT                          RICHWOOD                       TX                22 
+  57408060        ALPHA EPSILON SYSTEMS LLC                          2007 LAMAR DR                          ROUND ROCK                     TX                 2 
+  57514571        AXIS WEAPON SYSTEMS LLC                            3713 E BANKHEAD HWY                    HUDSON OAKS                    TX                29 
+  57410213        BANDIT'S ARMORY LLC                                17841 BENTON CITY RD                   VON ORMY                       TX                 1 
+  57511900        BLACK RIFLE CUSTOMS LLC                            574 CR 1362                            GARRISON                       TX               300 
+  57604373        BRADER ARMS CORP                                   11111 FORBES RD                        HOUSTON                        TX                 4 
+  57409765        BRUGGEMAN, TERRANCE J                              2218 ASPEN DR                          PORTLAND                       TX                 5 
+  57508838        BURGER, GREG                                       7220 E COUNTY RD 105                   MIDLAND                        TX                 2 
+  57401590        DAWSON PRECISION INC                               3300 CR 233                            FLORENCE                       TX                 1 
+  57409556        DELGADO, JASON LUIS AND MEGHAN AMANDA              1409 N STUART PLACE RD SUITE H         HARLINGEN                      TX                 1 
+  57606385        ELLIS III, JAMES THEDFORD                          5656 WHEATLEY ST                       HOUSTON                        TX                 4 
+  57602230        ESG GUNWORKS LLC                                   3000 N MAIN #3B                        BAYTOWN                        TX                16 
+  57409889        EXILE FIREARMS, LLC                                26 LOU STROUP DRIVE                    UVALDE                         TX                10 
+  57604022        F-1 FIREARMS LLC                                   5045 FM 2920 RD                        SPRING                         TX              1623 
+  57406634        FALLING SKIES CORP                                 2390 FM2001 UNIT A                     BUDA                           TX                29 
+  57409827        FLUGRATH FIREARMS AND ORDNANCE LLC                 1237 LONE OAK RD                       SATTLER                        TX                 3 
+  57515260        FUQUA PRECISION MACHINING, LLC                     116 E COMMERCE ST                      CROWELL                        TX                 1 
+  57409872        GRAY, STEVEN JOHN                                  808 GREEN PASTURES DRIVE               KYLE                           TX                14 
+  PREPARED BY FIREARMS AND EXPLOSIVES SERVICES DIVISION                                                                                                      01/20/2021 
+  BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES 
+  MARTINSBURG, WV 
