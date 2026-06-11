@@ -1,0 +1,39 @@
+{
+  "_comment": "Friendly names for AFMER fields. Read by `afmer-etl --export-json` and embedded into the SPA's data/meta.json (as `labels`), where the SPA shows them for column headers, the metric picker, and summary cards. Edit the `name` of any entry to change how it appears; `group`/`activity`/`caliber` are optional extras you can use for grouping in reports. Keys are the data column codes and must not change. Codes not listed here fall back to the raw code.",
+  "labels": {
+    "year":         { "name": "Report Year" },
+    "rds_key":      { "name": "RDS Key" },
+    "lic_type":     { "name": "License Type" },
+    "name":         { "name": "License Name" },
+    "street":       { "name": "Premise Street" },
+    "city":         { "name": "Premise City" },
+    "state":        { "name": "Premise State" },
+    "name_source":  { "name": "Name Source" },
+
+    "pstl_22":      { "name": "Pistols Manufactured – .22 cal",  "group": "Pistols",   "activity": "Manufactured", "caliber": ".22" },
+    "pstl_25":      { "name": "Pistols Manufactured – .25 cal",  "group": "Pistols",   "activity": "Manufactured", "caliber": ".25" },
+    "pstl_32":      { "name": "Pistols Manufactured – .32 cal",  "group": "Pistols",   "activity": "Manufactured", "caliber": ".32" },
+    "pstl_380":     { "name": "Pistols Manufactured – .380 cal", "group": "Pistols",   "activity": "Manufactured", "caliber": ".380" },
+    "pstl_9mm":     { "name": "Pistols Manufactured – 9mm",      "group": "Pistols",   "activity": "Manufactured", "caliber": "9mm" },
+    "pstl_50":      { "name": "Pistols Manufactured – .50 cal",  "group": "Pistols",   "activity": "Manufactured", "caliber": ".50" },
+    "pstl_totl":    { "name": "Pistols Manufactured – Total",    "group": "Pistols",   "activity": "Manufactured", "caliber": "Total" },
+
+    "rvlr_22":      { "name": "Revolvers Manufactured – .22 cal",  "group": "Revolvers", "activity": "Manufactured", "caliber": ".22" },
+    "rvlr_32":      { "name": "Revolvers Manufactured – .32 cal",  "group": "Revolvers", "activity": "Manufactured", "caliber": ".32" },
+    "rvlr_38":      { "name": "Revolvers Manufactured – .38 cal",  "group": "Revolvers", "activity": "Manufactured", "caliber": ".38" },
+    "rvlr_357":     { "name": "Revolvers Manufactured – .357 cal", "group": "Revolvers", "activity": "Manufactured", "caliber": ".357" },
+    "rvlr_44":      { "name": "Revolvers Manufactured – .44 cal",  "group": "Revolvers", "activity": "Manufactured", "caliber": ".44" },
+    "rvlr_50":      { "name": "Revolvers Manufactured – .50 cal",  "group": "Revolvers", "activity": "Manufactured", "caliber": ".50" },
+    "rvlr_totl":    { "name": "Revolvers Manufactured – Total",    "group": "Revolvers", "activity": "Manufactured", "caliber": "Total" },
+
+    "rifle_mfg":    { "name": "Rifles Manufactured",         "group": "Rifles",   "activity": "Manufactured" },
+    "shotgun_mfg":  { "name": "Shotguns Manufactured",       "group": "Shotguns", "activity": "Manufactured" },
+    "mis_fam":      { "name": "Misc Firearms Manufactured",  "group": "Misc",     "activity": "Manufactured" },
+
+    "pistol_exp":   { "name": "Pistols Exported",            "group": "Pistols",   "activity": "Exported" },
+    "revolver_exp": { "name": "Revolvers Exported",          "group": "Revolvers", "activity": "Exported" },
+    "rifle_exp":    { "name": "Rifles Exported",             "group": "Rifles",    "activity": "Exported" },
+    "shotgun_exp":  { "name": "Shotguns Exported",           "group": "Shotguns",  "activity": "Exported" },
+    "misc_fa_exp":  { "name": "Misc Firearms Exported",      "group": "Misc",      "activity": "Exported" }
+  }
+}

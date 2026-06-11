@@ -1,0 +1,19 @@
+[package]
+name = "afmer-etl"
+version = "0.1.0"
+edition = "2021"
+description = "ETL that converts ATF AFMER production-report PDFs into a SQLite database, enriched with FFL license metadata."
+
+[[bin]]
+name = "afmer-etl"
+path = "src/main.rs"
+
+[dependencies]
+anyhow = "1"
+clap = { version = "4", features = ["derive"] }
+csv = "1"
+calamine = "0.26"
+flate2 = "1"
+pdf-extract = "0.7"
+rusqlite = { version = "0.31", features = ["bundled"] }
+serde_json = "1"

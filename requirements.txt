@@ -1,0 +1,4 @@
+# Python support for inspecting/validating AFMER source data.
+# Used to explore PDFs and XLSX files and to spot-check the Rust ETL output.
+pdfplumber>=0.11
+openpyxl>=3.1
