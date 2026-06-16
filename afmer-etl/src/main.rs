@@ -68,6 +68,20 @@ struct Cli {
     /// meta.json (default: ./activity-labels.json if present).
     #[arg(long)]
     labels: Option<PathBuf>,
+
+    /// JSON file of RDS-key groups that belong to the same manufacturer
+    /// (`[["k1","k2"], …]` or `{"groups": […]}`). Loaded into the rds_link table
+    /// so a licensee's history aggregates across re-issued keys via the
+    /// afmer_grouped view. May be used alone against an existing database.
+    #[arg(long)]
+    links: Option<PathBuf>,
+
+    /// Skip the ingest pipeline entirely and only post-process the existing
+    /// database: apply --labels / --links and run --export-json. Any ingest
+    /// sources (--pdf/--pdf-dir/--xlsx/--hist-pdf) and FFL loading are ignored,
+    /// so this is the fast path for re-exporting or re-linking without a rebuild.
+    #[arg(long)]
+    no_ingest: bool,
 }
 
 /// Pull a 4-digit year out of a filename like `AFMER-2023.pdf`.
@@ -137,13 +151,24 @@ fn ingest_one(conn: &mut Connection, store: &ffl::FflStore, path: &Path, year: i
 }
 
 fn main() -> Result<()> {
-    let cli = Cli::parse();
+    let mut cli = Cli::parse();
+    // --no-ingest: drop every ingest source so only the post-processing steps
+    // (labels, links, export) run against the existing database.
+    if cli.no_ingest {
+        if !cli.pdfs.is_empty() || cli.pdf_dir.is_some() || !cli.xlsx.is_empty() || !cli.hist_pdf.is_empty() {
+            eprintln!("--no-ingest: ignoring the supplied ingest source(s); only post-processing the existing DB.");
+        }
+        cli.pdfs.clear();
+        cli.pdf_dir = None;
+        cli.xlsx.clear();
+        cli.hist_pdf.clear();
+    }
     let has_ingest = !cli.pdfs.is_empty()
         || cli.pdf_dir.is_some()
         || !cli.xlsx.is_empty()
         || !cli.hist_pdf.is_empty();
-    if !has_ingest && cli.export_json.is_none() {
-        anyhow::bail!("provide an ingest source (--pdf/--pdf-dir/--xlsx/--hist-pdf) and/or --export-json");
+    if !has_ingest && cli.export_json.is_none() && cli.links.is_none() {
+        anyhow::bail!("nothing to do: provide an ingest source (--pdf/--pdf-dir/--xlsx/--hist-pdf), --links, and/or --export-json (or drop --no-ingest)");
     }
 
     let mut conn = db::open(&cli.db)?;
@@ -158,6 +183,15 @@ fn main() -> Result<()> {
         match db::write_labels(&conn, p) {
             Ok(n) => eprintln!("Loaded {n} field labels from {}.", p.display()),
             Err(e) => eprintln!("Warning: could not load labels from {}: {e}", p.display()),
+        }
+    }
+
+    // RDS-key links: clusters of keys that are the same manufacturer. Stored in
+    // the rds_link table (DB-only; surfaced via the afmer_grouped view).
+    if let Some(p) = &cli.links {
+        match db::write_links(&mut conn, p) {
+            Ok(n) => eprintln!("Linked {n} RDS keys from {}.", p.display()),
+            Err(e) => eprintln!("Warning: could not load links from {}: {e}", p.display()),
         }
     }
 

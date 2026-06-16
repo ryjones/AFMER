@@ -4,7 +4,7 @@
 
 use crate::ffl::FflStore;
 use crate::pdf::{AfmerRow, COUNT_COLS};
-use anyhow::Result;
+use anyhow::{Context, Result};
 use flate2::write::GzEncoder;
 use flate2::Compression;
 use rusqlite::{params, Connection};
@@ -76,6 +76,23 @@ fn create_schema(conn: &Connection) -> Result<()> {
         );
         CREATE INDEX IF NOT EXISTS idx_afmer_year_key ON afmer(source_year, rds_key);
 
+        -- Manually curated links between RDS keys that belong to the same
+        -- manufacturer (e.g. a licensee re-issued a new key after a region or
+        -- ownership change). `group_id` is the cluster's canonical key; a key
+        -- with no link is simply its own group.
+        CREATE TABLE IF NOT EXISTS rds_link (
+            rds_key  TEXT PRIMARY KEY,
+            group_id TEXT NOT NULL
+        );
+        CREATE INDEX IF NOT EXISTS idx_rds_link_group ON rds_link(group_id);
+
+        -- Optional friendly name for a linked group (e.g. Sturm Ruger
+        -- Aggregate), keyed by the cluster's canonical group_id.
+        CREATE TABLE IF NOT EXISTS rds_group (
+            group_id TEXT PRIMARY KEY,
+            name     TEXT NOT NULL
+        );
+
         -- Latest known metadata per license.
         CREATE VIEW IF NOT EXISTS ffl_current AS
             SELECT v.*
@@ -108,9 +125,198 @@ fn create_schema(conn: &Connection) -> Result<()> {
             FROM afmer a
             LEFT JOIN ffl_version v
               ON v.rds_key = a.rds_key AND v.first_seen = a.ffl_version_first_seen;
+
+        -- AFMER rows with a stable grouping key: the linked group when one
+        -- exists, else the row's own RDS key, plus the group's friendly name
+        -- when one was supplied. Aggregating by `group_key` rolls up a
+        -- manufacturer's full history across re-issued keys.
+        CREATE VIEW IF NOT EXISTS afmer_grouped AS
+            SELECT a.*,
+                   COALESCE(l.group_id, a.rds_key) AS group_key,
+                   g.name AS group_name
+            FROM afmer a
+            LEFT JOIN rds_link l ON l.rds_key = a.rds_key
+            LEFT JOIN rds_group g ON g.group_id = COALESCE(l.group_id, a.rds_key);
         "
     ))?;
     Ok(())
+}
+
+/// Load manually-curated RDS-key links into the `rds_link` table (and any group
+/// names into `rds_group`). The file is JSON: an array of groups (or
+/// `{"groups": [...]}`), where each group is either
+///
+///   * a bare array of keys — `["k1", "k2"]` (canonical key = first, no name), or
+///   * an object — `{"name": "Sturm Ruger Aggregate", "keys": ["k1", "k2"]}`
+///     with an optional explicit `"id"` for the canonical key.
+///
+/// The optional `"id"` is the group's `group_id` and is treated as a standalone
+/// (typically synthetic) identifier — it is **not** added to the member keys, so
+/// the aggregate isn't conflated with any one real licensee row. Every member key
+/// rolls up to that `group_id` in the `afmer_grouped` view, exposed alongside the
+/// optional `group_name`. The file fully replaces any previously-loaded links.
+/// Returns the number of member keys linked.
+/// Turn JSONC into plain JSON so a hand-curated links file can carry a comment
+/// per key (e.g. the full FFL row) and survive ordinary editing: strip `//` line
+/// and `/* … */` block comments, then drop trailing commas. Both passes ignore
+/// delimiters inside string literals and operate on bytes, so multi-byte UTF-8 in
+/// values and comments is preserved. Comments are removed first so a comment
+/// sitting between a comma and its closing `]`/`}` still leaves a droppable
+/// trailing comma.
+fn strip_jsonc(src: &str) -> String {
+    drop_trailing_commas(&strip_comments(src))
+}
+
+fn strip_comments(src: &str) -> String {
+    let b = src.as_bytes();
+    let mut out: Vec<u8> = Vec::with_capacity(b.len());
+    let mut i = 0;
+    let mut in_str = false;
+    while i < b.len() {
+        let c = b[i];
+        if in_str {
+            out.push(c);
+            if c == b'\\' && i + 1 < b.len() {
+                out.push(b[i + 1]);
+                i += 2;
+                continue;
+            }
+            if c == b'"' {
+                in_str = false;
+            }
+            i += 1;
+        } else if c == b'"' {
+            in_str = true;
+            out.push(c);
+            i += 1;
+        } else if c == b'/' && i + 1 < b.len() && b[i + 1] == b'/' {
+            i += 2;
+            while i < b.len() && b[i] != b'\n' {
+                i += 1;
+            }
+        } else if c == b'/' && i + 1 < b.len() && b[i + 1] == b'*' {
+            i += 2;
+            while i + 1 < b.len() && !(b[i] == b'*' && b[i + 1] == b'/') {
+                i += 1;
+            }
+            i = (i + 2).min(b.len());
+        } else {
+            out.push(c);
+            i += 1;
+        }
+    }
+    String::from_utf8(out).unwrap_or_else(|_| src.to_string())
+}
+
+fn drop_trailing_commas(src: &str) -> String {
+    let b = src.as_bytes();
+    let mut out: Vec<u8> = Vec::with_capacity(b.len());
+    let mut i = 0;
+    let mut in_str = false;
+    while i < b.len() {
+        let c = b[i];
+        if in_str {
+            out.push(c);
+            if c == b'\\' && i + 1 < b.len() {
+                out.push(b[i + 1]);
+                i += 2;
+                continue;
+            }
+            if c == b'"' {
+                in_str = false;
+            }
+            i += 1;
+        } else if c == b'"' {
+            in_str = true;
+            out.push(c);
+            i += 1;
+        } else if c == b',' {
+            let mut j = i + 1;
+            while j < b.len() && b[j].is_ascii_whitespace() {
+                j += 1;
+            }
+            if j < b.len() && (b[j] == b']' || b[j] == b'}') {
+                i += 1; // skip the trailing comma
+            } else {
+                out.push(c);
+                i += 1;
+            }
+        } else {
+            out.push(c);
+            i += 1;
+        }
+    }
+    String::from_utf8(out).unwrap_or_else(|_| src.to_string())
+}
+
+pub fn write_links(conn: &mut Connection, path: &Path) -> Result<usize> {
+    let raw = std::fs::read_to_string(path)?;
+    let text = strip_jsonc(&raw);
+    let root: serde_json::Value = serde_json::from_str(&text)
+        .with_context(|| format!("parsing links file {}", path.display()))?;
+    let groups = root.get("groups").unwrap_or(&root);
+    let arr = groups.as_array().ok_or_else(|| {
+        anyhow::anyhow!(
+            "links file must be a JSON array of key-groups (or {{\"groups\": [...]}}) in {}",
+            path.display()
+        )
+    })?;
+
+    let str_keys = |v: &serde_json::Value| -> Vec<String> {
+        v.as_array()
+            .map(|a| {
+                a.iter()
+                    .filter_map(|x| x.as_str().map(str::to_string))
+                    .filter(|s| !s.is_empty())
+                    .collect()
+            })
+            .unwrap_or_default()
+    };
+
+    let mut n = 0usize;
+    let tx = conn.transaction()?;
+    {
+        // The links file is authoritative: start from a clean slate so removed
+        // groups don't linger.
+        tx.execute("DELETE FROM rds_link", [])?;
+        tx.execute("DELETE FROM rds_group", [])?;
+
+        let mut link =
+            tx.prepare("INSERT OR REPLACE INTO rds_link (rds_key, group_id) VALUES (?1, ?2)")?;
+        let mut group =
+            tx.prepare("INSERT OR REPLACE INTO rds_group (group_id, name) VALUES (?1, ?2)")?;
+        for g in arr {
+            // Each group is either a bare key array or {name?, id?, keys}.
+            let (keys, name, explicit_id) = if g.is_array() {
+                (str_keys(g), None, None)
+            } else if let Some(obj) = g.as_object() {
+                let keys = obj.get("keys").map(str_keys).unwrap_or_default();
+                let name = obj.get("name").and_then(|v| v.as_str()).map(str::to_string);
+                let id = obj
+                    .get("id")
+                    .and_then(|v| v.as_str())
+                    .filter(|s| !s.is_empty())
+                    .map(str::to_string);
+                (keys, name, id)
+            } else {
+                anyhow::bail!("each group must be an array of RDS keys or an object with \"keys\"");
+            };
+            if keys.is_empty() {
+                continue;
+            }
+            // Canonical id: an explicit (often synthetic) id, else the first key.
+            let group_id = explicit_id.unwrap_or_else(|| keys[0].clone());
+            for k in &keys {
+                link.execute(params![k, group_id])?;
+                n += 1;
+            }
+            if let Some(name) = name {
+                group.execute(params![group_id, name])?;
+            }
+        }
+    }
+    tx.commit()?;
+    Ok(n)
 }
 
 pub fn write_ffl(conn: &mut Connection, store: &FflStore) -> Result<()> {
@@ -210,6 +416,49 @@ fn labels_json_body(conn: &Connection) -> Result<String> {
         let mut key = String::new();
         json_str(&mut key, &code);
         parts.push(format!("{key}: {json}"));
+    }
+    Ok(parts.join(", "))
+}
+
+/// Read the linked RDS groups as a ready-to-embed JSON array body
+/// (`{"id":…,"name":…,"keys":[…]}, …`). Unnamed groups fall back to their
+/// canonical key as the name so the SPA always has a label to show.
+fn groups_json_body(conn: &Connection) -> Result<String> {
+    use std::collections::{BTreeMap, HashMap};
+    let mut names: HashMap<String, String> = HashMap::new();
+    {
+        let mut stmt = conn.prepare("SELECT group_id, name FROM rds_group")?;
+        let rows = stmt.query_map([], |r| Ok((r.get::<_, String>(0)?, r.get::<_, String>(1)?)))?;
+        for row in rows {
+            let (id, n) = row?;
+            names.insert(id, n);
+        }
+    }
+    let mut groups: BTreeMap<String, Vec<String>> = BTreeMap::new();
+    {
+        let mut stmt =
+            conn.prepare("SELECT group_id, rds_key FROM rds_link ORDER BY group_id, rds_key")?;
+        let rows = stmt.query_map([], |r| Ok((r.get::<_, String>(0)?, r.get::<_, String>(1)?)))?;
+        for row in rows {
+            let (id, k) = row?;
+            groups.entry(id).or_default().push(k);
+        }
+    }
+    let mut parts = Vec::new();
+    for (id, keys) in &groups {
+        let mut o = String::from("{\"id\": ");
+        json_str(&mut o, id);
+        o.push_str(", \"name\": ");
+        json_str(&mut o, names.get(id).map(String::as_str).unwrap_or(id));
+        o.push_str(", \"keys\": [");
+        for (i, k) in keys.iter().enumerate() {
+            if i > 0 {
+                o.push(',');
+            }
+            json_str(&mut o, k);
+        }
+        o.push_str("]}");
+        parts.push(o);
     }
     Ok(parts.join(", "))
 }
@@ -324,7 +573,9 @@ pub fn export_json(conn: &Connection, dir: &Path) -> Result<(usize, usize)> {
             "\n    {{\"year\": {y}, \"rows\": {n}, \"file\": \"afmer-{y}.json.gz\"}}"
         ));
     }
-    meta.push_str(&format!("\n  ],\n  \"total_rows\": {total},\n  \"labels\": {{"));
+    meta.push_str(&format!("\n  ],\n  \"total_rows\": {total},\n  \"groups\": ["));
+    meta.push_str(&groups_json_body(conn)?);
+    meta.push_str("],\n  \"labels\": {");
     meta.push_str(&labels_json_body(conn)?);
     meta.push_str("}\n}\n");
     std::fs::write(dir.join("meta.json"), meta)?;

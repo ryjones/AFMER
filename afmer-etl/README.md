@@ -53,6 +53,8 @@ cargo build --release            # from afmer-etl/
 | `--hist-pdf <files...>` | Historic per-manufacturer "RDS Key" report PDFs (2013–2019, 2024). |
 | `--export-json <dir>` | Export per-year gzipped JSON + `meta.json` for the SPA (usable alone). |
 | `--labels <file>` | Friendly field-label JSON (default `./activity-labels.json` if present). |
+| `--links <file>` | JSON groups of RDS keys that are the same manufacturer (usable alone). |
+| `--no-ingest` | Skip ingest; only post-process the existing DB (labels/links/export). |
 | `--db <path>` | Output SQLite file (default `afmer.db`). |
 
 Across `--xlsx` and `--hist-pdf`, a year already loaded in the DB is left untouched, so a validated source is never clobbered by a thinner one. Order of precedence in a single run: `--pdf` / `--pdf-dir`, then `--xlsx`, then `--hist-pdf`.
@@ -91,8 +93,49 @@ between 2018 and 2024).
 - **`ffl_snapshot`** — one row per ingested snapshot file.
 - **`label`** — friendly names for column/activity codes (`code, name, json`),
   seeded from `activity-labels.json` and kept in the DB for continuity.
+- **`rds_link`** — manually-curated links between RDS keys belonging to the same
+  manufacturer (`rds_key, group_id`); loaded by `--links`.
+- **`rds_group`** — optional friendly name per linked group (`group_id, name`).
 - **Views:** `ffl_current` (latest version per license), `ffl_changes` (licenses
-  with >1 version), `afmer_enriched` (AFMER joined to its effective FFL version).
+  with >1 version), `afmer_enriched` (AFMER joined to its effective FFL version),
+  `afmer_grouped` (AFMER with a `group_key` that collapses linked keys plus the
+  group's `group_name`, so a manufacturer's history rolls up across re-issued keys).
+
+### Linking RDS keys
+
+Over time a manufacturer files under several RDS keys — separate plants and a
+re-issued key after a region/ownership change (e.g. Sturm Ruger files under ~9
+keys across NH, CT, NC, NY and AZ). `--links` takes a JSON file of key-groups,
+records them in `rds_link`/`rds_group`, and the `afmer_grouped` view then
+aggregates a licensee's full history under one `group_key`/`group_name`.
+
+A group is either a **bare array** of keys (canonical key = first, no name) or an
+**object** with an optional `name` and an optional explicit `id`. The `id` is a
+standalone (typically **synthetic**) canonical key — it is *not* added to the
+member keys, so the aggregate isn't conflated with any one real licensee row. A
+handy convention is region 9 / district 99 + a sequence (`99900001`, …). See
+[`links.example.json`](links.example.json), generated from a plain key list:
+
+```jsonc
+{ "groups": [
+  { "id": "99900001", "name": "Sturm Ruger Aggregate",
+    "keys": ["98614472", "60200735", "60600763", "15609063", "..."] },
+  ["99201609", "57401497"]            // unnamed group; first key is canonical
+] }
+// A bare top-level array (no "groups" wrapper) is also accepted.
+// The file is authoritative — loading it replaces all previously-loaded links.
+```
+
+```sh
+# Link + re-export from the existing DB without re-running ingest:
+./target/release/afmer-etl --no-ingest --db ../afmer.db \
+  --links ../links.json --export-json ../AFMER-SPA/data
+# then, e.g.:  SELECT group_key, group_name, SUM(rifle_mfg)
+#              FROM afmer_grouped GROUP BY group_key;
+```
+
+`--export-json` writes the groups (`id`, `name`, `keys`) into `meta.json` so the
+SPA can offer them in its **Aggregate group** dropdown.
 
 ## Labels & JSON export
 
